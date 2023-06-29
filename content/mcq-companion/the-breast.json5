@@ -1,0 +1,301 @@
+{
+  name: "The breast",
+  authors: "A. Doss and M.J. Bull",
+  slug: "the-breast",
+  questions: [
+    {
+      questionNumber: 1,
+      preamble: "The breast",
+      options: [
+        {
+          text: "is a tubulo-acinar type of modified apocrine sweat gland",
+          response: "",
+          answer: "True",
+          explanation: "",
+        },
+        {
+          text: "has mammary glands which develop from the pectoral portion of the milk line",
+          response: "",
+          answer: "True",
+          explanation: "the primitive ectodermal milk line runs from the base of the forelimb to the region of the hindlimb",
+        },
+        {
+          text: "has lobes that are epidermal in origin.",
+          response: "",
+          answer: "True",
+          explanation: "",
+        },
+        {
+          text: "has lactiferous ductules, acinar ducts and acini that are lined by a single layer of cuboidal epithelial cells",
+          response: "",
+          answer: "True",
+          explanation: "the ducts are lined by columnar cells",
+        },
+        {
+          text: "has the terminal duct lobular unit (TDLU) which consists of 15–20 lobes drained by a single lactiferous duct",
+          response: "",
+          answer: "False",
+          explanation: "15 to 20 lobes drain by lactiferous ducts onto the nipple. The lobes are divided into lobules. A lobule consists of a group of acini supplied by one terminal duct – the terminal duct lobular unit",
+        },
+      ],
+    },
+    {
+      questionNumber: 2,
+      preamble: "The breast",
+      options: [
+        {
+          text: "lies entirely within the deep fascia of the chest wall",
+          response: "",
+          answer: "False",
+          explanation: "within the superficial fascia",
+        },
+        {
+          text: "has the greatest proportion of fibroglandular tissue in the upper outer quadrant which gives rise to the axillary tail",
+          response: "",
+          answer: "True",
+          explanation: "",
+        },
+        {
+          text: "has fibrous strands of deep fascia that pass through it towards the skin and nipple",
+          response: "",
+          answer: "False",
+          explanation: "the suspensory ligaments of Cooper are extensions from the superficial fascia",
+        },
+        {
+          text: "has its main blood supply through the lateral thoracic and internal mammary arteries",
+          response: "",
+          answer: "True",
+          explanation: "further supply from the thoraco-acromial and intercostal arteries",
+        },
+        {
+          text: "has a venous drainage through the azygos system",
+          response: "",
+          answer: "True",
+          explanation: "venous drainage of the breast includes internal thoracic, axillary, subclavian and azygos veins. The anastomoses between the azygos and vertebral venous plexus are important in the spread of metastatic disease to the spinal column",
+        },
+      ],
+    },
+    {
+      questionNumber: 3,
+      preamble: "In the lymphatic drainage of the breast",
+      options: [
+        {
+          text: "The pectoralis major muscle is the reference for the surgical level of nodes",
+          response: "",
+          answer: "False",
+          explanation: "pectoralis minor is the reference",
+        },
+        {
+          text: "This includes intercostal and internal thoracic chains",
+          response: "",
+          answer: "True",
+          explanation: "the majority of lymph drains into the axillary nodes. Some lymph flow drains into the opposite breast and upper abdominal nodes",
+        },
+        {
+          text: "Level 1 nodes are inferolateral to the pectoralis muscle",
+          response: "",
+          answer: "True",
+          explanation: "",
+        },
+        {
+          text: "Level 2 nodes are superomedial to the pectoralis muscle",
+          response: "",
+          answer: "False",
+          explanation: "Level 2 nodes are deep and Level 3 nodes are superomedial to this muscle",
+        },
+        {
+          text: "Excision of level 3 nodes requires radical surgery",
+          response: "",
+          answer: "True",
+          explanation: "with division of pectoralis minor muscle",
+        },
+      ],
+    },
+
+    {
+      "questionNumber": 4,
+      "preamble": "In the breast",
+      "options": [
+        {
+          "text": "Epithelial proliferation occurs in the secretory phase of the menstrual cycle",
+          "response": "",
+          "answer": "False",
+          "explanation": "epithelial proliferation occurs in the proliferative phase under estrogens, followed by duct dilatation and differentiation under the influence of progestogens in the secretory phase"
+        },
+        {
+          "text": "Marked epithelial proliferation occurs within the TDLU with relative decrease in the surrounding fat and connective tissue during pregnancy",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Contrast between fat and soft tissue is optimized by the use of low energy X-ray spectra.",
+          "response": "",
+          "answer": "True",
+          "explanation": "17.4 and 19.6 keV are the characteristic peaks from a molybdenum anode"
+        },
+        {
+          "text": "The 45° mediolateral oblique view is used in the single view screening programmes.",
+          "response": "",
+          "answer": "True",
+          "explanation": "this demonstrates the upper outer quadrant to best eﬀect"
+        },
+        {
+          "text": "There is a progressive decrease of dense fibroglandular tissue with fatty replacement with increasing age.",
+          "response": "",
+          "answer": "True",
+          "explanation": "provides a comparatively diagnostic mammogram"
+        }
+      ]
+    }
+  ,
+    {
+      "questionNumber": 5,
+      "preamble": "In mammography",
+      "options": [
+        {
+          "text": "Fibroglandular tissue appears radiolucent compared with fat.",
+          "response": "",
+          "answer": "False",
+          "explanation": "fat appears radiolucent compared to fibroglandular tissue. Image quality emphasizes contrast and penetration of fibroglandular tissue in order to detect small tumors"
+        },
+        {
+          "text": "Normal ducts can usually be seen throughout the breast.",
+          "response": "",
+          "answer": "False",
+          "explanation": "normal ducts are thread-like and extremely difficult to visualize unless surrounded by fat or in the retroareolar region"
+        },
+        {
+          "text": "Normal intramammary lymph nodes are usually of calcific density.",
+          "response": "",
+          "answer": "False",
+          "explanation": "they are of soft tissue density, have a lucent fatty hilum and are situated close to a vascular bundle towards the upper outer quadrant"
+        },
+        {
+          "text": "The optimal examination should include the pectoralis major.",
+          "response": "",
+          "answer": "True",
+          "explanation": "and include the inframammary fold with the nipple in proﬁle"
+        },
+        {
+          "text": "There is a decreased incidence of malignancy with the P2 and DY patterns described by Wolfe",
+          "response":
+
+          "",
+          "answer": "False",
+          "explanation": "Wolfe graded the amount and distribution of fibroglandular tissue within a breast into four categories: N1 = normal largely adipose tissue, P1 = adipose breast with parenchymal thickening anteriorly, less than one-quarter of the breast volume; P2 as P1 but involving greater than one-quarter of the breast volume; DY = generalized increased density of the fibroglandular pattern, without a recognizable ductal or nodular appearance. There is an increased risk of malignancy with the P2 and DY patterns"
+        }
+      ]
+    }
+  ,
+    {
+      "questionNumber": 6,
+      "preamble": "In the breast",
+      "options": [
+        {
+          "text": "An accessory nipple (polythelia) is usually just inferior to the normal breast",
+          "response": "",
+          "answer": "True",
+          "explanation": "in 2 to 6% of women there is incomplete regression of the milk line"
+        },
+        {
+          "text": "Accessory glandular tissue is more common than accessory breasts in the axilla.",
+          "response": "",
+          "answer": "True",
+          "explanation": "accessory glandular tissue is more common than accessory breasts in the axilla and is separate from the main breast tissue."
+        },
+        {
+          "text": "Hypoplasia of the breast may be linked with Poland's syndrome.",
+          "response": "",
+          "answer": "True",
+          "explanation": "hypoplasia of the breast may be linked with Poland's syndrome, which manifests as increased translucency of the affected hemithorax."
+        },
+        {
+          "text": "Calcification of sebaceous glands is pathological.",
+          "response": "",
+          "answer": "False",
+          "explanation": "fine dense punctate calcification of sebaceous glands seen on tangential projection onto the skin surface is a normal finding"
+        },
+        {
+          "text": "A skin papilloma appears well circumscribed often with a thin lucent rim (halo) caused by air between skin and the compression plate.",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "preamble": "In ultrasound of the breast",
+      "options": [
+        {
+          "text": "A 3-5 MHz probe is ideal",
+          "response": "",
+          "answer": "False",
+          "explanation": "a 7.5 MHz probe is usually used for ultrasound of the breast"
+        },
+        {
+          "text": "Intramammary fat lobules are hypoechoic compared with the increased echogenicity of fat in the abdomen",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The fibroglandular tissue is relatively hyperechoic compared with the fatty lobules.",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Normal intramammary or axillary lymph nodes are usually ovoid, hypoechoic, with a central echogenic focus representing hilar fat.",
+          "response": "",
+          "answer": "True",
+          "explanation": "without increased through transmission of sound which is usually seen in hypoechoic cystic structures"
+        },
+        {
+          "text": "Acoustic shadowing is always due to pathology.",
+          "response": "",
+          "answer": "False",
+          "explanation": "though this is an associated ﬁnding with malignancy, it may be caused by ﬁbroglandular tissue or the bright curvilinear bands of Cooper’s ligaments"
+        }
+      ]
+    }
+  ,
+    {
+      "questionNumber": 8,
+      "preamble": "In imaging modalities of the breast",
+      "options": [
+        {
+          "text": "The ductogram has virtually been replaced by high frequency ultrasound and cytology",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "MRI is limited by motion artifact, noise, and suboptimal resolution",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The diagnostic yield of MRI is improved by the use of surface coils and fat suppression",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Excellent inherent contrast between fibroglandular tissue and fat enable MRI to be used as a screening tool.",
+          "response": "",
+          "answer": "False",
+          "explanation": "the inherent contrast is excellent. However, MRI is not suitable as a screening investigation"
+        },
+        {
+          "text": "MRI is contraindicated in patients who have a breast implant",
+          "response": "",
+          "answer": "False",
+          "explanation": "MRI may have a place in the imaging of breast implants, to differentiate scarring from recurrent malignancy after surgery, and to establish the extent of a tumor"
+        }
+      ]
+    }
+  ],
+}

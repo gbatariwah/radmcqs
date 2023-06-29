@@ -1,0 +1,187 @@
+{
+  name: 'Obstetric anatomy',
+  authors: 'A. Doss and A. Sprigg',
+  slug: 'obstetric-anatomy',
+  questions: [
+    {
+      questionNumber: 1,
+      preamble: 'Regarding transabdominal ultrasound of the fetus',
+      options: [
+        {
+          text: 'Doppler examinations impart less energy when compared with routine ultrasound',
+          response: '',
+          answer: 'False',
+          explanation: 'the opposite is true. In general, routine ultrasound is considered completely safe in pregnancy, though examinations should be performed only if clinically indicated and the duration should be kept optimal, particularly when using Doppler',
+        },
+        {
+          text: '18 to 20 weeks of gestation is the optimal time to confirm intrauterine location',
+          response: '',
+          answer: 'False',
+          explanation: 'it is the ﬁrst trimester. During the second and third trimester ultrasound is used to estimate gestational age, to detect structural fetal anomalies, fetal lie and presentation and placental position',
+        },
+        {
+          text: "Cardiac activity is seen at 5 weeks' gestational age.",
+          response: '',
+          answer: 'False',
+          explanation: 'cardiac activity is visible at 5 to 6 weeks on transvaginal scanning and at 7 weeks on transabdominal scanning',
+        },
+        {
+          text: 'Crown rump length is a useful measurement of gestational age at 10 weeks',
+          response: '',
+          answer: 'True',
+          explanation: 'from 6.5 weeks to 10 weeks. Biparietal diameter (BPD) is valid from 12 weeks up to 24 weeks, and femur length is measured from 18 to 20 weeks',
+        },
+        {
+          text: 'The fetal pole is discernible before cardiac pulsation',
+          response: '',
+          answer: 'False',
+          explanation: 'cardiac pulsation is visible before any discernible morphology',
+        },
+      ],
+    },
+    {
+      questionNumber: 2,
+      preamble: 'Concerning ultrasound of the fetus from 18-20 weeks',
+      options: [
+        {
+          text: 'The BPD is measured in the axial plane',
+          response: '',
+          answer: 'True',
+          explanation: 'outer edge of the part of the skull near the transducer to the inner edge of the vault further from the probe is measured',
+        },
+        {
+          text: 'The lateral ventricles are echobright structures',
+          response: '',
+          answer: 'False',
+          explanation: 'the choroid plexus that ﬁlls the lateral ventricles is echobright',
+        },
+        {
+          text: 'The medial walls of the lateral ventricles are formed by the septum pellucidum',
+          response: '',
+          answer: 'True',
+          explanation: 'this is a double membrane and contains the cavum septum pellucidum which may persist in adult life',
+        },
+        {
+          text: 'The third ventricle is normally visualized',
+          response: '',
+          answer: 'False',
+          explanation: 'seldom seen in the normal fetus',
+        },
+        {
+          text: 'The cerebellar hemispheres are seen as round echopoor structures with a reflective vermis in the midline.',
+          response: '',
+          answer: 'True',
+          explanation: 'at 18 weeks',
+        },
+      ],
+    },
+    {
+      questionNumber: 3,
+      preamble: 'Regarding the fetus',
+      options: [
+        {
+          text: 'The vertebrae are visible as two ossification centers in the body and one in each lamina.',
+          response: '',
+          answer: 'False',
+          explanation: 'one ossiﬁcation centre in each lamina and one in the body. On ultrasound these are seen as a triangle with the base posterior, in an axial view of the abdomen',
+        },
+        {
+          text: 'Failure of fusion between the premaxillary part of the frontonasal prominence and the maxillary prominence gives rise to cleft lip.',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+        {
+          text: 'The four-chamber view during cardiac ultrasound is the primary screening view for cardiac abnormalities.',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+        {
+          text: 'On ultrasound the lungs become progressively echobright as pregnancy advances',
+          response: '',
+          answer: 'True',
+          explanation: 'due to developing alveoli. The diaphragm is seen as a smooth echopoor band between the chest and abdomen (in contrast to adults where it is echobright). Breathing movements are evident from early second trimester',
+        },
+        {
+          text: 'On ultrasound colonic peristalsis is seen in the second trimester',
+          response: '',
+          answer: 'False',
+          explanation: 'small bowel peristalsis is commonly seen in the third trimester and colonic peristalsis is not seen in utero',
+        },
+      ],
+    },
+    {
+      questionNumber: 4,
+      preamble: 'Concerning the fetal abdomen',
+      options: [
+        {
+          text: 'The small intestine becomes increasingly echobright towards the end of pregnancy',
+          response: '',
+          answer: 'False',
+          explanation: 'it is more echobright in the second trimester due to meconium, and as the fetus swallows more amniotic ﬂuid in later pregnancy the small intestine becomes less reﬂective',
+        },
+        {
+          text: 'The primitive intestinal loop lies outside the abdominal cavity in the first trimester',
+          response: '',
+          answer: 'True',
+          explanation: 'the intestine twists counter-clockwise for 270° around the superior mesenteric artery and as a result the caecum comes to lie in the right side of the abdomen',
+        },
+        {
+          text: 'A diagnosis of abdominal wall defect can be made at 10 to 12 weeks',
+          response: '',
+          answer: 'False',
+          explanation: 'the physiological umbilical hernia disappears at 14 weeks. Abdominal wall should be intact during the middle trimester',
+        },
+        {
+          text: 'The umbilical vein runs into the left portal vein',
+          response: '',
+          answer: 'True',
+          explanation: 'blood ﬂows from the left portal vein into the right portal vein (which perfuses the liver) and into the ductus venosus',
+        },
+        {
+          text: 'The abdominal circumference is measured as a parameter for gestational age in the second trimester.',
+          response: '',
+          answer: 'True',
+          explanation: 'a transverse section through the fetal liver, with the stomach,spine, the ribs in cross-section, the portal vein equidistant from both sides of the liver',
+        },
+      ],
+    },
+    {
+      questionNumber: 5,
+      preamble: 'Regarding fetal ultrasound',
+      options: [
+        {
+          text: 'The femur is strongly reflective at 10 weeks',
+          response: '',
+          answer: 'True',
+          explanation: 'ossifies between 6 and 12 weeks',
+        },
+        {
+          text: 'The distal femoral epiphysis is seen at 36 weeks',
+          response: '',
+          answer: 'True',
+          explanation: 'the upper and lower femoral epiphyses appear later in the third trimester. The presence of a distal epiphysis in utero on a plain radiograph at 36 weeks signiﬁed maturity of the fetus. This is not practised any more',
+        },
+        {
+          text: 'The beginning of ossification of the proximal epiphysis of the humerus is good evidence of lung maturity',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+        {
+          text: 'The diaphysis of ulna and radius extend to the same level at the wrist',
+          response: '',
+          answer: 'True',
+          explanation: 'important relationship, as many bony anomalies foreshorten the distal radius',
+        },
+        {
+          text: 'The placenta can be identified as a discrete structure from 12 weeks',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+      ],
+    }
+  ]
+}

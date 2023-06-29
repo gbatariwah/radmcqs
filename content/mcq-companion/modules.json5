@@ -1,0 +1,74 @@
+[
+  [
+    {
+      name: 'Chest and cardiovascular',
+      authors: 'A. Doss and M.J. Bull',
+      slug: 'chest-cardiovascular',
+    },
+    {
+      name: 'Limb vasculature and lymphatic system',
+      authors: 'A. Doss and M.J. Bull',
+      slug: 'limb-vasculature-lymphatic',
+    },
+  ],
+  [
+    {
+      name: 'Musculoskeletal and soft tissue (including trauma)',
+      authors: 'A. Doss and M.J. Bull',
+      slug: 'musculoskeletal-soft-tissue',
+    },
+  ],
+  [
+    {
+      name: 'Gastro-intestinal (including hepatobiliary)',
+      authors: 'A. Doss and M.J. Bull',
+      slug: 'gastro-intestinal',
+    },
+  ],
+  [
+    {
+      name: 'Genito-urinary and adrenal (renal tract and retroperitoneum)',
+      authors: 'A. Doss and M.J. Bull',
+      slug: 'genito-urinary-adrenal',
+    },
+    {
+      name: 'Pelvis',
+      authors: 'A. Doss and M.J. Bull',
+      slug: 'pelvis',
+    },
+    {
+      name: 'Obstetric anatomy',
+      authors: 'A. Doss and A. Sprigg',
+      slug: 'obstetric-anatomy',
+    },
+    {
+      name: 'The breast',
+      authors: 'A. Doss and M.J. Bull',
+      slug: 'the-breast',
+    },
+  ],
+  [
+    {
+      name: 'Paediatric anatomy',
+      authors: 'A. Doss and A. Sprigg',
+      slug: 'paediatric-anatomy',
+    },
+  ],
+  [
+    {
+      name: 'Neuroradiology',
+      authors: 'A. Doss and P.D. Griffiths',
+      slug: 'neuroradiology',
+    },
+    {
+      name: 'Extracranial head and neck (including eyes, ENT and dental)',
+      authors: 'A. Doss and M.J. Bull',
+      slug: 'extracranial-head-neck',
+    },
+    {
+      name: 'The vertebral column',
+      authors: 'A. Doss and M.J. Bull',
+      slug: 'vertebral-column',
+    },
+  ],
+]

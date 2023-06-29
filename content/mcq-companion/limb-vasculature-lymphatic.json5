@@ -1,0 +1,367 @@
+{
+  name: 'Limb vasculature and lymphatic system',
+  slug: 'limb-vasculature-lymphatic',
+  authors: 'A. Doss and M. J. Bull',
+  questions: [
+      {
+        questionNumber: 1,
+        preamble: 'In angiography',
+        options: [
+          {
+            text: 'The femoral artery is punctured at its point of minimal pulsation, to prevent haematoma formation',
+            response: '',
+            answer: 'False',
+            explanation: 'Point of maximal pulsation usually as it passes over the medial third of the femoral head',
+          },
+          {
+            text: 'A low puncture is ideal as it decreases the chances of a retroperitoneal haematoma',
+            response: '',
+            answer: 'False',
+            explanation: 'A high puncture placed above the inguinal ligament may result in retroperitoneal haematoma as the artery is difficult to compress without the support of the femoral head. A low puncture may cause a pseudoaneurysm formation or arteriovenous fistula if the profunda femoris is punctured',
+          },
+          {
+            text: 'The femoral nerve lies lateral to the artery',
+            response: '',
+            answer: 'True',
+            explanation: 'So a large hematoma may compress and damage the nerve',
+          },
+          {
+            text: 'For interventional procedures of the lower limb a retrograde puncture on the ipsilateral femoral artery is ideal',
+            response: '',
+            answer: 'False',
+            explanation: 'An antegrade puncture, so that catheters and wires can be passed down the leg easily',
+          },
+          {
+            text: 'For punctures of the brachial or axillary arteries, the right arm is usually preferred',
+            response: '',
+            answer: 'False',
+            explanation: 'The left arm is preferred to avoid manipulation of catheters across the origin of great vessels',
+          },
+        ],
+      },
+      {
+        questionNumber: 2,
+        preamble: 'In angiography',
+        options: [
+          {
+            text: 'The Seldinger technique involves passing a catheter through the puncture needle',
+            response: '',
+            answer: 'False',
+            explanation: 'A guide wire is passed through the needle into the artery. The needle is removed and a catheter is passed over the guide wire into the artery',
+          },
+          {
+            text: 'Retrograde popliteal artery puncture is useful for angioplasty of the superﬁcial femoral artery',
+            response: '',
+            answer: 'True',
+            explanation: '',
+          },
+          {
+            text: 'Intravenous digital subtraction angiography usually requires less iodinated contrast medium than the intra-arterial technique',
+            response: '',
+            answer: 'False',
+            explanation: 'Intravenous digital subtraction angiography usually requires large amounts of iodinated contrast medium',
+          },
+          {
+            text: 'Radial artery catheterization is performed using a 5F catheter.',
+            response: '',
+            answer: 'False',
+            explanation: 'Radial artery catheterization is usually performed using 3F catheters, not 5F catheters',
+          },
+          {
+            text: 'Translumbar approach to the aorta is the best way of visualizing the aorta',
+            response: '',
+            answer: 'False',
+            explanation: 'The translumbar approach to the aorta is largely abandoned nowadays and replaced by the aortogram through the transfemoral approach',
+          },
+        ],
+      },
+      {
+        questionNumber: 3,
+        preamble: 'In the upper chest',
+        options: [
+          {
+            text: 'The right subclavian artery arises directly from the arch of the aorta',
+            response: '',
+            answer: 'False',
+            explanation: 'usually from the brachiocephalic trunk which divides into the right subclavian and right common carotid arteries. The left subclavian arises directly from the arch of the aorta',
+          },
+          {
+            text: 'The subclavian artery lies posterior to the subclavian vein',
+            response: '',
+            answer: 'True',
+            explanation: 'And scalenus anterior muscle and ends at the lateral border of the ﬁrst rib, where it continues as the axillary artery',
+          },
+          {
+            text: 'The dorsal scapular artery arises from the second part of the subclavian artery',
+            response: '',
+            answer: 'True',
+            explanation: 'And supplies muscles attached to the medial border of the scapula and takes part in the scapular anastomosis with the third part of the axillary artery',
+          },
+          {
+            text: 'The suprascapular artery arises from the thyro-cervical trunk',
+            response: '',
+            answer: 'True',
+            explanation: 'And so does inferior thyroid and superficial cervical artery',
+          },
+          {
+            text: 'The inferior thyroid artery contributes to the blood supply of the spinal cord',
+            response: '',
+            answer: 'True',
+            explanation: 'And so does the ascending cervical artery',
+          },
+        ],
+      },
+      {
+        questionNumber: 4,
+        preamble: 'Regarding the axillary artery',
+        options: [
+          {
+            text: 'The subclavian artery continues as the axillary artery at the lateral border of teres major muscle',
+            response: '',
+            answer: 'False',
+            explanation: 'Lateral border of the first rib to the lower border of teres major muscle is the axillary artery, after which it is the brachial artery',
+          },
+          {
+            text: 'The pectoralis major muscle divides the axillary artery into three parts',
+            response: '',
+            answer: 'False',
+            explanation: 'Pectoralis minor divides it into three parts',
+          },
+          {
+            text: 'The cords of the brachial plexus are anterior to the second part of the axillary artery',
+            response: '',
+            answer: 'False',
+            explanation: 'They surround this artery medially, laterally, and posteriorly and separate it from the axillary vein which runs medially and slightly anteriorly',
+          },
+          {
+            text: 'The subscapular artery runs downwards on the posterior axillary wall to the inferior angle of the scapula',
+            response: '',
+            answer: 'True',
+            explanation: 'And contributes to the scapular anastomosis',
+          },
+          {
+            text: 'The third part is superficial and may be used for arterial puncture.',
+            response: '',
+            answer: 'True',
+            explanation: '',
+          },
+        ],
+      },
+      {
+        questionNumber: 5,
+        preamble: 'Regarding the arteries of the forearm and hand',
+        options: [
+          {
+            text: 'The brachial artery divides into radial and ulnar arteries at the level of the neck of the radius',
+            response: '',
+            answer: 'True',
+            explanation: '',
+          },
+          {
+            text: 'The profunda brachi artery runs in the radial groove',
+            response: '',
+            answer: 'True',
+            explanation: 'Gives branches to scapular and elbow anastomosis',
+          },
+          {
+            text: 'The brachial artery is superficial to the bicipital aponeurosis',
+            response: '',
+            answer: 'False',
+            explanation: 'Superficial throughout its course and overlapped by bicipital aponeurosis at the elbow',
+          },
+          {
+            text: 'The radial artery may branch off higher than the usual level',
+            response: '',
+            answer: 'True',
+            explanation: "'High take-off' of radial artery – a common normal variant above the neck of the radius. The deep palmar arch is a continuation of the radial artery",
+          },
+          {
+            text: 'The radial artery gives off the common interosseus artery 2 cm below its origin',
+            response: '',
+            answer: 'False',
+            explanation: 'Ulnar artery',
+          },
+        ],
+      },
+    {
+      questionNumber: 6,
+      preamble: 'In the lower abdomen and pelvis',
+      options: [
+        {
+          text: 'There are no terminal branches to the aorta',
+          response: '',
+          answer: 'False',
+          explanation: 'Three; a pair of common iliac arteries and the median sacral artery anterior and to the left of the body of L4 vertebra',
+        },
+        {
+          text: 'The common iliac arteries divide at the level of the sacroiliac joints',
+          response: '',
+          answer: 'True',
+          explanation: 'Into the internal and external iliac arteries',
+        },
+        {
+          text: 'The common iliac arteries lie in front of the fourth and ﬁfth lumbar vertebrae',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+        {
+          text: 'The ureters lie anterior to the common iliac arteries',
+          response: '',
+          answer: 'True',
+          explanation: 'Common iliac veins, lumbosacral trunk, obturator nerve, iliolumbar artery and the sympathetic trunk lie posterior to the common iliac trunk',
+        },
+        {
+          text: 'The superior rectal artery lies anterior to the right common iliac artery',
+          response: '',
+          answer: 'False',
+          explanation: 'Anterior to the left common iliac artery',
+        },
+      ],
+    },
+    {
+      questionNumber: 7,
+      preamble: 'In the pelvis and lower abdomen',
+      options: [
+        {
+          text: 'The superior gluteal artery is a branch of the external iliac artery',
+          response: '',
+          answer: 'False',
+          explanation: 'Largest branch of the posterior division of the internal iliac artery, passes through greater sciatic foramen',
+        },
+        {
+          text: 'The uterine artery is a branch of the anterior division of the internal iliac artery',
+          response: '',
+          answer: 'True',
+          explanation: 'Runs in the broad ligament',
+        },
+        {
+          text: 'The umbilical artery is the ﬁrst branch of the internal iliac artery in the fetus',
+          response: '',
+          answer: 'True',
+          explanation: 'Persists as the ﬁbrous medial umbilical ligament, which may be recognized in a plain abdominal ﬁlm in the presence of a pneumoperitoneum',
+        },
+        {
+          text: 'The internal pudendal artery re-enters the pelvis through the lesser sciatic foramen',
+          response: '',
+          answer: 'True',
+          explanation: 'Supplies the genitalia',
+        },
+        {
+          text: 'The inferior epigastric artery is given oﬀ above the inguinal ligament from the external iliac artery',
+          response: '',
+          answer: 'True',
+          explanation: 'Runs up on the deep surface of the anterior abdominal wall and enters the rectus sheath',
+        },
+      ],
+    },
+    {
+      questionNumber: 8,
+      preamble: 'In the lower limb',
+      options: [
+        {
+          text: 'The main supply to the trochanteric anastomosis is through the superﬁcial femoral artery',
+          response: '',
+          answer: 'False',
+          explanation: 'This anastomosis supplies the femoral head and is formed by anastomosing branches of lateral and medial circumﬂex femoral and superior gluteal arteries',
+        },
+        {
+          text: 'The superﬁcial femoral artery passes lateral to and behind the lower shaft of the femur',
+          response: '',
+          answer: 'False',
+          explanation: 'Posterior and medial to the femur, through the adductor hiatus',
+        },
+        {
+          text: 'The popliteal artery lies lateral to the popliteal vein in the popliteal fossa',
+          response: '',
+          answer: 'False',
+          explanation: 'This artery lies deep to the popliteal vein',
+        },
+        {
+          text: 'The descending genicular artery is a branch of the popliteal artery supplying the knee',
+          response: '',
+          answer: 'False',
+          explanation: 'This is a branch of the superﬁcial femoral artery, prior to entering the adductor hiatus. The medial and lateral superior and inferior genicular arteries are given oﬀ in the popliteal fossa',
+        },
+        {
+          text: 'The anterior tibial artery runs anterior to the interosseous membrane',
+          response: '',
+          answer: 'True',
+          explanation: 'In the lower leg, the artery passes deep to the extensor retinaculum, and can be palpated lateral to the extensor hallucis longus tendon and continues as the dorsalis pedis artery',
+        },
+      ],
+    },
+    {
+      questionNumber: 9,
+      preamble: 'Regarding the veins of the lower limbs and abdomen',
+      options: [
+        {
+          text: 'Failure of the right subcardinal vein to connect with the liver leads to absence of the IVC',
+          response: '',
+          answer: 'True',
+          explanation: 'The drainage of the lower body is through the azygos system and SVC. Absent IVC is associated with cardiac abnormalities',
+        },
+        {
+          text: 'A persistent left sacrocardinal vein results in a left-sided IVC',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+        {
+          text: 'The right common iliac vein is crossed by the common iliac artery',
+          response: '',
+          answer: 'False',
+          explanation: 'This is true with that of the left',
+        },
+        {
+          text: 'The hepatic segment of the IVC is formed from the right vitelline vein',
+          response: '',
+          answer: 'True',
+          explanation: 'The other segments are renal and sacrocardinal',
+        },
+        {
+          text: 'A left-sided IVC drains into the coronary sinus',
+          response: '',
+          answer: 'False',
+          explanation: 'Due to a persistent left sacrocardinal vein, cross-over to the right IVC occurs at the level of the left renal vein',
+        },
+      ],
+    },
+    {
+      questionNumber: 10,
+      preamble: 'In the lymphatic system',
+      options: [
+        {
+          text: 'Lipiodol is retained in lymph nodes for about 12 months',
+          response: '',
+          answer: 'True',
+          explanation: 'Used to monitor nodal size following therapy',
+        },
+        {
+          text: 'The upper limit of normal in the short axis for retrocrural nodes is 10 mm',
+          response: '',
+          answer: 'False',
+          explanation: '6 mm, para-aortic and subcarinal nodes may be up to 12 mm',
+        },
+        {
+          text: 'Fifty per cent of patients demonstrate cross-drainage of lymphatics from right to left at the level of L3/4',
+          response: '',
+          answer: 'True',
+          explanation: 'Lumbar gap – non-opaciﬁcation of nodes at this level on lymphography',
+        },
+        {
+          text: 'The cisterna chyli continues upwards through the aortic opening in the diaphragm as the thoracic duct',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+        {
+          text: 'The thoracic duct drains the whole of the chest and limbs',
+          response: '',
+          answer: 'False',
+          explanation: 'The thoracic duct drains all the body below the diaphragm, posterior right chest wall and left of the body above the diaphragm. The right lymph duct drains the remainder',
+        },
+      ],
+    }
+  ],
+}

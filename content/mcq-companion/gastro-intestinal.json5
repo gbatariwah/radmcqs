@@ -1,0 +1,43 @@
+{
+  name: 'Gastro-intestinal (including hepatobiliary)',
+  authors: 'A. Doss and M.J. Bull',
+  slug: 'gastro-intestinal',
+  questions: [
+    {
+      questionNumber: 1,
+      preamble: 'Regarding the abdomen',
+      options: [
+        {
+          text: 'By the ﬁfth week of fetal life the gut tube within the peritoneal cavity is suspended by the dorsal mesentery',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+        {
+          text: 'The blind ending hind gut is closed by the cloacal membrane',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+        {
+          text: 'The superior mesenteric artery supplies the gut from the inferior half of the duodenum to the splenic flexure',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+        {
+          text: 'The coeliac axis supplies the gut from the upper oeosphagus to the superior half of the duodenum',
+          response: '',
+          answer: 'False',
+          explanation: 'From the lower oesophagus',
+        },
+        {
+          text: 'The inferior mesenteric artery supplies the hind gut distal to the hepatic ﬂexure up to the anal canal',
+          response: '',
+          answer: 'False',
+          explanation: 'Distal to the splenic ﬂexure up to the upper half of the anal canal',
+        },
+      ],
+    }
+  ]
+}

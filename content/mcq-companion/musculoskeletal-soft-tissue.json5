@@ -1,0 +1,835 @@
+{
+  name: 'Musculoskeletal and soft tissue (including trauma)',
+  slug: 'musculoskeletal-soft-tissue',
+  authors: 'A. Doss and M. J. Bull',
+  questions: [
+    {
+      questionNumber: 1,
+      preamble: 'The following are true',
+      options: [
+        {
+          text: 'The supraspinatus tendon passes above the acromion process',
+          response: '',
+          answer: 'False',
+          explanation: 'Below the acromion',
+        },
+        {
+          text: 'The clavicle has a medullary cavity',
+          response: '',
+          answer: 'False',
+          explanation: 'There is no medullary cavity because of its mesenchymal origin',
+        },
+        {
+          text: 'The rhomboid fossa marks the site of origin of the costo-clavicular ligament',
+          response: '',
+          answer: 'True',
+          explanation: 'In 5% of individuals, an irregular groove is in the inferomedial aspect of the clavicle from which the costoclavicular ligament arises to insert into the first costal cartilage',
+        },
+        {
+          text: 'The clavicle is the last bone to ossify',
+          response: '',
+          answer: 'False',
+          explanation: 'The clavicle is the first bone to ossify, formed in membrane, appearing after the first fetal month',
+        },
+        {
+          text: 'A distance of less than 5 mm between the humerus and the acromion indicates likely supraspinatus tendon impingement',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+      ],
+    },
+    {
+      questionNumber: 2,
+      preamble: 'Regarding the shoulder joint',
+      options: [
+        {
+          text: 'The capsule of the shoulder joint is lax inferiorly',
+          response: '',
+          answer: 'True',
+          explanation: 'Attached proximally to the glenoid labrum and distally to the anatomical neck of the humerus',
+        },
+        {
+          text: 'The long head of the biceps runs under the transverse humeral ligament',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+        {
+          text: 'The subscapularis bursa is a herniation of the shoulder joint synovial membrane deep to the subscapularis muscle, through a defect in the glenohumeral ligament',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+        {
+          text: 'Teres major forms part of the rotator cuff',
+          response: '',
+          answer: 'False',
+          explanation: 'Teres minor, subscapularis, supraspinatus, infraspinatus – prime function of these ',
+        },
+        {
+          text: 'During shoulder arthrography, contrast passes normally into the subacromial bursa',
+          response: '',
+          answer: 'False',
+          explanation: 'Contrast or air in the subacromial space implies disruption of the supra spinatus tendon',
+        },
+      ],
+    },
+    {
+      questionNumber: 3,
+      preamble: 'Regarding the shoulder joint',
+      options: [
+        {
+          text: 'CT arthrography is of value in the assessment of the glenoid labrum',
+          response: '',
+          answer: 'True',
+          explanation: 'The prone oblique position provides more information about the posterior aspect of the glenoid labrum and the capsular attachments, which are important in patients with posterior dislocations',
+        },
+        {
+          text: 'T2-W images and STIR (short tau inversion recovery) sequences with fat suppression can identify tears in the supraspinatus tendon',
+          response: '',
+          answer: 'True',
+          explanation: 'The supraspinatus tendon is best seen in the coronal oblique plane',
+        },
+        {
+          text: 'On ultrasound, the supraspinatus tendon is echobright',
+          response: '',
+          answer: 'False',
+          explanation: 'The tendinous margin is echobright and central portion is echopoor',
+        },
+        {
+          text: 'In anterior dislocation of the shoulder, cortical defects may occur in the anterior aspect of the head of the humerus.',
+          response: '',
+          answer: 'True',
+          explanation: 'They occur in the posterior aspect of the head of the humerus (Hill–Sachs lesion), which are best shown by a Striker’s view (patient supine, humerus 90° to the table with a cephald beam at 25°)',
+        },
+        {
+          text: 'All the rotator cuff muscles are attached to the greater tubercle of the humerus.',
+          response: '',
+          answer: 'False',
+          explanation: 'they occur in the posterior aspect of the head of the humerus (Hill–Sachs lesion), which are best shown by a Striker’s view (patient supine, humerus 90° to the table with a cephald beam at 25°)',
+        },
+      ],
+    },
+    {
+      questionNumber: 4,
+      preamble: 'Regarding the upper limb',
+      options: [
+        {
+          text: 'The radial groove is situated in the radius.',
+          response: '',
+          answer: 'False',
+          explanation: 'Within the radial groove runs the radial nerve and the profunda brachialis artery. This groove is closely applied to the mid shaft of the humerus and a fracture in this location may give rise to neuropraxia',
+        },
+        {
+          text: 'The capitulum articulates with the ulna',
+          response: '',
+          answer: 'False',
+          explanation: 'Capitulum–radial head; trochea – ulna',
+        },
+        {
+          text: 'The ligament of Struthers may compress the median nerve',
+          response: '',
+          answer: 'True',
+          explanation: 'This ligament runs from a supracondylar spur (which may be seen in less than 1% of individuals) to the medial epicondyle with the median nerve and brachial artery beneath it',
+        },
+        {
+          text: 'The capitulum is the first secondary ossification centre to appear in the elbow.',
+          response: '',
+          answer: 'True',
+          explanation: 'The order in which they appear are as follows: capitulum (1 year), radial head and medial (internal) epicondyle (5 years), trochlea (11 years), olecranon (12 years), lateral (external) epicondyle (13 years) – use the mnemonic CRITOE',
+        },
+        {
+          text: 'A prominent posterior fat pad in a lateral radiograph of the elbow is seen in cases of joint effusion.',
+          response: '',
+          answer: 'True',
+          explanation: 'A prominent anterior fat pad is a normal variant in 15% of individuals',
+        },
+      ],
+    },
+    {
+      questionNumber: 5,
+      preamble: 'In the upper limb',
+      options: [
+        {
+          text: 'The annular ligament of the elbow blends with the ulnar collateral ligament',
+          response: '',
+          answer: 'False',
+          explanation: 'It blends with the radial collateral ligament, surrounds the head of the radius like a horseshoe, and is attached to the ulna medially',
+        },
+        {
+          text: 'The bicipital aponeurosis separates the superficial median cubital vein from the deeper brachial artery',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+        {
+          text: 'The ulna articulates with the carpal bones',
+          response: '',
+          answer: 'False',
+          explanation: 'The radius carries the hand. The lower extremity of the radius expands to form the articular surface for the wrist joint and the ulna',
+        },
+        {
+          text: 'The distal radio-ulnar joint has no communication with the carpal joints',
+          response: '',
+          answer: 'True',
+          explanation: 'If a communication is demonstrated at arthrography, the triangular fibrocartilage must be disrupted',
+        },
+        {
+          text: 'The ulna articulates with the triquetral only during ulnar deviation of the wrist',
+          response: '',
+          answer: 'False',
+          explanation: '',
+        },
+      ],
+    },
+    {
+      questionNumber: 6,
+      preamble: 'Concerning the wrist and carpus',
+      options: [
+        {
+          text: 'The mid-carpal joint does not communicate with the radiocarpal joint',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+        {
+          text: 'On a lateral wrist radiograph, the distal radius has a slight volar tilt',
+          response: '',
+          answer: 'True',
+          explanation: 'If this tilt is lost, a fracture of the radius should be suspected',
+        },
+        {
+          text: 'The lunate articulates proximally with the radius and distally with the capitate',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+        {
+          text: 'The flexor retinaculum is attached to the pisiform, hook of hamate, scaphoid tubercle, and ridge of the trapezium',
+          response: '',
+          answer: 'True',
+          explanation: 'This forms the carpal tunnel which contains tendons of ﬂexor pollicis longus, ﬂexor digitorum profundus and superﬁcialis and the median nerve. The tendon of ﬂexor carpiradialis lies in a separate compartment of the carpal tunnel',
+        },
+        {
+          text: 'Flexor carpi radialis attaches to the pisiform',
+          response: '',
+          answer: 'False',
+          explanation: 'Flexor carpi-ulnaris',
+        },
+      ],
+    },
+    {
+      questionNumber: 7,
+      preamble: 'In the hand and wrist',
+      options: [
+        {
+          text: 'In most cases, two views are enough to exclude scaphoid fractures',
+          response: '',
+          answer: 'False',
+          explanation: 'Four views are necessary to evaluate scaphoid fractures adequately: anteroposterior, 30° anteroposterior, lateral, and scaphoid-centered view',
+        },
+        {
+          text: 'In 15% of cases, blood supply is from the distal to the proximal portion of the scaphoid',
+          response: '',
+          answer: 'True',
+          explanation: 'Hence fractures at the waist may produce ischaemic necrosis of the proximal portion',
+        },
+        {
+          text: 'The scaphoid ossifies in the sixth year',
+          response: '',
+          answer: 'True',
+          explanation: 'So do trapezium and trapezoid. Capitate and hamate ossify in the ﬁrst year, triquetral in the second, lunate in the third, pisiform in the twelfth year',
+        },
+        {
+          text: 'All the metacarpals articulate with each other and with the corresponding carpal bones',
+          response: '',
+          answer: 'False',
+          explanation: 'All but the ﬁrst metacarpals which articulate only with the trapezium',
+        },
+        {
+          text: 'The commonest supernumerary bone of the wrist joint is the os radiale',
+          response: '',
+          answer: 'True',
+          explanation: 'Lies immediately distal to the radial styloid',
+        },
+      ],
+    },
+    {
+      questionNumber: 8,
+      preamble: 'In skeletal imaging',
+      options: [
+        {
+          text: 'Phased array surface detection coils greatly improve the signal to noise ratio in MRI of bone joint and soft tissue',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+        {
+          text: 'Abnormalities of cortical bone and calcification are usually not detected by MRI',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+        {
+          text: 'Meniscal abnormalities of the knee are best demonstrated on T1-weighted scans',
+          response: '',
+          answer: 'False',
+          explanation: 'T2 Fast spin echo sequence',
+        },
+        {
+          text: 'A fat-fluid level within the suprapatellar bursa of the knee joint indicates a fracture within the joint',
+          response: '',
+          answer: 'True',
+          explanation: 'lipohaemarthrosis seen in a lateral radiograph of the knee',
+        },
+        {
+          text: 'Bone scans using 99mTc MDP are very specific for pathology',
+          response: '',
+          answer: 'False',
+          explanation: 'A three-phase study is used – immediate vascular images (0.3 minutes), a blood-pool phase (3–5 minutes), and delayed static images (4–6 hours). Bone scan is very sensitive to the presence of any pathology, but is relatively non- speciﬁc. Hot spots are due to increased blood supply or osteoblast activity and may be seen in infection, fracture or malignancy',
+        },
+      ],
+    },
+    {
+      questionNumber: 9,
+      preamble: 'In the bony pelvis',
+      options: [
+        {
+          text: 'The triradiate cartilage is seen as a Y-shaped lucency at the acetabulum in an immature skeleton in a plain radiograph',
+          response: '',
+          answer: 'True',
+          explanation: 'The ilium, ischium and pubis meet at the triradiate cartilage, fuses at 20 years of age',
+        },
+        {
+          text: 'The iliac crest has a separate ossification center',
+          response: '',
+          answer: 'True',
+          explanation: 'Fuses from 20 years onwards.',
+        },
+        {
+          text: 'The rectus femoris originates at the anterior superior iliac spine',
+          response: '',
+          answer: 'False',
+          explanation: 'Sartorius originates at the anterior Superior ilaic spine and rectus femoris from the anterior inferior iliac spine. It is common for ‘tug’ lesions (avulsion) to develop from the latter in sports related injuries of adolescents',
+        },
+        {
+          text: 'The obturator foramen is bounded inferiorly by the sacrospinous ligaments',
+          response: '',
+          answer: 'False',
+          explanation: 'The obturator foramen is bounded by the bodies and rami of the pubis and ischium. The sacrospinous ligament deﬁnes the inferior limit of the greater sciatic foramen',
+        },
+        {
+          text: 'The sacrotuberous ligament defines the posterior limit of the lesser sciatic foramen',
+          response: '',
+          answer: 'True',
+          explanation: 'Runs from the ischial tuberosity to the side of the sacrum and coccyx and to the posterior inferior iliac spine',
+        },
+      ],
+    },
+    {
+      questionNumber: 10,
+      preamble: 'In the pelvis',
+      options: [
+        {
+          text: 'The iliopsoas muscle passes anterior to the inguinal ligament',
+          response: '',
+          answer: 'False',
+          explanation: 'Posterior, to insert into the lesser trochanter',
+        },
+        {
+          text: 'The aponeurosis of the external oblique has a thickening, which runs from the pubic tubercle to the anterior superior iliac spine as the inguinal ligament',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+        {
+          text: 'The sacroiliac joint does not have a synovial component',
+          response: '',
+          answer: 'False',
+          explanation: 'Has a synovial component. The sacral surface is lined by ﬁbrocartilage and the iliac surface by hyaline cartilage',
+        },
+        {
+          text: 'The intersosseous sacroiliac ligament is a strong ligament',
+          response: '',
+          answer: 'True',
+          explanation: 'It provides the main strength of the joint',
+        },
+        {
+          text: 'Each half of the vertebral arch of the sacrum appears at 16–20 weeks of fetal life',
+          response: '',
+          answer: 'False',
+          explanation: 'The coccyx is formed by three to five fused vertebrae, with the number of segments varying among individuals',
+        },
+      ],
+    },
+    {
+      questionNumber: 11,
+      preamble: 'Concerning the muscles of the pelvic girdle',
+      options: [
+        {
+          text: 'The majority of the gluteus maximus merges with the iliotibial tract',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+        {
+          text: 'The piriformis passes out of the pelvis through the lesser sciatic foramen',
+          response: '',
+          answer: 'False',
+          explanation: 'The piriformis passes through the greater sciatic foramen, not the lesser sciatic foramen',
+        },
+        {
+          text: 'The obturator internus arises from the medial part of the obturator membrane and surrounding bone and passes through the lesser sciatic foramen.',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+        {
+          text: 'The gemelli muscles insert into the lesser trochante',
+          response: '',
+          answer: 'False',
+          explanation: 'The gemellus inferior arises from the ischial tuberosity, and the gemellus superior arises from the ischial spine. Both muscles insert into the greater trochanter',
+        },
+        {
+          text: 'The tendons of obturator internus and gemelli muscles lie between the femoral head anteriorly and gluteus maximus posteriorly.',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+      ],
+    },
+    {
+      questionNumber: 12,
+      preamble: 'In the pelvis',
+      options: [
+        {
+          text: 'The anteroposterior view of the plain radiograph is taken with the legs rotated externally',
+          response: '',
+          answer: 'False',
+          explanation: 'Rotated internally to compensate for the anteversion of the femoral neck',
+        },
+        {
+          text: 'The paraglenoid sulcus transmits the superior branch of the gluteal artery',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+        {
+          text: 'Shenton’s line runs from the lateral aspect of the femoral neck to the superior border of the obturator foramen on an AP radiograph',
+          response: '',
+          answer: 'False',
+          explanation: 'From the medial aspect of the femoral neck it usually is a smooth curve',
+        },
+        {
+          text: 'The sacrum is better seen with a 35° cephalad angulation on the AP radiograph.',
+          response: 'True',
+          answer: 'True',
+          explanation: 'Ferguson’s view. The Stork’s view to assess instability of the pubic symphysis is taken standing on each leg. Change in alignment of the superior surface of the pubic rami of more than 3 mm is abnormal',
+        },
+        {
+          text: 'The sacroiliac joints are better profiled in the postero-anterior than the anteroposterior projection',
+          response: '',
+          answer: 'True',
+          explanation: 'the plane of the SI joint diverges in the posteroanterior direction and the diverging X-ray beam is nearly parallel in the PA view',
+        },
+      ],
+    },
+    {
+      questionNumber: 13,
+      preamble: 'In pelvimetry',
+      options: [
+        {
+          text: 'Routine assessment of the female pelvis is performed before delivery',
+          answer: 'False',
+          explanation: '',
+          response: '',
+        },
+        {
+          text: 'CT or MRI are used in place of plain radiography',
+          answer: 'True',
+          explanation: '',
+          response: '',
+        },
+        {
+          text: 'The conjugate diameter is the smallest AP diameter between the posterior margin of the symphysis pubis and the anterior aspect of the sacrum',
+          answer: 'True',
+          explanation: 'The most important measurement. Normal range is 11–12.5 cm.Less than 10.5 cm indicates increasing likelihood of cephalopelvic disproportion',
+          response: '',
+        },
+        {
+          text: 'The pelvic outlet dimensions are more important than the inlet dimensions.',
+          answer: 'False',
+          explanation: 'There is a considerable increase in the outlet diameter of up to 4 cm during delivery due to relaxation of the symphysis pubis and rotation of the sacroiliac joints',
+          response: '',
+        },
+        {
+          text: 'The transverse outlet diameter is measured between the ischial tuberosities.',
+          answer: 'True',
+          explanation: 'Average is 10.5 cm',
+          response: '',
+        },
+      ],
+    },
+    {
+      questionNumber: 14,
+      preamble: 'In the hip joint',
+      options: [
+        {
+          text: 'The fovea capitis to which the ligamentum teres is attached is not covered in cartilage',
+          answer: 'True',
+          explanation: '',
+          response: '',
+        },
+        {
+          text: 'The articular cartilage is thickest and broadest superiorly',
+          answer: 'True',
+          explanation: '',
+          response: '',
+        },
+        {
+          text: 'The fibrous capsule is attached around the rim of the acetabulum and inferiorly to the transverse acetabular ligament.',
+          answer: 'True',
+          explanation: 'Where the weight is borne',
+          response: '',
+        },
+        {
+          text: 'The iliofemoral ligament is a thickening of the posterior capsule',
+          answer: 'False',
+          explanation: 'This is the ischio-femoral ligament. The ilio-femoral ligament is attached to the anterior inferior iliac spine and to the inter-rochanteric line, and is anterior to the femoral neck',
+          response: '',
+        },
+        {
+          text: 'The Von Rosen’s view is useful in the assessment of femoral capital epiphyses in children.',
+          answer: 'False',
+          explanation: 'the Frog’s lateral view is used for this – the Von Rosen’s view is used in the assessment of congenital dislocation of the hip. Judet’s views of the acetabulum and femoral head give information on the anterior and posterior columns of the acetabulum',
+          response: '',
+        },
+      ],
+    },
+    {
+      questionNumber: 15,
+      preamble: 'Regarding the femur',
+      options: [
+        {
+          text: 'MRI has a high sensitivity and specificity in detecting avascular necrosis of the femoral head',
+          answer: 'True',
+          explanation: '',
+          response: '',
+        },
+        {
+          text: 'The anteversion of the neck of the femur increases from childhood into adult life',
+          answer: 'False',
+          explanation: 'In children the anteversion is greater, 50° at 1 year, 25° at 3–5 years and 8° by adulthood',
+          response: '',
+        },
+        {
+          text: 'The principal blood supply to the head of the adult femur is from the medial and lateral circumﬂex femoral arteries',
+          answer: 'True',
+          explanation: 'The central part of the head may be supplied by the artery of ligamentum teres, a branch of the obturator artery. This may be absent in about 20% of individuals. Intracapsular fractures of the femoral neck can compromise the blood supply to the head of the femur as the circumﬂex arteries may be torn. This gives rise to a high incidence of avascular necrosis of the femoral head or non-union',
+          response: '',
+        },
+        {
+          text: 'The nutrient artery of the femur travels cranially',
+          answer: 'True',
+          explanation: '‘Flee from the knee’. On a lateral view this is not to be mistaken for a fracture',
+          response: '',
+        },
+        {
+          text: 'The medial condyle is smaller than the lateral condyle',
+          answer: 'False',
+          explanation: 'Larger. Hence the inferior surface of the femur is nearly horizontal despite the shaft being oblique',
+          response: '',
+        },
+      ],
+    },
+    {
+      questionNumber: 16,
+      preamble: 'In the lower limb',
+      options: [
+        {
+          text: 'The patella is a sesamoid bone within the quadriceps tendon',
+          response: '',
+          answer: 'True',
+          explanation: 'Largest sesamoid bone',
+        },
+        {
+          text: 'The fabella is frequently found in the lateral head of gastrocnemius',
+          response: '',
+          answer: 'True',
+          explanation: 'A fabeLLa –‘L’ for lateral',
+        },
+        {
+          text: 'The shaft of the femur ossiﬁes at the 35th week of fetal life',
+          response: '',
+          answer: 'False',
+          explanation: 'Starts to ossify at the seventh week of fetal life',
+        },
+        {
+          text: 'In a bipartite patella the supero-lateral part is separate to the rest of the patella',
+          response: '',
+          answer: 'True',
+          explanation: 'Usually bilateral. May be diﬃcult to diﬀerentiate from a fracture',
+        },
+        {
+          text: '(e) Tensor fascia lata arises from the anterior superior iliac spine and inserts into the lateral condyle of the femur',
+          response: '',
+          answer: 'False',
+          explanation: 'Inserts into the iliotibial tract – a strong thickened band of deep fascia of the lateral aspect of the thigh (fascia lata) which is attached to the lateral condyle of the tibia',
+        },
+      ],
+    },
+    {
+      questionNumber: 17,
+      preamble: 'In the lower limb',
+      options: [
+        {
+          text: 'The rectus femoris arises from the anterior superior iliac spine.',
+          response: '',
+          answer: 'False',
+          explanation: 'From the anterior inferior iliac spine. The sartorius and tensor fascia lata arise from the anterior superior iliac spine. The rectus femoris inserts into the base of the patella and by the patellar ligament to the tibial tuberosity. This insertion is the same for the other muscles which form the quadriceps femoris; vastus – lateralis, medialis and intermedius',
+        },
+        {
+          text: 'Gracilis, sartorius and semitendinosus insert into the medial condyle of the tibia',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+        {
+          text: 'The adductor magnus inserts along the linea aspera, the medial supracondylar line and the adductor tubercle of the medial femoral condyle',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+        {
+          text: 'The adductor hiatus interrupts the distal attachment of the adductor longus muscle',
+          response: '',
+          answer: 'False',
+          explanation: 'The femoral vessels pass through the hiatus in the adductor magnus to become the popliteal vessels',
+        },
+        {
+          text: 'The biceps femoris attaches to the lateral condyle of the femur',
+          response: '',
+          answer: 'False',
+          explanation: 'Originates from the ischial tuberosity (long head) and the linea aspera (short head) and inserts into the head of the ﬁbula',
+        },
+      ],
+    },
+    {
+      questionNumber: 18,
+      preamble: 'In the knee joint',
+      options: [
+        {
+          text: 'The synovium lining the joint is extracapsular',
+          response: '',
+          answer: 'False',
+          explanation: 'Intracapsular',
+        },
+        {
+          text: 'A Baker’s cyst is an inﬂamed or swollen medial gastrocnemius – semimembranosus bursa',
+          response: '',
+          answer: 'True',
+          explanation: 'Best seen on ultrasound as an anechoic area that may connect to the knee joint',
+        },
+        {
+          text: 'The lateral collateral ligament is separated from the capsule by the popliteus tendon',
+          response: '',
+          answer: 'True',
+          explanation: 'It is a cord-like structure between the lateral epicondyle of the femur and head of the ﬁbula',
+        },
+        {
+          text: 'The anterior cruciate ligament passes from the anterior intercondylar area of the tibia to the medial femoral condyle.',
+          response: '',
+          answer: 'False',
+          explanation: 'To the medial surface of lateral femoral condyle. It prevents femur moving backwards on tibia',
+        },
+        {
+          text: 'The medial collateral ligament is a ﬂattened band that blends posteriorly with the ﬁbrous capsule.',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+      ],
+    },
+    {
+      "questionNumber": 19,
+      "preamble": "In the knee joint",
+      "options": [
+        {
+          "text": "The anterior cruciate ligament has low signal intensity on T1- and T2-weighted sagittal scans.",
+          "response": "",
+          "answer": "True",
+          "explanation": "Partial tear may manifest as high signal within the ligament on T2 or T2* images. More often, a torn ACL is not visualized. Coronal images show medial and lateral collateral ligaments, sagittal images show menisci, cruciate ligaments, and articular cartilages. Normal menisci and ligaments are low signal on T1 and T2"
+        },
+        {
+          "text": "The posterior cruciate ligament (PCL) arises from the posterior intercondylar area and inserts into the anterior part of the lateral surface of the medial femoral condyle",
+          "response": "",
+          "answer": "True",
+          "explanation": "The PCL is shorter and stronger than the ACL. It is infrequently torn compared with ACL"
+        },
+        {
+          "text": "The medial meniscus is larger and more semicircular than the lateral meniscus",
+          "response": "",
+          "answer": "True",
+          "explanation": "The outer margin of the medial meniscus is blended with the fibrous capsule and the deep surface of the medial collateral ligament"
+        },
+        {
+          "text": "Discoid menisci are less likely to tear than normal menisci",
+          "response": "",
+          "answer": "False",
+          "explanation": "Discoid menisci are thicker. However, more prone to tear and may be symptomatic even if not torn"
+        },
+        {
+          "text": "The posterior horn of the lateral meniscus is attached to the medial condyle of the femur by the menisco-femoral ligament, which divides to pass either side of the anterior cruciate ligament",
+          "response": "",
+          "answer": "False",
+          "explanation": "The posterior horn of the lateral meniscus is attached to the medial condyle of the femur by the menisco-femoral ligament, which divides to pass either side of the posterior cruciate ligament (PCL). The anterior part of the ligament is called the ligament of Humphrey, and the posterior part is called the ligament of Wrisberg. One or the other can be seen in about 70% of cases. They can be mistaken for a tear of the posterior horn of the lateral meniscus or for loose bodies in front of or behind the PCL"
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "preamble": "In the knee",
+      "options": [
+        {
+          "text": "A tunnel view shows the patella well",
+          "response": "",
+          "answer": "False",
+          "explanation": "A tunnel view of the intercondylar fossa of the upper end of the tibia is used to detect intra-articular opacities. These opacities are 'loose' bodies if they change position"
+        },
+        {
+          "text": "The medial femoral condyle projects more anteriorly compared to the lateral femoral condyle",
+          "response": "",
+          "answer": "False",
+          "explanation": "The lateral femoral condyle projects more anteriorly and tends to prevent lateral dislocation"
+        },
+        {
+          "text": "A fat fluid level in the suprapatellar bursa in a horizontal beam lateral radiograph indicates a fracture within the joint",
+          "response": "",
+          "answer": "True",
+          "explanation": "A fat fluid level in the suprapatellar bursa has a high correlation with a tibial plateau fracture, which is probably the most commonly missed fracture of the knee"
+        },
+        {
+          "text": "The sartorius and gracilis tendons are posteromedial to the joint",
+          "response": "",
+          "answer": "True",
+          "explanation": "The sartorius and gracilis tendons are posteromedial to the joint"
+        },
+        {
+          "text": "The popliteal vein lies deep to the popliteal artery",
+          "response": "",
+          "answer": "False",
+          "explanation": "The vein is superficial to the artery. Hence, during Doppler ultrasound for venous thrombosis, excess pressure with the probe will obliterate the lumen, and it cannot be visualized. This applies to ultrasound of veins in general. However, this is a sign to be elicited with the probe held transverse to the vein to ensure patency of veins"
+        }
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "preamble": "Regarding the lower legs",
+      "options": [
+        {
+          "text": "The muscles of the anterior compartment are more prone to be affected by compartmental syndrome.",
+          "response": "",
+          "answer": "True",
+          "explanation": "The muscles of the anterior compartment are enclosed by the tibia, fibula, and the interosseous membrane, making them more prone to compartmental syndrome"
+        },
+        {
+          "text": "The Achilles tendon has a sheath",
+          "response": "",
+          "answer": "False",
+          "explanation": "Strongest tendon, but no sheath, therefore tenosynovitis does not accur"
+        },
+        {
+          "text": "The tibialis anterior is the most medial and the largest of the flexor tendons of the foot.",
+          "response": "",
+          "answer": "False",
+          "explanation": "This is the tibialis posterior, which provides support to the longitudinal arch. Problems in the arch can lead to tendonitis or even rupture, usually just at or above the tibiotalar joint"
+        },
+        {
+          "text": "The flexor digitorum longus tendon is lateral to flexor hallucis longus at the level of the talus",
+          "response": "",
+          "answer": "False",
+          "explanation": "The mnemonic Tom (tibialis posterior), Dick (flexor digitorum longus), and (posterior tibial vessels and nerve), Harry (flexor hallucis longus) is helpful in remembering the relations of these important structures at the level of the ankle joint from medial to the posterolateral aspect"
+        },
+        {
+          "text": "The tibialis posterior inserts into the talus",
+          "response": "",
+          "answer": "False",
+          "explanation": "Talus has no muscle attachment. The tibialis posterior inserts into the navicular, and gives variable slips to tarsal bodies and bases of second, third and fourth metatarsals"
+        }
+      ]
+    },
+    {
+      "questionNumber": "22",
+      "preamble": "In the ankle and the foot",
+      "options": [
+        {
+          "text": "The deltoid ligament lies medially, deep to the flexor tendons",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The deltoid ligament is responsible for about 85% of all ankle ligament injuries",
+          "response": "",
+          "answer": "False",
+          "explanation": "The lateral collateral ligament complex, not the deltoid ligament, is responsible for about 80% of all ankle ligament injurie"
+        },
+        {
+          "text": "The tibiofibular and calcaneofibular ligaments form the superior group of the lateral collateral ligament complex in the ankle",
+          "response": "",
+          "answer": "False",
+          "explanation": "These form the inferior group. The superior group is formed by the anterior and posterior tibial and ﬁbular ligaments. The anterior taloﬁbular ligament is the most commonly torn ligament in the ankle"
+        },
+        {
+          "text": "The sinus tarsus is a space between the talus and calcaneus and is filled with fat and hindfoot ligaments",
+          "response": "",
+          "answer": "True",
+          "explanation": "In the sinus tarsi syndrome, this fat is obliterated with disruption of the ligaments"
+        },
+        {
+          "text": "Tarsal coalition is usually of no consequence",
+          "response": "",
+          "answer": "False",
+          "explanation": "This is a common cause of a painful ﬂat foot. The coalition which may be bony, cartilagenous or ﬁbrous, most commonly occurs at the calcaneo- navicular joint and is usually bilateral"
+        }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "preamble": "Concerning imaging of the ankle and foot",
+      "options": [
+        {
+          "text": "Boehler’s angle is usually about 28°",
+          "response": "",
+          "answer": "True",
+          "explanation": "An angle less than 20° indicates flattening of the calcaneum due to crush injuries resulting from jumping onto a hard surface from a height"
+        },
+        {
+          "text": "Congenital tarsal coalitions are best visualized using oblique radiographs with the foot internally rotated.",
+          "response": "",
+          "answer": "False",
+          "explanation": "CT, particularly in the coronal plane, is the best way of looking at the subtalar joint"
+        },
+        {
+          "text": "On ultrasound, tendons are echopoor",
+          "response": "",
+          "answer": "False",
+          "explanation": "Tendons are echobright. Echopoor areas in the tendon may be due to tendonitis, and a gap in the tendon is diagnostic of a tear"
+        },
+        {
+          "text": "In the AP view of the foot, the medial margin of the base of the second metatarsal should be in line with the medial margin of the intermediate cuneiform",
+          "response": "",
+          "answer": "True",
+          "explanation": "In the oblique view of the foot, the medial margin of the base of the third metatarsal should be in line with the medial margin of the lateral cuneiform. If not, it is a Lisfranc injury"
+        },
+        {
+          "text": "(e) Lateral ligamentous stability of the ankle is best demonstrated on a dorsiflexion view.",
+          "response": "",
+          "answer": "False",
+          "explanation": "Avulsion fracture of the base of the ﬁfth metatarsal is transverse to the long axis of the metatarsal. An apophysis which mimics a fracture is longitudinal to the long axis of the metatarsal"
+        }
+      ]
+    }
+  ],
+}

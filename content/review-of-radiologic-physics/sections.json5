@@ -1,0 +1,82 @@
+[
+  {
+    "name": "X-rays",
+    "slug": "x-rays"
+  },
+  {
+    "name": "X-ray Imaging",
+    "slug": "x-ray-imaging"
+  },
+  {
+    "name": "Image Quality",
+    "slug": "image-quality"
+  },
+  {
+    "name": "Patient Dosimetry",
+    "slug": "patient-dosimetry"
+  },
+  {
+    "name": "Radiation Risks",
+    "slug": "radiation-risks"
+  },
+  {
+    "name": "Radiation Protection",
+    "slug": "radiation-protection"
+  },
+  {
+    "name": "Radiography",
+    "slug": "radiography"
+  },
+  {
+    "name": "Mammography",
+    "slug": "mammography"
+  },
+  {
+    "name": "Fluoroscopy",
+    "slug": "fluoroscopy"
+  },
+  {
+    "name": "Interventional Radiology",
+    "slug": "interventional-radiology"
+  },
+  {
+    "name": "CT I",
+    "slug": "ct-i"
+  },
+  {
+    "name": "CT II",
+    "slug": "ct-ii"
+  },
+  {
+    "name": "Nuclear Medicine I",
+    "slug": "nuclear-medicine-i"
+  },
+  {
+    "name": "Nuclear Medicine II",
+    "slug": "nuclear-medicine-ii"
+  },
+  {
+    "name": "Magnetic Resonance I",
+    "slug": "magnetic-resonance-i"
+  },
+  {
+    "name": "Magnetic Resonance II",
+    "slug": "magnetic-resonance-ii"
+  },
+  {
+    "name": "Ultrasound I",
+    "slug": "ultrasound-i"
+  },
+  {
+    "name": "Ultrasound II",
+    "slug": "ultrasound-ii"
+  },
+  {
+    "name": "Practice Examination A",
+    "slug": "practice-examination-a"
+  },
+  {
+    "name": "Practice Examination B",
+    "slug": "practice-examination-b"
+  }
+]

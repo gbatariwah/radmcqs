@@ -1,0 +1,511 @@
+{
+  name: 'Pelvis',
+  authors: 'A. Doss and M.J. Bull',
+  slug: 'pelvis',
+  questions: [
+    {
+      questionNumber: 1,
+      preamble: 'Concerning the pelvic floor',
+      options: [
+        {
+          text: 'The pelvic diaphragm is inferior to the superficial muscles of the perineum',
+          response: '',
+          answer: 'False',
+          explanation: 'the pelvic diaphragm is superior to the superficial perineal muscles',
+        },
+        {
+          text: 'The pelvic diaphragm is formed by levator ani and coccygeus muscles',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+        {
+          text: 'The perineal aspect of the levator ani forms the medial wall of the ischiorectal fossa',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+        {
+          text: 'The urogenital diaphragm is pierced by the urethra in both sexes',
+          response: '',
+          answer: 'True',
+          explanation: 'and by the vagina in the female',
+        },
+        {
+          text: 'To the fibromuscular perineal body attach the anal sphincter and levator ani muscles',
+          response: '',
+          answer: 'True',
+          explanation: 'and transverse perineal and bulbospongiosus muscles',
+        },
+      ],
+    },
+    {
+      questionNumber: 2,
+      preamble: 'Concerning the nerves of the pelvis:',
+      options: [
+        {
+          text: 'The sacral plexus is anterior to the piriformis muscle',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+        {
+          text: 'The sciatic nerve can be visualized by CT and MRI as it passes through the greater sciatic foramen.',
+          response: '',
+          answer: 'True',
+          explanation: 'the largest nerve in the body',
+        },
+        {
+          text: 'The pudendal nerve leaves the pelvis through the lesser sciatic foramen to enter the perineum.',
+          response: '',
+          answer: 'False',
+          explanation: 'the sacrospinous ligament and the sacrotuberous ligament form the superior and postero-inferior borders of the lesser sciatic foramen, respectively. The internal pudendal artery and pudendal nerve exit the pelvis through the greater sciatic foramen and enter the perineum through the lesser sciatic foramen',
+        },
+        {
+          text: 'The obturator nerve runs lateral to the psoas in the pelvis.',
+          response: '',
+          answer: 'False',
+          explanation: 'it runs medial to the psoas, and then along the lateral pelvic wall, lies posteromedial to the common iliac vein to enter the obturator canal',
+        },
+        {
+          text: 'The femoral nerve passes into the thigh under the inguinal ligament.',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+      ],
+    },
+    {
+      questionNumber: 3,
+      preamble: 'In the pelvis',
+      options: [
+        {
+          text: 'The umbilical artery anastomoses with the inferior epigastric artery in the adult',
+          response: '',
+          answer: 'False',
+          explanation: 'this is the ﬁrst branch of the internal iliac artery in the fetus which persists as the medial umbilical ligament. This may be recognized in the presence of pneumoperitoneum',
+        },
+        {
+          text: 'The external iliac artery passes under the inguinal ligament to become the common femoral artery',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+        {
+          text: 'The middle rectal artery is a branch of the internal pudendal artery',
+          response: '',
+          answer: 'False',
+          explanation: 'the middle rectal artery is a branch of the anterior division of the internal iliac artery',
+        },
+        {
+          text: 'The obturator artery usually arises from the external iliac artery.',
+          response: '',
+          answer: 'False',
+          explanation: 'it usually arises from the anterior division of the internal iliac artery in 75% of individuals. It may arise from the inferior epigastric artery in 25%.',
+        },
+        {
+          text: 'A persistent sciatic artery may replace the superficial femoral artery.',
+          response: '',
+          answer: 'True',
+          explanation: 'in less than 1% of individuals there is an enlarged inferior gluteal artery (branch of the anterior division) which represents persistent fetal vascular supply to the lower limbs',
+        },
+      ],
+    },
+    {
+      questionNumber: 4,
+      preamble: 'In the pelvis',
+      options: [
+        {
+          text: 'The urachal remnant forms the median umbilical ligament passing from the apex of the bladder to the umbilicus',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+        {
+          text: 'The neck of the bladder rests on the urogenital diaphragm in both sexes',
+          response: '',
+          answer: 'False',
+          explanation: 'in the female this is true. In the male, the neck of the bladder rests on the prostate',
+        },
+        {
+          text: 'The distal ureter is posterior to the bifurcation of the common iliac artery',
+          response: '',
+          answer: 'False',
+          explanation: 'anterior',
+        },
+        {
+          text: 'The bladder is supplied by the superior and inferior vesical artery',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+        {
+          text: 'In a plain radiograph, unilateral absence of the perivesical fat stripe is a sign of pelvic pathology',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+      ],
+    },
+    {
+      questionNumber: 5,
+      preamble: 'Concerning the bladder',
+      options: [
+        {
+          text: 'It is trabeculated except at the trigone',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+        {
+          text: 'Colour Doppler enables identification of ureteric jets into the bladder',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+        {
+          text: 'The wall is of a high signal intensity on T1- and T2-W MRI',
+          response: '',
+          answer: 'False',
+          explanation: 'chemical shift artefact in the frequency-encoding direction produces a high signal within the bladder wall, which may be misleading. On both T1- and T2-W MRI the bladder wall is homogeneous and of a low signal intensity',
+        },
+        {
+          text: 'It has a normal wall thickness of about 3 cm',
+          response: '',
+          answer: 'False',
+          explanation: '4-5 mm',
+        },
+        {
+          text: 'The intramural ureter courses obliquely for about 2 cm before entering the bladder cavity',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+      ],
+    },
+    {
+      questionNumber: 6,
+      preamble: 'Concerning the male urethra',
+      options: [
+        {
+          text: 'The posterior urethra is divided into the prostatic and spongy parts',
+          response: '',
+          answer: 'False',
+          explanation: 'the prostatic and membranous parts',
+        },
+        {
+          text: 'The anterior urethra is divided into the bulbous and penile urethra',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+        {
+          text: 'The membranous urethra runs through the external urethral sphincter within the urogenital diaphragm',
+          response: '',
+          answer: 'True',
+          explanation: 'this is 1.5 cm long, and the narrowest, most ﬁxed and least dilatable part of the urethra. Therefore, is most prone to injury during a pelvic fracture',
+        },
+        {
+          text: 'The verumontanum is a prominence in the prostatic crest into which the prostatic utricle opens.',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+        {
+          text: 'The anterior urethra is well visualized on transrectal ultrasound.',
+          response: '',
+          answer: 'False',
+          explanation: 'the anterior urethra is visualized well by retrograde urethrography. However, the posterior urethra is visualized well by antegrade urethrography when the patient micturates contrast',
+        },
+      ],
+    },
+    {
+      questionNumber: 7,
+      preamble: 'Regarding the prostate',
+      options: [
+        {
+          text: 'The anterior wall of the prostate lies in the arch of the pubis separated from it by retropubic space',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+        {
+          text: 'The paired seminal vesicles are separated from the rectum by the peripheral zone of the prostrate gland',
+          response: '',
+          answer: 'False',
+          explanation: 'the seminal vesicles are posterior to the prostate and are seprated from the rectum by a dense condensation of the pelvic fascia – Denonvillier’s fascia',
+        },
+        {
+          text: 'The peripheral zone of the prostate comprises 70% of the glandular tissue',
+          response: '',
+          answer: 'True',
+          explanation: 'the glandular tissue has other zones: central zone 25% and transition zone 5%',
+        },
+        {
+          text: 'The transition zone of the prostate lies at the junction of the central and peripheral zones',
+          response: '',
+          answer: 'False',
+          explanation: 'the narrow transition zone lies just inside the central zone',
+        },
+        {
+          text: 'The central zone surrounds the urethra just above the ejaculatory ducts',
+          response: '',
+          answer: 'True',
+          explanation: 'most carcinomas arise in the peripheral zone, whereas benign prostatic hypertrophy aﬀects the transition zone',
+        },
+      ],
+    },
+    {
+      questionNumber: 8,
+      preamble: 'Regarding the male genital tract',
+      options: [
+        {
+          text: 'T2-W MRI delineates the zonal anatomy of the prostate gland',
+          response: '',
+          answer: 'True',
+          explanation: 'the normal peripheral zone has high signal intensity, and the central and transition zones have low intensity',
+        },
+        {
+          text: 'Fat suppressed sequences give excellent contrast between the high signal peripheral zone and the periprostatic fat',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+        {
+          text: 'changes of benign prostatic hypertrophy. The pseudocapsule and the anatomical capsule are well seen on T2-W sequences',
+          response: '',
+          answer: 'True',
+          explanation: 'The surgical pseudo-capsule of the prostate gland is located between the enlarged transition zone and the compressed peripheral zone, which is often encountered with increasing age',
+        },
+        {
+          text: 'The central and peripheral zones are not differentiated on trans-rectal ultrasound (TRUS)',
+          response: '',
+          answer: 'False',
+          explanation: 'TRUS shows the central and peripheral zones to be of generally low echogenicity',
+        },
+        {
+          text: 'On TRUS the seminal vesicles are very echogenic',
+          response: '',
+          answer: 'False',
+          explanation: 'the seminal vesicles appear as convoluted tubules containing transonic ﬂuid – hence they are of lower echogenicity than the prostate',
+        },
+      ],
+    },
+    {
+      questionNumber: 9,
+      preamble: 'Concerning the male genital organs:',
+      options: [
+        {
+          text: 'The mediastinum of the testis is an incomplete fibrous septum posteriorly.',
+          response: '',
+          answer: 'True',
+          explanation: 'tunica albuginea is a tough ﬁbrous capsule that forms an incomplete, thickened ﬁbrous septum. Through this run the testicular vessels',
+        },
+        {
+          text: 'The vas deferens lies medial to the epididymis.',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+        {
+          text: 'The testicular artery is a branch of the internal pudendal artery.',
+          response: '',
+          answer: 'False',
+          explanation: 'it arises from the aorta at the level of the renal vessels',
+        },
+        {
+          text: 'The spermatic cord contains the vas deferens, the testicular vessels, cremastric artery and genital branch of genitofemoral nerve',
+          response: '',
+          answer: 'True',
+          explanation: 'and the artery to the vas deferens (from the inferior vesical artery), lymphatics from the testes',
+        },
+        {
+          text: 'The testicular vein drains into the pampiniform plexus of veins.',
+          response: '',
+          answer: 'False',
+          explanation: 'the pampiniform plexus of veins above and behind the testis become one single testicular vein as they approach the inguinal ring. The right testicular vein drains into the IVC and the left testicular vein drains into the left renal vein',
+        },
+      ],
+    },
+    {
+      questionNumber: 10,
+      preamble: 'Regarding the testis',
+      options: [
+        {
+          text: 'The testis has homogeneous medium level echoes on ultrasound',
+          response: '',
+          answer: 'True',
+          explanation: 'similar to thyroid',
+        },
+        {
+          text: 'The mediastinum testis is a posterior and highly echogenic structure.',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+        {
+          text: 'The epididymis is slightly echopoor compared with the testis',
+          response: '',
+          answer: 'False',
+          explanation: 'echobright and a coarser texture',
+        },
+        {
+          text: 'On T2-W MRI the testis is either equal to or greater than that of fat',
+          response: '',
+          answer: 'True',
+          explanation: 'the ﬁbrous tunica albuginea is of low signal on all sequences. On T1-W images the testis is of uniformly medium signal less than that of fat',
+        },
+        {
+          text: 'The pampiniform plexus is of high signal on T2-W MRI',
+          response: '',
+          answer: 'False',
+          explanation: 'they are seen as signal voids',
+        },
+      ],
+    },
+    {
+      questionNumber: 11,
+      preamble: 'Concerning the female genital tract',
+      options: [
+        {
+          text: 'Lymphatic drainage from the upper third of the vagina is to the internal and external iliac nodes',
+          response: '',
+          answer: 'True',
+          explanation: 'the middle third to the internal iliac and the lower third to the superﬁcial inguinal nodes',
+        },
+        {
+          text: 'The cavity of the uterus is triangular in the sagittal plane',
+          response: '',
+          answer: 'False',
+          explanation: 'cleft-shaped in the sagittal plane, triangular in the coronal plane',
+        },
+        {
+          text: '(c) The retroflexed uterus is better visualized with transabdominal ultrasound than the anteverted uterus',
+          response: '',
+          answer: 'False',
+          explanation: 'the opposite is True',
+        },
+        {
+          text: 'In the fetus, the cervix is not identified separately from the uterus.',
+          response: '',
+          answer: 'False',
+          explanation: 'in fetal life and childhood the cervix is larger than the body of the uterus. By adulthood, the uterine body is twice the size of the cervix',
+        },
+        {
+          text: 'The uterine artery is a direct branch of the aorta',
+          response: '',
+          answer: 'False',
+          explanation: 'a branch of the internal iliac artery. The ovarian artery is a direct branch of the aorta at L1/2 level',
+        },
+      ],
+    },
+    {
+      questionNumber: 12,
+      preamble: 'The following are true of the female genital tract',
+      options: [
+        {
+          text: 'On T2-W MRI, the junctional zone is a low signal intensity band in the submucosa',
+          response: '',
+          answer: 'False',
+          explanation: 'no submucosa exists between the endometrium and myometrium. The junctional zone represents the inner myometrium',
+        },
+        {
+          text: 'On T1-W sequences, three distinct zones are seen in the uterus',
+          response: '',
+          answer: 'False',
+          explanation: 'on T1-W sequences the uterus has moderate to low signal intensity. On T2-W sequences three distinct zones are seen. The endometrium and the cavity appear as a high signal stripe, bordered by a band of low signal junctional zone. The outer myometrium is of medium signal intensity which increases in mid- secretory phase',
+        },
+        {
+          text: 'Normal ovaries are low to medium signal on T1-W MRI',
+          response: '',
+          answer: 'True',
+          explanation: 'higher signal on T2-W MRI',
+        },
+        {
+          text: 'After gadolinium DTPA, the ovarian follicles exhibit increased signal intensity',
+          response: '',
+          answer: 'False',
+          explanation: 'the follicles are low signal foci in surrounding high signal stroma, which enhances after intravenous gadolinium',
+        },
+        {
+          text: 'The anatomy of the fallopian tubes is best seen by MRI',
+          response: '',
+          answer: 'False',
+          explanation: 'by hysterosalpingography (HSG)',
+        },
+      ],
+    },
+    {
+      questionNumber: 13,
+      preamble: 'Concerning the female genital tract',
+      options: [
+        {
+          text: 'Peritoneum covers the superior and lateral aspects of the uterus',
+          response: '',
+          answer: 'False',
+          explanation: 'the uterus is covered entirely by peritoneum except below the level of the internal os anteriorly and laterally between the layers of the broad ligament',
+        },
+        {
+          text: 'The broad ligaments are formed by the anterior and posterior reflections of peritoneum passing over the fallopian tubes',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+        {
+          text: 'The round ligament originates at the lateral angle of the uterus and passes to the labia majora',
+          response: '',
+          answer: 'True',
+          explanation: 'passes through the inguinal canal',
+        },
+        {
+          text: '(d) The internal iliac artery is anterior to the ovary.',
+          response: '',
+          answer: 'False',
+          explanation: 'posterior to the ovary',
+        },
+        {
+          text: '(e) Endovaginal ultrasound provides better resolution than transabdominal ultrasound in evaluating the endometrium',
+          response: '',
+          answer: 'True',
+          explanation: 'and the uterus',
+        },
+      ],
+    },
+    {
+      questionNumber: 14,
+      preamble: 'Regarding the female genital tract',
+      options: [
+        {
+          text: 'On T2-W MRI the cervix has an inner area of low signal intensity continuous with the junctional zone of the uterus',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+        {
+          text: 'The use of oral contraceptives and menstrual cycle change the appearance of the cervix on MRI',
+          response: '',
+          answer: 'False',
+          explanation: 'appearances do not change',
+        },
+        {
+          text: 'The ampulla of the fallopian tube is the funnel-shaped most lateral part',
+          response: '',
+          answer: 'False',
+          explanation: 'This is the infundibulum. From lateral to medial are the infundibulum, ampulla – wide tortuous outer part; isthmus – long narrow, just lateral to the uterus; interstitial part – pierces the uterine wall',
+        },
+        {
+          text: 'In a bicornis bicollis variant of the uterus, there are two separate cervical canals',
+          response: '',
+          answer: 'True',
+          explanation: '',
+        },
+        {
+          text: 'Contrast spillage in the peritoneal cavity is a sign of patency of fallopian tubes in a hystero-salpingogram',
+          response: '',
+          answer: 'True',
+          explanation: 'contrast ﬁlled tubes with extravasation deﬁnitely from the ipsilateral tube is a more reliable sign of tubal patency. Interpretation is rendered diﬃcult when contrast pools in the peritoneal space from the contralateral tube when the ipsilateral tube is blocked',
+        },
+      ],
+    }
+  ]
+}
