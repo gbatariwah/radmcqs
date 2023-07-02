@@ -2,6 +2,169 @@
   "name": "Image Quality",
   "slug": "image-quality",
   questions: [
-
+    {
+      "questions": [
+        {
+          "questionNumber": 3.1,
+          "preamble": "Subject contrast is most likely dependent on x-ray",
+          "options": ["Tube voltage", "Tube current", "Exposure time", "Focal spot"],
+          "answer": "Tube voltage",
+          "explanation": "The x-ray tube voltage (average photon energy) will affect subject contrast, which is independent of tube current, exposure time, and focal spot size.",
+          "response": ""
+        },
+        {
+          "questionNumber": 3.2,
+          "preamble": "Film contrast is most strongly influenced by an x-ray film",
+          "options": ["Gradient", "Latitude", "Density", "Speed"],
+          "answer": "Density",
+          "explanation": "Density is the key determinant of film contrast because underexposed (white) and overexposed (black) films exhibit little (i.e., no) contrast.",
+          "response": ""
+        },
+        {
+          "questionNumber": 3.3,
+          "preamble": "Digital image contrast is most likely independent of x-ray tube",
+          "options": ["Applied voltage (kV)", "Voltage ripple (%)", "Relative output (mAs)", "Beam filtration (Al)"],
+          "answer": "Relative output (mAs)",
+          "explanation": "Contrast is independent of intensity (i.e., mAs) but depends on average photon energy that is influenced by voltage (+ ripple) and beam filtration.",
+          "response": ""
+        },
+        {
+          "questionNumber": 3.4,
+          "preamble": "Digital detectors have latitude (dynamic range) that is film",
+          "options": ["Greater than", "Lower than", "Comparable to"],
+          "answer": "Greater than",
+          "explanation": "A typical x-ray detector has a dynamic range of 10,000:1, much higher than that of a film (e.g., 40:1).",
+          "response": ""
+        },
+        {
+          "questionNumber": 3.5,
+          "preamble": "Which atomic number (Z) is most likely to generate the highest lesion contrast relative to tissue (Z = 7.5) in chest radiography (i.e., 120 kV)",
+          "options": ["6.5 (fat)", "53 (iodine)", "56 (barium)", "64 (gadolinium)"],
+          "answer": "64 (gadolinium)",
+          "explanation": "Gadolinium has the highest K-edge energy and will absorb the highest number of incident x-rays, resulting in the highest contrast.",
+          "response": ""
+        },
+        {
+          "questionNumber": 3.6,
+          "preamble": "The distribution of pixel values in a uniformly exposed digital x-ray detector is best described as being",
+          "options": ["Exponential", "Logarithmic", "Gaussian", "Random"],
+          "answer": "Gaussian",
+          "explanation": "If the average number of photons per pixel is 100, there will be an approximately Gaussian distribution where the standard deviation is 10 (100).",
+          "response": ""
+        },
+        {
+          "questionNumber": 3.7,
+          "preamble": "If a detector's x-ray absorption efficiency is halved, the number of x-ray photons required to maintain image contrast-to-noise ratio is most likely",
+          "options": ["A quarter", "Halved", "Doubled", "Quadrupled"],
+          "answer": "Doubled",
+          "explanation": "To maintain contrast-to-noise ratio (CNR), the number of detected photons used to create an image must be maintained, which requires doubling the incident number of x-rays when a detector only detects half of these photons.",
+          "response": ""
+        },
+        {
+          "questionNumber": 3.8,
+          "preamble": "Noise reduction by the application of pixel averaging is most likely to result in spatial resolution performance",
+          "options": ["Improved", "The same", "Inferior"],
+          "answer": "Inferior",
+          "explanation": "Random noise can be reduced by averaging the detected counts in adjacent pixels, but this will most likely result in a blurrier image.",
+          "response": ""
+        },
+        {
+          "questionNumber": 3.9,
+          "preamble": "If the average number of counts in an NM pixel is 100, random mottle (%) is",
+          "options": ["10", "3", "1", "0.3"],
+          "answer": "10",
+          "explanation": "Mottle is the fluctuations (10%) as a percentage about the mean (100), which is 10% in this case. In nuclear medicine (NM), pixel-to-pixel fluctuations are 10%.",
+          "response": ""
+        },
+        {
+          "questionNumber": 3.10,
+          "preamble": "Photographs exhibit little mottle because the number of photons used is times higher than in x-ray radiography",
+          "options": ["1.1", "5", "100", "10,000"],
+          "answer": "10,000",
+          "explanation": "Photographs use 10^9 light photons/mm² to create an image, which is 10,000 times higher than the 10^5 x-ray photons/mm² used to make radiographs.",
+          "response": ""
+        },
+        {
+          "questionNumber": 3.11,
+          "preamble": "Chest x-rays exhibit less mottle than NM imaging because the number of photons used is times higher",
+          "options": ["5", "100", "10,000", "1,000,000"],
+          "answer": "10,000",
+          "explanation": "Radiographs use 10^9 photons/mm² to create an image, which is 10,000 times higher than the 10^5 gamma rays/mm² used to make nuclear medicine (NM) images.",
+          "response": ""
+        },
+        {
+          "questionNumber": 3.12,
+          "preamble": "X-ray limiting spatial resolution performance is most likely assessed using",
+          "options": ["Line pair phantoms", "Contrast-detail curves", "ROC curves", "SMPTE patterns"],
+          "answer": "Line pair phantoms",
+          "explanation": "Resolution performance can be assessed using line pair phantoms containing a range of spatial frequencies (line pairs per millimeter).",
+          "response": ""
+        },
+        {
+          "questionNumber": 3.13,
+          "preamble": "Focal spot blur is best minimized by increasing the",
+          "options": ["Source to image distance (SID)", "Image magnification", "Airgap", "Focal spot"],
+          "answer": "Source to image distance (SID)",
+          "explanation": "Increasing the source-to-image distance (SID) will generally reduce image magnification and the corresponding amount of focal spot blur.",
+          "response": ""
+        },
+        {
+          "questionNumber": 3.14,
+          "preamble": "Motion blur is most likely",
+          "options": ["Increased by", "Independent of", "Reduced by"],
+          "answer": "Independent of",
+          "explanation": "Motion blur is independent of exposure technique factors (mAs, kV, etc.) but is affected by the speed of the object being imaged.",
+          "response": ""
+        },
+        {
+          "questionNumber": 3.15,
+          "preamble": "If a detector thickness is 0.5 mm, the amount of blur in the resultant image is most likely_____ 0.5",
+          "options": ["much less than", "comparable to", "much bigger than"],
+          "answer": "comparable to",
+          "explanation": "If an x-ray detector is 0.5 mm thick, the image blur will be comparable to 0.5 mm",
+          "response": ""
+        },
+        {
+          "questionNumber": 3.16,
+          "preamble": "The Nyquist frequency for 0.1-mm pixels is (line pairs per millimeter)",
+          "options": ["0.1", "0.2", "5", "10"],
+          "answer": "5",
+          "explanation": "With 0.1-mm pixels, there are 10 in each millimeter (i.e., sampling frequency), which means that 5 alternate pixels can be 'black' and the other 5 alternate pixels can be 'white,' corresponding to a spatial frequency of 5 line pairs/mm",
+          "response": ""
+        },
+        {
+          "questionNumber": 3.17,
+          "preamble": "If an x-ray image of a line source has a full width half maximum of 0.2 mm, the limiting resolution (line pairs per millimeter) is most likely",
+          "options": ["0.2", "0.4", "2.5", "5"],
+          "answer": "2.5",
+          "explanation": "(2.5 line pairs/mm). Limiting resolution is estimated using 1/[2 x FWHM], so a FWHM of 0.2mm corresponds to l/[2 x 0.2] or 2.5 line pairs/mm",
+          "response": ""
+        },
+        {
+          "questionNumber": 3.18,
+          "preamble": "Determination of image quality always requires a",
+          "options": ["Diagnostic task", "Modulation transfer function", "Contrast detail curve", "Signal-to-noise ratio"],
+          "answer": "Diagnostic task",
+          "explanation": "Without a defined imaging task, it is literally impossible to define any kind of meaningful image quality",
+          "response": ""
+        },
+        {
+          "questionNumber": 3.19,
+          "preamble": "Which is the best indicator of the overall visibility of a lesion in a radiograph",
+          "options": ["SNR", "CNR", "MTF", "ROC"],
+          "answer": "SNR",
+          "explanation": "The signal-to-noise ratio (SNR) provides the best indication of whether a lesion would be detected in a radiograph",
+          "response": ""
+        },
+        {
+          "questionNumber": 3.20,
+          "preamble": "In an ROC curve, sensitivity is plotted as a function of",
+          "options": ["A. Specificity", "B. 1 + specificity", "C. 1 - specificity", "D. 1/specificity"],
+          "answer": "C",
+          "explanation": "An ROC curve plots sensitivity versus false-positive fraction (i.e., 1 - specificity)",
+          "response": ""
+        }
+      ]
+    }
   ]
 }

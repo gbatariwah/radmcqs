@@ -1,0 +1,54 @@
+[
+  {
+    name: "X-ray Production",
+    slug: "x-ray-production",
+  },
+  {
+    name: "X-ray Interactions",
+    slug: "x-ray-interactions",
+  },
+  {
+    name: "Projection Radiography I",
+    slug: "projection-radiography-i",
+  },
+  {
+    name: "Projection Radiography II",
+    slug: "projection-radiography-ii",
+  },
+  {
+    name: "Computed Tomography",
+    slug: "computed-tomography",
+  },
+  {
+    name: "Image Quality",
+    slug: "image-quality",
+  },
+  {
+    name: "Radiobiology/ Patient Dosimetry",
+    slug: "radiobiology-patient-dosimetry",
+  },
+  {
+    name: "Radiation Protection",
+    slug: "radiation-protection",
+  },
+  {
+    name: "Nuclear Medicine",
+    slug: "nuclear-medicine",
+  },
+  {
+    name: "Ultrasound",
+    slug: "ultrasound",
+  },
+  {
+    name: "Magnetic Resonance",
+    slug: "magnetic-resonance",
+  },
+  {
+    name: "Practice Examination A",
+    slug: "practice-examination-a",
+  },
+  {
+    name: "Practice Examination B",
+    slug: "practice-examination-b",
+  },
+]
