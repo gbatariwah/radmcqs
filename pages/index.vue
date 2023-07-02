@@ -11,7 +11,7 @@
 
       <div class="grid md:grid-cols-4 sm:grid-cols-2 gap-6">
         <div>
-          <div>
+          <div class="flex flex-col items-center">
             <nuxt-link to="/mcq-companion">
               <img src="~/assets/mcq-companion/cover.jpg" alt="mcq-companion" />
             </nuxt-link>
@@ -22,13 +22,16 @@
                 class="font-[oswald] tracking-wider font-medium"
               >
                 MCQ Companion
+                <UBadge color="lime" size="xs"
+                  >1<sup>st</sup> <span class="ml-1">Edition</span></UBadge
+                >
               </nuxt-link>
             </p>
           </div>
         </div>
         <div
           class="bg-zinc-950 h-60 border border-zinc-700"
-          v-for="box in 7"
+          v-for="box in 3"
         ></div>
       </div>
     </div>
@@ -42,7 +45,7 @@
 
       <div class="grid md:grid-cols-4 sm:grid-cols-2 gap-6">
         <div>
-          <div>
+          <div class="flex flex-col items-center">
             <nuxt-link to="/review-of-radiologic-physics">
               <img
                 src="~/assets/review-of-radiologic-physics/cover.jpg"
@@ -50,19 +53,44 @@
               />
             </nuxt-link>
 
-            <p class="p-2 text-center">
+            <p class="py-2 text-center">
               <nuxt-link
-                to="/mcq-companion"
+                to="/review-of-radiologic-physics"
                 class="font-[oswald] tracking-wider font-medium"
               >
                 Review of Radiologic Physics
+                <UBadge color="rose" size="xs"
+                  >4<sup>th</sup> <span class="ml-1">Edition</span></UBadge
+                >
+              </nuxt-link>
+            </p>
+          </div>
+        </div>
+        <div>
+          <div class="flex flex-col items-center">
+            <nuxt-link to="/review-of-radiologic-physics-2">
+              <img
+                src="~/assets/covers/review-of-radiologic-physics-2.jpg"
+                alt="review-of-radiologic-physics"
+              />
+            </nuxt-link>
+
+            <p class="py-2 text-center">
+              <nuxt-link
+                to="/review-of-radiologic-physics-2"
+                class="font-[oswald] tracking-wider font-medium"
+              >
+                Review of Radiologic Physics
+                <UBadge color="cyan" size="xs"
+                  >3<sup>rd</sup> <span class="ml-1">Edition</span></UBadge
+                >
               </nuxt-link>
             </p>
           </div>
         </div>
         <div
           class="bg-zinc-950 h-60 border border-zinc-700"
-          v-for="box in 7"
+          v-for="box in 2"
         ></div>
       </div>
     </div>
