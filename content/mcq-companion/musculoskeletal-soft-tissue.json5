@@ -423,7 +423,7 @@
         },
         {
           text: 'The sacrum is better seen with a 35° cephalad angulation on the AP radiograph.',
-          response: 'True',
+          response: '',
           answer: 'True',
           explanation: 'Ferguson’s view. The Stork’s view to assess instability of the pubic symphysis is taken standing on each leg. Change in alignment of the superior surface of the pubic rami of more than 3 mm is abnormal',
         },

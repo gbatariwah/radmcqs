@@ -6,10 +6,10 @@ const questionsShuffled = ref(false);
 const optionsShuffled = ref(false);
 
 const { data: section, refresh } = await useAsyncData(
-  "review-of-radiologic-physics",
+  `${params.bookSlug}-${params.sectionSlug}`,
   () =>
     queryContent()
-      .where({ _path: `/mcqs-for-medical-radiographers/${params.slug}` })
+      .where({ _path: `/${params.bookSlug}/${params.sectionSlug}` })
       .findOne(),
   {
     transform: (res) => {
@@ -41,6 +41,8 @@ const { data: section, refresh } = await useAsyncData(
   }
 );
 
+console.log(section);
+
 const shuffleQuestions = () => {
   questionsShuffled.value = true;
   toast.add({ title: "Questions Shuffled!", icon: "i-ic-outline-info" });
@@ -52,60 +54,65 @@ const shuffleOptions = () => {
   refresh();
 };
 
+const totalQuestions = computed(() => section.value.questions?.length * 5);
+
+const showAnswers = ref(false);
+const checkAnswers = ref(false);
+
 const allQuestionsAnswered = computed(() =>
-  section.value.questions.every((question) => question.response !== "")
+  section.value.questions.every((question) =>
+    question.options.every((option) => option.response !== "")
+  )
 );
 
 const isAnswering = computed(() =>
-  section.value.questions.some((question) => question.response !== "")
+  section.value.questions.some((question) =>
+    question.options.some((option) => option.response !== "")
+  )
 );
-
-const totalQuestions = computed(() => section.value.questions?.length);
-const showAnswers = ref(false);
-const checkAnswer = ref(false);
 
 const stats = ref();
 
 const handleSubmit = () => {
   showAnswers.value = true;
 
-  const correctOrWrong = section.value.questions.reduce(
-    (obj, question) => {
-      if (question.response === question.answer) {
-        obj.correct += 1;
-      }
-      if (question.response !== question.answer) {
-        obj.wrong += 1;
-      }
+  stats.value = section.value.questions.reduce(
+    (obj, a, b) => {
+      a.options.forEach((option) => {
+        if (option.response) {
+          obj.attempted += 1;
+        } else {
+          obj.notAttempted += 1;
+        }
+
+        if (option.response && option.response === option.answer) {
+          obj.correct += 1;
+        }
+        if (option.response && option.response !== option.answer) {
+          obj.wrong += 1;
+        }
+      });
 
       return obj;
     },
-    { correct: 0, wrong: 0 }
+    { attempted: 0, correct: 0, wrong: 0, notAttempted: 0 }
   );
-
-  const percentageScore = (
-    (correctOrWrong.correct / section.value.questions.length) *
-    100
-  ).toFixed(1);
-
-  stats.value = { ...correctOrWrong, percentageScore };
-
   window.scrollTo({ top: 280, left: 0, behavior: "smooth" });
 };
 
 const handleReset = () => {
   showAnswers.value = false;
-  checkAnswer.value = false;
+  checkAnswers.value = false;
   refresh();
 };
 </script>
 
 <template>
-  <div>
+  <div class="space-y-6">
     <div class="flex flex-col sm:flex-row items-center sm:items-start">
       <img
-        src="~/assets/covers/800-mcqs.png"
-        alt="mcqs-for-medical-radiographers"
+        src="~/assets/covers/mcq-companion.jpg"
+        alt="mcq-companion"
         class="w-40"
       />
 
@@ -114,8 +121,9 @@ const handleReset = () => {
           <h1
             class="font-[oswald] font-bold text-xl tracking-wider uppercase mb-2"
           >
-            {{ section.part }}
+            {{ section.name }}
           </h1>
+          <p>by {{ section.authors }}</p>
 
           <p class="py-4 font-[oswald] tracking-wider">
             <span class="text-orange-400 font-bold">
@@ -145,7 +153,7 @@ const handleReset = () => {
               />
               <UButton
                 variant="soft"
-                label="Shuffle Options"
+                label="Shuffle Choices"
                 class="flex gap-2"
                 size="xs"
                 @click="shuffleOptions"
@@ -168,8 +176,8 @@ const handleReset = () => {
       </p>
     </div>
 
-    <div class="mt-8" v-else>
-      <div class="mb-6" v-if="showAnswers">
+    <div v-else>
+      <div v-if="showAnswers" class="mb-6">
         <h5
           class="font-[oswald] font-medium text-2xl tracking-wider text-center py-4"
         >
@@ -182,7 +190,7 @@ const handleReset = () => {
                 Number of Questions
               </div>
               <div class="font-bold text-2xl font-[poppins] tracking-wide pl-2">
-                {{ section.questions.length }}
+                {{ section.questions.length * 5 }}
               </div>
             </div>
             <div>
@@ -206,7 +214,12 @@ const handleReset = () => {
                 Percentage (%)
               </div>
               <div class="font-bold text-2xl font-[poppins] tracking-wide pl-2">
-                {{ stats.percentageScore }}
+                {{
+                  (
+                    (stats.correct / (section.questions.length * 5)) *
+                    100
+                  ).toFixed(1)
+                }}
               </div>
             </div>
           </div>
@@ -215,16 +228,16 @@ const handleReset = () => {
               class="self-center"
               icon="i-ic-baseline-arrow-circle-left
 
-                  "
+  "
               @click="$router.back()"
               >Go Back</UButton
             >
             <UButton
               class="self-center"
-              @click="handleReset"
               icon="i-ic-round-settings-backup-restore
 
-                  "
+  "
+              @click="handleReset"
               >Reset</UButton
             >
           </div>
@@ -232,24 +245,22 @@ const handleReset = () => {
       </div>
 
       <div class="space-y-8">
-        <SingleBest
+        <MultipleChoice
           v-for="(question, questionId) in section.questions"
           :key="questionId"
           :question="question"
-          :questionId="questionId"
           :showAnswers="showAnswers"
-          :checkAnswer="checkAnswer"
+          :checkAnswers="checkAnswers"
+          :questionId="questionId"
         />
       </div>
 
-      <div>
-        <div
-          v-if="section.questions?.length > 0"
-          class="flex justify-end border-t dark:border-t-zinc-900 pt-4 mt-4"
-        >
+      <div v-if="section.questions?.length">
+        <div class="flex justify-end border-t dark:border-t-zinc-900 pt-4 mt-4">
           <UButton
+            class="animate__animated animate__bounceIn animate__faster"
             @click="handleSubmit"
-            :disabled="!allQuestionsAnswered || showAnswers"
+            :disabled="showAnswers || !allQuestionsAnswered"
             >Submit</UButton
           >
         </div>

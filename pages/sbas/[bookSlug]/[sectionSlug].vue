@@ -1,4 +1,6 @@
 <script setup lang="ts">
+import { filename } from "pathe/utils";
+
 const { path, params } = useRoute();
 const toast = useToast();
 
@@ -6,10 +8,10 @@ const questionsShuffled = ref(false);
 const optionsShuffled = ref(false);
 
 const { data: section, refresh } = await useAsyncData(
-  "review-of-radiologic-physics",
+  `${params.bookSlug}-${params.sectionSlug}`,
   () =>
     queryContent()
-      .where({ _path: `/review-of-radiologic-physics-2/${params.slug}` })
+      .where({ _path: `/${params.bookSlug}/${params.sectionSlug}` })
       .findOne(),
   {
     transform: (res) => {
@@ -41,6 +43,7 @@ const { data: section, refresh } = await useAsyncData(
   }
 );
 
+const bookSlug = computed(() => path.split("/")[2]);
 const shuffleQuestions = () => {
   questionsShuffled.value = true;
   toast.add({ title: "Questions Shuffled!", icon: "i-ic-outline-info" });
@@ -98,17 +101,17 @@ const handleReset = () => {
   checkAnswer.value = false;
   refresh();
 };
+
+const glob = import.meta.glob("~/assets/covers/*.jpg", { eager: true });
+const covers = Object.fromEntries(
+  Object.entries(glob).map(([key, value]) => [filename(key), value.default])
+);
 </script>
 
 <template>
   <div>
     <div class="flex flex-col sm:flex-row items-center sm:items-start">
-      <img
-        src="~/assets/covers/review-of-radiologic-physics-2.jpg"
-        alt="review-of-radiologic-physics-2"
-        class="w-40"
-      />
-
+      <img :src="`${covers[bookSlug]}`" alt="mcq-companion" class="w-40" />
       <div class="p-4 flex flex-col justify-between">
         <div>
           <h1
@@ -215,7 +218,7 @@ const handleReset = () => {
               class="self-center"
               icon="i-ic-baseline-arrow-circle-left
 
-            "
+                "
               @click="$router.back()"
               >Go Back</UButton
             >
@@ -224,7 +227,7 @@ const handleReset = () => {
               @click="handleReset"
               icon="i-ic-round-settings-backup-restore
 
-            "
+                "
               >Reset</UButton
             >
           </div>

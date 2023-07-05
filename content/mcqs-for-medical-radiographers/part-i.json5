@@ -1,5 +1,5 @@
 {
-  part: "Part I",
+  name: "Part I",
   slug: "part-i",
   questions: [
     {
@@ -411,7 +411,7 @@
         "Increasing mAs",
         "Increasing kvp",
         "Decreasing grid ratio",
-        "Adding contrast media11",
+        "Adding contrast media",
       ],
       response: "",
       explanation: "",
@@ -466,7 +466,7 @@
         "Aluminum chloride",
         "Potassium bromide",
         "Ammonium thiosulfate",
-        "Sodium sulfite12",
+        "Sodium sulfite",
       ],
       response: "",
       explanation: "",
@@ -516,7 +516,7 @@
         "Barium sulfate",
         "Calcium tungstate",
         "Lithium fluoride",
-        "Sodium iodide13",
+        "Sodium iodide",
       ],
       response: "",
       explanation: "",
