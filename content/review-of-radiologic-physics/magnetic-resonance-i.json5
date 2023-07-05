@@ -4,7 +4,7 @@
   questions: [
     {
       questionNumber: 15.1,
-      preamble: "Which nucleus has a net magnetism?",
+      stem: "Which nucleus has a net magnetism?",
       options: ["Helium-4", "Carbon-12", "Oxygen-16", "Phosphorus-31"],
       answer: "Phosphorus-31",
       explanation: "Phosphorus-31, which has an odd number of protons (Z = 15), is used clinically for MR spectroscopy",
@@ -12,7 +12,7 @@
     },
     {
       questionNumber: 15.2,
-      preamble: "For a given nucleus, the relationship between the Larmor frequency and magnetic field the nucleus is",
+      stem: "For a given nucleus, the relationship between the Larmor frequency and magnetic field the nucleus is",
       options: [
         "Linear",
         "Exponential",
@@ -25,7 +25,7 @@
     },
     {
       questionNumber: 15.3,
-      preamble: "Paramagnetic materials (e.g., Gd) have susceptibility",
+      stem: "Paramagnetic materials (e.g., Gd) have susceptibility",
       options: ["Negative", "Zero", "Positive"],
       answer: "Positive",
       explanation: "Paramagnetic materials have a small positive susceptibility, which increases the local magnetic field slightly",
@@ -33,7 +33,7 @@
     },
     {
       questionNumber: 15.4,
-      preamble: "Doubling the strength and duration of an applied RF field most likely",
+      stem: "Doubling the strength and duration of an applied RF field most likely",
       options: [
         "Increases the net magnetization flip angle from 90 to 180 degrees",
         "Increases the net magnetization flip angle from 90 to 270 degrees",
@@ -45,7 +45,7 @@
     },
     {
       questionNumber: 15.5,
-      preamble: "When the magnetic field increases, the free induction decay signal frequency is",
+      stem: "When the magnetic field increases, the free induction decay signal frequency is",
       options: ["Increased", "Unchanged", "Reduced"],
       answer: "Increased",
       explanation: "The free induction decay (FID) frequency is directly proportional to the applied magnetic field. Therefore, when the magnetic field increases, the FID signal frequency also increases",
@@ -53,7 +53,7 @@
     },
     {
       questionNumber: 15.6,
-      preamble: "Longitudinal relaxation times (T1) for soft tissues are most likely (ms)",
+      stem: "Longitudinal relaxation times (T1) for soft tissues are most likely (ms)",
       options: ["5", "50", "500", "5,000"],
       answer: "500",
       explanation: "T1 times for soft tissues are generally around 500 ms, which is 10 times longer than tissue T2 relaxation times and 100 times longer than T2* times",
@@ -61,7 +61,7 @@
     },
     {
       questionNumber: 15.7,
-      preamble: "Increased spin-lattice interactions are most likely to result in T1 relaxation times",
+      stem: "Increased spin-lattice interactions are most likely to result in T1 relaxation times",
       options: ["Increased", "Unchanged", "Reduced"],
       answer: "Reduced",
       explanation: "Increased spin-lattice interactions result in more spins flipping back to equilibrium along the longitudinal direction, which reduces T1 relaxation times",
@@ -69,7 +69,7 @@
     },
     {
       questionNumber: 15.8,
-      preamble: "T2* times for soft tissues are most likely (ms)",
+      stem: "T2* times for soft tissues are most likely (ms)",
       options: ["5", "50", "500", "5,000"],
       answer: "5",
       explanation: "T2* times for soft tissues are generally around 5 ms, which is 10 times shorter than tissue T2 relaxation times and 100 times shorter than T1 times",
@@ -77,7 +77,7 @@
     },
     {
       questionNumber: 15.9,
-      preamble: "Increasing the magnetic field is most likely to result in a(n) tissue T2 relaxation time",
+      stem: "Increasing the magnetic field is most likely to result in a(n) tissue T2 relaxation time",
       options: ["Increased", "Unchanged", "Reduced"],
       answer: "Unchanged",
       explanation: "Increasing the magnetic field does not affect tissue T2 relaxation times",
@@ -85,7 +85,7 @@
     },
     {
       questionNumber: 15.1,
-      preamble: "Addition of magnetic contrast agents to tissues generally",
+      stem: "Addition of magnetic contrast agents to tissues generally",
       options: [
         "Increases tissue relaxation times",
         "Does not change tissue relaxation times",
@@ -97,7 +97,7 @@
     },
     {
       questionNumber: 15.11,
-      preamble: "A CT projection obtained at one x-ray tube angle is analogous to an MR",
+      stem: "A CT projection obtained at one x-ray tube angle is analogous to an MR",
       options: ["Echo", "Gradient", "RF pulse", "k-space"],
       answer: "Echo",
       explanation: "A CT projection obtained at one x-ray tube angle is analogous to an MR echo. It provides a line of k-space, and a CT sinogram is analogous to k-space, which represents the complete set of acquired data",
@@ -105,7 +105,7 @@
     },
     {
       questionNumber: 15.12,
-      preamble: "Which coils are primarily used to provide spatial information in MRI?",
+      stem: "Which coils are primarily used to provide spatial information in MRI?",
       options: ["RF", "Gradient", "Shim", "Magnet"],
       answer: "Gradient",
       explanation: "Spatial information in MRI is primarily obtained using gradient coils",
@@ -113,7 +113,7 @@
     },
     {
       questionNumber: 15.13,
-      preamble: "In SE sequences, with an echo at time TE, a slice select gradient is most likely applied at time",
+      stem: "In SE sequences, with an echo at time TE, a slice select gradient is most likely applied at time",
       options: ["TE/4", "TE/2", "TE", ">TE"],
       answer: "TE/2",
       explanation: "In SE sequences, with an echo at time TE, a 180-degree refocusing pulse is applied at TE/2, and a slice select gradient is applied during the RF pulse",
@@ -121,7 +121,7 @@
     },
     {
       questionNumber: 15.14,
-      preamble: "Increasing the slice select gradient strength (mT/m) would likely result in a(n) slice thickness",
+      stem: "Increasing the slice select gradient strength (mT/m) would likely result in a(n) slice thickness",
       options: ["Increased", "Unchanged", "Reduced"],
       answer: "Reduced",
       explanation: "Increasing the slice select gradient strength allows for better spatial resolution in the slice direction, resulting in a reduced slice thickness",
@@ -129,7 +129,7 @@
     },
     {
       questionNumber: 15.15,
-      preamble: "Increasing the frequency encoding gradient strength (kHz/m) would likely result in a(n) matrix size",
+      stem: "Increasing the frequency encoding gradient strength (kHz/m) would likely result in a(n) matrix size",
       options: ["Increased", "Unchanged", "Reduced"],
       answer: "Increased",
       explanation: "Increasing the frequency encoding gradient strength allows for better spatial resolution in the frequency encoding direction, resulting in an increased matrix size",
@@ -137,7 +137,7 @@
     },
     {
       questionNumber: "15.16",
-      preamble: "To generate a 128 x 192 SE MRI image most likely requires the acquisition of echoes, and sampling each echo times.",
+      stem: "To generate a 128 x 192 SE MRI image most likely requires the acquisition of echoes, and sampling each echo times.",
       options: ["128; 128", "128; 192", "192; 128", "192; 192"],
       answer: "128; 192",
       explanation: "To generate a 128 x 192 SE MRI image, it would most likely acquire 128 echoes and sample each echo 192 times.",
@@ -145,7 +145,7 @@
     },
     {
       questionNumber: "15.17",
-      preamble: "Magnetic field inhomogeneities are most likely to affect signal intensities in:",
+      stem: "Magnetic field inhomogeneities are most likely to affect signal intensities in:",
       options: ["GRE", "SE", "FSE", "IR"],
       answer: "GRE",
       explanation: "Magnetic inhomogeneities increase T2* effects, which are observed on Gradient Recalled Echoes (GRE) pulse.",
@@ -153,7 +153,7 @@
     },
     {
       questionNumber: "15.18",
-      preamble: "Fat saturation failure is most likely a result of nonuniformities associated with the:",
+      stem: "Fat saturation failure is most likely a result of nonuniformities associated with the:",
       options: [
         "Magnetic field",
         "Gradient coils",
@@ -166,7 +166,7 @@
     },
     {
       questionNumber: "15.19",
-      preamble: "Attenuation of the applied RF pulse in large patients at high magnetic fields is most likely to result in artifacts.",
+      stem: "Attenuation of the applied RF pulse in large patients at high magnetic fields is most likely to result in artifacts.",
       options: ["Dielectric", "Wraparound", "Gibbs", "Chemical shift"],
       answer: "Dielectric",
       explanation: "Attenuation of RF pulses results in dark regions in the patient center where the expected flip angles were not achieved because of the weaker RF.",
@@ -174,7 +174,7 @@
     },
     {
       questionNumber: "15.20",
-      preamble: "The 0.5-mT line from a shielded MR magnet is most likely m from the MR isocenter.",
+      stem: "The 0.5-mT line from a shielded MR magnet is most likely m from the MR isocenter.",
       options: ["1", "3", "10", ">10"],
       answer: "3",
       explanation: "The 0.5-mT line from a shielded MR magnet is likely 3 m from the MR isocenter.",

@@ -1,6 +1,623 @@
 {
-  name: 'The vertebral column',
-  authors: 'A. Doss and M.J. Bull',
-  slug: 'vertebral-column',
-  questions: [],
+  name: "The vertebral column",
+  authors: "A. Doss and M.J. Bull",
+  slug: "vertebral-column",
+  questions: [
+    {
+      questionNumber: 1,
+      stem: "Regarding imaging of the spine",
+      options: [
+        {
+          text: "The attenuation of fat is higher than that of cerebrospinal fluid on computerized tomography",
+          answer: "False",
+
+          response: "",
+          explanation: "CSF and water have an attenuation of about zero Hounsfield units - fat is radiolucent and has a lower attenuation of about -60 to -100 and appears darker than CSF",
+        },
+        {
+          text: "Following administration of intravenous iodinated contrast medium, the spinal cord and nerve roots enhance",
+          answer: "False",
+
+          response: "",
+          explanation: "Following contrast, the spinal cord, nerve roots, and intervertebral discs do not enhance. The spinal meninges, dorsal root ganglia, and blood vessels enhance",
+        },
+        {
+          text: "Bone and soft tissue is visualized using a window level of 40 HU and a width of 300 HU",
+          answer: "False",
+
+          response: "",
+          explanation: "Separate window settings are required to visualize bone and soft tissue as follows: Bone (level 200 HU and width of 1500 HU); Soft tissue (level 40 HU and width 300 HU)",
+        },
+        {
+          text: "CT myelography shows changes in spinal cord substance",
+          answer: "False",
+
+          response: "",
+          explanation: "CT shows any alteration in contour. MRI shows changes in spinal cord substance",
+        },
+        {
+          text: "On T2-W sequence CSF is of higher signal than neural structures and ligaments",
+          answer: "True",
+
+          response: "",
+          explanation: "T2-W images have a myelographic effect",
+        },
+      ],
+    },
+    {
+      questionNumber: 2,
+      stem: "Concerning the vertebral column and the vertebra",
+      options: [
+        {
+          text: "Cervical and lumbar lordoses are primary curves present at birth",
+          answer: "False",
+
+          response: "",
+          explanation: "The thoracic and pelvic kyphoses are primary curves present in fetal life. The cervical and lumbar lordoses are secondary curves that develop after birth",
+        },
+        {
+          text: "The posterior column is formed by the posterior longitudinal ligament and the neural arch",
+          answer: "False",
+
+          response: "",
+          explanation: "The vertebral column is a three-column structure. Anterior - anterior longitudinal ligament, anterior annulus fibrosus, and anterior part of the vertebral body; middle - posterior longitudinal ligament and posterior annulus fibrosus on each side; posterior - neural arch and posterior longitudinal ligamentous complex including the interspinous ligament",
+        },
+        {
+          text: "The pedicles fuse laterally to form the spinous processes",
+          answer: "False",
+
+          response: "",
+          explanation: "The posterior neural arch contains laterally the pedicles on each side. The laminae are posterior and fuse to form the spinous process",
+        },
+        {
+          text: "Transverse process arises from the lateral aspect of the vertebral bodies",
+          answer: "False",
+
+          response: "",
+          explanation: "From the junction of the pedicle and the lamina. The articular processes project superiorly and inferiorly from the junction of the pedicle and lamina",
+        },
+        {
+          text: "The pars interarticularis is the part of the lamina between the superior and inferior articular facets",
+          answer: "True",
+
+          response: "",
+          explanation: "A pars defect is a spondylolysis, which may cause spondylolisthesis of the vertebral body",
+        },
+      ],
+    },
+    {
+      questionNumber: 3,
+      stem: "Regarding the intervertebral disc",
+      options: [
+        {
+          text: "The intervertebral disc forms a secondary cartilaginous joint between adjacent vertebrae",
+          answer: "True",
+
+          response: "",
+          explanation: "Joint surfaces are lined by hyaline cartilage with an intervening fibrocartilage disc",
+        },
+        {
+          text: "The posterolateral portion of the disc is not reinforced by the posterior longitudinal ligament",
+          answer: "True",
+
+          response: "",
+          explanation: "Hence many lumbar disc prolapses arise from this region",
+        },
+        {
+          text: "The nucleus pulposus is a gelatinous structure containing type II collagen",
+          answer: "True",
+
+          response: "",
+          explanation: "A remnant of the notochord, it contains up to 90% water and acts as a shock absorber. With increasing age, the disc undergoes progressive dehydration with loss of height and is replaced by fibrocartilage by 80 years of age",
+        },
+        {
+          text: "The annulus fibrosus has internal and external components which insert into the hyaline cartilage and around the cartilaginous plate beyond the vertebral margins, respectively",
+          answer: "True",
+
+          response: "",
+          explanation: "The external annulus has thick fibers containing 'type I' collagen similar to fibrocartilage",
+        },
+        {
+          text: "The disc is vascular throughout adult life",
+          answer: "False",
+
+          response: "",
+          explanation: "The rich blood supply to the discs present in infants and children decreases after puberty. By the age of 20, the normal disc is avascular",
+        },
+      ],
+    },
+    {
+      questionNumber: 4,
+      stem: "In the spine",
+      options: [
+        {
+          text: "The internuclear cleft develops during fetal life to differentiate into the central nucleus pulposus and the peripheral annulus fibrosus",
+          answer: "False",
+
+          response: "",
+          explanation: "In the second or third decade, an internuclear cleft develops, which represents compacted collagenous fibers oriented transversely, due to invagination of the inner annular lamellae",
+        },
+        {
+          text: "The cortical compact bone is the weight-bearing component of the body of the vertebra",
+          answer: "False",
+
+          response: "",
+          explanation: "The vertebral body consists of a mass of cancellous bone surrounded by a cortical rim of compact bone. The cancellous bone has vertical (weight-bearing) and horizontal trabeculae",
+        },
+        {
+          text: "The red marrow of children appears hyperintense on T1-W MRI sequences compared with yellow marrow",
+          answer: "False",
+
+          response: "",
+          explanation: "The red marrow of children appears relatively hypointense on T1-W sequences. Following intravenous gadolinium, it enhances on T1-W sequences",
+        },
+        {
+          text: "The external annulus is hypointense on both T1- and T2-W MRI sequences",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The internuclear cleft is seen as a hypointense transverse band across the mid-portion of the disc on MRI",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+      ],
+    },
+    {
+      questionNumber: 5,
+      stem: "Concerning ligaments of the vertebral column",
+      options: [
+        {
+          text: "The anterior longitudinal ligament extends from the basiocciput to the anterior surface of the upper sacrum",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The posterior longitudinal ligament extends from the axis to the sacrum",
+          answer: "True",
+
+          response: "",
+          explanation: "Above the axis, it continues as the tectorial membrane",
+        },
+        {
+          text: "The anterior longitudinal ligament is more firmly attached to the intervertebral disc than to the vertebral bodies",
+          answer: "False",
+
+          response: "",
+          explanation: "The posterior longitudinal ligament is firmly attached to the discs and is separated from the vertebral bodies by the emerging basivertebral vein and epidural venous plexuses. The anterior longitudinal ligament is attached firmly to the vertebral bodies and less firmly to the discs",
+        },
+        {
+          text: "The supraspinous ligament joins the tips of adjacent spinous processes from C1 to the sacrum",
+          answer: "False",
+
+          response: "",
+          explanation: "It extends from C7 to the sacrum. Above C7, it continues as the ligamentum nuchae and inserts into the external occipital protuberance",
+        },
+        {
+          text: "The ligamentum flavum is elastic and has a slightly higher intensity on T1-W MRI compared to the other spinal ligaments",
+          answer: "True",
+
+          response: "",
+          explanation: "It can extend by up to 35% of its length on flexion",
+        },
+      ],
+    },
+    {
+      questionNumber: 6,
+      stem: "In the spine",
+      options: [
+        {
+          text: "The facet joints are synovial joints",
+          answer: "True",
+
+          response: "",
+          explanation: "The intervertebral discs are symphyses; between the laminae, transverse and spinous processes are fibrous joints (syndesmoses)",
+        },
+        {
+          text: "The facet joints are the largest in the lowest two lumbar vertebrae",
+          answer: "True",
+
+          response: "",
+          explanation: "This is where the maximum weight is borne by the vertebral column",
+        },
+        {
+          text: "The cervical intervertebral foramen is orientated laterally",
+          answer: "False",
+
+          response: "",
+          explanation: "Orientated anterolaterally at 45° to the sagittal plane and is thus demonstrated using an oblique radiographic projection. In the thoracic and lumbar regions, they are orientated laterally, and lateral radiographs are appropriate to demonstrate them",
+        },
+        {
+          text: "The inferior articular process of the vertebra above is anterior to the superior articular process of the vertebra below",
+          answer: "False",
+
+          response: "",
+          explanation: "The inferior articular process of the vertebra above is posterior to the superior articular process of the vertebra below. On axial section at the level of the facet joint, the superior articular facet is anterior to the joint",
+        },
+        {
+          text: "The cervical vertebral bodies are supplied by segmental branches from the aorta",
+          answer: "False",
+
+          response: "",
+          explanation: "The atlas and axis vertebrae are supplied by the ascending pharyngeal and occipital arteries. The other cervical vertebrae are supplied by segmental branches from the costocervical, thyrocervical trunks, and vertebral arteries. The thoracic and lumbar parts of the vertebral column are supplied by segmental aortic branches",
+        },
+      ],
+    },
+    {
+      questionNumber: 7,
+      stem: "Regarding vertebral venous plexuses",
+      options: [
+        {
+          text: "The internal venous plexus runs in the body of the vertebra",
+          answer: "False",
+
+          response: "",
+          explanation: "This is a plexus of thin-walled, valveless veins in the vertebral canal that surrounds the dura mater of the spinal cord and the posterior longitudinal ligament. The basivertebral vein runs in the body of the vertebra and drains into the internal plexus",
+        },
+        {
+          text: "The external plexus consists of the anterior and posterior compartments",
+          answer: "True",
+
+          response: "",
+          explanation: "Anterior to the vertebral bodies and posterior to the spinous processes, respectively",
+        },
+        {
+          text: "The internal venous plexus communicates through the foramen magnum with occipital and basilar sinuses",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "In the cervical region the external venous plexus communicates freely with occipital and deep cervical vein",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "On MRI the course of the basivertebral vein is seen as a signal void",
+          answer: "False",
+
+          response: "",
+          explanation: "Due to slow venous flow and perivenous fat, the course of the vein is shown as high signal",
+        },
+      ],
+    },
+    {
+      questionNumber: 8,
+      stem: "Regarding the vertebrae",
+      options: [
+        {
+          text: "The ossification centres appear at the eighth week of gestation",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The vertebral column ossifies in hyaline cartilage",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "There are three primary ossification centres for a typical vertebra",
+          answer: "True",
+
+          response: "",
+          explanation: "One in the centrum; one for each half of the neural arch. There are two ossification centers in the centrum, which fuse. Failure of one-half of this ossification center to develop results in a hemivertebra",
+        },
+        {
+          text: "The neurocentral joints (synchondroses) between the centrum and each half of the neural arch fuse by 7 years of age",
+          answer: "True",
+
+          response: "",
+          explanation: "The arches unite first in the lumbar region and last in the cervical. The centrum unites first with the arch in the cervical region and in the lumbar region last",
+        },
+        {
+          text: "Failure of fusion of the neural arches with the centrum results in spina bifida",
+          answer: "False",
+
+          response: "",
+          explanation: "Failure of fusion of the neural arches posteriorly results in spina bifida. Up to 20% of the population have defects in the lumbosacral region",
+        },
+      ],
+    },
+    {
+      questionNumber: 9,
+      stem: "Concerning the craniovertebral junction",
+      options: [
+        {
+          text: "The atlas has no vertebral body",
+          answer: "True",
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The arcuate foramen is a defect in the posterior arch of the atlas",
+          answer: "False",
+          response: "",
+          explanation: "the vertebral artery runs in a groove over the superior aspect of the posterior arch of the atlas. Between the groove and the lateral mass is the attachment for the posterior atlanto-occipital membrane, which may occasionally calcify laterally. This creates the arcuate foramen when the vertebral artery and sub-occipital nerve pass through",
+        },
+        {
+          text: "The atlas is the strongest of the cervical vertebrae",
+          answer: "False",
+          response: "",
+          explanation: "the axis (second cervical vertebrae) is the strongest of the cervical vertebrae",
+        },
+        {
+          text: "The dens of the axis develops entirely from two primary ossiﬁcation centres",
+          answer: "False",
+          response: "",
+          explanation: "the tip of the dens develops from secondary centres at 3 years and fuses at 12 years. The dens unites with the rest of the body of the axis at 3 years",
+        },
+        {
+          text: "The dens has more compact bone than the body of the axis",
+          answer: "True",
+          response: "",
+          explanation: "the dens has a lower signal intensity than the body on T1-W MRI",
+        },
+      ],
+    },
+    {
+      questionNumber: 10,
+      stem: "Concerning the craniovertebral junction",
+      options: [
+        {
+          text: "A separation of up to 5 mm in the alignment of the lateral borders of the lateral masses of the atlas and axis vertebra in adults is acceptable",
+          answer: "False",
+          response: "",
+          explanation: "2 mm in adults: 3 mm in children",
+        },
+        {
+          text: "Disruption of Harris’ ring indicates a fracture on a lateral cervical spine radiograph",
+          answer: "True",
+          response: "",
+          explanation: "on a lateral cervical spine radiograph, it is formed anteriorly by the pedicle and anterior body of axis; posteriorly by the vertebral body; superiorly by the upper margin of the superior articular facet; inferiorly by the inferior border of foramen transversarium",
+        },
+        {
+          text: "The transverse ligament is anterior to the tectorial membrane and passes behind the dens",
+          answer: "True",
+          response: "",
+          explanation: "holds the median atlantoaxial joint",
+        },
+        {
+          text: "The apical ligament passes superiorly and inferiorly to the basiocciput and body of the axis, respectively, from the midpoint of the transverse ligament",
+          answer: "False",
+          response: "",
+          explanation: "this is the cruciform ligament. The apical ligament passes from the dens to the anterior mid-point of the foramen magnum",
+        },
+        {
+          text: "Rotation of the head occurs at the atlanto-occipital joint",
+          answer: "False",
+          response: "",
+          explanation: "flexion, extension, and lateral extension take place at the atlanto-occipital joint. However, rotation occurs at the atlanto-axial joint around the vertical axis of the dens",
+        },
+      ],
+    },
+    {
+      questionNumber: 11,
+      stem: "On a lateral cervical spine radiograph",
+      options: [
+        {
+          text: "No more than 15 mm of the dens should be above the Chamberlain’s line",
+          answer: "False",
+          response: "",
+          explanation: "no more than a third of the dens or 5 mm of the dens should be above the Chamberlain's line. This line extends from the hard palate to the posterior lip of the foramen magnum. The McGregor line uses the inferior surface of the occiput rather than the foramen magnum",
+        },
+        {
+          text: "The anterior atlanto-axial distance should be less than 3 mm in adults in ﬂexion-extension or in a neutral position",
+          answer: "True",
+          response: "",
+          explanation: "less than 5 mm in children, with a target to film distance of 180 cm",
+        },
+        {
+          text: "Tonsillar descent of 3–5 mm into the spinal canal is a normal feature",
+          answer: "False",
+          response: "",
+          explanation: "not in a lateral cervical radiograph, but in a midline sagittal MRI of the craniovertebral junction, tonsillar descent of 3-5 mm into the spinal canal is a normal feature",
+        },
+        {
+          text: "In adults from the atlas to the C4/5 disc the maximum dimension of the prevertebral soft tissue is 3 mm (with a ﬁlm-target distance of 180 cm)",
+          answer: "True",
+          response: "",
+          explanation: "in children, this may be up to 7 mm. Below this level, the oesophagus increases the dimensions to up to 22 mm in adults, and in the lower cervical spine this dimension should not exceed that of the adjacent vertebral body",
+        },
+        {
+          text: "On ﬂexion and extension views, the oﬀset from adjacent vertebrae seen in the posterior and anterior cortical margins, respectively, should not exceed 3 mm",
+          answer: "True",
+          response: "",
+          explanation: "",
+        },
+      ],
+    },
+    {
+      questionNumber: 12,
+      stem: "In the spine",
+      options: [
+        {
+          text: "The facet joints of the thoracic spine up to T10 are in the coronal plane and resist anterior translation",
+          answer: "True",
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The ‘collar of the Scotty dog’ on an oblique radiograph of the lumbar spine is the pars interarticularis",
+          answer: "True",
+          response: "",
+          explanation: "the head is the transverse process, eye the pedicle, the ear is the superior articular process, and the front limb of the 'dog' is the inferior articular facet, all of which belong to one vertebra",
+        },
+        {
+          text: "The interpedicular distance increases progressively caudally",
+          answer: "True",
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The articular facets of the lumbar vertebra face each other in the sagittal plane apart from the inferior facet of L5",
+          answer: "True",
+          response: "",
+          explanation: "this prevents forward translation on the sloping surface of the sacrum - L5 is an atypical vertebra",
+        },
+        {
+          text: "Lumbarization of the ﬁrst sacral segment is less common than sacralization of ﬁfth lumbar vertebra",
+          answer: "True",
+          response: "",
+          explanation: "failure of segmentation at the lumbosacral level is seen in up to 6% of normal individuals",
+        },
+      ],
+    },
+    {
+      questionNumber: 13,
+      stem: "The spinal cord",
+      options: [
+        {
+          text: "extends in the adult from foramen magnum to the ﬁrst or second lumbar vertebra",
+          answer: "True",
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "segments diﬀer by up to ﬁve in the lower thoracic region",
+          answer: "False",
+          response: "",
+          explanation: "difference of one segment in the lower cervical spine; two segments in the upper thoracic and three in the lower thoracic",
+        },
+        {
+          text: "tapers into the conus medullaris",
+          answer: "True",
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "has a lumbar expansion at the level of L1 to L5 vertebra",
+          answer: "False",
+          response: "",
+          explanation: "from T10 to L1 vertebral levels the nerve roots emerge",
+        },
+        {
+          text: "the anterior horns of the spinal cord contain the cell bodies of the motor neurones",
+          answer: "True",
+          response: "",
+          explanation: "posterior horns contain the cells of the sensory pathways",
+        },
+      ],
+    },
+    {
+      questionNumber: 14,
+      stem: "In the spine",
+      options: [
+        {
+          text: "The ﬁrst to the seventh cervical spinal nerves exit below the pedicle of the corresponding vertebrae",
+          answer: "False",
+          response: "",
+          explanation: "there are eight cervical, twelve thoracic, five lumbar, five sacral and one coccygeal segmental nerves. The first to the seventh cervical spinal nerves exit above the pedicle of the corresponding vertebrae, whereas all the other roots exit below the pedicles",
+        },
+        {
+          text: "A postero-lateral prolapse of the L4/5 disc usually compresses the ﬁfth lumbar root",
+          answer: "False",
+          response: "",
+          explanation: "fourth lumbar root. However, a similar situation in the cervical vertebra would compress the fifth cervical root",
+        },
+        {
+          text: "The ventral and dorsal roots pass in front of and behind the denticulate ligament, respectively",
+          answer: "True",
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The spinal dura mater is a continuation of the inner layer of the cerebral dura",
+          answer: "True",
+          response: "",
+          explanation: "the epidural (extradural) space is between the periosteum of the vertebrae (which represents the outer periosteal layer of the dura) and the spinal dura mater",
+        },
+        {
+          text: "The spinal dural sac is ﬁrmly attached to the anterior longitudinal ligament",
+          answer: "False",
+          response: "",
+          explanation: "it is attached to the tectorial membrane and posterior longitudinal ligament",
+        },
+      ],
+    },
+    {
+      questionNumber: 15,
+      stem: "In the spine",
+      options: [
+        {
+          text: "The subarachnoid space contains about half the total volume of CSF",
+          answer: "True",
+          response: "",
+          explanation: "75 ml out of the total 150 ml",
+        },
+        {
+          text: "The pia mater is avascular",
+          answer: "False",
+          response: "",
+          explanation: "the pia mater is applied to the surface of the spinal cord and is vascular",
+        },
+        {
+          text: "The three meningeal layers fuse with the periosteum of the ﬁrst coccygeal segment",
+          answer: "True",
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The ﬁlum terminale fuses with the periosteum of the ﬁrst coccygeal segment",
+          answer: "True",
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The dura is not seen on T2 gradient echo images",
+          answer: "False",
+          response: "",
+          explanation: "",
+        },
+      ],
+    },
+    {
+      questionNumber: 16,
+      stem: "In the blood supply to the spinal cord",
+      options: [
+        {
+          text: "The anterior spinal artery is formed by the union of the anterior spinal branch of each vertebral artery",
+          answer: "True",
+          response: "",
+          explanation: "runs in the anterior median fissure",
+        },
+        {
+          text: "The anterior spinal artery supplies about two-thirds of the cord’s cross-sectional area",
+          answer: "True",
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "Radicular arteries are branches of postero-lateral spinal arteries",
+          answer: "False",
+          response: "",
+          explanation: "in the cervical region, they usually arise from branches of vertebral, deep cervical arteries, costocervical trunk or rarely from the thyrocervical branch of the subclavian. In the thoracic region, they are branches of the supreme intercostal arteries and the aortic intercostal arteries",
+        },
+        {
+          text: "The two posterior arteries supply the posterior white matter columns and the dorsal horns of the spinal cord",
+          answer: "True",
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The main arterial supply to the lumbar enlargement is through the artery of Adamkiewicz",
+          answer: "True",
+          response: "",
+          explanation: "also known as the arteria radicularis magna, this artery usually arises between T9 and L1 segments, from the tenth or eleventh thoracic radicular arteries. However, its origin is inconstant and paraplegia may result as a complication of aortography due to varying amounts of contrast medium being directed towards the spinal arteries via the lumbar arteries, particularly in aortic stenosis",
+        },
+      ],
+    },
+  ],
 }

@@ -5,7 +5,7 @@
   questions: [
     {
       "questionNumber": 4.1,
-      "preamble": "Radiation intensity (Kair) is measured in",
+      "stem": "Radiation intensity (Kair) is measured in",
       "options": ["Gray", "Roentgen", "Sievert", "Rad"],
       "answer": "Gray",
       "explanation": "The SI unit of air kerma is the Gray. The SI unit of air kerma is the Gray which was measured in roentgen in the non-SI system (1 R -10 mGy)",
@@ -13,7 +13,7 @@
     },
     {
       "questionNumber": 4.2,
-      "preamble": "The entrance Kair (mGy) for a normal-sized adult undergoing a lateral skull x-ray examination is most likely",
+      "stem": "The entrance Kair (mGy) for a normal-sized adult undergoing a lateral skull x-ray examination is most likely",
       "options": ["0.1", "1", "10", "100"],
       "answer": "1",
       "explanation": "A typical entrance Kair for a lateral skull radiograph is 1 mGy. A typical entrance Kair for a lateral skull radiograph is 1 mGy",
@@ -21,7 +21,7 @@
     },
     {
       "questionNumber": 4.3,
-      "preamble": "In fluoroscopy, the entrance Kair rate (mGy/minute) for a normal-sized adult (PA abdomen) is most likely",
+      "stem": "In fluoroscopy, the entrance Kair rate (mGy/minute) for a normal-sized adult (PA abdomen) is most likely",
       "options": ["0.1", "1", "10", "100"],
       "answer": "10",
       "explanation": "10 mGy/minute is a typical entrance Kair rate during fluoroscopy of 23 cm of tissue (i.e., PA abdomen) but this can vary depending on FOV, pulse rate, as well as selected dose level. 10 mGy/minute is a typical entrance Kair rate during fluoroscopy of 23 cm of tissue (i.e., PA abdomen) but this can vary depending on FOV, pulse rate, as well as selected dose level",
@@ -29,7 +29,7 @@
     },
     {
       "questionNumber": 4.4,
-      "preamble": "Kerma-area product (Gy-cm2) for a complete radiographic examination (e.g., skull AP + lateral) is most likely",
+      "stem": "Kerma-area product (Gy-cm2) for a complete radiographic examination (e.g., skull AP + lateral) is most likely",
       "options": ["0.1", "1", "10", "100"],
       "answer": "1",
       "explanation": "A typical value of the total radiation intensity incident on an adult patient undergoing a complete radiographic examination is 1 Gy-cm2. A typical value of the total radiation intensity incident on an adult patient undergoing a complete radiographic examination is 1 Gy-cm2",
@@ -37,7 +37,7 @@
     },
     {
       "questionNumber": 4.5,
-      "preamble": "Kerma-area product incident on a patient is the responsibility of the",
+      "stem": "Kerma-area product incident on a patient is the responsibility of the",
       "options": ["Radiologist", "Medical Physicist", "Technologist", "Radiology Manager"],
       "answer": "Radiologist",
       "explanation": "The choice of KAP will impact on both patient dose and the corresponding image quality, and is the responsibility of the radiologist. The choice of KAP will impact on both patient dose and the corresponding image quality, and is the responsibility of the radiologist",
@@ -45,7 +45,7 @@
     },
     {
       "questionNumber": 4.6,
-      "preamble": "When the liver (mass 2 kg) absorbs 0.002 J of energy, the resultant absorbed dose is (mGy)",
+      "stem": "When the liver (mass 2 kg) absorbs 0.002 J of energy, the resultant absorbed dose is (mGy)",
       "options": ["1", "10", "100", "1,000"],
       "answer": "1",
       "explanation": "Dose is the absorbed energy (0.002 J) divided by organ mass (2 kg), which is 0.001 Gy or 1 mGy. Dose is the absorbed energy (0.002 J) divided by organ mass (2 kg), which is 0.001 Gy or 1 mGy",
@@ -53,7 +53,7 @@
     },
     {
       "questionNumber": 4.7,
-      "preamble": "For the same incident Kair, which tissue receives the highest absorbed radiation dose?",
+      "stem": "For the same incident Kair, which tissue receives the highest absorbed radiation dose?",
       "options": ["Fat (Z = 6.5)", "CSF (Z = 7.5)", "Muscle (Z = 7.5)", "Bone (Z = 12)"],
       "answer": "Bone (Z = 12)",
       "explanation": "For the same incident radiation, bone absorbs much more radiation because it has a much higher atomic number (Bone). For the same incident radiation, bone absorbs much more radiation because it has a much higher atomic number",
@@ -61,7 +61,7 @@
     },
     {
       "questionNumber": 4.8,
-      "preamble": "Highest skin doses (mGy) for single radiography in normal-sized adults are most likely",
+      "stem": "Highest skin doses (mGy) for single radiography in normal-sized adults are most likely",
       "options": ["1", "10", "100", ">100"],
       "answer": "10",
       "explanation": "10 mGy is likely the highest skin doses (mGy) in any normal-sized adult having a single radiograph (e.g., lateral lumbar skin radiograph). 10 mGy is likely the highest skin doses (mGy) in any normal-sized adult having a single radiograph (e.g., lateral lumbar skin radiograph)",
@@ -69,7 +69,7 @@
     },
     {
       "questionNumber": 4.10,
-      "preamble": "Which CT examination will likely result in the highest genetically significant dose in a 20-year-old female?",
+      "stem": "Which CT examination will likely result in the highest genetically significant dose in a 20-year-old female?",
       "options": ["Head", "Chest", "Abdomen", "Pelvis"],
       "answer": "Pelvis",
       "explanation": "GSD is the highest radiation dose during a pelvic CT because the female gonads are directly irradiated and will receive the highest dose (by far). GSD is the highest radiation dose during a pelvic CT because the female gonads are directly irradiated and will receive the highest dose (by far)",
@@ -77,7 +77,7 @@
     },
     {
       "questionNumber": 4.11,
-      "preamble": "Compared to energy deposited in heating a chicken in a 500-W microwave oven (1 minute), energy deposited in a patient undergoing a TIPS procedure is most likely",
+      "stem": "Compared to energy deposited in heating a chicken in a 500-W microwave oven (1 minute), energy deposited in a patient undergoing a TIPS procedure is most likely",
       "options": ["Lower", "Comparable", "Higher"],
       "answer": "Lower",
       "explanation": "A 500-W microwave oven deposits 30,000 J in a minute, whereas a patient undergoing a TIPS procedure (100 mSv) absorbs less than 10 J. A 500-W microwave oven deposits 30,000 J in a minute, whereas a patient undergoing a TIPS procedure (100 mSv) absorbs less than 10 J (Lower).",
@@ -85,7 +85,7 @@
     },
     {
       "questionNumber": 4.12,
-      "preamble": "For the same dose, which type of radiation likely kills most cells?",
+      "stem": "For the same dose, which type of radiation likely kills most cells?",
       "options": ["Alpha", "Beta", "X-ray", "Gamma"],
       "answer": "Alpha",
       "explanation": "For the same deposited energy (dose), alpha particles are much more damaging than beta/x-ray/gamma rays (Alpha). For the same deposited energy (dose), alpha particles are much more damaging than beta/x-ray/gamma rays",
@@ -93,7 +93,7 @@
     },
     {
       "questionNumber": 4.13,
-      "preamble": "For a whole-body CT, the bone equivalent dose (mSv) is _____ the corresponding bone absorbed dose (mGy).",
+      "stem": "For a whole-body CT, the bone equivalent dose (mSv) is _____ the corresponding bone absorbed dose (mGy).",
       "options": ["higher than", "equal to", "lower than"],
       "answer": "equal to",
       "explanation": "In all of diagnostic radiology, absorbed organ doses (mGy) are always numerically equal to the organ equivalent dose (mSv). In all of diagnostic radiology, absorbed organ doses (mGy) are always numerically equal to the organ equivalent dose (mSv) (equal to).",
@@ -101,7 +101,7 @@
     },
     {
       "questionNumber": 4.14,
-      "preamble": "Which organ has the lowest tissue weighting factor (WT)?",
+      "stem": "Which organ has the lowest tissue weighting factor (WT)?",
       "options": ["Breast", "Red bone marrow", "Lung", "Brain"],
       "answer": "Brain",
       "explanation": "The brain has the lowest tissue weighting factor (WT) of 0.01, whereas the breast, RBM, and lung each have high tissue weighting factors (WT) of 0.12 (Brain). The brain has the lowest tissue weighting factor (WT) of 0.01, whereas the breast, RBM, and lung each have high tissue weighting factors (WT) of 0.12",
@@ -109,7 +109,7 @@
     },
     {
       "questionNumber": 4.15,
-      "preamble": "In a chest, abdomen, pelvis CT scan where all directly irradiated organs receive 10 mGy, the patient effective dose (mSv) is likely",
+      "stem": "In a chest, abdomen, pelvis CT scan where all directly irradiated organs receive 10 mGy, the patient effective dose (mSv) is likely",
       "options": ["<10", "10", ">10"],
       "answer": "<10",
       "explanation": "When the whole body including the head gets 10 mGy, the patient effective dose is 10 mSv, so a CAP which excludes the head must be less than 10 mSv (<10). When the whole body including the head gets 10 mGy, the patient effective dose is 10 mSv, so a CAP which excludes the head must be less than 10 mSv",
@@ -117,7 +117,7 @@
     },
     {
       "questionNumber": 4.16,
-      "preamble": "The effective dose (mSv) of a screening mammogram would most likely be classified as",
+      "stem": "The effective dose (mSv) of a screening mammogram would most likely be classified as",
       "options": ["Very low (<0.1 mSv)", "Low (0.1 to 1 mSv)", "Moderate (1 to 10 mSv)", "High (>10 mSv)"],
       "answer": "Very low (<0.1 mSv)",
       "explanation": "A screening mammogram has an effective dose of approximately 0.4 mSv, which is considered very low (<0.1 mSv). A screening mammogram has an effective dose of approximately 0.4 mSv, which is considered very low",
@@ -125,28 +125,28 @@
     },
     {
       "questionNumber": 4.17,
-      "preamble": "Ubiquitous background exposure (i.e., excluding radon) in the United States is approximately (mSv/year)",
+      "stem": "Ubiquitous background exposure (i.e., excluding radon) in the United States is approximately (mSv/year)",
       "options": ["0.1", "0.3", "1", "3"],
       "answer": "1",
       "explanation": "US natural background exposure (i.e., cosmic radiation, internal primordial radionuclides, and terrestrial activity) without radon exposure is 1 mSv/year"
     },
     {
       "questionNumber": 4.18,
-      "preamble": "In the United States, average domestic exposure to radon (+ daughters) results in effective dose rates (mSv/year) of about",
+      "stem": "In the United States, average domestic exposure to radon (+ daughters) results in effective dose rates (mSv/year) of about",
       "options": ["0.1", "0.5", "2", "10"],
       "answer": "2",
       "explanation": "Average US exposure to radon (+ daughters) is 2 mSv/year"
     },
     {
       "questionNumber": 4.19,
-      "preamble": "A population exposed to a uniform whole-body dose of 10 mGy (effective dose of 10 mSv), results in % additional radiation-induced cancers",
+      "stem": "A population exposed to a uniform whole-body dose of 10 mGy (effective dose of 10 mSv), results in % additional radiation-induced cancers",
       "options": ["0.001", "0.01", "0.1", "1"],
       "answer": "0.1",
       "explanation": "Following a whole-body dose of 10 mGy to a population, there will be expected to be 0.1% additional radiation-induced cancers"
     },
     {
       "questionNumber": 4.20,
-      "preamble": "Effective doses cannot be indicators of patient risk because these do not account for",
+      "stem": "Effective doses cannot be indicators of patient risk because these do not account for",
       "options": ["Dose rates", "Patient demographics", "X-ray LET", "Risk uncertainties"],
       "answer": "Patient demographics",
       "explanation": "Organ doses can be used to compute effective doses and risks, but the latter always requires patient demographic information"

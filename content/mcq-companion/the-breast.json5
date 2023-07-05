@@ -5,7 +5,7 @@
   questions: [
     {
       questionNumber: 1,
-      preamble: "The breast",
+      stem: "The breast",
       options: [
         {
           text: "is a tubulo-acinar type of modified apocrine sweat gland",
@@ -20,7 +20,7 @@
           explanation: "the primitive ectodermal milk line runs from the base of the forelimb to the region of the hindlimb",
         },
         {
-          text: "has lobes that are epidermal in origin.",
+          text: "has lobes that are epidermal in origin",
           response: "",
           answer: "True",
           explanation: "",
@@ -41,7 +41,7 @@
     },
     {
       questionNumber: 2,
-      preamble: "The breast",
+      stem: "The breast",
       options: [
         {
           text: "lies entirely within the deep fascia of the chest wall",
@@ -77,7 +77,7 @@
     },
     {
       questionNumber: 3,
-      preamble: "In the lymphatic drainage of the breast",
+      stem: "In the lymphatic drainage of the breast",
       options: [
         {
           text: "The pectoralis major muscle is the reference for the surgical level of nodes",
@@ -114,7 +114,7 @@
 
     {
       "questionNumber": 4,
-      "preamble": "In the breast",
+      "stem": "In the breast",
       "options": [
         {
           "text": "Epithelial proliferation occurs in the secretory phase of the menstrual cycle",
@@ -129,19 +129,19 @@
           "explanation": ""
         },
         {
-          "text": "Contrast between fat and soft tissue is optimized by the use of low energy X-ray spectra.",
+          "text": "Contrast between fat and soft tissue is optimized by the use of low energy X-ray spectra",
           "response": "",
           "answer": "True",
           "explanation": "17.4 and 19.6 keV are the characteristic peaks from a molybdenum anode"
         },
         {
-          "text": "The 45° mediolateral oblique view is used in the single view screening programmes.",
+          "text": "The 45° mediolateral oblique view is used in the single view screening programmes",
           "response": "",
           "answer": "True",
           "explanation": "this demonstrates the upper outer quadrant to best eﬀect"
         },
         {
-          "text": "There is a progressive decrease of dense fibroglandular tissue with fatty replacement with increasing age.",
+          "text": "There is a progressive decrease of dense fibroglandular tissue with fatty replacement with increasing age",
           "response": "",
           "answer": "True",
           "explanation": "provides a comparatively diagnostic mammogram"
@@ -151,28 +151,28 @@
   ,
     {
       "questionNumber": 5,
-      "preamble": "In mammography",
+      "stem": "In mammography",
       "options": [
         {
-          "text": "Fibroglandular tissue appears radiolucent compared with fat.",
+          "text": "Fibroglandular tissue appears radiolucent compared with fat",
           "response": "",
           "answer": "False",
           "explanation": "fat appears radiolucent compared to fibroglandular tissue. Image quality emphasizes contrast and penetration of fibroglandular tissue in order to detect small tumors"
         },
         {
-          "text": "Normal ducts can usually be seen throughout the breast.",
+          "text": "Normal ducts can usually be seen throughout the breast",
           "response": "",
           "answer": "False",
           "explanation": "normal ducts are thread-like and extremely difficult to visualize unless surrounded by fat or in the retroareolar region"
         },
         {
-          "text": "Normal intramammary lymph nodes are usually of calcific density.",
+          "text": "Normal intramammary lymph nodes are usually of calcific density",
           "response": "",
           "answer": "False",
           "explanation": "they are of soft tissue density, have a lucent fatty hilum and are situated close to a vascular bundle towards the upper outer quadrant"
         },
         {
-          "text": "The optimal examination should include the pectoralis major.",
+          "text": "The optimal examination should include the pectoralis major",
           "response": "",
           "answer": "True",
           "explanation": "and include the inframammary fold with the nipple in proﬁle"
@@ -190,7 +190,7 @@
   ,
     {
       "questionNumber": 6,
-      "preamble": "In the breast",
+      "stem": "In the breast",
       "options": [
         {
           "text": "An accessory nipple (polythelia) is usually just inferior to the normal breast",
@@ -199,25 +199,25 @@
           "explanation": "in 2 to 6% of women there is incomplete regression of the milk line"
         },
         {
-          "text": "Accessory glandular tissue is more common than accessory breasts in the axilla.",
+          "text": "Accessory glandular tissue is more common than accessory breasts in the axilla",
           "response": "",
           "answer": "True",
-          "explanation": "accessory glandular tissue is more common than accessory breasts in the axilla and is separate from the main breast tissue."
+          "explanation": "accessory glandular tissue is more common than accessory breasts in the axilla and is separate from the main breast tissue"
         },
         {
-          "text": "Hypoplasia of the breast may be linked with Poland's syndrome.",
+          "text": "Hypoplasia of the breast may be linked with Poland's syndrome",
           "response": "",
           "answer": "True",
-          "explanation": "hypoplasia of the breast may be linked with Poland's syndrome, which manifests as increased translucency of the affected hemithorax."
+          "explanation": "hypoplasia of the breast may be linked with Poland's syndrome, which manifests as increased translucency of the affected hemithorax"
         },
         {
-          "text": "Calcification of sebaceous glands is pathological.",
+          "text": "Calcification of sebaceous glands is pathological",
           "response": "",
           "answer": "False",
           "explanation": "fine dense punctate calcification of sebaceous glands seen on tangential projection onto the skin surface is a normal finding"
         },
         {
-          "text": "A skin papilloma appears well circumscribed often with a thin lucent rim (halo) caused by air between skin and the compression plate.",
+          "text": "A skin papilloma appears well circumscribed often with a thin lucent rim (halo) caused by air between skin and the compression plate",
           "response": "",
           "answer": "True",
           "explanation": ""
@@ -226,7 +226,7 @@
     },
     {
       "questionNumber": 7,
-      "preamble": "In ultrasound of the breast",
+      "stem": "In ultrasound of the breast",
       "options": [
         {
           "text": "A 3-5 MHz probe is ideal",
@@ -241,19 +241,19 @@
           "explanation": ""
         },
         {
-          "text": "The fibroglandular tissue is relatively hyperechoic compared with the fatty lobules.",
+          "text": "The fibroglandular tissue is relatively hyperechoic compared with the fatty lobules",
           "response": "",
           "answer": "True",
           "explanation": ""
         },
         {
-          "text": "Normal intramammary or axillary lymph nodes are usually ovoid, hypoechoic, with a central echogenic focus representing hilar fat.",
+          "text": "Normal intramammary or axillary lymph nodes are usually ovoid, hypoechoic, with a central echogenic focus representing hilar fat",
           "response": "",
           "answer": "True",
           "explanation": "without increased through transmission of sound which is usually seen in hypoechoic cystic structures"
         },
         {
-          "text": "Acoustic shadowing is always due to pathology.",
+          "text": "Acoustic shadowing is always due to pathology",
           "response": "",
           "answer": "False",
           "explanation": "though this is an associated ﬁnding with malignancy, it may be caused by ﬁbroglandular tissue or the bright curvilinear bands of Cooper’s ligaments"
@@ -263,7 +263,7 @@
   ,
     {
       "questionNumber": 8,
-      "preamble": "In imaging modalities of the breast",
+      "stem": "In imaging modalities of the breast",
       "options": [
         {
           "text": "The ductogram has virtually been replaced by high frequency ultrasound and cytology",
@@ -284,7 +284,7 @@
           "explanation": ""
         },
         {
-          "text": "Excellent inherent contrast between fibroglandular tissue and fat enable MRI to be used as a screening tool.",
+          "text": "Excellent inherent contrast between fibroglandular tissue and fat enable MRI to be used as a screening tool",
           "response": "",
           "answer": "False",
           "explanation": "the inherent contrast is excellent. However, MRI is not suitable as a screening investigation"

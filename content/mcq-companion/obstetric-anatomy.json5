@@ -5,7 +5,7 @@
   questions: [
     {
       questionNumber: 1,
-      preamble: 'Regarding transabdominal ultrasound of the fetus',
+      stem: 'Regarding transabdominal ultrasound of the fetus',
       options: [
         {
           text: 'Doppler examinations impart less energy when compared with routine ultrasound',
@@ -20,7 +20,7 @@
           explanation: 'it is the ﬁrst trimester. During the second and third trimester ultrasound is used to estimate gestational age, to detect structural fetal anomalies, fetal lie and presentation and placental position',
         },
         {
-          text: "Cardiac activity is seen at 5 weeks' gestational age.",
+          text: "Cardiac activity is seen at 5 weeks' gestational age",
           response: '',
           answer: 'False',
           explanation: 'cardiac activity is visible at 5 to 6 weeks on transvaginal scanning and at 7 weeks on transabdominal scanning',
@@ -41,7 +41,7 @@
     },
     {
       questionNumber: 2,
-      preamble: 'Concerning ultrasound of the fetus from 18-20 weeks',
+      stem: 'Concerning ultrasound of the fetus from 18-20 weeks',
       options: [
         {
           text: 'The BPD is measured in the axial plane',
@@ -77,7 +77,7 @@
     },
     {
       questionNumber: 3,
-      preamble: 'Regarding the fetus',
+      stem: 'Regarding the fetus',
       options: [
         {
           text: 'The vertebrae are visible as two ossification centers in the body and one in each lamina.',
@@ -113,7 +113,7 @@
     },
     {
       questionNumber: 4,
-      preamble: 'Concerning the fetal abdomen',
+      stem: 'Concerning the fetal abdomen',
       options: [
         {
           text: 'The small intestine becomes increasingly echobright towards the end of pregnancy',
@@ -149,7 +149,7 @@
     },
     {
       questionNumber: 5,
-      preamble: 'Regarding fetal ultrasound',
+      stem: 'Regarding fetal ultrasound',
       options: [
         {
           text: 'The femur is strongly reflective at 10 weeks',

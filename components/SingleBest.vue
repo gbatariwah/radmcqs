@@ -13,7 +13,7 @@ const optionLabels = ["A", "B", "C", "D", "E"];
   <div class="border-b dark:border-b-zinc-900">
     <h2 class="font-[oswald] text-lg tracking-wide font-bold">
       <span class="text-orange-400">{{ questionId + 1 }}</span
-      >. {{ question.preamble }}:
+      >. {{ question.stem }}:
     </h2>
 
     <div v-for="(option, optionId) in question.options">
@@ -76,7 +76,7 @@ const optionLabels = ["A", "B", "C", "D", "E"];
         </div>
       </div>
     </div>
-    <div v-if="checkAnswer || showAnswers">
+    <div v-if="(checkAnswer || showAnswers) && question.explanation">
       <UBadge
         color="green"
         v-if="question.response === question.answer"

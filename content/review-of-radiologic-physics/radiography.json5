@@ -4,7 +4,7 @@
   questions: [
     {
       questionNumber: "7.1",
-      preamble: "An x-ray tube target anode angle (degrees) is most likely",
+      stem: "An x-ray tube target anode angle (degrees) is most likely",
       options: ["15", "45", "75", ">90"],
       answer: "15",
       explanation: "The most likely x-ray tube anode angle is 15 degrees, and is responsible for the heel effect in x-ray imaging",
@@ -12,7 +12,7 @@
     },
     {
       questionNumber: "7.2",
-      preamble: "Radiation that escapes through the protective lead of an x-ray tube is called",
+      stem: "Radiation that escapes through the protective lead of an x-ray tube is called",
       options: ["Scatter", "Leakage", "Primary", "Secondary"],
       answer: "Leakage",
       explanation: "Radiation transmitted through the x-ray tube housing is called leakage, and is limited to 1 mGv/hour at a meter",
@@ -20,7 +20,7 @@
     },
     {
       questionNumber: "7.3",
-      preamble: "The ideal x-ray tube target would possess a _____ atomic number and a _____ melting point",
+      stem: "The ideal x-ray tube target would possess a _____ atomic number and a _____ melting point",
       options: ["high; high", "high; low", "low; high", "low; low"],
       answer: "high; high",
       explanation: "Targets in x-ray tubes need a high atomic number Z to maximize Bremsstrahlung x-ray production and a high melting point to tolerate massive power loadings (e.g., 100 kW)",
@@ -28,7 +28,7 @@
     },
     {
       questionNumber: "7.4",
-      preamble: "Switching to small focal spot (0.6 mm) in W targets likely requires power loading to be reduced to (%)",
+      stem: "Switching to small focal spot (0.6 mm) in W targets likely requires power loading to be reduced to (%)",
       options: ["90", "50", "25", "10"],
       answer: "25",
       explanation: "A large focus (1.2 mm) on a W target will generally tolerate 100 kW whereas a small focus will tolerate 25 kW (i.e., 25%)",
@@ -36,7 +36,7 @@
     },
     {
       questionNumber: "7.5",
-      preamble: "When energy is deposited at a rate of 100 kW into x-ray tube anodes, the anode heat dissipation rate is most likely (kW)",
+      stem: "When energy is deposited at a rate of 100 kW into x-ray tube anodes, the anode heat dissipation rate is most likely (kW)",
       options: ["10", "50", "90"],
       answer: "10",
       explanation: "A typical x-ray tube anode heat dissipation rate is only 10 kW, and explains why x-ray tube heating may become a problem",
@@ -44,7 +44,7 @@
     },
     {
       questionNumber: "7.6",
-      preamble: "In a chest x-ray, the anode would most likely be directed toward the",
+      stem: "In a chest x-ray, the anode would most likely be directed toward the",
       options: [
         "Upper chest",
         "Upper abdomen",
@@ -57,7 +57,7 @@
     },
     {
       questionNumber: "7.7",
-      preamble: "Which radiographic examination most likely uses the highest x-ray tube voltage",
+      stem: "Which radiographic examination most likely uses the highest x-ray tube voltage",
       options: ["Extremity", "Chest (diagnostic)", "Chest (ICU)", "Abdomen"],
       answer: "Chest (diagnostic)",
       explanation: "Diagnostic chest x-rays are obtained using dedicated systems operated at about 120 kV",
@@ -65,7 +65,7 @@
     },
     {
       questionNumber: "7.8",
-      preamble: "Compared to a chest x-ray (1 mAs), the amount of radiation (i.e., m As) in an abdominal radiograph is most likely ____ times higher",
+      stem: "Compared to a chest x-ray (1 mAs), the amount of radiation (i.e., m As) in an abdominal radiograph is most likely ____ times higher",
       options: ["2", "5", "10", ">10"],
       answer: ">10",
       explanation: "An abdominal radiograph would likely use 20 mAs, or 20 times higher than a chest x-ray",
@@ -73,7 +73,7 @@
     },
     {
       questionNumber: "7.9",
-      preamble: "Which examination would most likely use a small focal spot",
+      stem: "Which examination would most likely use a small focal spot",
       options: [
         "Chest x-ray (ICU)",
         "Extremity (tibia)",
@@ -86,7 +86,7 @@
     },
     {
       questionNumber: "7.10",
-      preamble: "Which radiographic examination is most likely to use a SID of 50 cm",
+      stem: "Which radiographic examination is most likely to use a SID of 50 cm",
       options: ["Extremity", "Pediatric", "C-spine", "Not used"],
       answer: "Not used",
       explanation: "100 cm is the source to image receptor distance for the overwhelming majority of x-ray radiographs, but longer distances may be used for chest x-rays and C-spines. SIDs less than 100 cm are not used in radiography, although 65 cm is used in mammography",
@@ -94,7 +94,7 @@
     },
     {
       questionNumber: "7.11",
-      preamble: "Patient thickness (cm) for which a grid is required (i.e., not optional) is",
+      stem: "Patient thickness (cm) for which a grid is required (i.e., not optional) is",
       options: ["4", "8", "12", "16"],
       answer: "12",
       explanation: "Thickness at which scatter becomes so important that grids are essential is 12 cm",
@@ -102,7 +102,7 @@
     },
     {
       questionNumber: "7.12",
-      preamble: "A chest x-ray performed with radiation intensity (Kair) of 3 LiCy at the image receptor has an exposure index (El) of approximately",
+      stem: "A chest x-ray performed with radiation intensity (Kair) of 3 LiCy at the image receptor has an exposure index (El) of approximately",
       options: ["0.3", "3", "30", "300"],
       answer: "300",
       explanation: "A Kair of 3 pGy at the image receptor corresponds to an exposure index of 300",
@@ -110,7 +110,7 @@
     },
     {
       questionNumber: "7.13",
-      preamble: "In radiographic imaging, the optimal deviation index would most likely be",
+      stem: "In radiographic imaging, the optimal deviation index would most likely be",
       options: ["Positive", "Zero", "Negative"],
       answer: "Zero",
       explanation: "A deviation index (DI) of zero means that the target amount of radiation was incident on the image receptor",
@@ -118,7 +118,7 @@
     },
     {
       questionNumber: "7.14",
-      preamble: "Which is 'wrong' for a diagnostic (departmental) chest radiograph",
+      stem: "Which is 'wrong' for a diagnostic (departmental) chest radiograph",
       options: ["60 kV", "1 mAs", "10:1 grid ratio", "300 El"],
       answer: "300 El",
       explanation: "120 kV would be the most likely choice of x-ray tube voltage to perform any departmental chest radiograph on a dedicated chest x-ray system",
@@ -126,7 +126,7 @@
     },
     {
       questionNumber: "7.15",
-      preamble: "Which is 'wrong' for an extremity radiograph",
+      stem: "Which is 'wrong' for an extremity radiograph",
       options: ["55 kV", "<1 mAs", "No grid", "10 El"],
       answer: "10 El",
       explanation: "Exposure index in extremity imaging is typically 1,000, three times higher than body radiography (low-energy x-rays deposit less energy in detectors which is why higher Els are used)",
@@ -134,7 +134,7 @@
     },
     {
       questionNumber: "7.16",
-      preamble: "When switching from adult to pediatric radiography, the tube parameters that is most likely increased is the",
+      stem: "When switching from adult to pediatric radiography, the tube parameters that is most likely increased is the",
       options: [
         "Tube voltage (kV)",
         "Relative intensity (mAs)",
@@ -147,7 +147,7 @@
     },
     {
       questionNumber: "7.17",
-      preamble: "Contrast to noise ratio is likely highest when tube voltages (kV) are _____ and tube intensities (mAs) are _____",
+      stem: "Contrast to noise ratio is likely highest when tube voltages (kV) are _____ and tube intensities (mAs) are _____",
       options: ["high; high", "high; low", "low; high", "low; low"],
       answer: "low; high",
       explanation: "The tube voltage should be as low as possible to increase contrast, and the tube intensity should be as high as possible to reduce noise (mottle)",
@@ -155,7 +155,7 @@
     },
     {
       questionNumber: "7.18",
-      preamble: "Extremity radiography has a limiting resolution that is _______ the human eye at a normal viewing distance (25 cm)",
+      stem: "Extremity radiography has a limiting resolution that is _______ the human eye at a normal viewing distance (25 cm)",
       options: ["better than", "comparable to", "worse than"],
       answer: "comparable to",
       explanation: "Human eyes (at 25 cm) and extremity radiography have limiting spatial resolutions of ~5 line pairs/mm",
@@ -163,7 +163,7 @@
     },
     {
       questionNumber: "7.19",
-      preamble: "The KAP in a skull examination (AP + lateral) is most likely (Gy-cm^2)",
+      stem: "The KAP in a skull examination (AP + lateral) is most likely (Gy-cm^2)",
       options: ["0.1", "1", "10", "100"],
       answer: "1",
       explanation: "The average Kerma-area product value for a complete x-ray examination is about 1 Gy-cm2",
@@ -171,7 +171,7 @@
     },
     {
       questionNumber: "7.20",
-      preamble: "The average patient radiation carcinogenic risk in a radiographic examination (0.1 mSv) is most likely (%)",
+      stem: "The average patient radiation carcinogenic risk in a radiographic examination (0.1 mSv) is most likely (%)",
       options: ["0.001", "0.01", "0.1", "1"],
       answer: "0.001",
       explanation: "An effective dose of 10 mSv corresponds to an average cancer induction risk of about 0.1%, so 0.1 mSv is taken to have a risk of 0.001%",

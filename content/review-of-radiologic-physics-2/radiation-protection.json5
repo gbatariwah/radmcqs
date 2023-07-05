@@ -4,7 +4,7 @@
   questions: [
     {
       questionNumber: 8.1,
-      preamble: "Which is least likely to be categorized as an x-ray detector?",
+      stem: "Which is least likely to be categorized as an x-ray detector?",
       options: [
         "Ionization chamber",
         "Scintillation detector",
@@ -18,7 +18,7 @@
     },
     {
       questionNumber: 8.2,
-      preamble: "Absorbed x-ray doses may be quantified by heating thermoluminescent dosimeters and measuring the emitted",
+      stem: "Absorbed x-ray doses may be quantified by heating thermoluminescent dosimeters and measuring the emitted",
       options: [
         "radio waves",
         "microwaves",
@@ -32,7 +32,7 @@
     },
     {
       questionNumber: 8.3,
-      preamble: "When ionization chambers absorb x-rays, they most likely measure the resultant",
+      stem: "When ionization chambers absorb x-rays, they most likely measure the resultant",
       options: ["charge", "heat", "light", "photons", "voltage"],
       answer: "charge",
       explanation: "Ionization chambers collect and measure charge",
@@ -40,7 +40,7 @@
     },
     {
       questionNumber: 8.4,
-      preamble: "Which of the following works on the principle of air ionization?",
+      stem: "Which of the following works on the principle of air ionization?",
       options: [
         "Intensifying screen",
         "Thermoluminescent dosimeter",
@@ -54,7 +54,7 @@
     },
     {
       questionNumber: 8.5,
-      preamble: "Which dosimeter would likely be used when a parent holds a child for an x-ray examination?",
+      stem: "Which dosimeter would likely be used when a parent holds a child for an x-ray examination?",
       options: [
         "Ionization chamber",
         "Geiger counter",
@@ -68,7 +68,7 @@
     },
     {
       questionNumber: 8.6,
-      preamble: "Who coordinates the radiation control programs in all 50 states in the United States?",
+      stem: "Who coordinates the radiation control programs in all 50 states in the United States?",
       options: ["CRCPD", "ICRP", "BEIR", "NCRP", "NRC"],
       answer: "CRCPD",
       explanation: "Conference of Radiation Control Program Directors (CRCPD)",
@@ -76,7 +76,7 @@
     },
     {
       questionNumber: 8.7,
-      preamble: "The regulatory (2008) effective dose limit (mSv/year) for U.S. x-ray technologists is",
+      stem: "The regulatory (2008) effective dose limit (mSv/year) for U.S. x-ray technologists is",
       options: ["1", "5", "10", "20", "50"],
       answer: "50",
       explanation: "Fifty mSv per year is the legal limit in the United States for radiation workers",
@@ -84,7 +84,7 @@
     },
     {
       questionNumber: 8.8,
-      preamble: "The regulatory (2008) effective dose limit (mSv) for a patient chest CT scan is",
+      stem: "The regulatory (2008) effective dose limit (mSv) for a patient chest CT scan is",
       options: ["1", "5", "20", "50", "no limit"],
       answer: "no limit",
       explanation: "There are no dose limits in radiology (except for fluoroscopy and mammography)",
@@ -92,7 +92,7 @@
     },
     {
       questionNumber: 8.9,
-      preamble: "Regulatory dose limits for the public include only doses received from",
+      stem: "Regulatory dose limits for the public include only doses received from",
       options: [
         "dental radiographs",
         "airplane flight",
@@ -106,7 +106,7 @@
     },
     {
       questionNumber: 8.1,
-      preamble: "The regulatory (2008) dose limit (mSv/year) to a member of the public is",
+      stem: "The regulatory (2008) dose limit (mSv/year) to a member of the public is",
       options: ["0.25", "0.5", "1", "2", "5"],
       answer: "1",
       explanation: "One mSv is the current regulatory dose limit to members of the public",
@@ -114,7 +114,7 @@
     },
     {
       questionNumber: 8.11,
-      preamble: "Scattered radiation intensities at 1 m in diagnostic examination, expressed as a percentage (%) of the patient skin dose, is most likely",
+      stem: "Scattered radiation intensities at 1 m in diagnostic examination, expressed as a percentage (%) of the patient skin dose, is most likely",
       options: ["0.01", "0.03", "0.1", "0.3", "1"],
       answer: "0.1",
       explanation: "The scattered intensity is likely 0.1% of what the patient gets; at 1 m from a fluoroscopy patient, the radiologist is exposed to 0.02 mGy/minute since the patient receives 20 mGy/minute",
@@ -122,7 +122,7 @@
     },
     {
       questionNumber: 8.12,
-      preamble: "Leakage radiation (mGy per hour) at 1 m from an x-ray tube must not exceed",
+      stem: "Leakage radiation (mGy per hour) at 1 m from an x-ray tube must not exceed",
       options: ["0.01", "0.1", "1", "10", "100"],
       answer: "1",
       explanation: "One mGy per hour is the current regulatory limit in the United States",
@@ -130,7 +130,7 @@
     },
     {
       questionNumber: 8.13,
-      preamble: "The transmission of x-rays (%) by a 0.5-mm Pb apron in diagnostic radiology is most likely",
+      stem: "The transmission of x-rays (%) by a 0.5-mm Pb apron in diagnostic radiology is most likely",
       options: ["5", "15", "25", "35", "45"],
       answer: "5",
       explanation: "Five percent is likely to get through a lead apron, and the remaining 95% absorbed",
@@ -138,7 +138,7 @@
     },
     {
       questionNumber: 8.14,
-      preamble: "Which is least likely to be required in designing the shielding for an x-ray room?",
+      stem: "Which is least likely to be required in designing the shielding for an x-ray room?",
       options: [
         "Beam filtration",
         "Occupancy factor",
@@ -153,7 +153,7 @@
     },
     {
       questionNumber: 8.15,
-      preamble: "The annual effective dose (mSv) received by a nuclear medicine technologist is most likely",
+      stem: "The annual effective dose (mSv) received by a nuclear medicine technologist is most likely",
       options: ["0.3", "1", "3", "10", "30"],
       answer: "3",
       explanation: "Three mSv per year",
@@ -161,7 +161,7 @@
     },
     {
       questionNumber: 8.16,
-      preamble: "If a radiologist were to increase the distance to a fluoroscopy patient from 1 to 2 m, his or her radiation dose would likely be",
+      stem: "If a radiologist were to increase the distance to a fluoroscopy patient from 1 to 2 m, his or her radiation dose would likely be",
       options: ["1/2", "1/3", "1/4", "1/5", "1/8"],
       answer: "1/4",
       explanation: "One fourth by the inverse square law",
@@ -169,7 +169,7 @@
     },
     {
       questionNumber: 8.17,
-      preamble: "Entrance skin dose (mGy) for an AP abdominal x-ray examination is most likely",
+      stem: "Entrance skin dose (mGy) for an AP abdominal x-ray examination is most likely",
       options: ["0.1", "0.5", "2", "10", ">10"],
       answer: "2",
       explanation: "Two mGy is a typical skin dose in abdominal radiography for an AP projection",
@@ -177,7 +177,7 @@
     },
     {
       questionNumber: 8.18,
-      preamble: "The patient exposure rate during fluoroscopy is least likely to be affected by",
+      stem: "The patient exposure rate during fluoroscopy is least likely to be affected by",
       options: [
         "exposure time",
         "grid ratio",
@@ -191,7 +191,7 @@
     },
     {
       questionNumber: 8.19,
-      preamble: "The average glandular dose per film (mGy) in screening mammography is most likely",
+      stem: "The average glandular dose per film (mGy) in screening mammography is most likely",
       options: ["0.5", "1.5", "3", "5", "10"],
       answer: "1.5",
       explanation: "For an average-sized breast, 1.5 mGy per image is typical (3 mGy is the ACR/MQSA limit)",
@@ -199,7 +199,7 @@
     },
     {
       questionNumber: 8.2,
-      preamble: "The chance (%) that a patient undergoing an IR procedure in a radiology department will suffer a serious deterministic injury is likely",
+      stem: "The chance (%) that a patient undergoing an IR procedure in a radiology department will suffer a serious deterministic injury is likely",
       options: ["10", "1", "0.1", "0.01", "0.001"],
       answer: "0.01",
       explanation: "The chance is 0.01% or 1 in 10,000 patients for a serious injury",
@@ -207,7 +207,7 @@
     },
     {
       questionNumber: 8.21,
-      preamble: "Fetal doses in CT would likely be reduced with increasing",
+      stem: "Fetal doses in CT would likely be reduced with increasing",
       options: [
         "patient size",
         "tube voltage",
@@ -221,7 +221,7 @@
     },
     {
       questionNumber: 8.22,
-      preamble: "The most likely patient effective dose (mSv) from a four-phase abdominal CT examination is most likely",
+      stem: "The most likely patient effective dose (mSv) from a four-phase abdominal CT examination is most likely",
       options: ["5", "10", "25", "75", "150"],
       answer: "25",
       explanation: "The most likely dose would be 25 mSv (6 mSv/scan would be typical)",
@@ -229,7 +229,7 @@
     },
     {
       questionNumber: 8.23,
-      preamble: "The benefit–risk ratio of screening mammography is most likely",
+      stem: "The benefit–risk ratio of screening mammography is most likely",
       options: ["2:1", "4:1", "8:1", "16:1", ">16:1"],
       answer: ">16:1",
       explanation: "A ratio of >16:1 (a value of 30:1 was obtained in this book)",
@@ -237,7 +237,7 @@
     },
     {
       questionNumber: 8.24,
-      preamble: "The average effective dose (mSv/year) from background radiation in the United States, excluding radon, is likely",
+      stem: "The average effective dose (mSv/year) from background radiation in the United States, excluding radon, is likely",
       options: ["0.1", "0.3", "1", "3", "10"],
       answer: "1",
       explanation: "One mSv per year in the United States, with an additional 2 mSv from radon",
@@ -245,7 +245,7 @@
     },
     {
       questionNumber: 8.25,
-      preamble: "Which are the most damaging emissions from the decay of 222Rn (radon) and its daughters?",
+      stem: "Which are the most damaging emissions from the decay of 222Rn (radon) and its daughters?",
       options: ["Alpha", "Beta plus", "Beta minus", "Neutrino", "Gamma ray"],
       answer: "Alpha",
       explanation: "Alpha particles are emitted by radon and its daughters",
@@ -253,7 +253,7 @@
     },
     {
       questionNumber: 8.26,
-      preamble: "The largest exposure to the U.S. population from man-made radiation is the result of",
+      stem: "The largest exposure to the U.S. population from man-made radiation is the result of",
       options: [
         "A-bomb fallout",
         "diagnostic x-rays",
@@ -267,7 +267,7 @@
     },
     {
       questionNumber: 8.27,
-      preamble: "The average effective dose to the U.S. population from diagnostic imaging in 2006 was most likely",
+      stem: "The average effective dose to the U.S. population from diagnostic imaging in 2006 was most likely",
       options: ["0.5", "1", "2", "3", "5"],
       answer: "3",
       explanation: "Three mSv is the average dose to the U.S. population from diagnostic imaging",
@@ -275,7 +275,7 @@
     },
     {
       questionNumber: 8.28,
-      preamble: "The average patient effective dose (mSv) in NM imaging (2006) was most likely",
+      stem: "The average patient effective dose (mSv) in NM imaging (2006) was most likely",
       options: ["0.5", "1", "2.5", "5", "10"],
       answer: "10",
       explanation: "Ten mSv (NM is the imaging modality with the highest average patient doses)",
@@ -283,7 +283,7 @@
     },
     {
       questionNumber: 8.29,
-      preamble: "The number of diagnostic x-ray examinations (millions) performed in the United States in 2006 was most likely",
+      stem: "The number of diagnostic x-ray examinations (millions) performed in the United States in 2006 was most likely",
       options: ["100", "250", "500", "1,000", "2,000"],
       answer: "500",
 
@@ -292,7 +292,7 @@
     },
     {
       questionNumber: 8.3,
-      preamble: "The contribution (%) of medical imaging to the U.S. population dose from all man-made radiation exposure is most likely",
+      stem: "The contribution (%) of medical imaging to the U.S. population dose from all man-made radiation exposure is most likely",
       options: ["50", "75", "90", "95", ">95"],
       answer: ">95",
       explanation: "More than 95% of man-made exposures are from diagnostic imaging",

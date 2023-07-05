@@ -1,6 +1,2508 @@
 {
-  name: 'Neuroradiology',
-  authors: 'A. Doss and P.D. Griffiths',
-  slug: 'neuroradiology',
-  questions: [],
+  name: "Neuroradiology",
+  authors: "A. Doss and P.D. Griffiths",
+  slug: "neuroradiology",
+  questions: [
+    {
+      questionNumber: 1,
+      stem: "Regarding the imaging methods of the skull and brain",
+      options: [
+        {
+          text: "Skull radiograph is sensitive to cerebral pathology",
+          answer: "False",
+
+          response: "",
+          explanation: "investigation of choice for the detection of fractures, relatively insensitive to cerebral pathology",
+        },
+        {
+          text: "Contrast between white and grey matter is superior on MRI compared to CT of the brain",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The contents of the middle and posterior fossa of the brain are better visualized with CT than with MRI",
+          answer: "False",
+
+          response: "",
+          explanation: "MRI is better. It does not suﬀer from streak artefacts from bone as seen in CT, which masks soft tissue detail",
+        },
+        {
+          text: "On T1-weighted MRI, white matter has lower signal (darker) than grey matter",
+          answer: "False",
+
+          response: "",
+          explanation: "grey matter has lower signal intensity than white matter",
+        },
+        {
+          text: "On T2-weighted MRI, grey matter has lower signal than white matter",
+          answer: "False",
+
+          response: "",
+          explanation: "white matter is of lower signal than grey matter",
+        },
+      ],
+    },
+    {
+      questionNumber: 2,
+      stem: "Regarding MRI of the brain",
+      options: [
+        {
+          text: "Cerebrospinal fluid has high signal on T1-weighted images",
+          answer: "False",
+
+          response: "",
+          explanation: "cerebral spinal ﬂuid has low signal on T1-weighted images",
+        },
+        {
+          text: "Cerebrospinal fluid has high signal on T2-weighted images",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "In a proton density MRI sequence, grey matter is hyperintense to white matter",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "In CT of the brain, the white matter is darker than grey matter",
+          answer: "True",
+
+          response: "",
+          explanation: "lipid rich myelin is relatively radiolucent",
+        },
+        {
+          text: "The fornix and anterior commissure are hypointense on T2-weighted images",
+          answer: "True",
+
+          response: "",
+          explanation: "these are white matter tracts and therefore have low signal on T2- weighted images",
+        },
+      ],
+    },
+    {
+      questionNumber: 3,
+      stem: "Regarding the technique of brain CT and MR",
+      options: [
+        {
+          text: "The axial plane for CT is usually parallel to a line tangential to the orbital roofs running to the anterior margin of the foramen magnum",
+          answer: "True",
+
+          response: "",
+          explanation: "this reduces the radiation to the lens of the eye but increases streak artefact within the middle cranial fossa",
+        },
+        {
+          text: "The normal choroid plexus and the pituitary gland enhance on post-contrast CT images",
+          answer: "True",
+
+          response: "",
+          explanation: "other structures to enhance are the cranial arteries, veins, dural venous sinuses and the infundibulum",
+        },
+        {
+          text: "Mechanism of contrast enhancement of gadolinium DTPA is similar to that of iodinated contrast medium",
+          answer: "False",
+
+          response: "",
+          explanation: "gadolinium DTPA is not visible on MRI. Gadolinium decreases the T1 and T2 of hydrogen in its vicinity. Therefore in a T1-weighted image there is increased signal which shows up as enhancement",
+        },
+        {
+          text: "Rapidly flowing blood is bright on a T1-weighted MRI",
+          answer: "False",
+
+          response: "",
+          explanation: "there is ﬂow void and in vessels with rapidly ﬂowing blood the signal remains hypointense even with gadolinium",
+        },
+        {
+          text: "Time of flight MR angiography is an invasive procedure",
+          answer: "False",
+
+          response: "",
+          explanation: "non-invasive technique",
+        },
+      ],
+    },
+    {
+      questionNumber: 4,
+      stem: "Regarding the skull",
+      options: [
+        {
+          text: "The skull vault develops in membrane",
+          answer: "True",
+
+          response: "",
+          explanation: "skull base develops in cartilage",
+        },
+        {
+          text: "The occipital bone forms part of the central skull base",
+          answer: "True",
+
+          response: "",
+          explanation: "the occipital, sphenoid and temporal bones form the central skull base. Ethmoid and frontal bones complete the ﬁve bones of the skull",
+        },
+        {
+          text: "Sutures are between bones of cartilaginous ossification",
+          answer: "False",
+
+          response: "",
+          explanation: "they are between bones of membranous ossiﬁcations",
+        },
+        {
+          text: "Perisutural sclerosis is seen in the neonate",
+          answer: "False",
+
+          response: "",
+          explanation: "the skull sutures are smooth in the neonate. Through childhood, interdigitations develop followed by perisutural sclerosis",
+        },
+        {
+          text: "Sagittal sutural fusion occurs before adolescence",
+          answer: "False",
+
+          response: "",
+          explanation: "for practical purposes sutural fusion occurs in adolescence, since only in children does the raised intracranial pressure present with head enlargement",
+        },
+      ],
+    },
+    {
+      questionNumber: 5,
+      stem: "In the skull",
+      options: [
+        {
+          text: "The anterior fontanelle (bregma) is between the frontal and parietal bones at the junction of the sagittal and coronal sutures",
+          answer: "True",
+
+          response: "",
+          explanation: "the bregma closes in the second year of life",
+        },
+        {
+          text: "The posterior fontanelle (Lambda) closes around the second month after birth",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "Pterion usually closes by 3–4 months",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The periosteum is invested externally and internally",
+          answer: "True",
+
+          response: "",
+          explanation: "both externally (pericranium) and internally (endosteum)",
+        },
+        {
+          text: "The endosteum is the outer of the two dural layers",
+          answer: "True",
+
+          response: "",
+          explanation: "this is continuous with the connective tissue at the sutures and fontanelle. Both extradural and subdural haematomas may cross sutures although, in principle at least, this anatomical boundary should prevent the spread of extradural collections",
+        },
+      ],
+    },
+    {
+      questionNumber: 6,
+      stem: "Regarding the skull",
+      options: [
+        {
+          text: "Epicranial aponeurosis (galea aponeurotica) is loosely attached to the skull vault",
+          answer: "True",
+
+          response: "",
+          explanation: "but the skin and subcutaneous tissues of scalp are ﬁrmly adherent to the aponeurosis",
+        },
+        {
+          text: "The skull vault has a high signal on T1-weighted MR images",
+          answer: "False",
+
+          response: "",
+          explanation: "on MRI the subcutaneous fat is of high signal, superﬁcial to a signal void of the skull vault",
+        },
+        {
+          text: "The diploic veins are found between the two tables of the skull",
+          answer: "True",
+
+          response: "",
+          explanation: "the diploic space is between the inner and outer tables of the skull and contains marrow and large valveless thin-walled diploic veins, which are absent at birth. These communicate with meningeal veins, the dural venous sinuses and scalp veins",
+        },
+        {
+          text: "Emissary veins traverse the skull vault",
+          answer: "True",
+
+          response: "",
+          explanation: "the emissary veins form a rich craniocerebral anastomosis which provides both a route for the spread of infection across the vault and a collateral path in the event of venous sinus occlusion. This is an indirect sign of venous sinus occlusion",
+        },
+        {
+          text: "Venous lacunae are close to the midline adjacent to the superior sagittal sinus",
+          answer: "True",
+
+          response: "",
+          explanation: "venous lacunae are seen as multiple lucencies on skull radiographs",
+        },
+      ],
+    },
+    {
+      questionNumber: 7,
+      stem: "In the skull",
+      options: [
+        {
+          text: "The frontal bone forms in two halves",
+          answer: "True",
+
+          response: "",
+          explanation: "normally fuses at 5 years. The intervening suture is known as the metopic suture which may persist wholly or in part into adult life in 5–10% of individuals",
+        },
+        {
+          text: "The cribriform plate of the ethmoid bone is interposed between the orbital plates of the frontal bone in the midline",
+          answer: "True",
+
+          response: "",
+          explanation: "most of the ﬂoor of the anterior fossa is contributed by the orbital plates of the frontal bone. The crista galli, to which the falx is attached, ascends vertically from the cribriform plate",
+        },
+        {
+          text: "The coronal sutures separate the parietal and frontal bones",
+          answer: "True",
+
+          response: "",
+          explanation: "the parietal bones on either side are separated by the sagittal suture",
+        },
+        {
+          text: "The pterion is a point where the frontal, sphenoid, parietal, temporal bones meet",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "Anteriorly the parietal bone articulates with the frontal bone and lesser wing of sphenoid",
+          answer: "False",
+
+          response: "",
+          explanation: "parietal bone articulates anteriorly with the frontal bone and the greater wing of sphenoid and inferiorly with the temporal bone",
+        },
+      ],
+    },
+    {
+      questionNumber: 8,
+      stem: "Regarding the sphenoid bone",
+      options: [
+        {
+          text: "The sphenoid air sinuses in the body of the sphenoid are symmetrical structures",
+          answer: "False",
+
+          response: "",
+          explanation: "they are usually asymmetrical structures",
+        },
+        {
+          text: "The anterior clinoid process is part of the greater wing of the sphenoid bone",
+          answer: "False",
+
+          response: "",
+          explanation: "it is part of the lesser wing of sphenoid bone",
+        },
+        {
+          text: "The posterior clinoid process is part of the lesser wing of the sphenoid bone",
+          answer: "False",
+
+          response: "",
+          explanation: "the pterygoid fossa and posterior clinoid are borne on the superior surface of the body of sphenoid",
+        },
+        {
+          text: "The posterior part of the floor of the anterior cranial fossa is formed by the lesser wing of the sphenoid",
+          answer: "True",
+
+          response: "",
+          explanation: "the posterior border of the lesser wing is the sphenoid ridge, meningiomas of skull base arise in this location",
+        },
+        {
+          text: "Part of the middle cranial fossa is formed by the greater wing of the sphenoid",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+      ],
+    },
+    {
+      questionNumber: 9,
+      stem: "In the sphenoid bone",
+      options: [
+        {
+          text: "The dorsum sellae is the anterior boundary of the pituitary fossa",
+          answer: "False",
+
+          response: "",
+          explanation: "this forms the posterior boundary",
+        },
+        {
+          text: "The dorsum sellae merges laterally with the posterior clinoid process",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The foramina ovale, rotundum, and spinosum are in the greater wing",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The greater wing separates the frontal lobe of the brain from the infratemporal fossa below",
+          answer: "False",
+
+          response: "",
+          explanation: "it separates the temporal lobe of the brain from the infratemporal fossa below",
+        },
+        {
+          text: "Foramen rotundum travels from Meckel’s cave to the pterygopalatine fossa",
+          answer: "True",
+
+          response: "",
+          explanation: "it transmits the maxillary division of the trigeminal nerve – on coronal CT this foramen is demonstrated inferior to the anterior clinoid processes",
+        },
+      ],
+    },
+    {
+      questionNumber: 10,
+      stem: "Regarding the foramina of the base of the skull",
+      options: [
+        {
+          text: "Foramen ovale transmits the mandibular division of the fifth nerve",
+          answer: "True",
+
+          response: "",
+          explanation: "on coronal CT, the foramen ovale is inferolateral to the posterior clinoid process",
+        },
+        {
+          text: "The foramen spinosum is posterolateral to the foramen ovale",
+          answer: "True",
+
+          response: "",
+          explanation: "it transmits the middle meningeal artery and vein between the infratemporal and middle cranial fossa",
+        },
+        {
+          text: "The vidian or pterygoid canal is inferior to the sphenoid sinus",
+          answer: "True",
+
+          response: "",
+          explanation: "it is medial to the foramen rotundum",
+        },
+        {
+          text: "The internal carotid artery passes through the foramen lacerum",
+          answer: "False",
+
+          response: "",
+          explanation: "this foramen contains cartilage and is traversed only by small veins and nerves. The internal carotid artery crosses its cranial part",
+        },
+        {
+          text: "Foramen of Vesalius transmits an emissary vein and is medial to the foramen ovale",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+      ],
+    },
+    {
+      questionNumber: 11,
+      stem: "Regarding the temporal bone",
+      options: [
+        {
+          text: "The squamous part of the temporal bone forms the medial wall of the middle cranial fossa",
+          answer: "False",
+
+          response: "",
+          explanation: "it forms the lateral wall, separated from the parietal bone by the squamosal suture",
+        },
+        {
+          text: "The styloid process arises inferiorly from the base of the squamous temporal bones",
+          answer: "False",
+
+          response: "",
+          explanation: "from the base of the petrous temporal bone. Calciﬁcation of stylohyoid ligament may be seen on a lateral radiograph of cervical spine",
+        },
+        {
+          text: "The seventh cranial nerve (facial) passes through the stylomastoid foramen",
+          answer: "True",
+
+          response: "",
+          explanation: "the stylomastoid foramen is behind the styloid process",
+        },
+        {
+          text: "The mandibular fossa is part of the squamous portion of the temporal bone",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The tympanic portion of the temporal bone is a border of the internal auditory canal",
+          answer: "False",
+
+          response: "",
+          explanation: "it forms part of the external auditory canal",
+        },
+      ],
+    },
+    {
+      questionNumber: 12,
+      stem: "Regarding the skull",
+      options: [
+        {
+          text: "The posterior cranial fossa is the largest of the three cranial fossae",
+          answer: "True",
+
+          response: "",
+          explanation: "the occipital bone forms most of the walls and ﬂoor of the posterior cranial fossa",
+        },
+        {
+          text: "The basisphenoid synchondrosis (in the clivus) is the articulation between the basiocciput and the base of sphenoid",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "In the adult, the clivus is hyperintense on T1-weighted MRI",
+          answer: "True",
+
+          response: "",
+          explanation: "due to replacement of red marrow with fat. In children the clivus is hypointense",
+        },
+        {
+          text: "The occipital bone has a significant diploic space inferiorly",
+          answer: "False",
+
+          response: "",
+          explanation: "typically devoid of a diploic space inferiorly. Therefore the hair on end appearance secondary to marrow hyperplasia seen elsewhere on the skull vault, spares this region",
+        },
+        {
+          text: "The jugular foramen lies between the temporal and occipital bones",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+      ],
+    },
+    {
+      questionNumber: 13,
+      stem: "Regarding the normal skull radiograph",
+      options: [
+        {
+          text: "Vascular markings are present antenatally",
+          answer: "False",
+
+          response: "",
+          explanation: "they do not develop until the postnatal period and persist through life",
+        },
+        {
+          text: "Vascular markings are radiolucent",
+          answer: "True",
+
+          response: "",
+          explanation: "have indistinct margins and often branch",
+        },
+        {
+          text: "The sphenobregmatic sinus runs on the lesser wing of the sphenoid",
+          answer: "False",
+
+          response: "",
+          explanation: "this is a suﬃciently large vein running along the coronal suture, which gives rise to a prominent vascular impression",
+        },
+        {
+          text: "Venous impressions on the vault are smaller than those due to arteries",
+          answer: "False",
+
+          response: "",
+          explanation: "venous impressions are larger than those due to arteries",
+        },
+        {
+          text: "Arterial impressions are parallel to each other and reduce in caliber after branching",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+      ],
+    },
+    {
+      questionNumber: 14,
+      stem: "The following give rise to lucencies within the skull vault on skull radiographs",
+      options: [
+        {
+          text: "Sutures",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "Pineal gland",
+          answer: "False",
+
+          response: "",
+          explanation: "gives rise to calciﬁcation",
+        },
+        {
+          text: "Normal thinning of the temporal squame and parietal bone",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "Choroid plexus",
+          answer: "False",
+
+          response: "",
+          explanation: "gives rise to calciﬁcation",
+        },
+        {
+          text: "The dura",
+          answer: "False",
+
+          response: "",
+          explanation: "gives rise to calciﬁcation",
+        },
+      ],
+    },
+    {
+      questionNumber: 15,
+      stem: "The following give rise to calcifications within the vault on skull radiographs",
+      options: [
+        {
+          text: "Vascular impressions",
+          answer: "False",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "Parietal foramina",
+          answer: "False",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "Pacchionian depression",
+          answer: "False",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "Pneumatization",
+          answer: "False",
+
+          response: "",
+          explanation: "all the above give rise to lucencies",
+        },
+        {
+          text: "Habenular commissure",
+          answer: "True",
+
+          response: "",
+          explanation: "choroid plexus, petroclinoid and interclinoid ligaments are other causes of calciﬁcations seen on a skull radiograph",
+        },
+      ],
+    },
+    {
+      questionNumber: 16,
+      stem: "Regarding the meninges",
+      options: [
+        {
+          text: "The three components are the outer fibrous dura, the avascular arachnoid, and the inner vascular pia mater",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The dura and the arachnoid form a free space (subdural) which can be appreciated in normal individuals",
+          answer: "False",
+
+          response: "",
+          explanation: "the dura and arachnoid are applied closely, therefore this is a potential space where haemorrhage or pus may accumulate",
+        },
+        {
+          text: "The dura mater has two layers which separate to enclose the dural venous sinuses",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The outer and inner layers of the dura give rise to the falx and tentorium",
+          answer: "False",
+
+          response: "",
+          explanation: "the inner layer of the dura covers the brain and gives rise to the falx and tentorium. The outer layer of the dura is the periosteum of the inner table of skull",
+        },
+        {
+          text: "The dura does not enhance after intravenous contrast on MR imaging",
+          answer: "False",
+
+          response: "",
+          explanation: "normal dura shows contrast enhancement",
+        },
+      ],
+    },
+    {
+      questionNumber: 17,
+      stem: "Regarding the skull",
+      options: [
+        {
+          text: "Wormian bones are small bony elements seen in suture lines and suture junctions",
+          answer: "True",
+
+          response: "",
+          explanation: "these are usually normal variants but may be pathological when multiple in conditions such as cleidocranial dysostosis, osteogenesis imperfecta and hypophosphatasia",
+        },
+        {
+          text: "The basal ganglia and dentate nucleus may show punctate calcification with increasing age",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The interclinoid ligaments stabilize the anterior and posterior clinoid processes",
+          answer: "False",
+
+          response: "",
+          explanation: "the interclinoid ligaments are dural calciﬁcations seen in the lateral skull radiograph. They are not described to play a role in the stability of the clinoid processes",
+        },
+        {
+          text: "The pineal gland is anterior to the third ventricle",
+          answer: "False",
+
+          response: "",
+          explanation: "posterior to third ventricle. Calciﬁcation is seen in 50–70% of adult lateral skull radiographs",
+        },
+        {
+          text: "The superficial temporal artery grooves the inner table of the temporal and parietal bones",
+          answer: "False",
+
+          response: "",
+          explanation: "it grooves the outer table of the temporal and parietal bones",
+        },
+      ],
+    },
+    {
+      questionNumber: 18,
+      stem: "Regarding the meninges",
+      options: [
+        {
+          text: "The falx cerebri consists of two layers and forms a complete partition between the cerebral hemispheres",
+          answer: "False",
+
+          response: "",
+          explanation: "incomplete partition between the cerebral hemispheres, extends from the crista galli to the internal occipital protuberance",
+        },
+        {
+          text: "The tentorium cerebelli is attached from the posterior clinoid processes and along the petrous ridges",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The uncus of the hippocampus and the posterior cerebral artery lie below the free edge of the tentorium",
+          answer: "False",
+
+          response: "",
+          explanation: "they lie above the free edge of the tentorium and are at risk of compression against the tentorial edge when there is raised intracranial pressure in the supratentorial compartment (coning)",
+        },
+        {
+          text: "The free border of the tentorium cerebelli encloses the cavernous sinus on each side",
+          answer: "True",
+
+          response: "",
+          explanation: "on each side of the pituitary fossa before attaching to the anterior clinoid processes",
+        },
+        {
+          text: "The diaphragma sellae is pierced by the pituitary stalk",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+      ],
+    },
+    {
+      questionNumber: 19,
+      stem: "Regarding meningeal blood supply and innervation",
+      options: [
+        {
+          text: "The main blood supply to the meninges is from the middle meningeal artery",
+          answer: "True",
+
+          response: "",
+          explanation: "however, there are contributions from the cavernous, carotid, ophthalmic and vertebral arteries",
+        },
+        {
+          text: "The accessory meningeal artery may arise from the maxillary or middle meningeal artery",
+          answer: "True",
+
+          response: "",
+          explanation: "this artery enters the skull through the foramen ovale and supplies the meninges",
+        },
+        {
+          text: "The middle meningeal artery is subdural in location",
+          answer: "False",
+
+          response: "",
+          explanation: "It is extradural and along with the meningeal veins grooves the inner table of the skull",
+        },
+        {
+          text: "Innervation of the dura is primarily from the trigeminal nerve",
+          answer: "True",
+
+          response: "",
+          explanation: "and also from the lower cranial nerves and the ﬁrst three cervical segments. This may be the reason for cervical pain in cranial subarachnoid haemorrhage",
+        },
+        {
+          text: "The jugular foramen transmits the ninth, tenth, and eleventh cranial nerves",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+      ],
+    },
+    {
+      questionNumber: 20,
+      stem: "Regarding the normal development of the brain",
+      options: [
+        {
+          text: "The neural tube expands to form the three primary vesicles during the twelfth week of intrauterine development",
+          answer: "False",
+
+          response: "",
+          explanation: "during the fourth week of intrauterine development",
+        },
+        {
+          text: "Hypodense white matter in a pre-term infant’s CT brain usually signifies ischemia",
+          answer: "False",
+
+          response: "",
+          explanation: "due to the relatively high water content, white matter of the normal preterm infant appears hypodense and should not be mistaken for ischaemia",
+        },
+        {
+          text: "Vascular supply of the embryonic brain is similar to that of the adult",
+          answer: "False",
+
+          response: "",
+          explanation: "the embryonic brain is exclusively supplied by the internal carotid artery, which may persist in the adult when one of the two posterior cerebral arteries is supplied only through the ipsilateral posterior communicating artery",
+        },
+        {
+          text: "MRI is insensitive to assess the progress of myelination",
+          answer: "False",
+
+          response: "",
+          explanation: "MRI is used to assess the progress of myelination. T1-weighted inversion recovery images are particularly sensitive to myelination in the ﬁrst 6 months. Thereafter T2 -weighted images are used",
+        },
+        {
+          text: "Most of the gyri are formed by 18 weeks of gestation",
+          answer: "False",
+
+          response: "",
+          explanation: "the brain has more gyri towards term",
+        },
+      ],
+    },
+    {
+      questionNumber: 21,
+      stem: "In the paediatric population",
+      options: [
+        {
+          text: "The entire brainstem is myelinated at birth",
+          answer: "False",
+
+          response: "",
+          explanation: "the ventral pons is not myelinated",
+        },
+        {
+          text: "The posterior limb of the internal capsule myelinates before the anterior limb of the internal capsule",
+          answer: "True",
+
+          response: "",
+          explanation: "at term the posterior limb is myelinated. At 4 months the anterior limb starts to myelinate",
+        },
+        {
+          text: "The optic radiation myelinates after 12 months",
+          answer: "False",
+
+          response: "",
+          explanation: "myelinates soon after birth",
+        },
+        {
+          text: "The adult pattern of myelination is present on T1-weighted images after 6 months of age",
+          answer: "True",
+
+          response: "",
+          explanation: "therefore, T2-weighted images are used after the ﬁrst 6 months as they show heterogeneous white matter signal intensity in the ﬁrst 6 months",
+        },
+        {
+          text: "On T2-weighted MRI unmyelinated ﬁbres may be visualized at the age of 4",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+      ],
+    },
+    {
+      questionNumber: 22,
+      stem: "Regarding the medulla",
+      options: [
+        {
+          text: "It is closed superiorly where it is related to the lower part of the fourth ventricle",
+          answer: "False",
+
+          response: "",
+          explanation: "it is closed inferiorly around the central canal continuous with that of the spinal cord and open superiorly with the lower part of the fourth ventricle",
+        },
+        {
+          text: "The gracile and cuneate columns are on the ventral surface of the medulla",
+          answer: "False",
+
+          response: "",
+          explanation: "on the ventral surface between the anterior median ﬁssure and the anterolateral sulcus on each side is the pyramid and lateral to this is another elevation, the olive. The gracile and cuneate columns are on the dorsal aspect of the medulla",
+        },
+        {
+          text: "The dorsal surface of the medulla becomes the ﬂoor of the fourth ventricle below the foramen of Magendie",
+          answer: "False",
+
+          response: "",
+          explanation: "above the foramen of Magendie the dorsal surface becomes the ﬂoor of the fourth ventricle, which opens into the cerebellopontine angle on each side through the foramen of Luschka around the inferior cerebellar peduncle",
+        },
+        {
+          text: "The glossopharyngeal (ninth), the vagus (tenth), the spinal accessory (eleventh) and the hypo-glossal (twelfth nerves) arise from the medulla",
+          answer: "True",
+
+          response: "",
+          explanation: "from above downwards",
+        },
+        {
+          text: "On axial MRI the pontomedullary junction is denoted by a broad basilar sulcus",
+          answer: "True",
+
+          response: "",
+          explanation: "there is a prominent pontomedullary sulcus on each lateral wall",
+        },
+      ],
+    },
+    {
+      questionNumber: 23,
+      stem: "The pons",
+      options: [
+        {
+          text: "is concave on the ventral aspect containing mainly transverse ﬁbres which pass posterolaterally as the middle cerebellar peduncle",
+          answer: "False",
+
+          response: "",
+          explanation: "it has a convex bulbous ventral portion at this level",
+        },
+        {
+          text: "is dominated by the posterolaterally directed middle cerebellar peduncles in the lower aspect",
+          answer: "True",
+
+          response: "",
+          explanation: "the cerebellopontine angle is lateral to the middle cerebellar peduncle and limited posteriorly by the ﬂocculi",
+        },
+        {
+          text: "gives arise to the trigeminal nerve",
+          answer: "True",
+
+          response: "",
+          explanation: "at this level the superior cerebellar peduncle forms the lateral border of the fourth ventricles",
+        },
+        {
+          text: "gives rise to the abducent nerve",
+          answer: "True",
+
+          response: "",
+          explanation: "the long intracranial course in an anterolateral direction to bend over the petrous apex takes the abducent nerve through the dura covering the sphenoid bone (Dorello’s canal) to enter the cavernous sinus",
+        },
+        {
+          text: "is posterior to the two roots of the facial (seventh) nerve as they pass from the inferior pontine border laterally in the cerebellopontine angle cistern",
+          answer: "True",
+
+          response: "",
+          explanation: "here they are closely related to the vestibular cochlear nerve",
+        },
+      ],
+    },
+    {
+      questionNumber: 24,
+      stem: "The midbrain",
+      options: [
+        {
+          text: "comprises the dorsal tectum and the paired cerebral peduncles",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "contains the cerebral aqueduct of Sylvius",
+          answer: "True",
+
+          response: "",
+          explanation: "connects the third and fourth ventricle",
+        },
+        {
+          text: "has the nuclei of the third and fourth cranial nerves",
+          answer: "True",
+
+          response: "",
+          explanation: "third nerve nucleus in the tegmentum, fourth nerve nucleus at the level of the inferior colliculi",
+        },
+        {
+          text: "is surrounded by CSF in the ambient cistern laterally and the quadrigeminal plate cistern posteriorly",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "is concerned with auditory reﬂexes",
+          answer: "True",
+
+          response: "",
+          explanation: "the tectum is posterior to the cerebral aqueduct and consists of a pair each of the superior colliculi – concerned with visual reﬂexes and the inferior colliculi – concerned with auditory reﬂexes",
+        },
+      ],
+    },
+    {
+      questionNumber: 25,
+      stem: "In the head",
+      options: [
+        {
+          text: "The inferior sagittal sinus is usually identiﬁed at catheter angiography",
+          answer: "False",
+
+          response: "",
+          explanation: "it lies in the free margin of the falx cerebri, seen only rarely in adult angiography but more commonly in children",
+        },
+        {
+          text: "The great cerebral vein and inferior sagittal sinus form a straight sinus",
+          answer: "True",
+
+          response: "",
+          explanation: "this lies within the quadrigeminal plate cistern",
+        },
+        {
+          text: "The transverse sinus commences at the torcular and lies within the outer margins of the tentorium",
+          answer: "True",
+
+          response: "",
+          explanation: "the right is usually dominant receiving almost the entire output of the superior sagittal sinus",
+        },
+        {
+          text: "An absent transverse sinus is associated with lack of vascular impression along its course on the skull vault",
+          answer: "True",
+
+          response: "",
+          explanation: "the underdeveloped bony depression of the vault is often helpful to identify this normal variant of the transverse sinus. Moreover, the jugular foramen of the corresponding side is underdeveloped and these features are examined with CT",
+        },
+        {
+          text: "The spinal root of the accessory nerve passes upwards through the foramen magnum",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+      ],
+    },
+    {
+      questionNumber: 26,
+      stem: "Regarding the diencephalon",
+      options: [
+        {
+          text: "The structures comprising the diencephalon border the third ventricle",
+          answer: "True",
+
+          response: "",
+          explanation: "the diencephalon includes the thalamus, hypothalamus, pineal gland and habenula",
+        },
+        {
+          text: "The calciﬁcation of the habenular commissure is anterior to the pineal gland",
+          answer: "True",
+
+          response: "",
+          explanation: "connects the habenula on each side",
+        },
+        {
+          text: "The anterior commissure consists of myelinated ﬁbres in the lamina terminalis",
+          answer: "True",
+
+          response: "",
+          explanation: "this is the anterior limit of the diencephalon. A line joining the anterior and posterior commissures on midline sagittal MR scans (the AC–BC line) is a standard reference in image-guided stereotactic surgery",
+        },
+        {
+          text: "The thalami extend anteriorly as far as the inter-ventricular foramen",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The posterior limb of the internal capsule separates the thalamus from the lentiform nucleus",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+      ],
+    },
+    {
+      questionNumber: 27,
+      stem: "Regarding the pituitary gland",
+      options: [
+        {
+          text: "The pituitary gland is superior to the suprasellar cistern",
+          answer: "False",
+
+          response: "",
+          explanation: "the suprasellar cistern is a superior relation to the pituitary containing the optic pathways and the Circle of Willis",
+        },
+        {
+          text: "The thickness of the infundibulum normally exceeds the diameter of the basilar artery",
+          answer: "False",
+
+          response: "",
+          explanation: "the infundibulum is larger in girls, but it should not exceed the diameter of the basilar artery",
+        },
+        {
+          text: "The posterior pituitary usually returns a high signal on T1-weighted images",
+          answer: "True",
+
+          response: "",
+          explanation: "this is thought to be due to neural secretory granules in the pituitary",
+        },
+        {
+          text: "Mal-descended pituitary tissue may be found as a soft tissue mass expanding the infundibulum",
+          answer: "True",
+
+          response: "",
+          explanation: "usually as a rounded high signal mass",
+        },
+        {
+          text: "The pituitary gland is usually of a constant size in the adult",
+          answer: "False",
+
+          response: "",
+          explanation: "in some individuals it may appear as a thin rim of tissue at the base of the sella (partially empty sella) and in females of child-bearing age the pituitary will ﬁll the sella and have a superior convex margin",
+        },
+      ],
+    },
+    {
+      questionNumber: 28,
+      stem: "Regarding the basal ganglia",
+      options: [
+        {
+          text: "They are part of the extra-pyramidal system",
+          answer: "True",
+
+          response: "",
+          explanation: "they consist of the caudate and lentiform nuclei, together known as the corpus striatum, the amygdala and claustrum",
+        },
+        {
+          text: "The head of the caudate nucleus indents the anterior horn of the lateral ventricle",
+          answer: "True",
+
+          response: "",
+          explanation: "the tail of the caudate nucleus comes to lie above the temporal horn and is not readily seen on MRI",
+        },
+        {
+          text: "The lentiform nucleus comprises the lateral globus pallidus and the medial putamen",
+          answer: "False",
+
+          response: "",
+          explanation: "the larger lateral component is the putamen and the smaller medial component is the globus pallidus",
+        },
+        {
+          text: "The claustrum is a thin sheet of white matter between the putamen and insula",
+          answer: "False",
+
+          response: "",
+          explanation: "the claustrum is a thin sheet of grey matter",
+        },
+        {
+          text: "The lentiform nucleus is bounded medially by the internal capsule",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+      ],
+    },
+    {
+      questionNumber: 29,
+      stem: "Regarding the motor pathways",
+      options: [
+        {
+          text: "The upper motor neurons arise in the pre-central gyrus of the frontal lobe",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The ﬁbres from the primary motor cortex join the corona radiata which converges towards the internal capsule",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The anterior limb of the internal capsule is supplied by the artery of Huebner (from the anterior cerebral artery)",
+          answer: "True",
+
+          response: "",
+          explanation: "the anterior choroidal artery supplies the posterior limb and the genu is supplied by the lenticulostriate arteries",
+        },
+        {
+          text: "The white matter above the lateral ventricle is known as the corona radiata",
+          answer: "False",
+
+          response: "",
+          explanation: "this is the centrum semiovale",
+        },
+        {
+          text: "The corticospinal ﬁbres are found in the anterior limb of the internal capsule",
+          answer: "False",
+
+          response: "",
+          explanation: "they are found in the posterior limb, corticobulbar ﬁbers are present in the genu",
+        },
+      ],
+    },
+    {
+      questionNumber: 30,
+      stem: "Regarding the cerebral hemispheres",
+      options: [
+        {
+          text: "The corpus callosum is the largest of the commissural tracts",
+          answer: "True",
+
+          response: "",
+          explanation: "others are the projection ﬁbers and association ﬁbers",
+        },
+        {
+          text: "The forceps major are the ﬁbres into the frontal white matter from the corpus callosum",
+          answer: "False",
+
+          response: "",
+          explanation: "forceps minor into frontal white matter and forceps major into occipital lobes from the corpus callosum, respectively",
+        },
+        {
+          text: "The central sulcus (Rolandic ﬁssure) separates the frontal and parietal lobes",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The parieto-occipital ﬁssure runs obliquely on the medial aspect of each hemisphere",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The sylvian or lateral ﬁssure separates the inferior surface of the frontal lobe and the superior surface of the temporal lobe",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+      ],
+    },
+    {
+      questionNumber: 31,
+      stem: "Regarding the limbic system",
+      options: [
+        {
+          text: "It includes the limbic lobe, olfactory apparatus and the septal areas",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The limbic lobe can be divided into a large limbic gyrus and two slender intra-limbic gyri",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The limbic gyrus includes the subcallosal gyrus and the cingulate gyrus",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The parahippocampal gyrus forms part of the mesial temporal lobe",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The hippocampus lies in the roof of the temporal horn of the lateral ventricles",
+          answer: "False",
+
+          response: "",
+          explanation: "it lies in the ﬂoor of the temporal horn of the lateral ventricles",
+        },
+      ],
+    },
+    {
+      questionNumber: 32,
+      stem: "Regarding the cerebral ventricles",
+      options: [
+        {
+          text: "They contain between 20 and 25 ml of cerebrospinal ﬂuid in the young adult",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The lateral ventricles are roofed by the ﬁbres of the corpus callosum",
+          answer: "True",
+
+          response: "",
+          explanation: "the choroid plexus is invaginated into the medial walls of the lateral ventricles and into the roofs of the third and fourth ventricles through the choroidal ﬁssure",
+        },
+        {
+          text: "Septum pellucidum separates the anterior horns and bodies of the lateral ventricles",
+          answer: "True",
+
+          response: "",
+          explanation: "it is a midline triangular sheet attached above and anteriorly to the corpus callosum and posteriorly to the fornix",
+        },
+        {
+          text: "Persistent cavum septum pellucidum is found in approximately 10% of adults",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The cavum vergae is a continuation of the cavum septum pellucidum beneath the splenium",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+      ],
+    },
+    {
+      questionNumber: 33,
+      stem: "Regarding the ventricles and basal cisterns",
+      options: [
+        {
+          text: "The trigone of the lateral ventricle is the conﬂuence of the body, occipital and temporal horns",
+          answer: "True",
+
+          response: "",
+          explanation: "the choroid plexuses of the lateral ventricle are here and almost invariably calcify and appear as high attenuation structures on CT",
+        },
+        {
+          text: "Calciﬁcation of the choroid plexus is more common on the lateral skull radiograph than on CT",
+          answer: "False",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The velum interpositum is a cisternal space above the fornix",
+          answer: "False",
+
+          response: "",
+          explanation: "a cisternal space below the fornix formed by infolding of the tela choroidea",
+        },
+        {
+          text: "The internal cerebral veins are located in the quadrigeminal plate cistern",
+          answer: "False",
+
+          response: "",
+          explanation: "they are in the cistern of the velum interpositum",
+        },
+        {
+          text: "The cavum vergae extends anterior to the foramen of Monro above the fornix",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+      ],
+    },
+    {
+      questionNumber: 34,
+      stem: "Regarding the fourth ventricle",
+      options: [
+        {
+          text: "In sagittal section it is triangular with an anterior ﬂoor and a roof directed to the apex",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The upper part of the roof is formed by the superior cerebellar peduncles",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The cerebrospinal ﬂuid ﬂows cranially from the fourth to the third ventricles",
+          answer: "False",
+
+          response: "",
+          explanation: "caudally through the third and fourth ventricles",
+        },
+        {
+          text: "CSF ﬂows out into the basal cisterns",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "Intraventricular tumours spread through the foramen of Luschka into the subarachnoid spaces",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+      ],
+    },
+    {
+      questionNumber: 35,
+      stem: "Regarding the subarachnoid cisterns",
+      options: [
+        {
+          text: "The cisterna magna lies between the pons and the postero-inferior surface of the cerebellum",
+          answer: "False",
+
+          response: "",
+          explanation: "between the medulla and the postero-inferior surface of the cerebellum",
+        },
+        {
+          text: "The cisterna magna is continuous below with the spinal subarachnoid space",
+          answer: "True",
+
+          response: "",
+          explanation: "and receives CSF from the fourth ventricle via the foramen of Magendie and Luschka",
+        },
+        {
+          text: "The cisterna magna contains the vertebral, posterior inferior cerebellar arteries through its lateral part",
+          answer: "True",
+
+          response: "",
+          explanation: "it also contains the ninth, tenth and eleventh nerves",
+        },
+        {
+          text: "The basilar artery lies in the pontine cistern",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The ambient cistern surrounds the midbrain and transmits the posterior cerebral and superior cerebellar arteries",
+          answer: "True",
+
+          response: "",
+          explanation: "and the basal veins of Rosenthal and the trochlear nerve",
+        },
+      ],
+    },
+    {
+      questionNumber: 36,
+      stem: "Regarding the subarachnoid cisterns",
+      options: [
+        {
+          text: "The chiasmatic or suprasellar cistern contains the circle of Willis",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The chiasmatic cistern leads posteriorly to the interpedencular cistern",
+          answer: "True",
+
+          response: "",
+          explanation: "these contain the terminal basilar artery with branches and the occulomotor nerves. Blood within the cistern may be the only evidence of a subarachnoid haemorrhage",
+        },
+        {
+          text: "The cistern of the great cerebral vein is the quadrigeminal cistern",
+          answer: "True",
+
+          response: "",
+          explanation: "this lies adjacent to the superior surface of the cerebellum and extends superiorly around the splenium of the corpus callosum. It contains the posterior cerebral, posterior choroidal and superior cerebellar arteries and the trochlear nerve",
+        },
+        {
+          text: "The conﬂuence of the vein of Galen and inferior sagittal sinuses occur in the quadrigeminal cistern",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The pericallosal artery runs in the cistern of the lamina terminalis",
+          answer: "False",
+
+          response: "",
+          explanation: "it runs in the callosal cistern and the anterior communicating artery runs in the cistern of the lamina terminalis",
+        },
+      ],
+    },
+    {
+      questionNumber: 37,
+      stem: "Regarding the intracranial circulation",
+      options: [
+        {
+          text: "When present, the trigeminal artery arises from the vertebral artery",
+          answer: "False",
+
+          response: "",
+          explanation: "arises from the internal carotid artery, and represents the embryonic connection between the carotid and basilar arteries which rarely persist into adulthood",
+        },
+        {
+          text: "The internal carotid artery is the larger of the two terminal branches of the common carotid artery",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The internal carotid enters the cranial cavity via the carotid canal in the petrous bone",
+          answer: "True",
+
+          response: "",
+          explanation: "it runs approximately horizontally and anteromedially across the upper half of the foramen lacerum, turns upwards and medially to enter the posterior part of the cavernous sinus",
+        },
+        {
+          text: "The internal carotid artery enters the subarachnoid space just inferomedial to the posterior clinoid process",
+          answer: "False",
+
+          response: "",
+          explanation: "inferomedial to the anterior clinoid process",
+        },
+        {
+          text: "The internal carotid artery terminates into its major branches just medial to the optic chiasm",
+          answer: "False",
+
+          response: "",
+          explanation: "just lateral to the optic chiasm",
+        },
+      ],
+    },
+    {
+      questionNumber: 38,
+      stem: "Regarding the intracranial circulation",
+      options: [
+        {
+          text: "The carotid siphon is the fusiform dilatation at the origin of the common carotid artery",
+          answer: "False",
+
+          response: "",
+          explanation: "this is the U-shaped loop formed by the cavernous and immediately supra cavernous portions of the internal carotid artery (contrast to carotid body)",
+        },
+        {
+          text: "The ophthalmic artery is the ﬁrst supraclinoid branch of the internal carotid artery",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The anterior choroidal artery arises distal to the posterior communicating artery",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The internal carotid artery terminates below the anterior perforated substance by dividing into the anterior and middle cerebral arteries",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The T-shape bifurcation into anterior and middle cerebral arteries lies in the direct coronal plane",
+          answer: "False",
+
+          response: "",
+          explanation: "this is directed posterolaterally and necessitates an oblique projection to display the tuning fork-like arrangement of the anterior and middle cerebral arteries enface",
+        },
+      ],
+    },
+    {
+      questionNumber: 39,
+      stem: "Regarding the circle of Willis",
+      options: [
+        {
+          text: "It is in the suprasellar cistern",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The circle of Willis is complete in the majority of individuals",
+          answer: "False",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "Intracranial cross ﬂow of contrast agent can be tested by manual compression of one cervical carotid artery, while the other is injected with contrast medium",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The pre-communicating (A1) segment of the anterior cerebral artery may be hypoplastic",
+          answer: "True",
+
+          response: "",
+          explanation: "its distal territory in that case is supplied by the contralateral anterior cerebral artery via the anterior communicating artery",
+        },
+        {
+          text: "The largest of the perforating medial lenticulostriate branches is the Heubner’s recurrent artery usually arising from the proximal A2 segment",
+          answer: "True",
+
+          response: "",
+          explanation: "this supplies the anterior limb of the internal capsule and parts of the caudate nucleus and globus pallidus",
+        },
+      ],
+    },
+    {
+      questionNumber: 40,
+      stem: "Regarding the intracranial circulation",
+      options: [
+        {
+          text: "The middle cerebral artery runs laterally through the Sylvian ﬁssure",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The anterior cerebral arteries lie in close proximity to each other in the interhemispheric ﬁssure",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The right and left posterior cerebral arteries are the ﬁrst branches of the basilar artery",
+          answer: "False",
+
+          response: "",
+          explanation: "the basilar artery terminates by dividing into these",
+        },
+        {
+          text: "The thalamostriate arteries are branches of the middle cerebral artery that supply the majority of the thalamus",
+          answer: "False",
+
+          response: "",
+          explanation: "branches of the posterior cerebral artery",
+        },
+        {
+          text: "The lateral surfaces of the frontal lobes are supplied by the anterior cerebral artery",
+          answer: "False",
+
+          response: "",
+          explanation: "most of the lateral surfaces of the hemispheres are supplied by the frontal, parietal, angular, superior temporal branches of the middle cerebral arteries from which they arise in the insular",
+        },
+      ],
+    },
+    {
+      questionNumber: 41,
+      stem: "Regarding the anatomic variants of the intracranial circulation",
+      options: [
+        {
+          text: "The commonest variation of the circle of Willis involves the posterior communicating artery",
+          answer: "True",
+
+          response: "",
+          explanation: "this vessel may be small in 22%, or may be large and associated with a reduced size of the proximal part of the ipsilateral posterior cerebral arteries and receives its supply from the middle cerebral artery in 15%. This is the fetal posterior communicating artery",
+        },
+        {
+          text: "The hypoplastic anterior communicating artery may occur in 15–20% of individuals",
+          answer: "False",
+
+          response: "",
+          explanation: "3%",
+        },
+        {
+          text: "Both anterior cerebral vessels may be supplied from one side in 2% of individuals",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The azygos artery runs in the interhemispheric fissure",
+          answer: "True",
+
+          response: "",
+          explanation: "the azygos artery is formed when the anterior cerebral arteries fuse approximately to form a single trunk in-between the hemispheres before dividing near the genu of the corpus callosum",
+        },
+        {
+          text: "The trigeminal artery may arise from the middle meningeal artery to supply the trigeminal and facial ganglia",
+          answer: "False",
+
+          response: "",
+          explanation: "this represents embryonic connections between the carotid and basilar arteries, which rarely persist into adulthood. The trigeminal artery, the commonest of these, arises from the internal carotid artery just before it enters the cavernous sinus and passes lateral to the dorsum sella to the upper basilar artery",
+        },
+      ],
+    },
+    {
+      questionNumber: 42,
+      stem: "Regarding the intracranial venous anatomy",
+      options: [
+        {
+          text: "The cortical veins are usually variable",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The superior sagittal sinus is roughly circular in cross-section",
+          answer: "False",
+
+          response: "",
+          explanation: "triangular in cross-section – hence a non-enhancing thrombus in this sinus gives the ‘empty triangle’ or ‘empty delta’ sign. The sinus usually begins near the crista galli, increases in size from the front backwards; it may not develop anterior to the coronal suture and mimics occlusion in this region",
+        },
+        {
+          text: "Most of the flow in the superior sagittal sinus is directed to the left transverse sinus",
+          answer: "False",
+
+          response: "",
+          explanation: "most of the ﬂow is directed to the right transverse sinus. From the deep venous system blood ﬂows into the left transverse sinus",
+        },
+        {
+          text: "Valves in the superior sagittal sinus may be mistaken for thrombus",
+          answer: "False",
+
+          response: "",
+          explanation: "the dural sinuses are valveless, trabeculated venous channels. Arachnoid granulations may appear as ﬁlling defects and cause confusion",
+        },
+        {
+          text: "The superior sagittal sinus may bifurcate well above its normal termination at the internal occipital protuberance",
+          answer: "True",
+
+          response: "",
+          explanation: "the intervening space is mistaken for non-enhancing thrombus – false-positive empty triangle or empty delta sign",
+        },
+      ],
+    },
+    {
+      questionNumber: 43,
+      stem: "Regarding the dural venous sinuses",
+      options: [
+        {
+          text: "The sigmoid sinuses are a continuation of the transverse sinuses on each side",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "Prominent arachnoid granulations may show up as intraluminal filling defects in the transverse sinus",
+          answer: "True",
+
+          response: "",
+          explanation: "there may be larger ‘cavernous nodules’ which may be seen as intraluminal ﬁlling defects",
+        },
+        {
+          text: "Erosive changes in the marginal petrous bone adjacent to the sigmoid sinus may be a normal variant",
+          answer: "True",
+
+          response: "",
+          explanation: "this may be due to the pseudoerosive changes, and normal petromastoid aeration is a useful guide to this variant",
+        },
+        {
+          text: "An occipital sinus is in the midline running from the foramen magnum towards the torcula",
+          answer: "True",
+
+          response: "",
+          explanation: "the sinus is not usually identiﬁed at angiography. At the foramen magnum, it anastomoses with the marginal sinuses",
+        },
+        {
+          text: "The intercavernous sinuses are situated on either side of the pituitary fossa",
+          answer: "False",
+
+          response: "",
+          explanation: "the paired cavernous sinuses are situated in the side of the pituitary fossa and they connect with each other through the intercavernous sinuses",
+        },
+      ],
+    },
+    {
+      questionNumber: 44,
+      stem: "Regarding the cavernous sinus",
+      options: [
+        {
+          text: "It receives the superior and inferior ophthalmic veins",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "They communicate with the transverse sinuses via the inferior petrosal sinus on each side",
+          answer: "False",
+
+          response: "",
+          explanation: "via the superior petrosal sinus on each side",
+        },
+        {
+          text: "The internal carotid artery pursues an S-shaped course through the sinus before piercing its dural roof",
+          answer: "True",
+
+          response: "",
+          explanation: "the internal carotid artery pierces the dural roof of the cavernous sinus medial to the anterior clinoid process",
+        },
+        {
+          text: "The third, fourth and divisions of the fifth cranial nerve run in separate dural tunnels in the lateral wall of the sinus",
+          answer: "False",
+
+          response: "",
+          explanation: "they run in a common dural tunnel in the lateral wall of the sinus to reach the superior orbital ﬁssure",
+        },
+        {
+          text: "The abducent nerve lies inferior to the maxillary nerve in the cavernous sinus",
+          answer: "False",
+
+          response: "",
+          explanation: "it lies free within the sinus applied to the lateral wall of the internal carotid artery",
+        },
+      ],
+    },
+    {
+      questionNumber: 45,
+      stem: "Regarding the venous sinuses",
+      options: [
+        {
+          text: "Meckel’s cave is a dural recess anterior to the cavernous sinus",
+          answer: "False",
+
+          response: "",
+          explanation: "this is posterior to the cavernous sinus and is occupied by the trigeminal ganglion",
+        },
+        {
+          text: "The sphenoparietal sinus is a medial extension of the Sylvian vein",
+          answer: "True",
+
+          response: "",
+          explanation: "the Sylvian vein or the superﬁcial middle cerebral vein forms an arc along the surface of the Sylvian ﬁssure and is continuous with the sphenoparietal sinus",
+        },
+        {
+          text: "The inferior petrosal sinus drains the cavernous sinus into the transverse sinus",
+          answer: "False",
+
+          response: "",
+          explanation: "into the jugular bulb, which is a focal dilatation of the internal jugular vein at the jugular foramen",
+        },
+        {
+          text: "The superior anastomotic vein of Trolard runs from the superficial middle cerebral (Sylvian) vein to the superior sagittal sinus",
+          answer: "True",
+
+          response: "",
+          explanation: "the inferior anastomotic vein of Labbe connects the superﬁcial middle cerebral vein with the transverse sinuses",
+        },
+        {
+          text: "The venous angle is where the great cerebral vein joins the inferior sagittal and straight sinuses",
+          answer: "False",
+
+          response: "",
+          explanation: "the venous angle is the conﬂuence of the thalamostriate and septal veins behind the interventricular foramen of Munro to form the internal cerebral vein",
+        },
+      ],
+    },
+    {
+      questionNumber: 46,
+      stem: "Regarding the vertebrobasilar arterial system",
+      options: [
+        {
+          text: "The most proximal and largest branch of the vertebral artery is the posterior inferior cerebellar artery",
+          answer: "False",
+
+          response: "",
+          explanation: "this is the largest and most distal branch",
+        },
+        {
+          text: "The anterior inferior cerebellar artery arises from the distal end of the vertebral artery",
+          answer: "False",
+
+          response: "",
+          explanation: "this is a branch of the basilar artery",
+        },
+        {
+          text: "The superior cerebellar artery is related to the oculomotor nerve",
+          answer: "True",
+
+          response: "",
+          explanation: "this is a branch of the basilar artery near to its terminal division and comes to lie inferior to the oculomotor nerve, which separates it from the posterior cerebral artery",
+        },
+        {
+          text: "The pre-communicating (P1) segment of the posterior cerebral artery extends from the basilar bifurcation to the origin of the inferior temporal artery",
+          answer: "False",
+
+          response: "",
+          explanation: "the P1 segment extends from the basilar bifurcation to the origin of the posterior communicating artery. The thalamic perforating arteries, which arise from both the P1 segments and the posterior communicating artery, give extensive supply to the thalamus, hypothalamus, the third nerve, and the fourth nerve and to the internal capsule",
+        },
+        {
+          text: "The ambient segment (P2) of the posterior cerebral artery courses around the cerebral peduncles above the tentorium",
+          answer: "True",
+
+          response: "",
+          explanation: "the P2 segment may be compressed against the tentorial edge when there is uncal pressure on the midbrain in the event of raised intracranial pressure. Therefore, infarction of the occipital lobe is a recognized consequence",
+        },
+      ],
+    },
+    {
+      questionNumber: 47,
+      stem: "Regarding imaging methods of the eye and orbit",
+      options: [
+        {
+          text: "Soft tissue structures of the orbit are shown well on CT",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The bony orbit and optic canal together with the adjacent osseous structures are best shown by MRI",
+          answer: "False",
+
+          response: "",
+          explanation: "these are best shown by ﬁne section, bone algorithm CT. Plain ﬁlms may show major fractures. Contents of the optic canal can be shown only by MRI",
+        },
+        {
+          text: "The posterior segment of the optic nerve is satisfactorily shown by sonography",
+          answer: "False",
+
+          response: "",
+          explanation: "the anterior part of the optic nerve can be shown by sonography, but CT or MRI is required for demonstration of the posterior segments. MRI reliably shows the internal structure of the non-expanded nerve and sheath",
+        },
+        {
+          text: "Dacryocystography is usually done with injection of contrast medium into the superior canaliculi",
+          answer: "False",
+
+          response: "",
+          explanation: "usually the inferior canaliculi",
+        },
+        {
+          text: "Fat suppression sequences on MRI are rarely helpful",
+          answer: "False",
+
+          response: "",
+          explanation: "",
+        },
+      ],
+    },
+    {
+      questionNumber: 48,
+      stem: "Regarding the orbit",
+      options: [
+        {
+          text: "Zygoma forms part of the medial wall",
+          answer: "False",
+
+          response: "",
+          explanation: "the medial wall is formed from front to back by the following: the frontal process of the maxilla, the nasal bone, the lacrimal bone, the orbital plate of the maxilla, the ethmoid bone, the frontal bone, and at the apex the sphenoid bone contributes a small portion",
+        },
+        {
+          text: "The triangular floor of the orbit is formed only by the orbital process of the maxillary bones",
+          answer: "False",
+
+          response: "",
+          explanation: "this is formed from medial to lateral by the orbital plate of the maxilla and the zygomatic bone",
+        },
+        {
+          text: "The inferior orbital fissure separates the floor and the medial wall of the orbit",
+          answer: "False",
+
+          response: "",
+          explanation: "this separates the lateral wall from the ﬂoor of the orbit",
+        },
+        {
+          text: "The lateral wall of the orbit is formed by the zygomatic bone and more posteriorly by the greater wing of the sphenoid",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The superior wall or roof is formed by the orbital plate of the frontal bone and the lesser wing of the sphenoid",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+      ],
+    },
+    {
+      questionNumber: 49,
+      stem: "Regarding the orbit",
+      options: [
+        {
+          text: "The optic canal is formed by the two roots of the lesser wing of the sphenoid bone",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The superior orbital fissure is a triangular slit between the greater and lesser wings of sphenoid",
+          answer: "True",
+
+          response: "",
+          explanation: "this transmits the ﬁrst division of the ﬁfth and third, fourth and sixth cranial nerves as well as the ophthalmic veins and the branch of the middle meningeal artery",
+        },
+        {
+          text: "The medial ends of the inferior and superior orbital fissures are closely related",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The inferior orbital fissure transmits a branch of the maxillary division of the fifth cranial nerve from the middle cranial fossa",
+          answer: "False",
+
+          response: "",
+          explanation: "it transmits this nerve after it has passed from the middle cranial fossa into the pterygopalatine fossa via the foramen rotundum",
+        },
+        {
+          text: "The inferior orbital fissure extends from the middle cranial fossa into the orbit",
+          answer: "False",
+
+          response: "",
+          explanation: "the inferior orbital ﬁssure anteriorly forms an opening between the orbital cavity and the infra temporal fossa. More posteriorly it forms an opening between the orbit and the pterygopalatine fossa",
+        },
+      ],
+    },
+    {
+      questionNumber: 50,
+      stem: "Regarding the eye",
+      options: [
+        {
+          text: "The lacrimal artery may give rise to a recurrent branch which communicates with the middle meningeal artery",
+          answer: "True",
+
+          response: "",
+          explanation: "this is important because embolization of the middle meningeal artery can endanger the territory of the ophthalmic artery, which gives rise to the lacrimal artery",
+        },
+        {
+          text: "The intra-orbital segment of the optic nerve is the shortest portion of the nerve",
+          answer: "False",
+
+          response: "",
+          explanation: "it is the longest of the four segments, which are intra-ocular, intra-orbital, intracanalicular, and intracranial. It measures about 3 cm in length",
+        },
+        {
+          text: "Fat from the orbit may extend posteriorly into the cavernous sinus",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "Direct spread of tumour and infection from the sphenoid sinus to the optic canal may occur",
+          answer: "True",
+
+          response: "",
+          explanation: "the periosteum of the optic canal may be in direct contact with that of the sphenoid sinus",
+        },
+        {
+          text: "The blood supply to the optic chiasm is through the basilar artery",
+          answer: "False",
+
+          response: "",
+          explanation: "it is through the anterior cerebral and internal carotid artery. The posterior cerebral artery gives branches to the lateral geniculate body, lower fibers of optic radiation, and visual cortex. The middle cerebral artery gives branches to the upper fibers of optic radiations and inconsistently to the occipital poles",
+        },
+      ],
+    },
+    {
+      questionNumber: 51,
+      stem: "Regarding imaging methods of the ear",
+      options: [
+        {
+          text: "High resolution computerised tomography (HRCT) is the examination of choice for the contents of the internal auditory meatus",
+          answer: "False",
+
+          response: "",
+          explanation: "MRI is the examination of choice for the contents of the internal auditory meatus and the cerebellopontine angles cistern",
+        },
+        {
+          text: "HRCT is the technique of choice to look at the anatomy of the petrous temporal bone",
+          answer: "True",
+
+          response: "",
+          explanation: "MRI gives complementary information of the surrounding soft tissue structures including the facial and auditory nerves",
+        },
+        {
+          text: "Contrast-enhanced CT is the technique of choice to image the cranial nerves in the cerebellopontine angle cistern",
+          answer: "False",
+
+          response: "",
+          explanation: "MRI",
+        },
+        {
+          text: "Tomography should be used to assess the contour of the internal auditory canal",
+          answer: "False",
+
+          response: "",
+          explanation: "superseded by CT and MRI",
+        },
+        {
+          text: "The whole of the inner ear labyrinth is adequately demonstrated by HRCT",
+          answer: "False",
+
+          response: "",
+          explanation: "the bony labyrinth of the inner ear is demonstrated by HRCT, and the membranous labyrinth is shown by MRI",
+        },
+      ],
+    },
+    {
+      questionNumber: 52,
+      stem: "Regarding the development and anatomy of the ear",
+      options: [
+        {
+          text: "After birth the inner ear continues to grow and attains adult proportions by 2 years of age",
+          answer: "False",
+
+          response: "",
+          explanation: "the inner ear is essentially of adult size and form at birth",
+        },
+        {
+          text: "The bony labyrinth of the inner ear is the last structure of the cranium to ossify after birth",
+          answer: "False",
+
+          response: "",
+          explanation: "at birth, the bony labyrinth is the only part of the cranium to have ossified fully",
+        },
+        {
+          text: "Congenital variants of the middle and inner ear are usually associated",
+          answer: "False",
+
+          response: "",
+          explanation: "the pinna, external auditory meatus, and middle ear appear around the eighth week of gestation and arise from the first and second branchial arches. The inner ear develops with the formation of the optic capsule at about the third week of gestation. Therefore, congenital anomalies of the external ear and middle ear are commonly associated, and those of the inner ear are usually isolated",
+        },
+        {
+          text: "The lateral two-thirds of the external auditory meatus is cartilaginous",
+          answer: "False",
+
+          response: "",
+          explanation: "the lateral one-third is cartilaginous, and the medial two-thirds are osseous",
+        },
+        {
+          text: "The tympanic membrane is embedded in the bone of the tympanic ring",
+          answer: "True",
+
+          response: "",
+          explanation: "The superior portion of this ring is known as the scutum and is the lateral wall of the epitympanum",
+        },
+      ],
+    },
+    {
+      questionNumber: 53,
+      stem: "Regarding the middle ear and mastoid",
+      options: [
+        {
+          text: "The middle ear is housed in the petrous bone with the tympanic membrane laterally and inner ear medially",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The middle ear is divided into three divisions in the coronal plane",
+          answer: "True",
+
+          response: "",
+          explanation: "the superior epitympanum or attic is separated by a thin layer of bone called tegmen tympanum from the middle cranial fossa. The mesotympanum and hypotympanum are the middle and inferior divisions which are formed by lines drawn along the superior and inferior margins of the external auditory meatus",
+        },
+        {
+          text: "The aditus ad antrum is a communication from the attic of the middle ear to the middle cranial fossa",
+          answer: "False",
+
+          response: "",
+          explanation: "this is a communication between the attic and the mastoid air cells and is of importance as middle ear infection may spread to the mastoid air cells, which are related posterior to the sigmoid sinus and cerebellum in the posterior cranial fossa",
+        },
+        {
+          text: "The promontory overlies the basal turn of the cochlea",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The oval window is behind and below the promontory",
+          answer: "False",
+
+          response: "",
+          explanation: "the oval window into which the base of the stapes inserts is above and behind the promontory. The round window, which is covered by membrane, is below and behind the promontory",
+        },
+      ],
+    },
+    {
+      questionNumber: 54,
+      stem: "Regarding the middle ear",
+      options: [
+        {
+          text: "The ossicular chain of malleus, incus and stapes connect the tympanic membrane with the round window",
+          answer: "False",
+
+          response: "",
+          explanation: "connect the ossicles with the oval window",
+        },
+        {
+          text: "The head of the malleus and the incudomalleal articulation are situated in the mesotympanum",
+          answer: "False",
+
+          response: "",
+          explanation: "they are in the epitympanic recess",
+        },
+        {
+          text: "The incus lies posterior to the malleus",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The incudomalleal and incudostapedial joints have synovial articulation",
+          answer: "True",
+
+          response: "",
+          explanation: "they are less prone to those diseases affecting synovial joints elsewhere in the body",
+        },
+        {
+          text: "The Eustachian tube opens into the inner ear",
+          answer: "False",
+
+          response: "",
+          explanation: "the lower part of the middle ear continues inferiorly with the Eustachian tube, which opens into the lateral wall of the nasal pharynx. This is bony at first and cartilaginous in its lower portion",
+        },
+      ],
+    },
+    {
+      questionNumber: 55,
+      stem: "Regarding the inner ear",
+      options: [
+        {
+          text: "The membranous labyrinth surrounds the bony labyrinth of the inner ear",
+          answer: "False",
+
+          response: "",
+          explanation: "the bony labyrinth surrounds the membranous labyrinth",
+        },
+        {
+          text: "The cochlea contains the organ of Corti",
+          answer: "True",
+
+          response: "",
+          explanation: "concerned with the reception of sound",
+        },
+        {
+          text: "Each semi-circular canal is at about 45° to the other",
+          answer: "False",
+
+          response: "",
+          explanation: "at right angles to the others, and the anterior and posterior canals lie in the vertical plane",
+        },
+        {
+          text: "The membranous labyrinth is concerned with equilibrium",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The membranous labyrinth is of high signal intensity on T1-weighted MRI",
+          answer: "False",
+
+          response: "",
+          explanation: "this contains fluid; therefore, it has high signal intensity on T2-weighted MRI. The saccule and utricle situated anteriorly and posteriorly within the vestibule cannot be resolved separately by MRI",
+        },
+      ],
+    },
+    {
+      questionNumber: 56,
+      stem: "Regarding the internal auditory meatus",
+      options: [
+        {
+          text: "The anterior wall of the internal auditory canal is shorter than the posterior",
+          answer: "False",
+
+          response: "",
+          explanation: "the opposite is true",
+        },
+        {
+          text: "The facial and vestibulocochlear nerves in the internal auditory meatus are best studied using T1-weighted MRI",
+          answer: "False",
+
+          response: "",
+          explanation: "the meatus contains cerebrospinal fluid, is lined completely with dura and pia-arachnoid, and transmits the facial and vestibulocochlear nerves and the labyrinthine artery, which enter its medial opening into the posterior fossa, the porus acousticus. In the majority of cases studied with axial high-resolution T2-weighted MRI, the facial nerve can be seen separately anterior to the vestibulocochlear nerve",
+        },
+        {
+          text: "The crista falciformis divides the internal auditory meatus vertically into two compartments",
+          answer: "False",
+
+          response: "",
+          explanation: "the internal auditory meatus is divided by the horizontal crista falciformis and vertical crests into four compartments. The facial nerve and the intermediate nerve occupy the anterosuperior quadrant. The cochlear branch of the vestibulocochlear nerve occupies the antero-inferior quadrant. The superior and inferior vestibular branches of the vestibulocochlear nerve are found in the posterior quadrant",
+        },
+        {
+          text: "The lamina cribrosa is at the medial end of the internal auditory meatus",
+          answer: "False",
+
+          response: "",
+          explanation: "the lamina cribrosa is at the lateral end of the internal auditory meatus through which the facial nerve passes to enter the facial canal and the vestibulocochlear nerve, which gives branches to the cochlea and vestibule",
+        },
+        {
+          text: "The facial and vestibulocochlear nerves may form a single bundle as they cross the cerebellopontine angle cistern",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+      ],
+    },
+    {
+      questionNumber: 57,
+      stem: "Regarding the facial (seventh) nerve",
+      options: [
+        {
+          text: "The intermediate nerve of the facial nerve is the large motor root",
+          answer: "False",
+
+          response: "",
+          explanation: "the facial nerve has a large motor and a small sensory root, which is the intermediate nerve. This is too small to be identified either by cisternography or MRI",
+        },
+        {
+          text: "The ﬁrst labyrinthine segment of the facial nerve extends anteromedially from the internal auditory meatus",
+          answer: "False",
+
+          response: "",
+          explanation: "the first segment of the facial nerve extends anterolaterally from the internal auditory meatus",
+        },
+        {
+          text: "The greater superﬁcial petrosal nerve arises from the geniculate ganglion",
+          answer: "True",
+
+          response: "",
+          explanation: "it carries secretomotor fibers to the lacrimal gland and takes fibers to the palate",
+        },
+        {
+          text: "The ﬁrst genu of the facial nerve is directed posteriorly from the geniculate ganglion",
+          answer: "True",
+
+          response: "",
+          explanation: "the tympanic segment passes along the medial wall of the tympanic cavity beneath the lateral semicircular canal. Therefore, this part of the facial nerve is vulnerable to inflammatory disease of the middle ear. Coronal CT through the cochlea shows the facial canal twice to produce 'snake's eyes' appearance of the facial nerve above the cochlea",
+        },
+        {
+          text: "The mastoid segment is a continuation from the second genu of the facial nerve",
+          answer: "True",
+
+          response: "",
+          explanation: "the mastoid segment is directed inferiorly, and the nerve emerges from the skull base through the styloid foramen. This nerve transmits taste fibers from the anterior two-thirds of the tongue to the lingual nerve and the motor fibers to the submandibular and sublingual gland",
+        },
+      ],
+    },
+    {
+      questionNumber: 58,
+      stem: "Regarding the cerebellopontine angle cistern",
+      options: [
+        {
+          text: "The ﬂocculus of the cerebellum forms the anterior boundary",
+          answer: "False",
+
+          response: "",
+          explanation: "the cerebellopontine angle cistern is bounded by the posterior surface of the petrous bone laterally, the pons medially and the ﬂocculus of the cerebellum posteriorly",
+        },
+        {
+          text: "The facial and vestibulocochlear nerves lie here",
+          answer: "True",
+
+          response: "",
+          explanation: "the ﬂocculus lies closely to the anterior/inferior cerebellar artery and may become hyperdense in comparison with the remainder of the cerebellum. This should not be mistaken for an acoustic neurinoma",
+        },
+        {
+          text: "It is roughly triangular in shape in the axial plane",
+          answer: "True",
+
+          response: "",
+          explanation: "the other structures in this cistern are the seventh, eighth cranial nerves, the anterior/inferior cerebellar artery and the trigeminal nerve",
+        },
+        {
+          text: "The labyrinthine artery may enter the internal auditory meatus",
+          answer: "True",
+
+          response: "",
+          explanation: "the labyrinthine artery arises from the meatal loop of the anterior inferior cerebellar artery. On contrast-enhanced CT this may be mistaken for an acoustic neurinoma",
+        },
+        {
+          text: "The anterior inferior cerebellar artery forms a meatal loop",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+      ],
+    },
+    {
+      questionNumber: 59,
+      stem: "Regarding surface anatomy",
+      options: [
+        {
+          text: "The nasion overlies the suture between the frontal and ethmoid bones",
+          answer: "False",
+
+          response: "",
+          explanation: "the nasion overlies the suture between the frontal and nasal bones",
+        },
+        {
+          text: "A line joining the parietal eminence on each side forms the smallest transverse diameter of the skull",
+          answer: "False",
+
+          response: "",
+          explanation: "the line joining each parietal eminence forms the greatest transverse diameter of the skull",
+        },
+        {
+          text: "The inion is the point lateral to the tip of the external occipital protuberance",
+          answer: "False",
+
+          response: "",
+          explanation: "the inion is the point on the tip of the external occipital protruberance in the midline",
+        },
+        {
+          text: "The lambda represents the posterior fontanelle in the newborn and is at the junction of the sagittal and lambdoid sutures",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The coronoid process of the mandible can be felt in front of the tragus",
+          answer: "False",
+
+          response: "",
+          explanation: "the condyloid process lies in front of the tragus and moves forwards and downwards if the mouth is opened. The coronoid process can be identiﬁed by placing a ﬁnger in the angle between the zygomatic arch and the masseter muscle",
+        },
+      ],
+    },
+    {
+      questionNumber: 60,
+      stem: "Regarding the anatomy of the head and neck",
+      options: [
+        {
+          text: "The parotid duct can be rolled across the anterior border of the masseter muscle just below the zygomatic bone, with teeth clenched",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The orifice of the parotid duct can be seen within the mouth at the level of the second upper premolar tooth",
+          answer: "False",
+
+          response: "",
+          explanation: "the oriﬁce of the parotid duct can be seen opposite the upper second molar tooth",
+        },
+        {
+          text: "The mental foramen is found at the level of the two premolar teeth",
+          answer: "True",
+
+          response: "",
+          explanation: "the mental foramen is midway between the upper and lower borders of the body of the mandible at the level of the interval between the two premolar teeth",
+        },
+        {
+          text: "The mental branch of the inferior alveolar nerve emerges from the mental foramen",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The sternocleidomastoid has two heads at insertion",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+      ],
+    },
+    {
+      questionNumber: 61,
+      stem: "Concerning vertebral levels",
+      options: [
+        {
+          text: "Atlas and dens of axis lie in the horizontal plane of the open mouth in an AP projection",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The hyoid bone lies at the level of the fifth cervical vertebra",
+          answer: "False",
+
+          response: "",
+          explanation: "third cervical vertebra",
+        },
+        {
+          text: "The lower border of the cricoid cartilage is at the level of the sixth cervical vertebra",
+          answer: "True",
+
+          response: "",
+          explanation: "",
+        },
+        {
+          text: "The upper border of the thyroid lamina is at the level of the fourth cervical vertebra",
+          answer: "True",
+
+          response: "",
+          explanation: "the common carotid artery bifurcates at this level",
+        },
+        {
+          text: "The junction of the pharynx and the esophagus is at the level of the sixth cervical vertebra",
+          answer: "True",
+
+          response: "",
+          explanation: "at this level is the junction of the larynx with the trachea. Also, the vertebral artery usually passes into the foramen transversarium of the cervical vertebra",
+        },
+      ],
+    },
+  ],
 }

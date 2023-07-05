@@ -102,11 +102,10 @@ const handleReset = () => {
 
 <template>
   <div>
-    <!--  <div class="space-y-6">-->
     <div class="flex flex-col sm:flex-row items-center sm:items-start">
       <img
-        src="~/assets/review-of-radiologic-physics/cover.jpg"
-        alt="mcq-companion"
+        src="~/assets/covers/review-of-radiologic-physics.jpg"
+        alt="review-of-radiologic-physics"
         class="w-40"
       />
 
@@ -142,19 +141,16 @@ const handleReset = () => {
                 size="xs"
                 variant="soft"
                 @click="shuffleQuestions"
-              >
-                <UIcon name="i-ic-baseline-shuffle" />
-                Shuffle Questions
-              </UButton>
+                icon="i-ic-baseline-shuffle"
+              />
               <UButton
                 variant="soft"
-                label="Shuffle Questions"
+                label="Shuffle Options"
                 class="flex gap-2"
                 size="xs"
                 @click="shuffleOptions"
-              >
-                <UIcon name="i-ic-baseline-shuffle" /> Shuffle Options
-              </UButton>
+                icon="i-ic-baseline-shuffle"
+              />
             </div>
           </div>
         </div>

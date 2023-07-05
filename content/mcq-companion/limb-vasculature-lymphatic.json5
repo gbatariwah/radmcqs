@@ -5,7 +5,7 @@
   questions: [
       {
         questionNumber: 1,
-        preamble: 'In angiography',
+        stem: 'In angiography',
         options: [
           {
             text: 'The femoral artery is punctured at its point of minimal pulsation, to prevent haematoma formation',
@@ -41,7 +41,7 @@
       },
       {
         questionNumber: 2,
-        preamble: 'In angiography',
+        stem: 'In angiography',
         options: [
           {
             text: 'The Seldinger technique involves passing a catheter through the puncture needle',
@@ -77,7 +77,7 @@
       },
       {
         questionNumber: 3,
-        preamble: 'In the upper chest',
+        stem: 'In the upper chest',
         options: [
           {
             text: 'The right subclavian artery arises directly from the arch of the aorta',
@@ -113,7 +113,7 @@
       },
       {
         questionNumber: 4,
-        preamble: 'Regarding the axillary artery',
+        stem: 'Regarding the axillary artery',
         options: [
           {
             text: 'The subclavian artery continues as the axillary artery at the lateral border of teres major muscle',
@@ -149,7 +149,7 @@
       },
       {
         questionNumber: 5,
-        preamble: 'Regarding the arteries of the forearm and hand',
+        stem: 'Regarding the arteries of the forearm and hand',
         options: [
           {
             text: 'The brachial artery divides into radial and ulnar arteries at the level of the neck of the radius',
@@ -185,7 +185,7 @@
       },
     {
       questionNumber: 6,
-      preamble: 'In the lower abdomen and pelvis',
+      stem: 'In the lower abdomen and pelvis',
       options: [
         {
           text: 'There are no terminal branches to the aorta',
@@ -221,7 +221,7 @@
     },
     {
       questionNumber: 7,
-      preamble: 'In the pelvis and lower abdomen',
+      stem: 'In the pelvis and lower abdomen',
       options: [
         {
           text: 'The superior gluteal artery is a branch of the external iliac artery',
@@ -257,7 +257,7 @@
     },
     {
       questionNumber: 8,
-      preamble: 'In the lower limb',
+      stem: 'In the lower limb',
       options: [
         {
           text: 'The main supply to the trochanteric anastomosis is through the superﬁcial femoral artery',
@@ -293,7 +293,7 @@
     },
     {
       questionNumber: 9,
-      preamble: 'Regarding the veins of the lower limbs and abdomen',
+      stem: 'Regarding the veins of the lower limbs and abdomen',
       options: [
         {
           text: 'Failure of the right subcardinal vein to connect with the liver leads to absence of the IVC',
@@ -329,7 +329,7 @@
     },
     {
       questionNumber: 10,
-      preamble: 'In the lymphatic system',
+      stem: 'In the lymphatic system',
       options: [
         {
           text: 'Lipiodol is retained in lymph nodes for about 12 months',

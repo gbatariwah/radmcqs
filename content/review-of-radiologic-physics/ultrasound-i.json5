@@ -4,7 +4,7 @@
   questions: [
     {
       questionNumber: "17.1",
-      preamble: "Sound waves most likely contain varying values of",
+      stem: "Sound waves most likely contain varying values of",
       options: ["Pressures", "Forces", "Velocities", "Voltages"],
       answer: "Pressures",
       explanation: "Sound waves have varying pressures along the wave, which oscillate in time",
@@ -12,7 +12,7 @@
     },
     {
       questionNumber: "17.2",
-      preamble: "Which frequency (MHz) is most likely a harmonic frequency of a 2.5-MHz transducer?",
+      stem: "Which frequency (MHz) is most likely a harmonic frequency of a 2.5-MHz transducer?",
       options: ["2", "4", "5", "6"],
       answer: "5",
       explanation: "5 MHz is twice the transducer frequency (2.5 MHz) and would be the transducer's first harmonic frequency",
@@ -20,7 +20,7 @@
     },
     {
       questionNumber: "17.3",
-      preamble: "Which has the lowest velocity of sound?",
+      stem: "Which has the lowest velocity of sound?",
       options: ["Air", "Fat", "Tissue", "Bone"],
       answer: "Air",
       explanation: "The velocity of sound in air (330 m/second) is lower than tissue (1,540 m/second)",
@@ -28,7 +28,7 @@
     },
     {
       questionNumber: "17.4",
-      preamble: "Amplifying a signal a 100-fold corresponds to a relative signal of (dB)",
+      stem: "Amplifying a signal a 100-fold corresponds to a relative signal of (dB)",
       options: ["+20", "+100", "-20", "-100"],
       answer: "+20",
       explanation: "A decibel value of +20 dB means a signal is 100 times stronger",
@@ -36,7 +36,7 @@
     },
     {
       questionNumber: "17.5",
-      preamble: "Materials with high acoustic impedances likely have a _____ density and a _____ sound velocity",
+      stem: "Materials with high acoustic impedances likely have a _____ density and a _____ sound velocity",
       options: ["High; high", "High; low", "Low; high", "Low; low"],
       answer: "High; high",
       explanation: "High acoustic impedance materials (e.g., bone) have both a high density and a high sound velocity",
@@ -44,7 +44,7 @@
     },
     {
       questionNumber: "17.6",
-      preamble: "Big reflections occur at an interface when the acoustic impedances of the two materials are very",
+      stem: "Big reflections occur at an interface when the acoustic impedances of the two materials are very",
       options: ["Large", "Small", "Similar", "Different"],
       answer: "Different",
       explanation: "Big reflections occur at an interface when the acoustic impedances of the two materials are very different (i.e., acoustic impedance mismatch)",
@@ -52,7 +52,7 @@
     },
     {
       questionNumber: "17.7",
-      preamble: "Echo intensity from a fat/tissue interface is most likely  _____ % of the incident sound intensity",
+      stem: "Echo intensity from a fat/tissue interface is most likely  _____ % of the incident sound intensity",
       options: ["<1", "10", "90", ">99"],
       answer: "<1",
       explanation: "Fat/tissue interfaces reflect very little of the incident sound (<1%) because they have similar acoustic impedances",
@@ -60,7 +60,7 @@
     },
     {
       questionNumber: "17.8",
-      preamble: "Which is unchanged (constant) when a sound beam is refracted?",
+      stem: "Which is unchanged (constant) when a sound beam is refracted?",
       options: [
         "Sound velocity",
         "Wavelength",
@@ -73,7 +73,7 @@
     },
     {
       questionNumber: "17.9",
-      preamble: "Attenuation of ultrasound likely _____ with increasing frequency",
+      stem: "Attenuation of ultrasound likely _____ with increasing frequency",
       options: ["Increases", "Remains constant", "Is reduced"],
       answer: "Increases",
       explanation: "Attenuation is proportional to sound frequency and is therefore a major problem for penetration when high-frequency transducers are used",
@@ -81,7 +81,7 @@
     },
     {
       questionNumber: "17.10",
-      preamble: "An ultrasound transducer most likely converts ____ energy into _____ energy",
+      stem: "An ultrasound transducer most likely converts ____ energy into _____ energy",
       options: [
         "Sound; electrical",
         "Electrical; sound",
@@ -94,7 +94,7 @@
     },
     {
       questionNumber: "17.11",
-      preamble: "The thickness of an ultrasound transducer that generates sound with a wavelength X is most likely",
+      stem: "The thickness of an ultrasound transducer that generates sound with a wavelength X is most likely",
       options: ["X/4", "X/2", "2X", "4X"],
       answer: "X/2",
       explanation: "Transducer thickness is generally half the wavelength",
@@ -102,7 +102,7 @@
     },
     {
       questionNumber: "17.12",
-      preamble: "Given the impedance of a transducer (Ztransducer) and tissue (Ztissue), a matching layer (Zmatching layer) is most likely",
+      stem: "Given the impedance of a transducer (Ztransducer) and tissue (Ztissue), a matching layer (Zmatching layer) is most likely",
       options: [
         ">Ztransducer",
         ">Ztissue and <Ztransducer",
@@ -115,7 +115,7 @@
     },
     {
       questionNumber: "17.13",
-      preamble: "When a transducer element diameter is doubled, the near field length is likely",
+      stem: "When a transducer element diameter is doubled, the near field length is likely",
       options: ["Not affected", "Doubled", "Tripled", "Quadrupled"],
       answer: "Quadrupled",
       explanation: "Doubling the transducer element diameter will quadruple the transducer near-zone distance",
@@ -123,7 +123,7 @@
     },
     {
       questionNumber: "17.14",
-      preamble: "Use of focusing in ultrasound most likely results in an improved",
+      stem: "Use of focusing in ultrasound most likely results in an improved",
       options: [
         "Axial resolution",
         "Lateral resolution",
@@ -136,7 +136,7 @@
     },
     {
       questionNumber: "17.15",
-      preamble: "Which focusing method is likely to offer variable focal depths?",
+      stem: "Which focusing method is likely to offer variable focal depths?",
       options: [
         "Acoustic lens",
         "Shaped transducer",
@@ -149,7 +149,7 @@
     },
     {
       questionNumber: "17.16",
-      preamble: "Individual elements in multielemental arrays most likely have a width of_____wavelengths (X) and a height of______mm",
+      stem: "Individual elements in multielemental arrays most likely have a width of_____wavelengths (X) and a height of______mm",
       options: ["0.5; 0.3", "0.5; 3", "2; 0.3", "2; 3"],
       answer: "0.5; 3",
       explanation: "Individual elements in multielemental arrays most likely have a width of about half a wavelength and a height of a few millimeters",
@@ -157,7 +157,7 @@
     },
     {
       questionNumber: "17.17",
-      preamble: "The number of elements in a linear or phased array is most likely",
+      stem: "The number of elements in a linear or phased array is most likely",
       options: ["10", "100", "1,000", ">1,000"],
       answer: "100",
       explanation: "Elements in linear arrays are typically 128 (or 256), and a phased array typically has 64 (or 128) elements",
@@ -165,7 +165,7 @@
     },
     {
       questionNumber: "17.18",
-      preamble: "Linear arrays, rather than phased arrays or curvilinear arrays, would most likely be used to image",
+      stem: "Linear arrays, rather than phased arrays or curvilinear arrays, would most likely be used to image",
       options: ["Infants", "Adults", "Hearts", "Brains"],
       answer: "Infants",
       explanation: "Linear arrays are most likely used to image infants because a large field of view is not required, and superficial regions will be more visible",
@@ -173,7 +173,7 @@
     },
     {
       questionNumber: "17.19",
-      preamble: "Transcranial imaging of the vasculature (via temples) would most likely use a(n)_____array",
+      stem: "Transcranial imaging of the vasculature (via temples) would most likely use a(n)_____array",
       options: ["Linear", "Convex", "Annular", "Phased"],
       answer: "Phased",
       explanation: "Transcranial imaging of the vasculature would use a phased array which has a small 'footprint' and can be applied via an acoustic window (e.g., eye lens or temple)",
@@ -181,7 +181,7 @@
     },
     {
       questionNumber: "17.20",
-      preamble: "Electronic focusing can be applied to arrays that are:",
+      stem: "Electronic focusing can be applied to arrays that are:",
       options: ["Linear", "Convex", "Phased", "A, B, and C"],
       answer: "A, B, and C",
       explanation: "Electronic focusing can be applied to any array that has multiple elements (e.g., linear, convex, and phased)",

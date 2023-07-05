@@ -5,7 +5,7 @@
   questions: [
     {
       questionNumber: 1,
-      preamble: "Regarding the imaging modalities of the chest",
+      stem: "Regarding the imaging modalities of the chest",
       options: [
         {
           text: "High resolution computed tomography (HRCT) uses a slice thickness of 4–6 mm to identify mass lesions in the lung",
@@ -41,7 +41,7 @@
     },
     {
       questionNumber: 2,
-      preamble: "Regarding the development of the lung",
+      stem: "Regarding the development of the lung",
       options: [
         {
           text: "The tracheobronchial groove appears on the ventral aspect of the caudal end of the pharynx",
@@ -77,7 +77,7 @@
     },
     {
       questionNumber: 3,
-      preamble: "Regarding the blood supply to the chest wall",
+      stem: "Regarding the blood supply to the chest wall",
       options: [
         {
           text: "The posterior intercostal arteries supply the 11 intercostal spaces",
@@ -107,13 +107,13 @@
           text: "The posterior intercostal vein drains into the internal thoracic vein",
           response: "",
           answer: "False",
-          explanation: "Posterior intercostal veins drain into the brachiocephalic vein and azygos system. The anterior veins drain into the musculo-phrenic and internal thoracic veins.",
+          explanation: "Posterior intercostal veins drain into the brachiocephalic vein and azygos system. The anterior veins drain into the musculo-phrenic and internal thoracic veins",
         },
       ],
     },
     {
       questionNumber: 4,
-      preamble: "Regarding the azygos venous system",
+      stem: "Regarding the azygos venous system",
       options: [
         {
           text: "The azygos vein at the level of the fourth thoracic vertebra arches over the root of the right lung to end in the superior vena cava (SVC)",
@@ -149,7 +149,7 @@
     },
     {
       questionNumber: 5,
-      preamble: "Regarding the hemiazygos and accessory hemiazygos venous systems",
+      stem: "Regarding the hemiazygos and accessory hemiazygos venous systems",
       options: [
         {
           text: "The hemiazygos vein at the level of the fourth thoracic vertebra crosses the vertebral column behind the aorta, esophagus, and thoracic duct",
@@ -185,7 +185,7 @@
     },
     {
       questionNumber: 6,
-      preamble: "Regarding the airways",
+      stem: "Regarding the airways",
       options: [
         {
           text: "In adults, the right main-stem bronchus is steeper than the left",
@@ -221,7 +221,7 @@
     },
     {
       questionNumber: 7,
-      preamble: "Regarding the secondary pulmonary lobule",
+      stem: "Regarding the secondary pulmonary lobule",
       options: [
         {
           text: "It consists of approximately ten acini",
@@ -236,7 +236,7 @@
           explanation: "The lobular artery follows the branches of the bronchioles. Peripheral veins drain the lobule and run along the interlobular septum",
         },
         {
-          text: "Lymph drainage is both interlobular and central along the arteries.",
+          text: "Lymph drainage is both interlobular and central along the arteries",
           response: "",
           answer: "True",
           explanation: "",
@@ -257,7 +257,7 @@
     },
     {
       questionNumber: 8,
-      preamble: "Regarding the pulmonary blood vessels",
+      stem: "Regarding the pulmonary blood vessels",
       options: [
         {
           text: "The bronchovascular bundle of the secondary pulmonary lobule is demonstrated as a rounded density about 1 cm away from the pleural border on axial CT",
@@ -293,7 +293,7 @@
     },
     {
       questionNumber: 9,
-      preamble: "Regarding the pleura",
+      stem: "Regarding the pleura",
       options: [
         {
           text: "The parietal pleura is continuous with the visceral pleura at the hilum",
@@ -329,7 +329,7 @@
     },
     {
       questionNumber: 10,
-      preamble: "Regarding the fissures of the lung",
+      stem: "Regarding the fissures of the lung",
       options: [
         {
           text: "Complete fissures may be crossed by small bronchovascular structures seen on HRCT",
@@ -365,7 +365,7 @@
     },
     {
       questionNumber: 11,
-      preamble: "Regarding the accessory fissures of the lung",
+      stem: "Regarding the accessory fissures of the lung",
       options: [
         {
           text: "The azygos fissure results from failure of normal migration of the azygos vein from the chest wall through the lung",
@@ -401,34 +401,34 @@
     },
     {
       questionNumber: 12,
-      preamble: "Regarding blood supply of the lung",
+      stem: "Regarding blood supply of the lung",
       options: [
         {
-          text: "The left bronchial artery arises from the right bronchial artery.",
+          text: "The left bronchial artery arises from the right bronchial artery",
           response: "",
           answer: "False",
-          explanation: "Bronchial arteries are variable. Usually the right bronchial artery arises from the third posterior intercostal artery or from the upper left bronchial artery. The left bronchial arteries are two in number and arise from the thoracic aorta.",
+          explanation: "Bronchial arteries are variable. Usually the right bronchial artery arises from the third posterior intercostal artery or from the upper left bronchial artery. The left bronchial arteries are two in number and arise from the thoracic aorta",
         },
         {
-          text: "The deep bronchial veins may end in the left atrium.",
+          text: "The deep bronchial veins may end in the left atrium",
           response: "",
           answer: "True",
           explanation: "The deep bronchial veins communicate freely with the pulmonary veins, end in a pulmonary vein or left atrium. The superﬁcial bronchial veins drain extrapulmonary bronchi, visceral pleura and hilar lymph nodes, end on the right side into the azygos vein and on the left into the left superior intercostal vein or the accessory hemiazygos vein",
         },
         {
-          text: "The right and left pulmonary arteries are at the same height in the chest.",
+          text: "The right and left pulmonary arteries are at the same height in the chest",
           response: "",
           answer: "False",
           explanation: "The left pulmonary artery is higher than the left as it arches over the left main bronchus and descends posterior to it",
         },
         {
-          text: "The right upper lobe pulmonary artery is anterior to the right upper lobe bronchus.",
+          text: "The right upper lobe pulmonary artery is anterior to the right upper lobe bronchus",
           response: "",
           answer: "True",
           explanation: "",
         },
         {
-          text: "The veins of the upper lobe are posterior to the arteries and bronchi.",
+          text: "The veins of the upper lobe are posterior to the arteries and bronchi",
           response: "",
           answer: "False",
           explanation: "The veins of the upper lobe are anterior to the arteries and bronchi",
@@ -437,7 +437,7 @@
     },
     {
       questionNumber: 13,
-      preamble: "In the chest",
+      stem: "In the chest",
       options: [
         {
           text: "Air in the oesophagus on axial CT usually indicates a dilated abnormal oesophagus",
@@ -473,7 +473,7 @@
     },
     {
       questionNumber: 14,
-      preamble: "Regarding the mediastinal blood vessels",
+      stem: "Regarding the mediastinal blood vessels",
       options: [
         {
           text: "The three major aortic branches from right to left are the innominate, left common carotid and left subclavian arteries",
@@ -509,7 +509,7 @@
     },
     {
       questionNumber: 15,
-      preamble: "Regarding the mediastinal spaces",
+      stem: "Regarding the mediastinal spaces",
       options: [
         {
           text: "The pretracheal space is bounded anteriorly by the anterior junctional line",
@@ -545,7 +545,7 @@
     },
     {
       questionNumber: 16,
-      preamble: "In a chest radiograph",
+      stem: "In a chest radiograph",
       options: [
         {
           text: "The anterior junctional line is usually straight and extends to the right ventricle",
@@ -581,7 +581,7 @@
     },
     {
       questionNumber: 17,
-      preamble: "In the chest",
+      stem: "In the chest",
       options: [
         {
           text: "The thymus is usually inferior to the left brachiocephalic vein",
@@ -590,7 +590,7 @@
           explanation: "And superior to the level of the horizontal portion of the right pulmonary artery",
         },
         {
-          text: "MRI demonstrates thymic tissue better than CT.",
+          text: "MRI demonstrates thymic tissue better than CT",
           response: "",
           answer: "True",
           explanation: "After puberty, the density gradually decreases owing to fatty replacement. In older patients the thymus may be indistinguishable from mediastinal fat. On T2-W MRI the signal intensity is similar or sometimes higher than fat and does not change with age. On T1-W MRI, the intensity of normal thymic tissue is similar or slightly higher than that of muscle",
@@ -617,7 +617,7 @@
     },
     {
       questionNumber: 18,
-      preamble: "In the development of the heart",
+      stem: "In the development of the heart",
       options: [
         {
           text: "The primitive heart is formed by fusion of two parallel tubes",
@@ -653,7 +653,7 @@
     },
     {
       questionNumber: 19,
-      preamble: "In the heart",
+      stem: "In the heart",
       options: [
         {
           text: "The aortic root and pulmonary trunk are covered with parietal pericardium",
@@ -689,7 +689,7 @@
     },
     {
       questionNumber: 20,
-      preamble: "In the heart",
+      stem: "In the heart",
       options: [
         {
           text: "The pulmonary valve is anterior and to the right of the aortic root",
@@ -725,7 +725,7 @@
     },
     {
       questionNumber: 21,
-      preamble: "Regarding the heart",
+      stem: "Regarding the heart",
       options: [
         {
           text: "The left atrial auricular appendage contributes to the normal left cardiac border",
@@ -761,7 +761,7 @@
     },
     {
       questionNumber: 22,
-      preamble: "In the heart",
+      stem: "In the heart",
       options: [
         {
           text: "Most of the external surface of the left ventricle is anterolateral",
@@ -797,7 +797,7 @@
     },
     {
       questionNumber: 23,
-      preamble: "Regarding the coronary arteries",
+      stem: "Regarding the coronary arteries",
       options: [
         {
           text: "Coronary dominance refers to whether the right or left vessels supply the posterior diaphragmatic portion of the interventricular septum and the diaphragmatic surface of the left ventricle",
@@ -833,7 +833,7 @@
     },
     {
       questionNumber: 24,
-      preamble: "Regarding the coronary veins",
+      stem: "Regarding the coronary veins",
       options: [
         {
           text: "The anterior cardiac veins empty into the coronary sinus",
@@ -869,7 +869,7 @@
     },
     {
       questionNumber: 25,
-      preamble: "Regarding the major vessels of the chest",
+      stem: "Regarding the major vessels of the chest",
       options: [
         {
           text: "The aortic arch is anterior to the trachea and oesophagus",
@@ -905,7 +905,7 @@
     },
     {
       questionNumber: 26,
-      preamble: "The superior vena cava",
+      stem: "The superior vena cava",
       options: [
         {
           text: "lies posterior to the right main-stem bronchus",
@@ -941,7 +941,7 @@
     },
     {
       questionNumber: 27,
-      preamble: "Regarding the pulmonary artery and vein",
+      stem: "Regarding the pulmonary artery and vein",
       options: [
         {
           text: "The right main pulmonary artery is beneath the aortic arch",

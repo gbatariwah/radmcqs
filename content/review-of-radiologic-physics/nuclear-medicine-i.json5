@@ -4,7 +4,7 @@
   questions: [
     {
       questionNumber: "13.1",
-      preamble: "Transmutation would primarily refer to a change in nuclear",
+      stem: "Transmutation would primarily refer to a change in nuclear",
       options: [
         "Atomic number (Z)",
         "Proton number (X)",
@@ -17,7 +17,7 @@
     },
     {
       questionNumber: "13.2",
-      preamble: "Isomeric transitions are generally associated with a nuclear change in",
+      stem: "Isomeric transitions are generally associated with a nuclear change in",
       options: [
         "Atomic number (Z)",
         "Proton number (X)",
@@ -30,7 +30,7 @@
     },
     {
       questionNumber: "13.3",
-      preamble: "In beta decay, the daughter atomic number is and in |3' decay, the daughter atomic number is",
+      stem: "In beta decay, the daughter atomic number is and in |3' decay, the daughter atomic number is",
       options: [
         "Increased;increased",
         "Increased;decreased",
@@ -43,7 +43,7 @@
     },
     {
       questionNumber: "13.4",
-      preamble: "Which of the following radionuclides decays by electron capture?",
+      stem: "Which of the following radionuclides decays by electron capture?",
       options: ["18F", "99mTc", "123 I", "222 Rn"],
       answer: "123 I",
       explanation: "The nuclide 123 I decays via electron capture (18F is a positron emitter, 99mTc decays by isomeric transition, and 222Rn is an alpha emitter)",
@@ -51,7 +51,7 @@
     },
     {
       questionNumber: "13.5",
-      preamble: "Activity administered to patients undergoing diagnostic NM imaging studies is most likely (MBq)",
+      stem: "Activity administered to patients undergoing diagnostic NM imaging studies is most likely (MBq)",
       options: ["7", "70", "700", "7,000"],
       answer: "700",
       explanation: "A typical administered activity to a patient undergoing an NM imaging examination is 700 MBq or 20 mCi (1 mCi is 37 MBq)",
@@ -59,7 +59,7 @@
     },
     {
       questionNumber: "13.6",
-      preamble: "Which radionuclide is least likely to be produced in a cyclotron?",
+      stem: "Which radionuclide is least likely to be produced in a cyclotron?",
       options: ["18F", "67Ga", "123 I", "99mTc"],
       answer: "99mTc",
       explanation: "A Mo generator produces 99mTc, which then decays by an isomeric transition",
@@ -67,7 +67,7 @@
     },
     {
       questionNumber: "13.7",
-      preamble: "Which isotope (i.e., daughter) is unlikely to be obtained by milking a radionuclide generator?",
+      stem: "Which isotope (i.e., daughter) is unlikely to be obtained by milking a radionuclide generator?",
       options: ["99mTc", "82Rb", "113m In", "99Mo"],
       answer: "99Mo",
       explanation: "Molybdenum-99 is a beta emitter that is produced in reactors or as a fission product and is used as the parent (not daughter) in Mo/99mTc generators",
@@ -75,7 +75,7 @@
     },
     {
       questionNumber: "13.8",
-      preamble: "In secular equilibrium, the activity of the daughter is most likely",
+      stem: "In secular equilibrium, the activity of the daughter is most likely",
       options: ["Greater than", "Equal to", "Less than"],
       answer: "Equal to",
       explanation: "Parent and daughter activities are exactly equal in secular equilibrium, so 1 GBq of a long-lived parent produces 1 GBq of a short-lived daughter",
@@ -83,7 +83,7 @@
     },
     {
       questionNumber: "13.9",
-      preamble: "Which of the following is an example of active transport?",
+      stem: "Which of the following is an example of active transport?",
       options: [
         "Iodine uptake",
         "Macro aggregated albumin (MAA)",
@@ -96,7 +96,7 @@
     },
     {
       questionNumber: "13.10",
-      preamble: "A gamma ray spectrum from a scintillator would plot the number of counts (vertical axis) as a function of",
+      stem: "A gamma ray spectrum from a scintillator would plot the number of counts (vertical axis) as a function of",
       options: [
         "Detected light",
         "Charge deposited",
@@ -109,7 +109,7 @@
     },
     {
       questionNumber: "13.11",
-      preamble: "Number of 140-keV photons (i.e., 99mTc) totally absorbed by a 10 mm Nal scintillator is most likely",
+      stem: "Number of 140-keV photons (i.e., 99mTc) totally absorbed by a 10 mm Nal scintillator is most likely",
       options: [
         "Hardly any (<10%)",
         "About a third",
@@ -122,7 +122,7 @@
     },
     {
       questionNumber: "13.12",
-      preamble: "Gamma camera energy resolution is most likely checked",
+      stem: "Gamma camera energy resolution is most likely checked",
       options: ["Daily", "Weekly", "Monthly", "Annually"],
       answer: "Annually",
       explanation: "Broadening of the photopeak is checked annually and is measured as the full width half maximum",
@@ -130,7 +130,7 @@
     },
     {
       questionNumber: "13.13",
-      preamble: "Which photon energies are most likely to be accepted in a Tc scan?",
+      stem: "Which photon energies are most likely to be accepted in a Tc scan?",
       options: ["90", "110", "130", "280"],
       answer: "130",
       explanation: "Photon energy most likely accepted is 130 keV. 90- and 110-keV photons are likely Compton scatter, and 280 keV is an example of two 140-keV photons detected at the same time",
@@ -138,7 +138,7 @@
     },
     {
       questionNumber: "13.14",
-      preamble: "A 99mTc contaminated tie, with an activity -1 kBq, would likely result in a spectrum containing counts in 10 seconds",
+      stem: "A 99mTc contaminated tie, with an activity -1 kBq, would likely result in a spectrum containing counts in 10 seconds",
       options: ["<100", "100", "10,000", "1,000,000"],
       answer: "10,000",
       explanation: "1 kBq emits approximately 10,000 gamma rays in 10 seconds, and most of them will likely be detected",
@@ -146,7 +146,7 @@
     },
     {
       questionNumber: "13.15",
-      preamble: "Which is most likely true of NM dose calibrator QC?",
+      stem: "Which is most likely true of NM dose calibrator QC?",
       options: [
         "Constancy checked quarterly",
         "Accuracy checked monthly",
@@ -158,7 +158,7 @@
     },
     {
       questionNumber: "13.16",
-      preamble: "Which is the logically correct sequence of gamma camera components?",
+      stem: "Which is the logically correct sequence of gamma camera components?",
       options: [
         "Collimator; scintillator; PMTs",
         "Collimator; PMTs; scintillator",
@@ -171,7 +171,7 @@
     },
     {
       questionNumber: "13.17",
-      preamble: "Increasing NM collimator hole size likely sensitivity and spatial resolution performance.",
+      stem: "Increasing NM collimator hole size likely sensitivity and spatial resolution performance.",
       options: [
         "Improves; improves",
         "Improves; degrades",
@@ -184,7 +184,7 @@
     },
     {
       questionNumber: "13.18",
-      preamble: "Total number of acquired counts (k) in a Tc-labeled sulfur colloid image of the liver and spleen is most likely:",
+      stem: "Total number of acquired counts (k) in a Tc-labeled sulfur colloid image of the liver and spleen is most likely:",
       options: ["5", "50", "500", "5,000"],
       answer: "500",
       explanation: "A typical NM image obtained with a gamma camera has 500,000 counts",
@@ -192,7 +192,7 @@
     },
     {
       questionNumber: "13.19",
-      preamble: "NRC regulations require activity administered to an NM patient to be within % of the prescribed dose.",
+      stem: "NRC regulations require activity administered to an NM patient to be within % of the prescribed dose.",
       options: ["±1", "±5", "±20", "±50"],
       answer: "±20",
       explanation: "NRC regulations require activity administered to an NM patient to be within ±20% of the prescribed dose, although some states require ±10%",
@@ -200,7 +200,7 @@
     },
     {
       questionNumber: "13.20",
-      preamble: "In a typical gamma camera image, the average count density is most likely (counts/pixel):",
+      stem: "In a typical gamma camera image, the average count density is most likely (counts/pixel):",
       options: ["1", "10", "100", "1,000"],
       answer: "10",
       explanation: "A typical gamma camera image has an average count density of about 10 counts/pixel",

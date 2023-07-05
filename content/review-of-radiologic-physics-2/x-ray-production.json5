@@ -4,7 +4,7 @@
   questions: [
     {
       questionNumber: 1.1,
-      preamble: "Which of the following is not considered a force?",
+      stem: "Which of the following is not considered a force?",
       options: ["Electrostatic", "Weak", "Strong", "Gravity", "Electricity"],
       answer: "Electricity",
       explanation: "Electricity is the flow of charge, and is measured in amps (C/s)",
@@ -12,15 +12,15 @@
     },
     {
       questionNumber: 1.2,
-      preamble: "Which of the following is not a unit of energy?",
+      stem: "Which of the following is not a unit of energy?",
       options: ["Erg", "Joule", "Watt", "Calorie", "eV"],
       answer: "Watt",
-      explanation: "The watt is a unit of power, measured in J/s.",
+      explanation: "The watt is a unit of power, measured in J/s",
       response: "",
     },
     {
       questionNumber: 1.3,
-      preamble: "Which of the following would most likely be attracted to an anode?",
+      stem: "Which of the following would most likely be attracted to an anode?",
       options: ["Proton", "Neutron", "Electron", "Positron", "Alpha particle"],
       answer: "Electron",
       explanation: "Electron, since it has a negative charge that is attracted to the positive anode",
@@ -28,7 +28,7 @@
     },
     {
       questionNumber: 1.4,
-      preamble: "Which quantity is the best measure of power?",
+      stem: "Which quantity is the best measure of power?",
       options: ["Joule", "Tesla", "Watt", "Coulomb", "Newton"],
       answer: "Watt",
       explanation: "Watt is a unit of power, where 1 W = 1 J/s",
@@ -36,7 +36,7 @@
     },
     {
       questionNumber: 1.5,
-      preamble: "Which of the following is/are likely to have the longest wavelength?",
+      stem: "Which of the following is/are likely to have the longest wavelength?",
       options: [
         "Gamma rays",
         "Microwaves",
@@ -50,7 +50,7 @@
     },
     {
       questionNumber: 1.6,
-      preamble: "For electromagnetic radiation, which increases with increasing photon energy?",
+      stem: "For electromagnetic radiation, which increases with increasing photon energy?",
       options: ["Wavelength", "Frequency", "Velocity", "Charge", "Mass"],
       answer: "Frequency",
       explanation: "Frequency, which is directly proportional to the photon energy",
@@ -58,7 +58,7 @@
     },
     {
       questionNumber: 1.7,
-      preamble: "If the distance from a radiation source is halved, the radiation intensity increases by a factor of",
+      stem: "If the distance from a radiation source is halved, the radiation intensity increases by a factor of",
       options: ["2^-2", "2^-1", "20", "2^+1", "2^+2"],
       answer: "2^2",
       explanation: "22 (i.e., 4). Halving the distance quadruples the radiation intensity (inverse square law)",
@@ -66,7 +66,7 @@
     },
     {
       questionNumber: 1.8,
-      preamble: "X-ray generators have a power level (kW) of approximately",
+      stem: "X-ray generators have a power level (kW) of approximately",
       options: ["0.1", "1", "10", "100", "1,000"],
       answer: "100",
       explanation: "100 kW is typical of the power of x-ray generators in radiography and CT",
@@ -74,7 +74,7 @@
     },
     {
       questionNumber: 1.9,
-      preamble: "Which of the following is not a type of x-ray generator?",
+      stem: "Which of the following is not a type of x-ray generator?",
       options: [
         "Single phase",
         "Double phase",
@@ -88,7 +88,7 @@
     },
     {
       questionNumber: 1.1,
-      preamble: "The purpose of x-ray transformers is most likely to change the:",
+      stem: "The purpose of x-ray transformers is most likely to change the:",
       options: [
         "Magnetic field",
         "Electrical voltage",
@@ -102,7 +102,7 @@
     },
     {
       questionNumber: 1.11,
-      preamble: "When a secondary coil has 500 more turns than a primary coil, the ratio of the secondary voltage to the primary voltage is most likely",
+      stem: "When a secondary coil has 500 more turns than a primary coil, the ratio of the secondary voltage to the primary voltage is most likely",
       options: [
         "500",
         "5000.5",
@@ -116,7 +116,7 @@
     },
     {
       questionNumber: 1.12,
-      preamble: "Which of the following generators is likely to have the largest waveform ripple?",
+      stem: "Which of the following generators is likely to have the largest waveform ripple?",
       options: [
         "Constant potential",
         "High frequency",
@@ -130,7 +130,7 @@
     },
     {
       questionNumber: 1.13,
-      preamble: "Electrons passing through matter lose energy primarily by producing",
+      stem: "Electrons passing through matter lose energy primarily by producing",
       options: [
         "Bremsstrahlung",
         "Characteristic x-rays",
@@ -144,7 +144,7 @@
     },
     {
       questionNumber: 1.14,
-      preamble: "Tungsten is most likely used as an x-ray target because it has a high",
+      stem: "Tungsten is most likely used as an x-ray target because it has a high",
       options: [
         "Physical density",
         "Electron density",
@@ -158,7 +158,7 @@
     },
     {
       questionNumber: 1.15,
-      preamble: "The maximum photon energy in x-ray beams is determined by the x-ray tube",
+      stem: "The maximum photon energy in x-ray beams is determined by the x-ray tube",
       options: [
         "Current",
         "Exposure time",
@@ -172,7 +172,7 @@
     },
     {
       questionNumber: 1.16,
-      preamble: "The most likely characteristic x-ray energy (keV) from x-ray tubes used in chest radiography is",
+      stem: "The most likely characteristic x-ray energy (keV) from x-ray tubes used in chest radiography is",
       options: ["19", "33", "65", "75", "140"],
       answer: "65",
       explanation: "The chest x-ray unit will use a W target; the characteristic x-ray energy is therefore ~65 keV",
@@ -180,7 +180,7 @@
     },
     {
       questionNumber: 1.17,
-      preamble: "At 65 kV and with a tungsten target, the percentage (%) of K-shell x-rays in the x-ray beam is most likely",
+      stem: "At 65 kV and with a tungsten target, the percentage (%) of K-shell x-rays in the x-ray beam is most likely",
       options: ["0", "1", "10", "50", "99"],
       answer: "0",
       explanation: "There will be no characteristic x-rays, as the electron kinetic energy (65 keV) is insufficient to eject W K-shell electrons that have a binding energy of 70 keV",
@@ -188,7 +188,7 @@
     },
     {
       questionNumber: 1.18,
-      preamble: "The average photon energy of an x-ray beam is least likely to be affected by changes in the",
+      stem: "The average photon energy of an x-ray beam is least likely to be affected by changes in the",
       options: [
         "Tube current",
         "Tube voltage",
@@ -202,7 +202,7 @@
     },
     {
       questionNumber: 1.19,
-      preamble: "The number of electrons accelerated across an x-ray tube is most strongly influenced by",
+      stem: "The number of electrons accelerated across an x-ray tube is most strongly influenced by",
       options: [
         "Anode speed",
         "Focus size",
@@ -216,7 +216,7 @@
     },
     {
       questionNumber: 1.2,
-      preamble: "The most likely x-ray tube filament current (mA) is",
+      stem: "The most likely x-ray tube filament current (mA) is",
       options: ["0.4", "4", "40", "400", "4,000"],
       answer: "4,000",
       explanation: "X-ray tube filaments are about 4 A, or 4,000 mA",
@@ -224,7 +224,7 @@
     },
     {
       questionNumber: 1.21,
-      preamble: "Changing x-ray tube current (mA) most likely changes the x-ray",
+      stem: "Changing x-ray tube current (mA) most likely changes the x-ray",
       options: [
         "Field of view",
         "Maximum energy",
@@ -238,7 +238,7 @@
     },
     {
       questionNumber: 1.22,
-      preamble: "The large focus dimension is most likely larger (%) than that of the small focus by",
+      stem: "The large focus dimension is most likely larger (%) than that of the small focus by",
       options: ["10", "25", "50", "75", "100"],
       answer: "100",
       explanation: "The large focal spot is typically 1.2 mm, and the small focal spot is 0.6 mm (i.e., 100% larger)",
@@ -246,7 +246,7 @@
     },
     {
       questionNumber: 1.23,
-      preamble: "The anode angle (degrees) in an x-ray tube used for chest radiography is most likely",
+      stem: "The anode angle (degrees) in an x-ray tube used for chest radiography is most likely",
       options: ["15", "30", "45", "60", "75"],
       answer: "15",
       explanation: "15 degrees is a typical anode angle",
@@ -254,7 +254,7 @@
     },
     {
       questionNumber: 1.24,
-      preamble: "X-ray tube output would likely increase the most when increasing the x-ray tube",
+      stem: "X-ray tube output would likely increase the most when increasing the x-ray tube",
       options: [
         "voltage",
         "anode angle",
@@ -268,7 +268,7 @@
     },
     {
       questionNumber: 1.25,
-      preamble: "A chest x-ray examination on a dedicated chest unit would be least likely to use",
+      stem: "A chest x-ray examination on a dedicated chest unit would be least likely to use",
       options: [
         "60-kV voltage",
         "800-mA tube current",
@@ -282,7 +282,7 @@
     },
     {
       questionNumber: 1.26,
-      preamble: "For specification of anode heat capacities, one heat unit corresponds to energy (J) of",
+      stem: "For specification of anode heat capacities, one heat unit corresponds to energy (J) of",
       options: ["0.9", "0.8", "0.7", "0.5", "0.3"],
       answer: "0.7",
       explanation: "The heat unit is 0.7 joule and is an anachronism in modern radiology",
@@ -290,7 +290,7 @@
     },
     {
       questionNumber: 1.27,
-      preamble: "At the same peak voltage, which generator likely deposits most energy into an anode",
+      stem: "At the same peak voltage, which generator likely deposits most energy into an anode",
       options: [
         "Constant potential",
         "High frequency",
@@ -304,7 +304,7 @@
     },
     {
       questionNumber: 1.28,
-      preamble: "Heat stored in x-ray tube anodes is most likely dissipated by",
+      stem: "Heat stored in x-ray tube anodes is most likely dissipated by",
       options: [
         "convection",
         "conduction",
@@ -318,7 +318,7 @@
     },
     {
       questionNumber: 1.29,
-      preamble: "In a standard x-ray tube, the maximum power loading (kW) on the 0.6 mm focal spot is most likely",
+      stem: "In a standard x-ray tube, the maximum power loading (kW) on the 0.6 mm focal spot is most likely",
       options: ["1", "2", "5", "10", "25"],
       answer: "25",
       explanation: "The small focal spot can tolerate power levels of 25 kW (higher power would require the large focal spot)",
@@ -326,7 +326,7 @@
     },
     {
       questionNumber: 1.3,
-      preamble: "Radiation transmitted through the x-ray tube housing is referred to as",
+      stem: "Radiation transmitted through the x-ray tube housing is referred to as",
       options: ["useful", "secondary", "stray", "leakage", "scattered"],
       answer: "leakage",
       explanation: "Leakage radiation escapes through a fully closed collimator (the regulatory limit in the United States is <1 mGy/hr at 1 m)",

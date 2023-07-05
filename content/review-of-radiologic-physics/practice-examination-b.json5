@@ -4,7 +4,7 @@
   questions: [
     {
       questionNumber: 1,
-      preamble: "X-rays are produced when energetic electrons are decelerated in the electric field of tungsten",
+      stem: "X-rays are produced when energetic electrons are decelerated in the electric field of tungsten",
       options: [
         "Atomic nuclei",
         "Outer electrons",
@@ -17,7 +17,7 @@
     },
     {
       questionNumber: 2,
-      preamble: "The percentage (%) of x-ray photon energy incident on a patient that is most likely scattered out of the patient is",
+      stem: "The percentage (%) of x-ray photon energy incident on a patient that is most likely scattered out of the patient is",
       options: ["<10", "30", "70", ">90"],
       answer: "30",
       response: '',
@@ -25,7 +25,7 @@
     },
     {
       questionNumber: 3,
-      preamble: "For a silver filter (K-edge energy 25 keV) transmission of x-rays is likely highest at an x-ray energy (keV) of",
+      stem: "For a silver filter (K-edge energy 25 keV) transmission of x-rays is likely highest at an x-ray energy (keV) of",
       options: ["18", "24", "26", "30"],
       answer: "24",
       response: '',
@@ -33,7 +33,7 @@
     },
     {
       questionNumber: 4,
-      preamble: "Compton scatter is most likely to be most important in",
+      stem: "Compton scatter is most likely to be most important in",
       options: [
         "Mammography screening",
         "Extremity radiography",
@@ -46,7 +46,7 @@
     },
     {
       questionNumber: 5,
-      preamble: "Dedicated chest x-ray units most likely have filters of",
+      stem: "Dedicated chest x-ray units most likely have filters of",
       options: [
         "Beryllium (Z = 4)",
         "Copper (Z = 29)",
@@ -59,7 +59,7 @@
     },
     {
       questionNumber: 6,
-      preamble: "The grid ratio for a diagnostic chest x-ray is most likely",
+      stem: "The grid ratio for a diagnostic chest x-ray is most likely",
       options: ["No grid used", "6:1", "10:1", "16:1"],
       answer: "10:1",
       response: '',
@@ -67,7 +67,7 @@
     },
     {
       questionNumber: 7,
-      preamble: "The best indicator of a grid's ability to reduce scatter is most likely",
+      stem: "The best indicator of a grid's ability to reduce scatter is most likely",
       options: ["Grid ratio", "Line density", "Total lead", "Strip height"],
       answer: "Total lead",
       response: '',
@@ -75,7 +75,7 @@
     },
     {
       questionNumber: 8,
-      preamble: "In x-ray imaging, after scintillators absorb x-ray energy _____ is detected to create the resultant image",
+      stem: "In x-ray imaging, after scintillators absorb x-ray energy _____ is detected to create the resultant image",
       options: ["Charge", "Current", "Light", "Voltage"],
       answer: "Light",
       response: '',
@@ -83,7 +83,7 @@
     },
     {
       questionNumber: 9,
-      preamble: "Chest x-rays with 1,024 shades of gray code each pixel using _____ bits",
+      stem: "Chest x-rays with 1,024 shades of gray code each pixel using _____ bits",
       options: ["8", "9", "10", ">10"],
       answer: "10",
       response: '',
@@ -91,7 +91,7 @@
     },
     {
       questionNumber: 10,
-      preamble: "Which image processing algorithm is most likely to improve the detection and characterization of a lung nodule in a chest x-ray",
+      stem: "Which image processing algorithm is most likely to improve the detection and characterization of a lung nodule in a chest x-ray",
       options: [
         "Histogram equalization",
         "Energy subtraction",
@@ -104,7 +104,7 @@
     },
     {
       questionNumber: 11,
-      preamble: "Increasing the x-ray tube voltage in chest x-ray imaging (+AEC) will most likely _____ dynamic range and _____ patient dose",
+      stem: "Increasing the x-ray tube voltage in chest x-ray imaging (+AEC) will most likely _____ dynamic range and _____ patient dose",
       options: [
         "Increase; increase",
         "Increase; decrease",
@@ -117,7 +117,7 @@
     },
     {
       questionNumber: 12,
-      preamble: "Mottle most likely limits detection of lesions that are",
+      stem: "Mottle most likely limits detection of lesions that are",
       options: ["Very small", "Very large", "Low contrast", "High contrast"],
       answer: "Low contrast",
       response: '',
@@ -125,7 +125,7 @@
     },
     {
       questionNumber: 13,
-      preamble: "X-ray spatial resolution performance is most likely independent of",
+      stem: "X-ray spatial resolution performance is most likely independent of",
       options: [
         "Focal spot size",
         "Imaging time",
@@ -138,7 +138,7 @@
     },
     {
       questionNumber: 14,
-      preamble: "Doubling the number of TV lines in fluoroscopy will likely _____ spatial resolution performance",
+      stem: "Doubling the number of TV lines in fluoroscopy will likely _____ spatial resolution performance",
       options: ["Double", "Quadruple", "Halve", "Quarter"],
       answer: "Double",
       response: '',
@@ -146,7 +146,7 @@
     },
     {
       questionNumber: 15,
-      preamble: 'Radiologists who "over read" would most likely have high',
+      stem: 'Radiologists who "over read" would most likely have high',
       options: [
         "False positives",
         "False negatives",
@@ -159,7 +159,7 @@
     },
     {
       questionNumber: 16,
-      preamble: "Who is responsible for the x-ray beam quality (kV and filtration) used in a radiographic examination",
+      stem: "Who is responsible for the x-ray beam quality (kV and filtration) used in a radiographic examination",
       options: ["Radiologist", "Technologist", "Vendor", "Medical physicist"],
       answer: "Radiologist",
       response: '',
@@ -167,7 +167,7 @@
     },
     {
       questionNumber: 17,
-      preamble: "Embryo dose (mGy) to a normal-sized woman undergoing an AP abdominal radiograph (entrance Kair 3 mGy) is most likely",
+      stem: "Embryo dose (mGy) to a normal-sized woman undergoing an AP abdominal radiograph (entrance Kair 3 mGy) is most likely",
       options: ["0.01", "0.1", "1", "10"],
       answer: "1",
       response: '',
@@ -175,7 +175,7 @@
     },
     {
       questionNumber: 18,
-      preamble: "Which organ has the highest tissue weighting factor (WT)",
+      stem: "Which organ has the highest tissue weighting factor (WT)",
       options: ["Colon", "Thyroid", "Bladder", "Liver"],
       answer: "Colon",
       response: '',
@@ -183,7 +183,7 @@
     },
     {
       questionNumber: 19,
-      preamble: "The effective dose (mSv) of chest CT examination would most likely be",
+      stem: "The effective dose (mSv) of chest CT examination would most likely be",
       options: [
         "Very low (<0.1 mSv)",
         "Low (0.1 to 1 mSv)",
@@ -196,7 +196,7 @@
     },
     {
       questionNumber: 20,
-      preamble: "Which has the highest effective dose",
+      stem: "Which has the highest effective dose",
       options: [
         "Lumbar spine examination",
         "Annual background (ubiquitous)",
@@ -209,7 +209,7 @@
     },
     {
       questionNumber: 21,
-      preamble: "Cancer cell killing (sensitivity) by gamma-ray radiation in radiotherapy is most likely independent of",
+      stem: "Cancer cell killing (sensitivity) by gamma-ray radiation in radiotherapy is most likely independent of",
       options: ["Dose rate", "Fractionation", "Oxygenation", "γ-Ray energy"],
       answer: "γ-Ray energy",
       response: '',
@@ -217,7 +217,7 @@
     },
     {
       questionNumber: 22,
-      preamble: "The GI syndrome occurs for acute whole-body doses (Gy) of about",
+      stem: "The GI syndrome occurs for acute whole-body doses (Gy) of about",
       options: ["0.1", "1", "10", "100"],
       answer: "10",
       response: '',
@@ -225,7 +225,7 @@
     },
     {
       questionNumber: 23,
-      preamble: "Moist desquamation is likely first observed at peak skin doses of (Gy)",
+      stem: "Moist desquamation is likely first observed at peak skin doses of (Gy)",
       options: ["2", "5", "15", "50"],
       answer: "15",
       response: '',
@@ -233,7 +233,7 @@
     },
     {
       questionNumber: 24,
-      preamble: "Radiation-induced cancers have not been observed in",
+      stem: "Radiation-induced cancers have not been observed in",
       options: [
         "Fluorspar miners",
         "Children irradiated for tinea capitis",
@@ -246,7 +246,7 @@
     },
     {
       questionNumber: 25,
-      preamble: "The cancer sensitivity of a young child is most likely _____ times higher than that of a 25-year-old",
+      stem: "The cancer sensitivity of a young child is most likely _____ times higher than that of a 25-year-old",
       options: ["1.3", "3", "9", ">9"],
       answer: "3",
       response: '',
@@ -254,7 +254,7 @@
     },
     {
       questionNumber: 26,
-      preamble: "The radiation-induced risk of childhood cancer following a fetal dose of 25 mGy is most likely 1 in",
+      stem: "The radiation-induced risk of childhood cancer following a fetal dose of 25 mGy is most likely 1 in",
       options: ["5", "50", "500", "5,000"],
       answer: "500",
       response: '',
@@ -262,7 +262,7 @@
     },
     {
       questionNumber: 27,
-      preamble: "A parent holding an infant during a radiographic examination would most likely have their exposure monitored using a(n)",
+      stem: "A parent holding an infant during a radiographic examination would most likely have their exposure monitored using a(n)",
       options: [
         "Ionization chamber",
         "Geiger counter",
@@ -275,7 +275,7 @@
     },
     {
       questionNumber: 28,
-      preamble: "Dosimeters worn above the lead apron _____ operator effective doses, whereas those worn under a lead apron _____ operator effective doses",
+      stem: "Dosimeters worn above the lead apron _____ operator effective doses, whereas those worn under a lead apron _____ operator effective doses",
       options: [
         "overestimate; overestimate",
         "overestimate; underestimate",
@@ -288,7 +288,7 @@
     },
     {
       questionNumber: 29,
-      preamble: "The dose limit for the eye lens (mSv/ year) proposed by the ICRP in 2011 is",
+      stem: "The dose limit for the eye lens (mSv/ year) proposed by the ICRP in 2011 is",
       options: ["5", "20", "50", "150"],
       answer: "20",
       response: '',
@@ -296,7 +296,7 @@
     },
     {
       questionNumber: 30,
-      preamble: "In the United States, the total radiation (mSv) a fetus can receive without exceeding a dose limit is about",
+      stem: "In the United States, the total radiation (mSv) a fetus can receive without exceeding a dose limit is about",
       options: ["<1", "1", "2", "5"],
       answer: "5",
       response: '',
@@ -304,7 +304,7 @@
     },
     {
       questionNumber: 31,
-      preamble: "The scattered radiation (μGy) 1 m from a patient undergoing a skull radiograph is most likely",
+      stem: "The scattered radiation (μGy) 1 m from a patient undergoing a skull radiograph is most likely",
       options: ["0.1", "1", "10", "100"],
       answer: "1",
       response: '',
@@ -312,7 +312,7 @@
     },
     {
       questionNumber: 32,
-      preamble: "The thickness of lead (mm) in most x-ray rooms is approximately",
+      stem: "The thickness of lead (mm) in most x-ray rooms is approximately",
       options: ["0.2", "2", "20", "200"],
       answer: "2",
       response: '',
@@ -320,7 +320,7 @@
     },
     {
       questionNumber: 33,
-      preamble: "Percentage (%) of electrical energy converted into x-rays in an x-ray tube is most likely",
+      stem: "Percentage (%) of electrical energy converted into x-rays in an x-ray tube is most likely",
       options: ["99", "90", "10", "1"],
       answer: "1",
       response: '',
@@ -328,7 +328,7 @@
     },
     {
       questionNumber: 34,
-      preamble: "Heel effect most likely increases with increasing",
+      stem: "Heel effect most likely increases with increasing",
       options: ["SID", "Cassette size", "Anode angle", "Tube current"],
       answer: "Cassette size",
       response: '',
@@ -336,7 +336,7 @@
     },
     {
       questionNumber: 35,
-      preamble: "The exposure index (El) for an adult chest radiograph is most likely",
+      stem: "The exposure index (El) for an adult chest radiograph is most likely",
       options: ["0.3", "3", "30", "300"],
       answer: "300",
       response: '',
@@ -344,7 +344,7 @@
     },
     {
       questionNumber: 36,
-      preamble: 'Which is "wrong" for an adult (AP) abdominal radiograph',
+      stem: 'Which is "wrong" for an adult (AP) abdominal radiograph',
       options: ["80 kV", "2 mAs", "10:1 grid ratio", "300 El"],
       answer: "2 mAs",
       response: '',
@@ -352,7 +352,7 @@
     },
     {
       questionNumber: 37,
-      preamble: 'A radiographic image that appears mainly "white" is most likely a',
+      stem: 'A radiographic image that appears mainly "white" is most likely a',
       options: ["X-ray tube", "Grid", "Detector", "Workstation"],
       answer: "Grid",
       response: '',
@@ -360,7 +360,7 @@
     },
     {
       questionNumber: 38,
-      preamble: "Which material will not be used as the target of a clinical mammography x-ray tube?",
+      stem: "Which material will not be used as the target of a clinical mammography x-ray tube?",
       options: ["Mo(Z = 42)", "Rh (Z = 45)", "Ag (Z = 47)", "W (Z = 74)"],
       answer: "Ag (Z = 47)",
       response: '',
@@ -368,7 +368,7 @@
     },
     {
       questionNumber: 39,
-      preamble: "Most likely exposure time (ms) in contact mammography is",
+      stem: "Most likely exposure time (ms) in contact mammography is",
       options: ["1", "10", "100", "1,000"],
       answer: "1,000",
       response: '',
@@ -376,7 +376,7 @@
     },
     {
       questionNumber: 40,
-      preamble: "When imaging thicker and denser breasts, x-ray beam quality is best increased by increasing",
+      stem: "When imaging thicker and denser breasts, x-ray beam quality is best increased by increasing",
       options: [
         "Tube current",
         "Tube voltage",
@@ -389,7 +389,7 @@
     },
     {
       questionNumber: 41,
-      preamble: "Compared to contact mammography, the x-ray technique (i.e., mAs) in magnification mammography is most likely _____",
+      stem: "Compared to contact mammography, the x-ray technique (i.e., mAs) in magnification mammography is most likely _____",
       options: ["Increased", "Kept constant", "Reduced"],
       answer: "Reduced",
       response: '',
@@ -397,7 +397,7 @@
     },
     {
       questionNumber: 42,
-      preamble: "Which is likely better established by supporting scientific evidence for screening mammography?",
+      stem: "Which is likely better established by supporting scientific evidence for screening mammography?",
       options: [
         "Radiation risks at doses of 3 mGy",
         "Screening reduces cancer mortality",
@@ -410,7 +410,7 @@
     },
     {
       questionNumber: 43,
-      preamble: "Image intensifier output is about _____ times brighter than the light image created at the input",
+      stem: "Image intensifier output is about _____ times brighter than the light image created at the input",
       options: ["5", "50", "500", "5,000"],
       answer: "5,000",
       response: '',
@@ -418,7 +418,7 @@
     },
     {
       questionNumber: 44,
-      preamble: "Which imaging chain most likely has the x-ray tube above the patient and table?",
+      stem: "Which imaging chain most likely has the x-ray tube above the patient and table?",
       options: ["R/F", "Urologic", "C-arm", "1R"],
       answer: "Urologic",
       response: '',
@@ -426,7 +426,7 @@
     },
     {
       questionNumber: 45,
-      preamble: "Switching from normal to mag 1 mode using an II fluoroscopy system likely increases skin doses by  ____% and kerma-area products by _____%",
+      stem: "Switching from normal to mag 1 mode using an II fluoroscopy system likely increases skin doses by  ____% and kerma-area products by _____%",
       options: ["0; 0", "0; 100", "100; 0", "100; 100"],
       answer: "100; 0",
       response: '',
@@ -434,7 +434,7 @@
     },
     {
       questionNumber: 46,
-      preamble: "Maximum regulatory entrance K-air rate using high-level control (HLC) fluoroscopy is most likely (mGy/minute)",
+      stem: "Maximum regulatory entrance K-air rate using high-level control (HLC) fluoroscopy is most likely (mGy/minute)",
       options: ["10", "50", "100", "200"],
       answer: "200",
       response: '',
@@ -442,7 +442,7 @@
     },
     {
       questionNumber: 47,
-      preamble: "Highest skin dose (mGy) in a barium enema examination is most likely",
+      stem: "Highest skin dose (mGy) in a barium enema examination is most likely",
       options: ["5", "50", "500", "5,000"],
       answer: "500",
       response: '',
@@ -450,7 +450,7 @@
     },
     {
       questionNumber: 48,
-      preamble: "Doses using FPDs with small fields of view are likely _____ to those from corresponding images obtained using image intensifiers",
+      stem: "Doses using FPDs with small fields of view are likely _____ to those from corresponding images obtained using image intensifiers",
       options: ["Higher than", "Comparable to", "Lower than"],
       answer: "Lower than",
       response: '',
@@ -458,7 +458,7 @@
     },
     {
       questionNumber: 49,
-      preamble: "In normal-sized adults, skin doses for lateral projections of the abdomen are most likely ______% higher than those of PA projections",
+      stem: "In normal-sized adults, skin doses for lateral projections of the abdomen are most likely ______% higher than those of PA projections",
       options: ["10", "30", "50", "100"],
       answer: "100",
       response: '',
@@ -466,7 +466,7 @@
     },
     {
       questionNumber: 50,
-      preamble: "The median patient effective dose (mSv) for IR procedures performed at US AMC is most likely",
+      stem: "The median patient effective dose (mSv) for IR procedures performed at US AMC is most likely",
       options: ["3", "30", "300", ">300"],
       answer: "30",
       response: '',
@@ -474,7 +474,7 @@
     },
     {
       questionNumber: 51,
-      preamble: "The reading on a dosimeter worn on the collar above a lead apron and thyroid shield best indicates the operator ______ dose",
+      stem: "The reading on a dosimeter worn on the collar above a lead apron and thyroid shield best indicates the operator ______ dose",
       options: ["eye lens", "thyroid", "effective", "extremity"],
       answer: "eye lens",
       response: '',
@@ -482,7 +482,7 @@
     },
     {
       questionNumber: 52,
-      preamble: "Wearing leaded glasses is most likely to reduce eye lens doses by about (%)",
+      stem: "Wearing leaded glasses is most likely to reduce eye lens doses by about (%)",
       options: ["30", "60", "90", ">90"],
       answer: "60",
       response: '',
@@ -490,7 +490,7 @@
     },
     {
       questionNumber: 53,
-      preamble: "Compared to a radiographic x-ray tube, x-ray beam filtration in CT is most likely",
+      stem: "Compared to a radiographic x-ray tube, x-ray beam filtration in CT is most likely",
       options: ["Higher", "Similar", "Lower"],
       answer: "Higher",
       response: '',
@@ -498,7 +498,7 @@
     },
     {
       questionNumber: 54,
-      preamble: "To create one axial CT slice of an adult likely requires the acquisition of ______ projections, each with ______ rays",
+      stem: "To create one axial CT slice of an adult likely requires the acquisition of ______ projections, each with ______ rays",
       options: ["100; 100", "300; 300", "1,000; 1,000", "3,000; 3,000"],
       answer: "1,000; 1,000",
       response: '',
@@ -506,7 +506,7 @@
     },
     {
       questionNumber: 55,
-      preamble: "Which mathematical reconstruction filter is most likely to have the best possible spatial resolution",
+      stem: "Which mathematical reconstruction filter is most likely to have the best possible spatial resolution",
       options: ["Ramp", "Bone", "Soft tissue", "Smooth"],
       answer: "Ramp",
       response: '',
@@ -514,7 +514,7 @@
     },
     {
       questionNumber: 56,
-      preamble: "Hounsfield units compare a pixel linear attenuation with that of",
+      stem: "Hounsfield units compare a pixel linear attenuation with that of",
       options: ["Air", "Soft tissue", "Aluminum", "Water"],
       answer: "Water",
       response: '',
@@ -522,7 +522,7 @@
     },
     {
       questionNumber: 57,
-      preamble: "Increasing the x-ray tube voltage affects the HU value of water",
+      stem: "Increasing the x-ray tube voltage affects the HU value of water",
       options: ["increases", "does not affect", "reduces"],
       answer: "does not affect",
       response: '',
@@ -530,7 +530,7 @@
     },
     {
       questionNumber: 58,
-      preamble: "For CT x-ray beams, how much soft tissue (mm) will likely attenuate half the x-ray beam",
+      stem: "For CT x-ray beams, how much soft tissue (mm) will likely attenuate half the x-ray beam",
       options: ["10", "20", "30", "40"],
       answer: "40",
       response: '',
@@ -538,7 +538,7 @@
     },
     {
       questionNumber: 59,
-      preamble: "Retrospectively gated CT coronary angiography most likely makes use of a very low",
+      stem: "Retrospectively gated CT coronary angiography most likely makes use of a very low",
       options: ["Tube rotation", "Output (mAs)", "CT pitch", "Beam filtration"],
       answer: "CT pitch",
       response: '',
@@ -546,7 +546,7 @@
     },
     {
       questionNumber: 60,
-      preamble: "Compared to adults, CT scans of infants most likely use mAs and kV",
+      stem: "Compared to adults, CT scans of infants most likely use mAs and kV",
       options: [
         "increased; increased",
         "increased; decreased",
@@ -559,7 +559,7 @@
     },
     {
       questionNumber: 61,
-      preamble: "In CT fluoroscopy, the number of 'new' images generated in a second is most likely",
+      stem: "In CT fluoroscopy, the number of 'new' images generated in a second is most likely",
       options: ["2", "6", "15", "30"],
       answer: "6",
       response: '',
@@ -567,7 +567,7 @@
     },
     {
       questionNumber: 62,
-      preamble: "Contrast between a soft tissue lesion and a water background is the tissue",
+      stem: "Contrast between a soft tissue lesion and a water background is the tissue",
       options: [
         "Hounsfield unit (HU)",
         "Attenuation coefficient (p)",
@@ -580,7 +580,7 @@
     },
     {
       questionNumber: 63,
-      preamble: "When a CT examination is performed using a higher tube voltage (kV) at the same mAs, lesion contrast-to-noise ratio is most likely",
+      stem: "When a CT examination is performed using a higher tube voltage (kV) at the same mAs, lesion contrast-to-noise ratio is most likely",
       options: ["Increased", "The same", "Reduced", "Indeterminate"],
       answer: "Indeterminate",
       response: '',
@@ -588,7 +588,7 @@
     },
     {
       questionNumber: 64,
-      preamble: "The eye lens dose (mGy) in a routine head CT examination is most likely",
+      stem: "The eye lens dose (mGy) in a routine head CT examination is most likely",
       options: ["1", "4", "15", "60"],
       answer: "60",
       response: '',
@@ -596,7 +596,7 @@
     },
     {
       questionNumber: 65,
-      preamble: "In the expression WmTc, the letter m stands for",
+      stem: "In the expression WmTc, the letter m stands for",
       options: ["Metastable", "Magnetic", "Massive", "Minor"],
       answer: "Metastable",
       response: '',
@@ -604,7 +604,7 @@
     },
     {
       questionNumber: 66,
-      preamble: "Activity remaining after 11 half-lives is most likely (%)",
+      stem: "Activity remaining after 11 half-lives is most likely (%)",
       options: ["<0.1", "~0.1", ">0.1"],
       answer: "<0.1",
       response: '',
@@ -612,7 +612,7 @@
     },
     {
       questionNumber: 67,
-      preamble: "Radionuclide equilibrium most likely occurs after four _____ half-lives for secular equilibrium and four ______ half-lives for transient equilibrium",
+      stem: "Radionuclide equilibrium most likely occurs after four _____ half-lives for secular equilibrium and four ______ half-lives for transient equilibrium",
       options: [
         "parent; parent",
         "parent; daughter",
@@ -625,7 +625,7 @@
     },
     {
       questionNumber: 68,
-      preamble: "Which of the following is an example of phagocytosis?",
+      stem: "Which of the following is an example of phagocytosis?",
       options: [
         "Labeled sulfur colloids",
         "GI bleed studies",
@@ -638,7 +638,7 @@
     },
     {
       questionNumber: 69,
-      preamble: "The energy resolution (%) of a gamma camera is most likely",
+      stem: "The energy resolution (%) of a gamma camera is most likely",
       options: ["5", "10", "20", "50"],
       answer: "10",
       response: '',
@@ -646,7 +646,7 @@
     },
     {
       questionNumber: 70,
-      preamble: "Parallel hole collimator sensitivity is ______ increased distance from collimator, whereas the corresponding spatial resolution is ______",
+      stem: "Parallel hole collimator sensitivity is ______ increased distance from collimator, whereas the corresponding spatial resolution is ______",
       options: [
         "constant; constant",
         "constant; degraded",
@@ -659,7 +659,7 @@
     },
     {
       questionNumber: 71,
-      preamble: "Diagnostic quality of SPECT images may be improved using",
+      stem: "Diagnostic quality of SPECT images may be improved using",
       options: [
         "Ordered subset expectation maximization",
         "Frequency filtering",
@@ -672,7 +672,7 @@
     },
     {
       questionNumber: 72,
-      preamble: "Spatial resolution in SPECT is most likely an FWHM (mm) of",
+      stem: "Spatial resolution in SPECT is most likely an FWHM (mm) of",
       options: ["2", "4", "8", "16"],
       answer: "8",
       response: '',
@@ -680,7 +680,7 @@
     },
     {
       questionNumber: 73,
-      preamble: "The percentage (%) of detected photons accepted by a PET coincidence circuit is most likely",
+      stem: "The percentage (%) of detected photons accepted by a PET coincidence circuit is most likely",
       options: ["1", "10", "90", "99"],
       answer: "1",
       response: '',
@@ -688,7 +688,7 @@
     },
     {
       questionNumber: 74,
-      preamble: "The number of counts in a PET image is most likely",
+      stem: "The number of counts in a PET image is most likely",
       options: ["5,000", "50,000", "500,000", "5,000,000"],
       answer: "5,000,000",
       response: '',
@@ -696,7 +696,7 @@
     },
     {
       questionNumber: 75,
-      preamble: "Attenuation correction factors are generally highest in",
+      stem: "Attenuation correction factors are generally highest in",
       options: ["SPECT", "PET", "SPECT and PET", "comparable"],
       answer: "PET",
       response: '',
@@ -704,7 +704,7 @@
     },
     {
       questionNumber: 76,
-      preamble: "Which facility likely requires the most amount of lead shielding?",
+      stem: "Which facility likely requires the most amount of lead shielding?",
       options: ["CT", "SPECT", "PET", "1311 room"],
       answer: "PET",
       response: '',
@@ -712,7 +712,7 @@
     },
     {
       questionNumber: 77,
-      preamble: "At 1 T, the number of protons contributing to the net magnetization is most likely _____ per million",
+      stem: "At 1 T, the number of protons contributing to the net magnetization is most likely _____ per million",
       options: ["3", "30", "300", ">300"],
       answer: "3",
       response: '',
@@ -720,7 +720,7 @@
     },
     {
       questionNumber: 78,
-      preamble: "Which RF flip angle (degrees) is most likely to result in the lowest free induction decay (FID)?",
+      stem: "Which RF flip angle (degrees) is most likely to result in the lowest free induction decay (FID)?",
       options: ["45", "135", "180", "270"],
       answer: "180",
       response: '',
@@ -728,7 +728,7 @@
     },
     {
       questionNumber: 79,
-      preamble: "Bone has a ______  and a ____ ",
+      stem: "Bone has a ______  and a ____ ",
       options: [
         "long T1 and long T2",
         "long T1 and short T2",
@@ -741,7 +741,7 @@
     },
     {
       questionNumber: 80,
-      preamble: "Increasing the transmit RF bandwidth would most likely result in a(n) _____ slice thickness (mm)",
+      stem: "Increasing the transmit RF bandwidth would most likely result in a(n) _____ slice thickness (mm)",
       options: ["increased", "unchanged", "reduced"],
       answer: "increased",
       response: '',
@@ -749,7 +749,7 @@
     },
     {
       questionNumber: 81,
-      preamble: "Removing the periphery of K-space most likely results in reconstructed MR images that are (have)",
+      stem: "Removing the periphery of K-space most likely results in reconstructed MR images that are (have)",
       options: ["Blurrier", "Less contrast", "Noisier", "More artifacts"],
       answer: "Blurrier",
       response: '',
@@ -757,7 +757,7 @@
     },
     {
       questionNumber: 82,
-      preamble: "An open MR suite door during image acquisition is most likely to result in a ______ artifact",
+      stem: "An open MR suite door during image acquisition is most likely to result in a ______ artifact",
       options: ["ringing", "zipper", "magic angle", "susceptibility"],
       answer: "zipper",
       response: '',
@@ -765,7 +765,7 @@
     },
     {
       questionNumber: 83,
-      preamble: "To obtain T1 weighting, the operator must choose TR to be ______ and TE to be ______",
+      stem: "To obtain T1 weighting, the operator must choose TR to be ______ and TE to be ______",
       options: ["long; long", "long; short", "short; long", "short; short"],
       answer: "short; short",
       response: '',
@@ -773,7 +773,7 @@
     },
     {
       questionNumber: 84,
-      preamble: "SNR in gradient recalled echo images is most likely ______ that obtained in spin echo imaging",
+      stem: "SNR in gradient recalled echo images is most likely ______ that obtained in spin echo imaging",
       options: ["higher than", "comparable to", "lower than"],
       answer: "lower than",
       response: '',
@@ -781,7 +781,7 @@
     },
     {
       questionNumber: 85,
-      preamble: 'In head inversion recovery sequences obtained at 1.5 T, applying a 90-degree "read out" pulse at 1,700 ms would most likely suppress the signal from',
+      stem: 'In head inversion recovery sequences obtained at 1.5 T, applying a 90-degree "read out" pulse at 1,700 ms would most likely suppress the signal from',
       options: ["Brain", "Tumor", "Fat", "CSF"],
       answer: "CSF",
       response: '',
@@ -789,7 +789,7 @@
     },
     {
       questionNumber: 86,
-      preamble: "Which most likely makes use of two images acquired using reversed bipolar gradients",
+      stem: "Which most likely makes use of two images acquired using reversed bipolar gradients",
       options: [
         "Gd magnetic resonance angiography",
         "Time of flight angiography",
@@ -802,7 +802,7 @@
     },
     {
       questionNumber: 87,
-      preamble: "Which is least likely to affect lesion contrast in GRE imaging",
+      stem: "Which is least likely to affect lesion contrast in GRE imaging",
       options: [
         "Repetition time (TR)",
         "Echo time (TE)",
@@ -815,7 +815,7 @@
     },
     {
       questionNumber: 88,
-      preamble: "Average SAR limits for head and body (W/kg) are ______ and ______ respectively",
+      stem: "Average SAR limits for head and body (W/kg) are ______ and ______ respectively",
       options: ["3; 3", "3; 4", "4; 3", "4; 4"],
       answer: "3; 4",
       response: '',
@@ -823,7 +823,7 @@
     },
     {
       questionNumber: 89,
-      preamble: "Fat has a sound velocity that is than that of soft tissue",
+      stem: "Fat has a sound velocity that is than that of soft tissue",
       options: ["50% lower", "5% lower", "5% higher", "50% higher"],
       answer: "5% lower",
       response: '',
@@ -831,7 +831,7 @@
     },
     {
       questionNumber: 90,
-      preamble: "A tissue air interface most likely transmits ______% of the incident sound",
+      stem: "A tissue air interface most likely transmits ______% of the incident sound",
       options: ["<1", "10", "90", ">99"],
       answer: "<1",
       response: '',
@@ -839,7 +839,7 @@
     },
     {
       questionNumber: 91,
-      preamble: "The major concern regarding refraction in clinical ultrasound is an increase in",
+      stem: "The major concern regarding refraction in clinical ultrasound is an increase in",
       options: [
         "Thermal index",
         "Mechanical index",
@@ -852,7 +852,7 @@
     },
     {
       questionNumber: 92,
-      preamble: "Adding a damping block to an ultrasound transducer likely increases",
+      stem: "Adding a damping block to an ultrasound transducer likely increases",
       options: [
         "Pulse length",
         "Pulse duration",
@@ -865,7 +865,7 @@
     },
     {
       questionNumber: 93,
-      preamble: "Region over which an ultrasound beam is narrow is called the focal",
+      stem: "Region over which an ultrasound beam is narrow is called the focal",
       options: ["Zone", "Depth", "Point", "Field"],
       answer: "Zone",
       response: '',
@@ -873,7 +873,7 @@
     },
     {
       questionNumber: 94,
-      preamble: "A phased array likely has _____ elements, and actives ______ of these elements in generating one line of sight",
+      stem: "A phased array likely has _____ elements, and actives ______ of these elements in generating one line of sight",
       options: ["100; all", "100; a few", "10; all", "10; a few"],
       answer: "100; all",
       response: '',
@@ -881,7 +881,7 @@
     },
     {
       questionNumber: 95,
-      preamble: "The product of the lines per image and the image frame rate (Hz) is the",
+      stem: "The product of the lines per image and the image frame rate (Hz) is the",
       options: [
         "Pulse repetition frequency",
         "Transducer operating frequency",
@@ -894,7 +894,7 @@
     },
     {
       questionNumber: 96,
-      preamble: "One ultrasound image most likely can be stored using ______ MB",
+      stem: "One ultrasound image most likely can be stored using ______ MB",
       options: ["0.25", "1", "5", "20"],
       answer: "0.25",
       response: '',
@@ -902,7 +902,7 @@
     },
     {
       questionNumber: 97,
-      preamble: "The major benefit of ultrasound harmonic imaging is the reduction of",
+      stem: "The major benefit of ultrasound harmonic imaging is the reduction of",
       options: [
         "Clutter (noise)",
         "Slice thickness",
@@ -915,7 +915,7 @@
     },
     {
       questionNumber: 98,
-      preamble: "Which type of Doppler provides the least amount of spatial information?",
+      stem: "Which type of Doppler provides the least amount of spatial information?",
       options: ["Spectral", "Color", "Power", "Continuous"],
       answer: "Spectral",
       response: '',
@@ -923,7 +923,7 @@
     },
     {
       questionNumber: 99,
-      preamble: "Which type of Doppler would most likely be used to detect slow flow at a large Doppler angle?",
+      stem: "Which type of Doppler would most likely be used to detect slow flow at a large Doppler angle?",
       options: ["Spectral", "Color", "Power", "Continuous"],
       answer: "Spectral",
       response: '',
@@ -931,7 +931,7 @@
     },
     {
       questionNumber: 100,
-      preamble: "Which is not an ultrasound image artifact?",
+      stem: "Which is not an ultrasound image artifact?",
       options: ["Reverberation", "Speed displacement", "Shadowing", "Ghosting"],
       answer: "Ghosting",
       response: '',

@@ -4,7 +4,7 @@
   questions: [
     {
       questionNumber: 11.1,
-      preamble: "Which would be least useful for magnetic resonance imaging?",
+      stem: "Which would be least useful for magnetic resonance imaging?",
       options: ["1H", "13C", "16O", "23Na", "31P"],
       answer: "16O",
       explanation: "16O, which has an even number of protons (8) and an even number of neutrons (8)",
@@ -12,7 +12,7 @@
     },
     {
       questionNumber: 11.2,
-      preamble: "The ratio of the electron magnetic moment to that of a proton is most likely",
+      stem: "The ratio of the electron magnetic moment to that of a proton is most likely",
       options: ["4:1", "16:1", "50:1", "200:1", "800:1"],
       answer: "800:1",
       explanation: "The ratio of the electron to proton magnetic moments is 800:1",
@@ -20,7 +20,7 @@
     },
     {
       questionNumber: 11.3,
-      preamble: "The resonance frequency (kHz) for protons in a 1-T magnetic field is likely",
+      stem: "The resonance frequency (kHz) for protons in a 1-T magnetic field is likely",
       options: ["4.2", "42", "420", "4,200", "42,000"],
       answer: "42,000",
       explanation: "The resonance frequency is 42,000 kHz, which is 42 MHz",
@@ -28,7 +28,7 @@
     },
     {
       questionNumber: 11.4,
-      preamble: "If a 90-degree RF pulse has a duration of t seconds, a 180-degree pulse is likely to have a duration of",
+      stem: "If a 90-degree RF pulse has a duration of t seconds, a 180-degree pulse is likely to have a duration of",
       options: ["t/4", "t/2", "t", "2t", "4t"],
       answer: "2t",
       explanation: "A duration of 2t, since doubling the RF pulse duration doubles the angular rotation of the longitudinal magnetization, assuming RF intensity stays constant",
@@ -36,7 +36,7 @@
     },
     {
       questionNumber: 11.5,
-      preamble: "The maximum free induction decay signal is obtained when using a flip angle of (degrees)",
+      stem: "The maximum free induction decay signal is obtained when using a flip angle of (degrees)",
       options: ["0", "45", "90", "135", "180"],
       answer: "90",
       explanation: "Pulses of 90 degrees rotate the longitudinal magnetization through ninety degrees (i.e., into the transverse plane) that maximizes the FID signal",
@@ -44,7 +44,7 @@
     },
     {
       questionNumber: 11.6,
-      preamble: "Which of the following is likely to have the shortest T1 times?",
+      stem: "Which of the following is likely to have the shortest T1 times?",
       options: ["Fat", "Liver", "Kidney", "White matter", "CSF"],
       answer: "Fat",
       explanation: "Fat T1 times are shorter than those of most tissues and all fluids",
@@ -52,7 +52,7 @@
     },
     {
       questionNumber: 11.7,
-      preamble: "Which of the following is likely to have the longest T1 times?",
+      stem: "Which of the following is likely to have the longest T1 times?",
       options: ["Fat", "Liver", "Kidney", "White matter", "CSF"],
       answer: "CSF",
       explanation: "CSF, since all fluids have long T1 relaxation times compared to fat and tissues",
@@ -60,7 +60,7 @@
     },
     {
       questionNumber: 11.8,
-      preamble: "After 90-degree RF pulses, spins lose phase coherence in a time comparable to",
+      stem: "After 90-degree RF pulses, spins lose phase coherence in a time comparable to",
       options: ["T1", "T2", "TE/2", "TE", "TR"],
       answer: "T2",
       explanation: "T2, which is a measure of spin dephasing in the transverse plane due to spin–spin interactions",
@@ -68,7 +68,7 @@
     },
     {
       questionNumber: 11.9,
-      preamble: "Which of the following likely has the longest T2 relaxation time?",
+      stem: "Which of the following likely has the longest T2 relaxation time?",
       options: ["Fat", "Liver", "Kidney", "White matter", "CSF"],
       answer: "CSF",
       explanation: "CSF and all fluids have long T2 times compared to fat and soft tissues",
@@ -76,7 +76,7 @@
     },
     {
       questionNumber: 11.1,
-      preamble: "In MR, cortical bone most likely appears black because bone has",
+      stem: "In MR, cortical bone most likely appears black because bone has",
       options: [
         "short T2",
         "long T2",
@@ -90,7 +90,7 @@
     },
     {
       questionNumber: 11.11,
-      preamble: "A 1-T magnetic field is greater than the earth's magnetic field by a factor of",
+      stem: "A 1-T magnetic field is greater than the earth's magnetic field by a factor of",
       options: ["5,000", "10,000", "20,000", "40,000", "80,000"],
       answer: "20,000",
       explanation: "A factor of 20,000, since the earth's magnetic field is only 0.05 mT (0.5 Gauss)",
@@ -98,7 +98,7 @@
     },
     {
       questionNumber: 11.12,
-      preamble: "Increasing the main magnetic field will most likely reduce",
+      stem: "Increasing the main magnetic field will most likely reduce",
       options: [
         "T1 relaxation",
         "T2 relaxation",
@@ -112,7 +112,7 @@
     },
     {
       questionNumber: 11.13,
-      preamble: "Superconducting MR magnets are most likely kept cold by using liquid",
+      stem: "Superconducting MR magnets are most likely kept cold by using liquid",
       options: ["air", "carbon dioxide", "helium", "nitrogen", "oxygen"],
       answer: "helium",
       explanation: "Liquid helium is used to cool superconducting magnets",
@@ -120,7 +120,7 @@
     },
     {
       questionNumber: 11.14,
-      preamble: "Coils used to adjust main magnetic field uniformity are called",
+      stem: "Coils used to adjust main magnetic field uniformity are called",
       options: ["shim", "Helmholtz", "saddle", "surface", "RF"],
       answer: "shim",
       explanation: "Shim coils are used to correct for inhomogeneities in the main magnetic field",
@@ -128,7 +128,7 @@
     },
     {
       questionNumber: 11.15,
-      preamble: "These coils are used to localize the MR signal",
+      stem: "These coils are used to localize the MR signal",
       options: ["shim", "gradient", "phased array", "surface", "RF"],
       answer: "gradient",
       explanation: "Magnetic gradient coils are used to localize the MR signal",
@@ -136,7 +136,7 @@
     },
     {
       questionNumber: 11.16,
-      preamble: "The best material for Faraday cages that shield against RF interference is most likely",
+      stem: "The best material for Faraday cages that shield against RF interference is most likely",
       options: ["aluminum", "copper", "rhodium", "lead", "tin"],
       answer: "copper",
       explanation: "Copper is generally used for RF shielding in Faraday cages",
@@ -144,7 +144,7 @@
     },
     {
       questionNumber: 11.17,
-      preamble: "The number of phase-encode gradient steps applied when generating M × M SE images is likely",
+      stem: "The number of phase-encode gradient steps applied when generating M × M SE images is likely",
       options: ["M", "M2", "M3", "2 × M", "3 × M"],
       answer: "M",
       explanation: "M phase-encode steps are required to generate an MR image with a matrix size of M × M",
@@ -152,7 +152,7 @@
     },
     {
       questionNumber: 11.18,
-      preamble: "The reconstruction algorithm used in clinical MRI is most likely",
+      stem: "The reconstruction algorithm used in clinical MRI is most likely",
       options: [
         "2D Fourier transform",
         "Iterative",
@@ -166,7 +166,7 @@
     },
     {
       questionNumber: 11.19,
-      preamble: "Acquisition time(s) for a 192 × 128 SE image (TE = 100 ms; TR = 1,000 ms) is likely",
+      stem: "Acquisition time(s) for a 192 × 128 SE image (TE = 100 ms; TR = 1,000 ms) is likely",
       options: ["12.8", "19.2", "128", "192", "128 + 192"],
       answer: "128",
       explanation: "Acquisition time is 128 seconds, since there are at least 128 repetitions, each with a different phase-encoding gradient, and each repetition takes 1 s (TR time)",
@@ -174,7 +174,7 @@
     },
     {
       questionNumber: 11.2,
-      preamble: "Following a 90-degree pulse in SE imaging, the echo signal would likely be measured at",
+      stem: "Following a 90-degree pulse in SE imaging, the echo signal would likely be measured at",
       options: ["immediately (t = 0)", "TE", "4 × T1", "T2", "TR"],
       answer: "TE",
       explanation: "TE is the time when the echo (signal) is produced and measured",
@@ -182,7 +182,7 @@
     },
     {
       questionNumber: 11.21,
-      preamble: "A decreased MR signal is most likely when there is an increase in",
+      stem: "A decreased MR signal is most likely when there is an increase in",
       options: ["T2", "T2*", "blood flow", "spin density", "spin dephasing"],
       answer: "spin dephasing",
       explanation: "Spin dephasing must reduce the MR signal.",
@@ -190,7 +190,7 @@
     },
     {
       questionNumber: 11.22,
-      preamble: "Which of the following is most likely to suppress signals from fat?",
+      stem: "Which of the following is most likely to suppress signals from fat?",
       options: ["FLASH", "Fast SE", "STIR", "FLAIR", "BOLD"],
       answer: "STIR",
       explanation: "STIR, which stands for short tau inversion recovery, will suppress signals from fat",
@@ -198,7 +198,7 @@
     },
     {
       questionNumber: 11.23,
-      preamble: "The limiting spatial resolution (line pairs per mm) in current clinical MR is most likely",
+      stem: "The limiting spatial resolution (line pairs per mm) in current clinical MR is most likely",
       options: ["0.1", "0.3", "1", "2", "5"],
       answer: "0.3",
       explanation: "A typical resolution in clinical MR is 0.3 lp/mm, and about half the resolution in clinical CT",
@@ -206,7 +206,7 @@
     },
     {
       questionNumber: 11.24,
-      preamble: "When N MR image acquisitions are averaged, the resultant signal-to-noise ratio likely improves by",
+      stem: "When N MR image acquisitions are averaged, the resultant signal-to-noise ratio likely improves by",
       options: ["N0.5", "N", "2 × N", "N1.5", "N2"],
       answer: "N0.5",
       explanation: "N0.5, which means that SNR doubles when the number of image acquisitions quadruples",
@@ -214,7 +214,7 @@
     },
     {
       questionNumber: 11.25,
-      preamble: "In MR, motion results in ghost images that appear in which direction?",
+      stem: "In MR, motion results in ghost images that appear in which direction?",
       options: [
         "Read encode",
         "Phase encode",
@@ -228,7 +228,7 @@
     },
     {
       questionNumber: 11.26,
-      preamble: "Chemical shift artifacts are most likely caused by fat and water differences in",
+      stem: "Chemical shift artifacts are most likely caused by fat and water differences in",
       options: ["T1", "T2", "T2*", "Larmor frequency", "spin density"],
       answer: "Larmor frequency",
       explanation: "Differences in Larmor frequency give rise to fat/water chemical shift artifacts",
@@ -236,7 +236,7 @@
     },
     {
       questionNumber: 11.27,
-      preamble: "The FDA guideline for limiting RF absorption (W per kg) in any gram of extremity of tissue is",
+      stem: "The FDA guideline for limiting RF absorption (W per kg) in any gram of extremity of tissue is",
       options: ["1", "2", "4", "8", "16"],
       answer: "8",
       explanation: "The FDA guideline for limiting RF absorption in any gram of tissue is 8 W per kg in the extremities",
@@ -244,7 +244,7 @@
     },
     {
       questionNumber: 11.28,
-      preamble: "The largest susceptibility artifacts are likely to be seen between tissue and",
+      stem: "The largest susceptibility artifacts are likely to be seen between tissue and",
       options: ["air", "blood", "fat", "marrow", "bone"],
       answer: "air",
       explanation: "Air and soft tissue interfaces will likely generate the highest susceptibility artifacts",
@@ -252,7 +252,7 @@
     },
     {
       questionNumber: 11.29,
-      preamble: "Proton relaxation by Gd-DTPA is most likely due to the gadolinium",
+      stem: "Proton relaxation by Gd-DTPA is most likely due to the gadolinium",
       options: [
         "nuclear field",
         "chelate (DTPA)",
@@ -266,7 +266,7 @@
     },
     {
       questionNumber: 11.3,
-      preamble: "The physical size (μm) of a superparamagnetic particle of SPIO or USPIO is most likely",
+      stem: "The physical size (μm) of a superparamagnetic particle of SPIO or USPIO is most likely",
       options: ["0.004", "0.04", "0.4", "4", "40"],
       answer: "0.04",
       explanation: "The size (single domain) of a superparamagnetic particle such as SPIO is 0.04 μm",

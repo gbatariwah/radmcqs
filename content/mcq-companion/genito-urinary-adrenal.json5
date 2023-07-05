@@ -1,7 +1,511 @@
 {
-  name: 'Genito-urinary and adrenal (renal tract and retroperitoneum)',
-  authors: 'A. Doss and M.J. Bull',
-  slug: 'genito-urinary-adrenal',
+  name: "Genito-urinary and adrenal (renal tract and retroperitoneum)",
+  authors: "A. Doss and M.J. Bull",
+  slug: "genito-urinary-adrenal",
   questions: [
-  ]
+    {
+      questionNumber: 1,
+      stem: "Regarding the development of the urinary tract",
+      options: [
+        {
+          text: "The metanepheric duct develops from a diverticulum at the end of the mesonephric duct",
+          answer: "True",
+          explanation: "also known as the ureteric bud",
+          response: "",
+        },
+        {
+          text: "The metanephros differentiates from the ureteric bud to develop into the kidney",
+          answer: "True",
+          explanation: "",
+          response: "",
+        },
+        {
+          text: "The metanephric duct develops into the ureter",
+          answer: "True",
+          explanation: "and the renal pelvis, calyces and collecting tubules",
+          response: "",
+        },
+        {
+          text: "The metanephros develops into the glomeruli and the proximal part of the renal duct system",
+          answer: "True",
+          explanation: "",
+          response: "",
+        },
+        {
+          text: "The collecting system of the kidney is derived from endoderm",
+          answer: "False",
+          explanation: "from mesoderm",
+          response: "",
+        },
+      ],
+    },
+    {
+      questionNumber: 2,
+      stem: "Regarding the kidney",
+      options: [
+        {
+          text: "It ascends from the pelvis during development",
+          answer: "True",
+          explanation: "as the ureteric outgrowth lengthens, the kidney is situated more and more cranially",
+          response: "",
+        },
+        {
+          text: "An aberrant renal artery may run to the kidney from the common iliac artery",
+          answer: "True",
+          explanation: "as the kidney ascends from the pelvis, it gets its blood sequentially from the middle sacral, common iliac arteries and finally from the aorta. Hence one of these arteries may persist in later life",
+          response: "",
+        },
+        {
+          text: "Fusion of the metanephric masses across the midline results in a duplex kidney",
+          answer: "False",
+          explanation: "this is a horseshoe kidney. On ultrasound, difficulty in defining the lower poles of the kidneys should alert the sonographer to this variant",
+          response: "",
+        },
+        {
+          text: "Congenital absence of one kidney occurs in about one in 100 births",
+          answer: "False",
+          explanation: "1 in 2400 births",
+          response: "",
+        },
+        {
+          text: "The primitive urogenital sinus gives rise to the bladder, urethra, and vestibule of the vagina",
+          answer: "True",
+          explanation: "",
+          response: "",
+        },
+      ],
+    },
+    {
+      questionNumber: 3,
+      stem: "In the renal tract",
+      options: [
+        {
+          text: "A high kV radiograph optimizes the detection of calcification",
+          answer: "False",
+          explanation: "a low KV radiograph",
+          response: "",
+        },
+        {
+          text: "Perirenal fat allows the renal outline to be seen on plain films",
+          answer: "True",
+          explanation: "",
+          response: "",
+        },
+        {
+          text: "The ureters are projected over the tips of the transverse processes of L2 to L5",
+          answer: "True",
+          explanation: "and over the sacroiliac joints, and within the pelvis over a course which runs laterally to the ischial spines and medially towards the bladder",
+          response: "",
+        },
+        {
+          text: "On tomograms, the renal upper pole is posterior to the lower pole",
+          answer: "True",
+          explanation: "due to the orientation of the kidneys to the lumbar lordosis. The whole length of the kidney is seen with slight caudal angulation of the X-ray tube",
+          response: "",
+        },
+        {
+          text: "Prone views aid mid ureteric filling during an IVU",
+          answer: "True",
+          explanation: "",
+          response: "",
+        },
+      ],
+    },
+    {
+      questionNumber: 4,
+      stem: "Regarding the kidneys",
+      options: [
+        {
+          text: "On ultrasound of the kidney, the cortex is echopoor compared with the medulla",
+          answer: "True",
+          explanation: "cortex is echopoor and medulla is echobright. This is cortico-medullary differentiation and fat within the renal sinus is very bright",
+          response: "",
+        },
+        {
+          text: "On T1-W MRI, the cortex is of higher signal than the medulla",
+          answer: "True",
+          explanation: "",
+          response: "",
+        },
+        {
+          text: "They usually lie between T12 and L3 vertebra",
+          answer: "True",
+          explanation: "",
+          response: "",
+        },
+        {
+          text: "Corticomedullary differentiation is appreciated on a DMSA scan",
+          answer: "False",
+          explanation: "Dimercaptosuccinic acid (DMSA) scintigrams give information on renal scarring and renal function. DTPA (diethylene triamine pentacetic acid) or mercaptocetyl triglycine (MAG3) scans quantify renal function and provide structural information, e.g. reflux of urine from the bladder into the ureter",
+          response: "",
+        },
+        {
+          text: "The upper poles lie more laterally than the lower poles",
+          answer: "False",
+          explanation: "upper poles lie more medially and posteriorly than lower poles (see question 3(d))",
+          response: "",
+        },
+      ],
+    },
+    {
+      questionNumber: 5,
+      stem: "In the kidney",
+      options: [
+        {
+          text: "The right kidney is usually larger by about 1.5 cm than the left",
+          answer: "False",
+          explanation: "",
+          response: "",
+        },
+        {
+          text: "The columns of Bertin extend medially within the substance of the kidney separating the medulla into pyramids",
+          answer: "True",
+          explanation: "",
+          response: "",
+        },
+        {
+          text: "Compound calyces are less efficient at preventing intrarenal reflux of urine",
+          answer: "True",
+          explanation: "and therefore are incriminated in the etiology of reflux nephropathy (chronic pyelonephritis)",
+          response: "",
+        },
+        {
+          text: "The renal arteries arise from the aorta at the superior margin of T12",
+          answer: "False",
+          explanation: "superior margin of L2, immediately caudal to the origin of the SMA",
+          response: "",
+        },
+        {
+          text: "The right renal artery is posterior to the IVC",
+          answer: "True",
+          explanation: "",
+          response: "",
+        },
+      ],
+    },
+    {
+      questionNumber: 6,
+      stem: "In the kidney",
+      options: [
+        {
+          text: "The anterior division of the renal artery supplies both upper and lower portions of the kidney",
+          answer: "True",
+          explanation: "the posterior division supplies the upper and mid-portion of the posterior aspect of the kidney",
+          response: "",
+        },
+        {
+          text: "The segmental branches divide into interlobar arteries between the pyramids",
+          answer: "True",
+          explanation: "",
+          response: "",
+        },
+        {
+          text: "The arcuate arteries anastomose extensively with each other at the base of the pyramids",
+          answer: "False",
+          explanation: "they form individual arcs which do not anastomose",
+          response: "",
+        },
+        {
+          text: "The renal vein is anterior to the renal pelvis",
+          answer: "True",
+          explanation: "",
+          response: "",
+        },
+        {
+          text: "The left renal vein is anterior to the aorta",
+          answer: "True",
+          explanation: "and receives the inferior phrenic vein, the gonadal and suprarenal vein on the left. There are no extra-renal tributaries to the right renal vein",
+          response: "",
+        },
+      ],
+    },
+    {
+      questionNumber: 7,
+      stem: "Regarding the fascial planes and spaces around the kidney",
+      options: [
+        {
+          text: "The perirenal fat is surrounded by Gerota’s fascia",
+          answer: "True",
+          explanation: "Gerota's fascia has an anterior and posterior leaf",
+          response: "",
+        },
+        {
+          text: "The anterior pararenal space lies between the anterior leaf of Gerota’s fascia and the posterior peritoneum",
+          answer: "True",
+          explanation: "this space extends across the midline and encases the pancreas, duodenum and both ascending and descending colon",
+          response: "",
+        },
+        {
+          text: "The posterior pararenal space lies between the kidneys and Gerota’s fascia",
+          answer: "False",
+          explanation: "between the posterior leaf of Gerota's fascia and the muscles of the posterior abdominal wall. Laterally the space is continuous with the extraperitoneal fat. Therefore, using an anterior abdominal wall incision, an operation on retroperitoneal structures can be performed",
+          response: "",
+        },
+        {
+          text: "The two leaves of Gerota’s fascia fuse to form the lateral conal fascia",
+          answer: "True",
+          explanation: "this passes lateral to the colon and medial to the posterior renal space",
+          response: "",
+        },
+        {
+          text: "The suprarenal gland is outside the peri-renal space",
+          answer: "False",
+          explanation: "exact location is in debate (see question 10)",
+          response: "",
+        },
+      ],
+    },
+    {
+      questionNumber: 8,
+      stem: "The ureter",
+      options: [
+        {
+          text: "shows narrowing at the pelvi-ureteric junction, when it crosses the iliac vessels at the pelvic brim and at the vesico-ureteric junction",
+          answer: "True",
+          explanation: "",
+          response: "",
+        },
+        {
+          text: "on the right is crossed by the second part of the duodenum, gonadal, right colic, and ileocolic vessels",
+          answer: "True",
+          explanation: "and root of the mesentery and terminal ileum. As the aorta is left-sided, the ureter is less oblique over the right common iliac artery compared to the left. Thus a greater length of the right ureter is compressed during pregnancy leading to pyelonephritis on this side",
+          response: "",
+        },
+        {
+          text: "in the male passes posterior to the seminal vesicle",
+          answer: "False",
+          explanation: "anterosuperior to the seminal vesicle. The ureter is usually lateral to the IVC - except in a retrocaval ureter",
+          response: "",
+        },
+        {
+          text: "in the female passes just superior to the uterine artery",
+          answer: "False",
+          explanation: "inferior and here it is in danger during a hysterectomy",
+          response: "",
+        },
+        {
+          text: "from the upper moiety in complete duplication opens in an ectopic location",
+          answer: "True",
+          explanation: "the ureter from the lower moiety inserts obliquely and predisposes to reflux, and that of the upper moiety leads to ureterocele and obstruction",
+          response: "",
+        },
+      ],
+    },
+    {
+      questionNumber: 9,
+      stem: "Regarding the urinary tract",
+      options: [
+        {
+          text: "Renal duplication is commoner in females than males",
+          answer: "True",
+          explanation: "prevalence of about 2%",
+          response: "",
+        },
+        {
+          text: "A ureterocele when associated with duplication usually affects the ectopic ureter",
+          answer: "True",
+          explanation: "a ureterocele is a dilation of the intramural part of the ureter due to narrowing of the ureteric orifice",
+          response: "",
+        },
+        {
+          text: "In fetal lobulation, the divisions overlie a calyx",
+          answer: "False",
+          explanation: "in cortical scarring, the loss of cortex overlies a calyx. In fetal lobulation, the divisions lie between calyces",
+          response: "",
+        },
+        {
+          text: "A pancake kidney results from fusion of two ectopic pelvic kidneys",
+          answer: "True",
+          explanation: "pelvic kidneys derive their blood supply from the internal iliac artery",
+          response: "",
+        },
+        {
+          text: "A horseshoe kidney usually lies higher than the normal kidney",
+          answer: "False",
+          explanation: "lies lower. The ascent of the horseshoe kidney is prevented by the inferior mesenteric artery. It occurs in 1 in 100 individuals. The lower pole of a normally situated kidney may fuse with the upper pole of an ectopic kidney - a crossed fused ectopia. Despite abnormal migration of the kidneys, the suprarenals almost always lie in their usual sites apart from assuming a discoid shape, due to the absence of the renal impression in utero",
+          response: "",
+        },
+      ],
+    },
+    {
+      questionNumber: 10,
+      stem: "The suprarenal gland(s)",
+      options: [
+        {
+          text: "at birth are the same size as the kidney",
+          answer: "False",
+          explanation: "at birth they are about one-third the size of the kidney and atrophy until the second year of life after which slow growth occurs until puberty to reach adult size - about one-thirtieth the size of the kidney",
+          response: "",
+        },
+        {
+          text: "are separated from the kidney by a thin layer of peri-renal fat and lie at the superior margin of the peri-renal fascia",
+          answer: "True",
+          explanation: "",
+          response: "",
+        },
+        {
+          text: "have limbs that are usually no more than the size of the adjacent diaphragmatic crus",
+          answer: "True",
+          explanation: "",
+          response: "",
+        },
+        {
+          text: "on the right is anterior to the IVC",
+          answer: "False",
+          explanation: "posterior to the IVC and right lobe of the liver",
+          response: "",
+        },
+        {
+          text: "on the left is anterior to the lesser sac",
+          answer: "False",
+          explanation: "",
+          response: "",
+        },
+      ],
+    },
+    {
+      questionNumber: 11,
+      stem: "Regarding the suprarenal glands",
+      options: [
+        {
+          text: "The superior suprarenal artery is a branch of the inferior phrenic artery",
+          answer: "True",
+          explanation: "",
+          response: "",
+        },
+        {
+          text: "The suprarenal artery proper is a branch of the corresponding renal arteries",
+          answer: "False",
+          explanation: "a branch of the aorta, it gives rise to the middle suprarenal artery. The renal arteries give rise to the inferior suprarenal arteries",
+          response: "",
+        },
+        {
+          text: "The right suprarenal vein drains into the right renal vein",
+          answer: "False",
+          explanation: "the left suprarenal vein drains into the left renal vein. The right suprarenal vein drains directly into the IVC",
+          response: "",
+        },
+        {
+          text: "The arteries to the suprarenal gland arise at about the level of L1/L2 intervertebral disc",
+          answer: "True",
+          explanation: "",
+          response: "",
+        },
+        {
+          text: "Islands of suprarenal cortical tissue may be found in the broad ligament",
+          answer: "True",
+          explanation: "and epididymis and spermatic cord",
+          response: "",
+        },
+      ],
+    },
+    {
+      questionNumber: 12,
+      stem: "The IVC",
+      options: [
+        {
+          text: "is formed at the level of L5 by the confluences of the right and left common iliac veins",
+          answer: "True",
+          explanation: "",
+          response: "",
+        },
+        {
+          text: "At the level of the diaphragm, is separated from the aorta by the right crus of the diaphragm and esophagus",
+          answer: "True",
+          explanation: "",
+          response: "",
+        },
+        {
+          text: "pierces the central tendon of the diaphragm at the level of T12",
+          answer: "False",
+          explanation: "at T8",
+          response: "",
+        },
+        {
+          text: "drains the left renal vein adjacent to the uncinate process of the pancreas",
+          answer: "True",
+          explanation: "",
+          response: "",
+        },
+        {
+          text: "drain the segmental lumbar veins",
+          answer: "True",
+          explanation: "spread of infection or tumor from the pelvis to the vertebral column is due to the ascending lumbar veins. The ascending lumbar veins connect the segmental lumbar veins which drain the vertebral venous plexuses into the IVC, and extend as far caudally as the lateral sacral veins and iliolumbar veins",
+          response: "",
+        },
+      ],
+    },
+    {
+      questionNumber: 13,
+      stem: "Regarding the lymphatic system",
+      options: [
+        {
+          text: "The internal structure of nodes can sometimes be assessed on high-resolution CT",
+          answer: "False",
+          explanation: "the internal structure of nodes can never be seen. Lymph nodes of 0.5–1 cm (normal size) can be detected, but the normal nodes cannot be discerned from the abnormal ones of this size",
+          response: "",
+        },
+        {
+          text: "Nodes of more than 1cm in the external iliac territory are often normal",
+          answer: "True",
+          explanation: "",
+          response: "",
+        },
+        {
+          text: "Nodes of 1cm on short axis in the retrocrural on left gastric territories are usually abnormal",
+          answer: "True",
+          explanation: "",
+          response: "",
+        },
+        {
+          text: "Lymphography is the method of choice to visualize the internal iliac, hepatic, and pre-aortic nodes",
+          answer: "False",
+          explanation: "these group of nodes are not visualized on lymphography. High quality CT has almost completely replaced this technique",
+          response: "",
+        },
+        {
+          text: "The cisterna chyli extends from the bifurcation of the aorta to just below the diaphragm",
+          answer: "False",
+          explanation: "it is 6 cm long anterior to L1 and L2 posterior to the right crus of the diaphragm. It passes through the retrocrural space with the aorta to become the thoracic duct",
+          response: "",
+        },
+      ],
+    },
+    {
+      questionNumber: 14,
+      stem: "Regarding the diaphragm",
+      options: [
+        {
+          text: "In the midline the crura join to form the lateral arcuate ligament",
+          answer: "False",
+          explanation: "the median arcuate ligament which is a tendinous structure in the midline",
+          response: "",
+        },
+        {
+          text: "The fascia overlying the psoas muscle is thickened and gives origin to the diaphragm",
+          answer: "True",
+          explanation: "this is the medial arcuate ligament. The lateral arcuate ligament is fascia overlying the quadratus lumborum muscles",
+          response: "",
+        },
+        {
+          text: "The IVC passes through the most posterior of the diaphragmatic openings",
+          answer: "False",
+          explanation: "the IVC pierces the central tendinous part of the diaphragm and is patent in all phases of respiration. It is the most anterior of the three openings",
+          response: "",
+        },
+        {
+          text: "The aorta enters the thorax anterior to the crura",
+          answer: "False",
+          explanation: "the aorta passes posterior to the median arcuate ligament in the retrocrural space. The retrocrural space is bounded laterally by the crura, anteriorly by their fused median arcuate ligament and posteriorly by the vertebral body of T12",
+          response: "",
+        },
+        {
+          text: "The esophagus passes through the muscular part of the diaphragm in the region of the right crus",
+          answer: "True",
+          explanation: "at the level of T10 with the right and left vagus nerves, esophageal branches of the left gastric vessels, and lymphatics draining the lower third of the esophagus",
+          response: "",
+        },
+      ],
+    },
+  ],
 }

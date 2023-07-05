@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="container max-w-2xl mx-auto">
     <header class="p-4 border-b dark:border-zinc-800">
       <nav class="flex justify-between items-center">
         <nuxt-link to="/" class="font-bold flex gap-1 items-center">
@@ -32,10 +32,10 @@
         </div>
       </nav>
     </header>
-    <main class="p-4 min-h-[500px] container max-w-2xl mx-auto">
+    <main class="p-4 min-h-[500px]">
       <slot />
     </main>
-    <footer class="text-center p-24">
+    <footer class="text-center p-24 border-t dark:border-zinc-800">
       <p>&copy; RAD MCQS. {{ new Date().getFullYear() }}</p>
 
       <p class="text-xs font-light font-[poppins]">

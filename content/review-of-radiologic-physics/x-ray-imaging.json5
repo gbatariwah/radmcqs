@@ -4,7 +4,7 @@
   questions: [
     {
       questionNumber: 2.1,
-      preamble: "The ratio of scattered to primary x-rays in adult abdominal radiography is most likely",
+      stem: "The ratio of scattered to primary x-rays in adult abdominal radiography is most likely",
       options: ["0.2:1", "1:1", "5:1", "25:1"],
       answer: "5:1",
       explanation: "In abdominal radiography, about five scattered photons exit an adult patient for every primary photon that is transmitted",
@@ -12,7 +12,7 @@
     },
     {
       questionNumber: 2.2,
-      preamble: "Scattered radiation is undesirable because it adversely impacts on image",
+      stem: "Scattered radiation is undesirable because it adversely impacts on image",
       options: ["Contrast", "Resolution", "Noise", "Artifacts"],
       answer: "Contrast",
       explanation: "The presence of scattered radiation reduces (lesion) contrast",
@@ -20,7 +20,7 @@
     },
     {
       questionNumber: 2.3,
-      preamble: "Which examination is most likely to be performed without a grid (i.e., least scatter)?",
+      stem: "Which examination is most likely to be performed without a grid (i.e., least scatter)?",
       options: ["Head", "Chest", "Abdomen", "Extremity"],
       answer: "Extremity",
       explanation: "Examinations of extremities have little scatter because of the presence of bone (high Z absorber) and the use of low tube voltages, and are therefore usually performed without grids",
@@ -28,7 +28,7 @@
     },
     {
       questionNumber: 2.4,
-      preamble: "When grid lines are not visible on bedside chest radiographs, this is most likely because grids",
+      stem: "When grid lines are not visible on bedside chest radiographs, this is most likely because grids",
       options: [
         "Were not actually used",
         "Had low grid ratios",
@@ -41,7 +41,7 @@
     },
     {
       questionNumber: 2.5,
-      preamble: "Geometric magnification imaging would most likely use a grid ratio of",
+      stem: "Geometric magnification imaging would most likely use a grid ratio of",
       options: ["No grid used", "<10:1", "10:1", ">10:1"],
       answer: "No grid used",
       explanation: "Grids are generally not used in geometric magnification (e.g., magnification mammography) because the air gap ensures that most of the scatter emerging from the patient misses the image receptor",
@@ -49,7 +49,7 @@
     },
     {
       questionNumber: 2.6,
-      preamble: "The Bucky factor in adult abdominal radiography is most likely",
+      stem: "The Bucky factor in adult abdominal radiography is most likely",
       options: ["1", "2", "5", "10"],
       answer: "5",
       explanation: "Adding a grid increases the patient dose by a factor of 5 when the radiation intensity at the image receptor (Kair) is kept constant",
@@ -57,7 +57,7 @@
     },
     {
       questionNumber: 2.7,
-      preamble: "Grid misalignment is most likely to result in digital images that show",
+      stem: "Grid misalignment is most likely to result in digital images that show",
       options: ["Grid cutoff", "Unsharpness", "Noise patterns", "Overexposure"],
       answer: "Grid cutoff",
       explanation: "When grids are not aligned correctly, the resultant images will exhibit grid cutoff artifacts showing light regions where no x-rays reached the image receptor",
@@ -65,7 +65,7 @@
     },
     {
       questionNumber: 2.8,
-      preamble: "Radiographic film shows patterns of silver",
+      stem: "Radiographic film shows patterns of silver",
       options: ["Halides", "Grains", "Molecules"],
 
       answer: "Grains",
@@ -74,7 +74,7 @@
     },
     {
       questionNumber: 2.9,
-      preamble: "Films with a steep gradient are likely to result in images that exhibit improved",
+      stem: "Films with a steep gradient are likely to result in images that exhibit improved",
       options: ["Contrast", "Mottle", "Sharpness", "Dose"],
       answer: "Contrast",
       explanation: "A steep gradient of a correctly exposed film will amplify subject contrast more, resulting in high image contrast",
@@ -82,7 +82,7 @@
     },
     {
       questionNumber: 2.1,
-      preamble: "Screens most likely absorb times more x-rays than films alone",
+      stem: "Screens most likely absorb times more x-rays than films alone",
       options: ["5", "50", "500", ">500"],
       answer: "50",
       explanation: "A typical film would absorb only 1% of the incident x-rays, whereas a screen would likely absorb 50%",
@@ -90,7 +90,7 @@
     },
     {
       questionNumber: 2.11,
-      preamble: "For screen-film radiography, increasing the beam quality most likely the patient entrance Kair",
+      stem: "For screen-film radiography, increasing the beam quality most likely the patient entrance Kair",
       options: ["Increases", "Does not change", "Reduces"],
       answer: "Reduces",
       explanation: "When beam quality increases, the x-ray beam becomes more penetrating, so less is required at the patient entrance to maintain a constant exposure at the image receptor. Film always requires a fixed amount of radiation to achieve the right film density",
@@ -98,7 +98,7 @@
     },
     {
       questionNumber: 2.12,
-      preamble: "Which type of detector most likely offers the best spatial resolution performance?",
+      stem: "Which type of detector most likely offers the best spatial resolution performance?",
       options: ["Photoconductor", "Scintillator", "Photostimulable phosphor"],
       answer: "Photoconductor",
       explanation: "Best resolution is achieved using photoconductors because the charge that is produced by absorbed x-rays does not disperse during the detection process as does light in scintillators",
@@ -106,7 +106,7 @@
     },
     {
       questionNumber: 2.13,
-      preamble: "Which type of detector is most likely to offer the lowest patient dose in chest x-ray imaging performed at 120 kV?",
+      stem: "Which type of detector is most likely to offer the lowest patient dose in chest x-ray imaging performed at 120 kV?",
       options: [
         "Photoconductor (Se)",
         "Scintillator (CsI)",
@@ -119,7 +119,7 @@
     },
     {
       questionNumber: 2.14,
-      preamble: "A Gigabit Ethernet network is likely to transmit a chest x-ray (10 MB) in about (s)",
+      stem: "A Gigabit Ethernet network is likely to transmit a chest x-ray (10 MB) in about (s)",
       options: ["1", "10", "100", ">100"],
       answer: "1",
       explanation: "A Gigabit Ethernet network can transmit a chest x-ray (10 MB) in less than 1 second",
@@ -127,7 +127,7 @@
     },
     {
       questionNumber: 2.15,
-      preamble: "The number of pixels in a chest x-ray (2 k x 2.5 k matrix size) is most likely",
+      stem: "The number of pixels in a chest x-ray (2 k x 2.5 k matrix size) is most likely",
       options: ["5,000", "50,000", "500,000", "5,000,000"],
       answer: "5,000,000",
       explanation: "(5 million). 5,000,000 pixels obtained by multiplying 2,000 by 2,500",
@@ -135,7 +135,7 @@
     },
     {
       questionNumber: 2.16,
-      preamble: "A 1 GB storage device would most likely store more _____ images.",
+      stem: "A 1 GB storage device would most likely store more _____ images.",
       options: ["chest x-ray", "mammogram", "CT", "MR"],
       answer: "MR",
       explanation: "Because MR images are generally the smallest (1/8th MB), the storage device could store the most of these types of images",
@@ -143,7 +143,7 @@
     },
     {
       questionNumber: 2.17,
-      preamble: "Evaluating performance of a diagnostic workstation would most likely use",
+      stem: "Evaluating performance of a diagnostic workstation would most likely use",
       options: ["SMPTE", "TCP/IP", "DICOM", "HTTP"],
       answer: "SMPTE",
       explanation: "Radiologists can (and should) use test patterns to evaluate monitor performance developed by the Society of Motion Picture and Television Engineers",
@@ -151,7 +151,7 @@
     },
     {
       questionNumber: 2.18,
-      preamble: "Gray scale display function (GSDF) relates _____ value to monitor brightness",
+      stem: "Gray scale display function (GSDF) relates _____ value to monitor brightness",
       options: ["pixel", "level", "window", "bit depth"],
       answer: "pixel",
       explanation: "The gray scale display function (GSDF) relates pixel value to monitor brightness. Digital pixel values are converted into monitor brightness using the GSDF, which provides identical grayscale image display on different monitors",
@@ -159,7 +159,7 @@
     },
     {
       questionNumber: 2.19,
-      preamble: "With a window level of 500, and a window width of 1,000, which pixel value will appear gray",
+      stem: "With a window level of 500, and a window width of 1,000, which pixel value will appear gray",
       options: ["0", "500", "1,000", "1,500"],
       answer: "500",
       explanation: "A pixel value of 500 will appear gray. Values below 0 will appear black, and values above 1,000 will appear white",
@@ -167,7 +167,7 @@
     },
     {
       questionNumber: 2.2,
-      preamble: "Which image processing algorithm is most likely to improve the visibility of tubes, lines, and catheters on bedside chest x-rays",
+      stem: "Which image processing algorithm is most likely to improve the visibility of tubes, lines, and catheters on bedside chest x-rays",
       options: [
         "Histogram equalization",
         "Energy subtraction",

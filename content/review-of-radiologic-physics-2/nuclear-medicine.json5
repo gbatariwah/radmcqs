@@ -4,7 +4,7 @@
   questions: [
     {
       questionNumber: 9.1,
-      preamble: "15O and 16O are examples of",
+      stem: "15O and 16O are examples of",
       options: [
         "isotopes",
         "isotones",
@@ -18,7 +18,7 @@
     },
     {
       questionNumber: 9.2,
-      preamble: "37 MBq is equal to (mCi)",
+      stem: "37 MBq is equal to (mCi)",
       options: ["0.1", "1", "10", "100", "1,000"],
       answer: "1",
       explanation: "One mCi is 37 MBq",
@@ -26,7 +26,7 @@
     },
     {
       questionNumber: 9.3,
-      preamble: "Which of the following decay modes most likely changes the mass number (A) of an unstable nucleus?",
+      stem: "Which of the following decay modes most likely changes the mass number (A) of an unstable nucleus?",
       options: [
         "Beta minus decay",
         "Beta plus decay",
@@ -40,7 +40,7 @@
     },
     {
       questionNumber: 9.4,
-      preamble: "60Co (Z = 27) decaying to 60Ni (Z = 28) is an example of",
+      stem: "60Co (Z = 27) decaying to 60Ni (Z = 28) is an example of",
       options: [
         "Beta plus decay",
         "Beta minus decay",
@@ -54,7 +54,7 @@
     },
     {
       questionNumber: 9.5,
-      preamble: "Electron capture nuclei are most likely to produce",
+      stem: "Electron capture nuclei are most likely to produce",
       options: [
         "antineutrinos",
         "internal conversion electrons",
@@ -68,7 +68,7 @@
     },
     {
       questionNumber: 9.6,
-      preamble: "A radionuclide produced in a nuclear reactor is most likely to decay by",
+      stem: "A radionuclide produced in a nuclear reactor is most likely to decay by",
       options: [
         "beta minus decay",
         "beta plus decay",
@@ -82,7 +82,7 @@
     },
     {
       questionNumber: 9.7,
-      preamble: "After ten half-lives, the fraction of activity remaining is",
+      stem: "After ten half-lives, the fraction of activity remaining is",
       options: [
         "depends on the initial activity",
         "1/10",
@@ -96,7 +96,7 @@
     },
     {
       questionNumber: 9.8,
-      preamble: "After one day, the remaining activity (%) of a 123I source will most likely be about",
+      stem: "After one day, the remaining activity (%) of a 123I source will most likely be about",
       options: ["50", "25", "12.5", "6.3", "3.2"],
       answer: "25",
       explanation: "The half-life of 123I is 13 hours, so after a day (approximately 2 half-lives), about 25% will remain",
@@ -104,7 +104,7 @@
     },
     {
       questionNumber: 9.9,
-      preamble: "The time (hour) when a daughter radionuclide (T1/2 = 1 hour) reaches approximate equilibrium with its long-lived parent is most likely",
+      stem: "The time (hour) when a daughter radionuclide (T1/2 = 1 hour) reaches approximate equilibrium with its long-lived parent is most likely",
       options: ["1", "2", "4", "8", "16"],
       answer: "4",
       explanation: "Four hours since equilibrium is always established after four daughter half-lives",
@@ -112,7 +112,7 @@
     },
     {
       questionNumber: 9.1,
-      preamble: "Which type of collimator will likely result in the highest resolution for imaging the thyroid?",
+      stem: "Which type of collimator will likely result in the highest resolution for imaging the thyroid?",
       options: [
         "High sensitivity",
         "Diverging",
@@ -126,7 +126,7 @@
     },
     {
       questionNumber: 9.11,
-      preamble: "Scintillation camera detectors are most likely made of",
+      stem: "Scintillation camera detectors are most likely made of",
       options: ["CsI", "NaI", "Na", "Cs", "NaCl"],
       answer: "NaI",
       explanation: "NaI is the scintillator material in most current scintillation cameras",
@@ -134,7 +134,7 @@
     },
     {
       questionNumber: 9.12,
-      preamble: "The percentage (%) of 140-keV photons absorbed in a scintillating camera crystal is most likely",
+      stem: "The percentage (%) of 140-keV photons absorbed in a scintillating camera crystal is most likely",
       options: ["20", "40", "60", "80", ">80"],
       answer: ">80",
       explanation: "A scintillation camera crystal will absorb most (i.e., >80%) of incident 140-keV gamma rays",
@@ -142,7 +142,7 @@
     },
     {
       questionNumber: 9.13,
-      preamble: "A pulse height analyzer window width of 20% used with 99mTc would likely reject energies (keV) that are less than",
+      stem: "A pulse height analyzer window width of 20% used with 99mTc would likely reject energies (keV) that are less than",
       options: ["140", "136", "126", "120", "112"],
       answer: "126",
       explanation: "A PHA window width of 20% selected for 99mTc gamma rays would reject energies that are less than 126 keV and more than 156 keV",
@@ -150,7 +150,7 @@
     },
     {
       questionNumber: 9.14,
-      preamble: "The most likely number of counts (k) in a scintillation camera image is most likely",
+      stem: "The most likely number of counts (k) in a scintillation camera image is most likely",
       options: ["5", "50", "500", "5,000", "50,000"],
       answer: "500",
       explanation: "A scintillation camera image is most likely to have approximately 500k counts",
@@ -158,7 +158,7 @@
     },
     {
       questionNumber: 9.15,
-      preamble: "The most likely image matrix size for cardiac SPECT imaging is",
+      stem: "The most likely image matrix size for cardiac SPECT imaging is",
       options: ["32 × 32", "64 × 64", "128 × 128", "256 × 256", "512 × 512"],
       answer: "64 × 64",
       explanation: "The normal cardiac SPECT image matrix size is 64 × 64 (most SPECT studies are cardiac examinations)",
@@ -166,7 +166,7 @@
     },
     {
       questionNumber: 9.16,
-      preamble: "Pixel values in SPECT images represent",
+      stem: "Pixel values in SPECT images represent",
       options: [
         "physical densities",
         "gamma ray absorption",
@@ -180,7 +180,7 @@
     },
     {
       questionNumber: 9.17,
-      preamble: "Which is least likely to be used as a detector material in PET imaging?",
+      stem: "Which is least likely to be used as a detector material in PET imaging?",
       options: ["BGO", "GSO", "LSO", "HCO", "YSO"],
       answer: "HCO",
       explanation: "HCO, which consists of hydrogen (H), carbon (C), and oxygen (O), and which would therefore be useless for detecting 511-keV photons because of their low atomic numbers",
@@ -188,7 +188,7 @@
     },
     {
       questionNumber: 9.18,
-      preamble: "The amount of 18F (mCi) most likely to be administered in a PET/CT scan is",
+      stem: "The amount of 18F (mCi) most likely to be administered in a PET/CT scan is",
       options: ["1", "4", "16", "64", "256"],
       answer: "16",
       explanation: "A typical administered activity for a PET/CT scan is 16 mCi of 18F",
@@ -196,7 +196,7 @@
     },
     {
       questionNumber: 9.19,
-      preamble: "The standard limit for 99Mo breakthrough (μCi 99Mo per mCi 99mTc) is most likely",
+      stem: "The standard limit for 99Mo breakthrough (μCi 99Mo per mCi 99mTc) is most likely",
       options: ["0.15", "0.3", "0.5", "1.0", "1.5"],
       answer: "0.15",
       explanation: "The limit for 99Mo breakthrough is 0.15 μCi 99Mo per mCi 99mTc",
@@ -204,7 +204,7 @@
     },
     {
       questionNumber: 9.2,
-      preamble: "The most likely radionuclide for performing a scintillation camera flood uniformity test is",
+      stem: "The most likely radionuclide for performing a scintillation camera flood uniformity test is",
       options: ["57Co", "60Co", "137Cs", "131I", "226Ra"],
       answer: "57Co",
       explanation: "57Co would be used for a flood uniformity test because its photon energy (122 keV) is close to that of 99mTc (140 keV)",
@@ -212,7 +212,7 @@
     },
     {
       questionNumber: 9.21,
-      preamble: "The most likely radionuclide used to check the constancy of a dose calibrator is",
+      stem: "The most likely radionuclide used to check the constancy of a dose calibrator is",
       options: ["14C", "51Cr", "137Cs", "131I", "32P"],
       answer: "137Cs",
       explanation: "137Cs, which is a long-lived (30 year half-life) gamma emitter (661 keV)",
@@ -220,7 +220,7 @@
     },
     {
       questionNumber: 9.22,
-      preamble: "Radionuclides with a higher photon energy would likely increase scintillation camera",
+      stem: "Radionuclides with a higher photon energy would likely increase scintillation camera",
       options: [
         "detection efficiency",
         "septal penetration",
@@ -234,7 +234,7 @@
     },
     {
       questionNumber: 9.23,
-      preamble: "The full width half maximum width (mm) of a line source that is achieved by scintillation cameras is most likely",
+      stem: "The full width half maximum width (mm) of a line source that is achieved by scintillation cameras is most likely",
       options: ["1", "2", "4", "8", "16"],
       answer: "8",
       explanation: "Eight mm is a typical full width half maximum width of an image of a line source obtained using a scintillation camera using a low-energy high-resolution (LEHR) collimator",
@@ -242,7 +242,7 @@
     },
     {
       questionNumber: 9.24,
-      preamble: "The variance (i.e., σ2) of a NM image pixel with an average of 100 counts would likely be",
+      stem: "The variance (i.e., σ2) of a NM image pixel with an average of 100 counts would likely be",
       options: ["10", "20", "30", "50", "100"],
       answer: "100",
       explanation: "The variance (σ2) is 100 when a NM image pixel has an average of 100 counts (i.e., σ is 10)",
@@ -250,7 +250,7 @@
     },
     {
       questionNumber: 9.25,
-      preamble: "A single circular cold spot artifact in a scintillation camera image would likely be the result of a",
+      stem: "A single circular cold spot artifact in a scintillation camera image would likely be the result of a",
       options: [
         "cracked crystal",
         "damaged collimator",
@@ -264,7 +264,7 @@
     },
     {
       questionNumber: 9.26,
-      preamble: "For 99mTc, which of the following is least likely to contribute to the patient dose?",
+      stem: "For 99mTc, which of the following is least likely to contribute to the patient dose?",
       options: [
         "Auger electrons",
         "Beta particles",
@@ -278,7 +278,7 @@
     },
     {
       questionNumber: 9.27,
-      preamble: "If both physical and biologic half-lives are 2 hours, the effective half life (hour) is",
+      stem: "If both physical and biologic half-lives are 2 hours, the effective half life (hour) is",
       options: ["0.5", "1", "2", "3", "4"],
       answer: "1",
       explanation: "One, since the effective half-life is given by the relationship 1/T effective = 1/T physical + 1/T biologic",
@@ -286,7 +286,7 @@
     },
     {
       questionNumber: 9.28,
-      preamble: "Cumulative activity in an organ is least likely to depend on the",
+      stem: "Cumulative activity in an organ is least likely to depend on the",
       options: [
         "administered activity",
         "organ uptake",
@@ -300,7 +300,7 @@
     },
     {
       questionNumber: 9.29,
-      preamble: "Adult effective doses (mSv) for a 99mTc labeled radiopharmaceutical are most likely",
+      stem: "Adult effective doses (mSv) for a 99mTc labeled radiopharmaceutical are most likely",
       options: ["<1", "1", "2.5", "5", "10"],
       answer: "5",
       explanation: "Five mSv is a representative adult effective dose for a 99mTc labeled radiopharmaceutical",
@@ -308,7 +308,7 @@
     },
     {
       questionNumber: 9.3,
-      preamble: "Adult effective doses (mSv) in PET imaging are most likely",
+      stem: "Adult effective doses (mSv) in PET imaging are most likely",
       options: ["0.3", "1", "3", "10", "30"],
       answer: "10",
       explanation: "Ten mSv is a representative adult effective dose for a PET study",
@@ -316,7 +316,7 @@
     },
     {
       questionNumber: 10.16,
-      preamble: "An echo received 26 μs after the signal is sent is likely from a interface depth (cm) of",
+      stem: "An echo received 26 μs after the signal is sent is likely from a interface depth (cm) of",
       options: ["1", "2", "3", "4", "5"],
       answer: "2",
       explanation: "Two cm, since it takes 13 μs to get an echo from an interface from a depth of 1 cm",
@@ -324,7 +324,7 @@
     },
     {
       questionNumber: 10.17,
-      preamble: "The matrix size of a digitized ultrasound frame sent to a PACS is most likely",
+      stem: "The matrix size of a digitized ultrasound frame sent to a PACS is most likely",
       options: [
         "64 × 64",
         "128 × 128",
@@ -338,7 +338,7 @@
     },
     {
       questionNumber: 10.18,
-      preamble: "The most likely frame rate (frames per second) in real-time ultrasound imaging is",
+      stem: "The most likely frame rate (frames per second) in real-time ultrasound imaging is",
       options: ["1", "5", "20", "100", "500"],
       answer: "20",
       explanation: "Twenty frames per second is the only plausible value (5 is too low, and 100 is too high)",
@@ -346,7 +346,7 @@
     },
     {
       questionNumber: 10.19,
-      preamble: "Which is least likely an ultrasound display mode",
+      stem: "Which is least likely an ultrasound display mode",
       options: ["A", "B", "T", "T-M", "M"],
       answer: "T",
       explanation: "There is no T (time) display mode in ultrasound",
@@ -354,7 +354,7 @@
     },
     {
       questionNumber: 10.2,
-      preamble: "The Doppler shift from a moving object is least likely to depend on the",
+      stem: "The Doppler shift from a moving object is least likely to depend on the",
       options: [
         "ultrasound velocity",
         "ultrasound frequency",
@@ -368,7 +368,7 @@
     },
     {
       questionNumber: 10.21,
-      preamble: "The maximum Doppler frequency shift likely occurs when the angle (degrees) between the moving reflector and ultrasound beam is",
+      stem: "The maximum Doppler frequency shift likely occurs when the angle (degrees) between the moving reflector and ultrasound beam is",
       options: ["0", "23", "45", "68", "90"],
       answer: "0",
       explanation: "Zero degrees results in the largest Doppler shift, and 90 degrees in no Doppler shift",
@@ -376,7 +376,7 @@
     },
     {
       questionNumber: 10.22,
-      preamble: "What is the minimum PRF (kHz) required to accurately measure a 1-kHz Doppler frequency shift",
+      stem: "What is the minimum PRF (kHz) required to accurately measure a 1-kHz Doppler frequency shift",
       options: ["0.25", "0.5", "1", "2", "4"],
       answer: "2",
       explanation: "Two kHz, since one has to sample at twice the maximum frequency shift one is trying to detect (1 kHz in this example)",
@@ -384,7 +384,7 @@
     },
     {
       questionNumber: 10.23,
-      preamble: "In color Doppler, a red intensity most likely signifies that the blood flow is",
+      stem: "In color Doppler, a red intensity most likely signifies that the blood flow is",
       options: [
         "toward the transducer",
         "away from the transducer",
@@ -398,7 +398,7 @@
     },
     {
       questionNumber: 10.24,
-      preamble: "Choice of frequency in ultrasound is most likely a trade-off between patient penetration and",
+      stem: "Choice of frequency in ultrasound is most likely a trade-off between patient penetration and",
       options: [
         "image contrast",
         "axial resolution",
@@ -412,7 +412,7 @@
     },
     {
       questionNumber: 10.25,
-      preamble: "Ultrasound with a short pulse length is most likely to result in improved",
+      stem: "Ultrasound with a short pulse length is most likely to result in improved",
       options: [
         "axial resolution",
         "lateral resolution",
@@ -426,7 +426,7 @@
     },
     {
       questionNumber: 10.26,
-      preamble: "Lateral resolution in ultrasound imaging would most likely be improved by increasing the",
+      stem: "Lateral resolution in ultrasound imaging would most likely be improved by increasing the",
       options: [
         "transducer thickness",
         "pulse repetition frequency",
@@ -440,7 +440,7 @@
     },
     {
       questionNumber: 10.27,
-      preamble: "Shadowing artifacts would be least likely to occur behind",
+      stem: "Shadowing artifacts would be least likely to occur behind",
       options: ["lung", "bone", "air cavities", "bladder", "clips"],
       answer: "bladder",
       explanation: "Bladder contents have negligible attenuation and are more likely to show enhancement (not shadowing)",
@@ -448,7 +448,7 @@
     },
     {
       questionNumber: 10.28,
-      preamble: "Which of the following is least likely to be an ultrasound artifact",
+      stem: "Which of the following is least likely to be an ultrasound artifact",
       options: [
         "Mirror image",
         "Reverberation",
@@ -462,7 +462,7 @@
     },
     {
       questionNumber: 10.29,
-      preamble: "B-mode ultrasound beam intensities (W/cm2) are most likely",
+      stem: "B-mode ultrasound beam intensities (W/cm2) are most likely",
       options: ["0.001", "0.01", "0.1", "10", "100"],
       answer: "0.01",
       explanation: "B-mode US intensities are most likely 0.01 W/cm2, which is 10 mW/cm2",
@@ -470,7 +470,7 @@
     },
     {
       questionNumber: 10.3,
-      preamble: "The thermal index (TI) value indicates the possible increase in tissue",
+      stem: "The thermal index (TI) value indicates the possible increase in tissue",
       options: [
         "cavitation",
         "cell death",

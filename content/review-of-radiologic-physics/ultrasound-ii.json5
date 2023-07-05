@@ -4,7 +4,7 @@
   questions: [
     {
       questionNumber: 18.1,
-      preamble: 'The number of "lines of sight" that make up an ultrasound image is most likely',
+      stem: 'The number of "lines of sight" that make up an ultrasound image is most likely',
       options: ["10", "100", "1,000", ">1,000"],
       answer: "100",
       explanation: 'About 100 "lines of sight" make up an ultrasound image',
@@ -12,7 +12,7 @@
     },
     {
       questionNumber: 18.2,
-      preamble: "For a PRF of 4 kHz, the ultrasound listening period is (ps)",
+      stem: "For a PRF of 4 kHz, the ultrasound listening period is (ps)",
       options: ["2.5", "25", "250", "2,500"],
       answer: "250",
       explanation: "For a PRF of 4 kHz, the ultrasound listening period is 250 ps (i.e., 1/4,000 seconds)",
@@ -20,7 +20,7 @@
     },
     {
       questionNumber: 18.3,
-      preamble: "Ultrasound line density is most likely to affect the ultrasound image resolution",
+      stem: "Ultrasound line density is most likely to affect the ultrasound image resolution",
       options: ["axial", "lateral", "elevational", "temporal"],
       answer: "lateral",
       explanation: "Line density always affects lateral resolution, but may also impact temporal resolution (i.e., more lines per frame may result in fewer frames per second)",
@@ -28,7 +28,7 @@
     },
     {
       questionNumber: 18.4,
-      preamble: "Increasing the PRF implies a listening period, and a ultrasound imaging depth",
+      stem: "Increasing the PRF implies a listening period, and a ultrasound imaging depth",
       options: [
         "longer; increased",
         "longer; reduced",
@@ -41,7 +41,7 @@
     },
     {
       questionNumber: 18.5,
-      preamble: "When later echoes are electronically amplified more than earlier echoes, this is known as",
+      stem: "When later echoes are electronically amplified more than earlier echoes, this is known as",
       options: [
         "Time gain compensation (TGC)",
         "Depth gain compensation (DGC)",
@@ -54,7 +54,7 @@
     },
     {
       questionNumber: 18.6,
-      preamble: "Breast imaging most likely uses transducer frequencies characterized as",
+      stem: "Breast imaging most likely uses transducer frequencies characterized as",
       options: [
         "Low (2 MHz)",
         "Moderate (5 MHz)",
@@ -67,7 +67,7 @@
     },
     {
       questionNumber: 18.7,
-      preamble: "Spatial compounding most likely offers improved",
+      stem: "Spatial compounding most likely offers improved",
       options: [
         "Axial resolution",
         "Temporal resolution",
@@ -80,7 +80,7 @@
     },
     {
       questionNumber: 18.8,
-      preamble: "Extended field of view ultrasound is most likely used for imaging",
+      stem: "Extended field of view ultrasound is most likely used for imaging",
       options: ["pediatric", "cardiac", "MSK", "abdomen"],
       answer: "MSK",
       explanation: "Extended field of view ultrasound is most commonly used in MSK imaging",
@@ -88,7 +88,7 @@
     },
     {
       questionNumber: 18.9,
-      preamble: "Large signals in contrast imaging most likely occur because of differences in between encapsulated microbubblesand tissues",
+      stem: "Large signals in contrast imaging most likely occur because of differences in between encapsulated microbubblesand tissues",
       options: [
         "acoustic impedance",
         "effective wavelength",
@@ -101,7 +101,7 @@
     },
     {
       questionNumber: 18.1,
-      preamble: "In color Doppler, blood flow at a Doppler angle of 90 degrees would most likely be displayed as",
+      stem: "In color Doppler, blood flow at a Doppler angle of 90 degrees would most likely be displayed as",
       options: ["Blue", "Red", "Black", "Yellow/Green"],
       answer: "Black",
       explanation: "At a Doppler angle of 90 degrees, there is no frequency shift (i.e., cos[90°] is zero) which is shown as black",
@@ -109,7 +109,7 @@
     },
     {
       questionNumber: 18.11,
-      preamble: "Flow in a normal blood vessel is likely best characterized as",
+      stem: "Flow in a normal blood vessel is likely best characterized as",
       options: ["Laminar", "Blunt", "Turbulent", "Uniform"],
       answer: "Blunt",
       explanation: 'Flow in normal blood vessel exhibits a "flat" velocity profile, but is reduced at vessel walls',
@@ -117,7 +117,7 @@
     },
     {
       questionNumber: 18.12,
-      preamble: "Spectral analysis most likely shows on the vertical axis and along the horizontal axis",
+      stem: "Spectral analysis most likely shows on the vertical axis and along the horizontal axis",
       options: [
         "frequency shifts; time",
         "frequency shifts; distance",
@@ -130,7 +130,7 @@
     },
     {
       questionNumber: 18.13,
-      preamble: "Doppler images are unlikely to exhibit artifacts",
+      stem: "Doppler images are unlikely to exhibit artifacts",
       options: ["aliasing", "zipper", "flash", "twinkle"],
       answer: "zipper",
       explanation: "Doppler ultrasound images do not exhibit zipper artifacts, which occur in MR",
@@ -138,7 +138,7 @@
     },
     {
       questionNumber: 18.14,
-      preamble: "Maximum frequency shift (kHz) color Doppler could faithfully measure (i.e., without aliasing) using a PRF of 4 kHz is likely",
+      stem: "Maximum frequency shift (kHz) color Doppler could faithfully measure (i.e., without aliasing) using a PRF of 4 kHz is likely",
       options: ["1", "2", "8", "16"],
       answer: "2",
       explanation: "Maximum frequency shift (kHz) color Doppler can faithfully measure without aliasing is 2 kHz when using a PRF of 4 kHz",
@@ -146,7 +146,7 @@
     },
     {
       questionNumber: 18.15,
-      preamble: "Temporal resolution is most likely independent of the",
+      stem: "Temporal resolution is most likely independent of the",
       options: [
         "Pulse repetition frequency",
         "Image line density",
@@ -159,7 +159,7 @@
     },
     {
       questionNumber: 18.16,
-      preamble: "For images obtained using a convex array, slice thickness is most closely related to which type of resolution?",
+      stem: "For images obtained using a convex array, slice thickness is most closely related to which type of resolution?",
       options: ["Axial", "Lateral", "Elevational", "Temporal"],
       answer: "Elevational",
       explanation: "Slice thickness is another name for elevational resolution for a convex array",
@@ -167,7 +167,7 @@
     },
     {
       questionNumber: 18.17,
-      preamble: "Which is not an ultrasound image artifact?",
+      stem: "Which is not an ultrasound image artifact?",
       options: ["Pin cushion", "Mirror", "Ring down", "Comet"],
       answer: "Pin cushion",
       explanation: "Image intensifier exhibit pin cushion distortion artifacts, whereas Mirror, Ring down, and Comet are artifacts observed in US images",
@@ -175,7 +175,7 @@
     },
     {
       questionNumber: 18.18,
-      preamble: "Ultrasound intensities (e.g., 10 mW/cm2) most likely refer to a spatial_____and a temporal______",
+      stem: "Ultrasound intensities (e.g., 10 mW/cm2) most likely refer to a spatial_____and a temporal______",
       options: [
         "peak; peak",
         "peak; average",
@@ -188,7 +188,7 @@
     },
     {
       questionNumber: 18.19,
-      preamble: "Which is not a thermal index (TI) displayed on ultrasound images?",
+      stem: "Which is not a thermal index (TI) displayed on ultrasound images?",
       options: ["TIB", "TIC", "TIL", "TIS"],
       answer: "TIL",
       explanation: "Tumor infiltrating lymphocytes is generally expressed as TIL (TIB is in bone, TIC is in cortical bone, and TIS is in soft tissue)",
@@ -196,7 +196,7 @@
     },
     {
       questionNumber: 18.2,
-      preamble: "Which should always be followed when generating US images?",
+      stem: "Which should always be followed when generating US images?",
       options: ["MI <1", "TI <1", "TI and MI <1", "ALARA"],
       answer: "ALARA",
       explanation: "It is prudent to adopt ALARA that means elimination of unnecessary images. Values of MI and TI higher than 1.0 can be justified by a net patient benefit (i.e., benefit > risks)",

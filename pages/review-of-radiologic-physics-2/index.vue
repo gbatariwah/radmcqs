@@ -13,7 +13,7 @@ const { data: sections } = await useAsyncData(
     <div class="flex">
       <img
         src="~/assets/covers/review-of-radiologic-physics-2.jpg"
-        alt="review-of-radiologic-physics"
+        alt="review-of-radiologic-physics-2"
         class="w-40"
       />
 

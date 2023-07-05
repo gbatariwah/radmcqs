@@ -5,7 +5,7 @@
   questions: [
     {
       questionNumber: 1,
-      preamble: 'The following are true',
+      stem: 'The following are true',
       options: [
         {
           text: 'The supraspinatus tendon passes above the acromion process',
@@ -41,7 +41,7 @@
     },
     {
       questionNumber: 2,
-      preamble: 'Regarding the shoulder joint',
+      stem: 'Regarding the shoulder joint',
       options: [
         {
           text: 'The capsule of the shoulder joint is lax inferiorly',
@@ -77,7 +77,7 @@
     },
     {
       questionNumber: 3,
-      preamble: 'Regarding the shoulder joint',
+      stem: 'Regarding the shoulder joint',
       options: [
         {
           text: 'CT arthrography is of value in the assessment of the glenoid labrum',
@@ -113,7 +113,7 @@
     },
     {
       questionNumber: 4,
-      preamble: 'Regarding the upper limb',
+      stem: 'Regarding the upper limb',
       options: [
         {
           text: 'The radial groove is situated in the radius.',
@@ -149,7 +149,7 @@
     },
     {
       questionNumber: 5,
-      preamble: 'In the upper limb',
+      stem: 'In the upper limb',
       options: [
         {
           text: 'The annular ligament of the elbow blends with the ulnar collateral ligament',
@@ -185,7 +185,7 @@
     },
     {
       questionNumber: 6,
-      preamble: 'Concerning the wrist and carpus',
+      stem: 'Concerning the wrist and carpus',
       options: [
         {
           text: 'The mid-carpal joint does not communicate with the radiocarpal joint',
@@ -221,7 +221,7 @@
     },
     {
       questionNumber: 7,
-      preamble: 'In the hand and wrist',
+      stem: 'In the hand and wrist',
       options: [
         {
           text: 'In most cases, two views are enough to exclude scaphoid fractures',
@@ -257,7 +257,7 @@
     },
     {
       questionNumber: 8,
-      preamble: 'In skeletal imaging',
+      stem: 'In skeletal imaging',
       options: [
         {
           text: 'Phased array surface detection coils greatly improve the signal to noise ratio in MRI of bone joint and soft tissue',
@@ -293,7 +293,7 @@
     },
     {
       questionNumber: 9,
-      preamble: 'In the bony pelvis',
+      stem: 'In the bony pelvis',
       options: [
         {
           text: 'The triradiate cartilage is seen as a Y-shaped lucency at the acetabulum in an immature skeleton in a plain radiograph',
@@ -329,7 +329,7 @@
     },
     {
       questionNumber: 10,
-      preamble: 'In the pelvis',
+      stem: 'In the pelvis',
       options: [
         {
           text: 'The iliopsoas muscle passes anterior to the inguinal ligament',
@@ -365,7 +365,7 @@
     },
     {
       questionNumber: 11,
-      preamble: 'Concerning the muscles of the pelvic girdle',
+      stem: 'Concerning the muscles of the pelvic girdle',
       options: [
         {
           text: 'The majority of the gluteus maximus merges with the iliotibial tract',
@@ -401,7 +401,7 @@
     },
     {
       questionNumber: 12,
-      preamble: 'In the pelvis',
+      stem: 'In the pelvis',
       options: [
         {
           text: 'The anteroposterior view of the plain radiograph is taken with the legs rotated externally',
@@ -437,7 +437,7 @@
     },
     {
       questionNumber: 13,
-      preamble: 'In pelvimetry',
+      stem: 'In pelvimetry',
       options: [
         {
           text: 'Routine assessment of the female pelvis is performed before delivery',
@@ -473,7 +473,7 @@
     },
     {
       questionNumber: 14,
-      preamble: 'In the hip joint',
+      stem: 'In the hip joint',
       options: [
         {
           text: 'The fovea capitis to which the ligamentum teres is attached is not covered in cartilage',
@@ -509,7 +509,7 @@
     },
     {
       questionNumber: 15,
-      preamble: 'Regarding the femur',
+      stem: 'Regarding the femur',
       options: [
         {
           text: 'MRI has a high sensitivity and specificity in detecting avascular necrosis of the femoral head',
@@ -545,7 +545,7 @@
     },
     {
       questionNumber: 16,
-      preamble: 'In the lower limb',
+      stem: 'In the lower limb',
       options: [
         {
           text: 'The patella is a sesamoid bone within the quadriceps tendon',
@@ -581,7 +581,7 @@
     },
     {
       questionNumber: 17,
-      preamble: 'In the lower limb',
+      stem: 'In the lower limb',
       options: [
         {
           text: 'The rectus femoris arises from the anterior superior iliac spine.',
@@ -617,7 +617,7 @@
     },
     {
       questionNumber: 18,
-      preamble: 'In the knee joint',
+      stem: 'In the knee joint',
       options: [
         {
           text: 'The synovium lining the joint is extracapsular',
@@ -653,10 +653,10 @@
     },
     {
       "questionNumber": 19,
-      "preamble": "In the knee joint",
+      "stem": "In the knee joint",
       "options": [
         {
-          "text": "The anterior cruciate ligament has low signal intensity on T1- and T2-weighted sagittal scans.",
+          "text": "The anterior cruciate ligament has low signal intensity on T1- and T2-weighted sagittal scans",
           "response": "",
           "answer": "True",
           "explanation": "Partial tear may manifest as high signal within the ligament on T2 or T2* images. More often, a torn ACL is not visualized. Coronal images show medial and lateral collateral ligaments, sagittal images show menisci, cruciate ligaments, and articular cartilages. Normal menisci and ligaments are low signal on T1 and T2"
@@ -689,7 +689,7 @@
     },
     {
       "questionNumber": 20,
-      "preamble": "In the knee",
+      "stem": "In the knee",
       "options": [
         {
           "text": "A tunnel view shows the patella well",
@@ -725,10 +725,10 @@
     },
     {
       "questionNumber": 21,
-      "preamble": "Regarding the lower legs",
+      "stem": "Regarding the lower legs",
       "options": [
         {
-          "text": "The muscles of the anterior compartment are more prone to be affected by compartmental syndrome.",
+          "text": "The muscles of the anterior compartment are more prone to be affected by compartmental syndrome",
           "response": "",
           "answer": "True",
           "explanation": "The muscles of the anterior compartment are enclosed by the tibia, fibula, and the interosseous membrane, making them more prone to compartmental syndrome"
@@ -740,7 +740,7 @@
           "explanation": "Strongest tendon, but no sheath, therefore tenosynovitis does not accur"
         },
         {
-          "text": "The tibialis anterior is the most medial and the largest of the flexor tendons of the foot.",
+          "text": "The tibialis anterior is the most medial and the largest of the flexor tendons of the foot",
           "response": "",
           "answer": "False",
           "explanation": "This is the tibialis posterior, which provides support to the longitudinal arch. Problems in the arch can lead to tendonitis or even rupture, usually just at or above the tibiotalar joint"
@@ -761,7 +761,7 @@
     },
     {
       "questionNumber": "22",
-      "preamble": "In the ankle and the foot",
+      "stem": "In the ankle and the foot",
       "options": [
         {
           "text": "The deltoid ligament lies medially, deep to the flexor tendons",
@@ -797,7 +797,7 @@
     },
     {
       "questionNumber": 23,
-      "preamble": "Concerning imaging of the ankle and foot",
+      "stem": "Concerning imaging of the ankle and foot",
       "options": [
         {
           "text": "Boehler’s angle is usually about 28°",
@@ -806,7 +806,7 @@
           "explanation": "An angle less than 20° indicates flattening of the calcaneum due to crush injuries resulting from jumping onto a hard surface from a height"
         },
         {
-          "text": "Congenital tarsal coalitions are best visualized using oblique radiographs with the foot internally rotated.",
+          "text": "Congenital tarsal coalitions are best visualized using oblique radiographs with the foot internally rotated",
           "response": "",
           "answer": "False",
           "explanation": "CT, particularly in the coronal plane, is the best way of looking at the subtalar joint"
@@ -824,7 +824,7 @@
           "explanation": "In the oblique view of the foot, the medial margin of the base of the third metatarsal should be in line with the medial margin of the lateral cuneiform. If not, it is a Lisfranc injury"
         },
         {
-          "text": "(e) Lateral ligamentous stability of the ankle is best demonstrated on a dorsiflexion view.",
+          "text": "(e) Lateral ligamentous stability of the ankle is best demonstrated on a dorsiflexion view",
           "response": "",
           "answer": "False",
           "explanation": "Avulsion fracture of the base of the ﬁfth metatarsal is transverse to the long axis of the metatarsal. An apophysis which mimics a fracture is longitudinal to the long axis of the metatarsal"

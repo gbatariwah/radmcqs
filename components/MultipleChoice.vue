@@ -2,9 +2,9 @@
   <div>
     <h2 class="font-[oswald] text-lg tracking-wide font-bold">
       <span class="text-orange-400">{{ questionId + 1 }}</span
-      >. {{ question.preamble }}:
+      >. {{ question.stem }}:
     </h2>
-    <Option
+    <Choice
       v-for="(option, optionId) in question.options"
       :key="optionId"
       :option="option"

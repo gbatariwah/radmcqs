@@ -4,7 +4,7 @@
   questions: [
     {
       questionNumber: "11.1",
-      preamble: "Compared to radiographic x-ray tubes, those used in CT most likely have much higher",
+      stem: "Compared to radiographic x-ray tubes, those used in CT most likely have much higher",
       options: [
         "Tube voltages",
         "Tube currents",
@@ -17,7 +17,7 @@
     },
     {
       questionNumber: "11.2",
-      preamble: "For CT x-ray tubes, maximum power loadings (kW) on the small and large focal spots are, respectively",
+      stem: "For CT x-ray tubes, maximum power loadings (kW) on the small and large focal spots are, respectively",
       options: ["25; 50", "25; 100", "50; 100", "50; 150"],
       answer: "25; 100",
       explanation: "For CT x-ray tubes, 25 kW can be applied to the small focal spot (0.6 mm) and 100 kW to the large focal spot (1.2 mm)",
@@ -25,7 +25,7 @@
     },
     {
       questionNumber: "11.3",
-      preamble: "Beam shaping filters (i.e., bow tie) are most likely made of",
+      stem: "Beam shaping filters (i.e., bow tie) are most likely made of",
       options: ["Teflon", "Aluminum", "Copper", "Tin"],
       answer: "Teflon",
       explanation: "Beam shaping (bow tie) filters must be made of tissue-like material (e.g., Teflon) to minimize beam hardening artifacts",
@@ -33,7 +33,7 @@
     },
     {
       questionNumber: "11.4",
-      preamble: "Increasing the size of antiscatter lamellae in CT detector arrays would most likely result in better",
+      stem: "Increasing the size of antiscatter lamellae in CT detector arrays would most likely result in better",
       options: [
         "Contrast (i.e., increased)",
         "Resolution (i.e., increased)",
@@ -46,7 +46,7 @@
     },
     {
       questionNumber: "11.5",
-      preamble: "The percentage (%) of incident x-rays (120 kV) that are absorbed by a CT detector is most likely",
+      stem: "The percentage (%) of incident x-rays (120 kV) that are absorbed by a CT detector is most likely",
       options: ["<10", "30", "70", ">90"],
       answer: ">90",
       explanation: "CT detectors are usually thick scintillators with high Z that absorb most of the incident x-ray photons (i.e., >90%)",
@@ -54,7 +54,7 @@
     },
     {
       questionNumber: "11.6",
-      preamble: "Geometric magnification at the isocenter in acquiring CT projections is most likely",
+      stem: "Geometric magnification at the isocenter in acquiring CT projections is most likely",
       options: ["1.1", "1.5", "2", "3"],
       answer: "2",
       explanation: "Geometric magnification is 2, with a typical focus to isocenter distance of about 60 cm, and double this distance between the focus and CT detector array",
@@ -62,7 +62,7 @@
     },
     {
       questionNumber: "11.7",
-      preamble: "A CT scanner with x-ray tube rotation time of 0.5 second, beam width of 40 mm, and table speed of 160 mm/second has a pitch of",
+      stem: "A CT scanner with x-ray tube rotation time of 0.5 second, beam width of 40 mm, and table speed of 160 mm/second has a pitch of",
       options: ["0.5", "1", "1.5", "2"],
       answer: "2",
       explanation: "In one x-ray tube rotation (0.5 second), the table moves 80 mm, twice the x-ray beam width (40 mm), so the pitch is 2",
@@ -70,7 +70,7 @@
     },
     {
       questionNumber: "11.8",
-      preamble: "Doubling both CT pitch and effective mAs used in helical scanning would likely",
+      stem: "Doubling both CT pitch and effective mAs used in helical scanning would likely",
       options: ["Double", "Not affect", "Halve"],
       answer: "Double",
       explanation: "Patient dose is directly proportional to effective mAs. Doubling effective mAs at twice the pitch value requires mAs be quadrupled (i.e., patient dose doubles)",
@@ -78,7 +78,7 @@
     },
     {
       questionNumber: "11.9",
-      preamble: "Back projection of 1,000 units of x-ray attenuation along a ray in a CT image (5002) likely allocates units of attenuation in each pixel",
+      stem: "Back projection of 1,000 units of x-ray attenuation along a ray in a CT image (5002) likely allocates units of attenuation in each pixel",
       options: ["1", "2", "4", "8"],
       answer: "2",
       explanation: "Back projection means that 1,000 units of attenuation will be equally distributed into 500 pixels",
@@ -86,7 +86,7 @@
     },
     {
       questionNumber: "11.10",
-      preamble: "Which mathematical reconstruction filter is most likely to have the lowest level of image noise (mottle)",
+      stem: "Which mathematical reconstruction filter is most likely to have the lowest level of image noise (mottle)",
       options: ["Ramp", "Bone", "Edge", "Smooth"],
       answer: "Smooth",
       explanation: "Using a smooth MRF minimizes noise (as suggested by the name), but also provides the blurriest images",
@@ -94,7 +94,7 @@
     },
     {
       questionNumber: "11.11",
-      preamble: "Which reconstruction method is most likely to result in the best CT images",
+      stem: "Which reconstruction method is most likely to result in the best CT images",
       options: [
         "Back projection",
         "Filtered back projection",
@@ -107,7 +107,7 @@
     },
     {
       questionNumber: "11.12",
-      preamble: "CT images depict patterns of",
+      stem: "CT images depict patterns of",
       options: [
         "X-ray attenuation",
         "X-ray transmission",
@@ -120,7 +120,7 @@
     },
     {
       questionNumber: "11.13",
-      preamble: "Difference in x-ray attenuation coefficient between gray and white matter is most likely (%)",
+      stem: "Difference in x-ray attenuation coefficient between gray and white matter is most likely (%)",
       options: ["0.2", "0.6", "2", ">2"],
       answer: "0.6",
       explanation: "HU of gray matter is about 6 HU higher than that of white matter, and where each increase of 1 HU corresponds to an increase of 0.1% in attenuation",
@@ -128,7 +128,7 @@
     },
     {
       questionNumber: "11.14",
-      preamble: "When x-ray tube voltage decreases from 140 to 80 kV, which will show the highest increase in HU",
+      stem: "When x-ray tube voltage decreases from 140 to 80 kV, which will show the highest increase in HU",
       options: ["CSF", "Gray matter", "Fat", "Dilute iodine"],
       answer: "Dilute iodine",
       explanation: "Dilute iodine shows (by far) the largest increase in HU when kV increases",
@@ -136,7 +136,7 @@
     },
     {
       questionNumber: "11.15",
-      preamble: "Pixel dimensions (mm) in head CT are most likely",
+      stem: "Pixel dimensions (mm) in head CT are most likely",
       options: ["0.1", "0.2", "0.5", "1.0"],
       answer: "0.5",
       explanation: "A head is about 250 mm, and a CT image is typically a matrix size of 512, so the pixel dimension is 0.5 mm (i.e., 250 mm divided by 500)",
@@ -144,7 +144,7 @@
     },
     {
       questionNumber: "11.16",
-      preamble: "A head CT examination with 20 images most likely requires a storage space (MB) of about",
+      stem: "A head CT examination with 20 images most likely requires a storage space (MB) of about",
       options: ["1", "10", "100", ">100"],
       answer: "10",
       explanation: "One CT image has 250,000 pixels (500 x 500) and requires 2 bytes for each pixel. One CT image is thus 0.5 MB (250,000 pixels x 2 bytes per pixel), so 20 CT images require 10 MB",
@@ -152,7 +152,7 @@
     },
     {
       questionNumber: "11.17",
-      preamble: "Which CT image most likely uses the greatest display window width",
+      stem: "Which CT image most likely uses the greatest display window width",
       options: [
         "Head (tissue)",
         "Chest (mediastinum)",
@@ -165,7 +165,7 @@
     },
     {
       questionNumber: "11.18",
-      preamble: "The half-value layer (mm Al) of a CT x-ray beam (120 kV) is most likely",
+      stem: "The half-value layer (mm Al) of a CT x-ray beam (120 kV) is most likely",
       options: ["1", "3", "9", "27"],
       answer: "9",
       explanation: "CT uses high voltages and high filtration, with beam qualities of about 9 mm Al",
@@ -173,7 +173,7 @@
     },
     {
       questionNumber: "11.19",
-      preamble: "Automatic exposure control on CT scanners most likely adjusts the x-ray tube",
+      stem: "Automatic exposure control on CT scanners most likely adjusts the x-ray tube",
       options: ["Voltage", "Current", "Time", "Filtration"],
       answer: "Current",
       explanation: "AECct systems adjust x-ray tube currents. Voltages and x-ray tube rotation times are changed manually, and filtration is fixed",
@@ -181,7 +181,7 @@
     },
     {
       questionNumber: "11.20",
-      preamble: "What percentage of a CT x-ray beam is most likely transmitted through 45 cm of soft tissue",
+      stem: "What percentage of a CT x-ray beam is most likely transmitted through 45 cm of soft tissue",
       options: ["1", "0.3", "0.1", "<0.1"],
       answer: "<0.1",
       explanation: "Less than 0.1% of the incident x-ray beam would be transmitted",

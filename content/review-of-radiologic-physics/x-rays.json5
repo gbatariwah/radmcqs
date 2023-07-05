@@ -4,7 +4,7 @@
   questions: [
     {
       questionNumber: 1.1,
-      preamble: "A dedicated chest x-ray unit most likely uses a _____-phase power supply",
+      stem: "A dedicated chest x-ray unit most likely uses a _____-phase power supply",
       options: ["single", "double", "three", ">three"],
       answer: "three",
       explanation: "Chest x-ray units, and most radiographic units, require a three-phase power supply, whereas most domestic homes use a single-phase power supply",
@@ -12,7 +12,7 @@
     },
     {
       questionNumber: 1.2,
-      preamble: "X-rays are most likely generated in the x-ray tube",
+      stem: "X-rays are most likely generated in the x-ray tube",
       options: ["Filament", "Target", "Anode", "Window"],
       answer: "Target",
       explanation: "X-rays are produced when energetic electrons are decelerated in tungsten targets that are embedded in x-ray tube anodes",
@@ -20,7 +20,7 @@
     },
     {
       questionNumber: 1.3,
-      preamble: "Which target is most likely to produce the highest number of bremsstrahlung photons?",
+      stem: "Which target is most likely to produce the highest number of bremsstrahlung photons?",
       options: ["Molybdenum (Z = 42)", "Tungsten (Z = 74)", '"The same"'],
       answer: "Tungsten (Z = 74)",
       explanation: "Bremsstrahlung production is directly proportional to the atomic number of the target, so tungsten (Z = 74) produces more than molybdenum (Z = 42)",
@@ -28,7 +28,7 @@
     },
     {
       questionNumber: 1.4,
-      preamble: "Which x-ray photon energy (keV) can not be made at an x-ray tube voltage of 80 kV?",
+      stem: "Which x-ray photon energy (keV) can not be made at an x-ray tube voltage of 80 kV?",
       options: ["20", "50", "80", "100"],
       answer: "100",
       explanation: "A voltage of 80 kV produces 80-keV electrons, which may all be converted into a bremsstrahlung photon with an energy of 80 keV (i.e., 100-keV photons are impossible)",
@@ -36,7 +36,7 @@
     },
     {
       questionNumber: 1.5,
-      preamble: "Characteristic x-rays have an energy that is _____ the target K-shell binding energy",
+      stem: "Characteristic x-rays have an energy that is _____ the target K-shell binding energy",
       options: ["higher than", "equal to", "less than"],
       answer: "less than",
       explanation: "K-shell characteristic x-ray energies are always (slightly) lower than the target K-shell binding energy",
@@ -44,7 +44,7 @@
     },
     {
       questionNumber: 1.6,
-      preamble: "For a tungsten target and a 120-kV tube voltage, the contribution (%) of K-shell characteristic x-rays to the output spectrum is most likely",
+      stem: "For a tungsten target and a 120-kV tube voltage, the contribution (%) of K-shell characteristic x-rays to the output spectrum is most likely",
       options: ["<10", "30", "70", ">90"],
       answer: "<10",
       explanation: "For tungsten targets, characteristic x-rays never contribute more than a few percent to any clinical x-ray spectrum",
@@ -52,7 +52,7 @@
     },
     {
       questionNumber: 1.7,
-      preamble: "A dedicated chest x-ray unit operated at 120 kV would most likely have an average x-ray photon energy (keV) of",
+      stem: "A dedicated chest x-ray unit operated at 120 kV would most likely have an average x-ray photon energy (keV) of",
       options: ["30", "60", "90", "120"],
       answer: "60",
       explanation: "For heavily filtered x-ray beams used in chest radiography, the average energy will be close to half the maximum energy of 120 keV",
@@ -60,7 +60,7 @@
     },
     {
       questionNumber: 1.8,
-      preamble: "The percentage (%) of x-ray photon energy incident on a patient that is most likely absorbed within the patient is",
+      stem: "The percentage (%) of x-ray photon energy incident on a patient that is most likely absorbed within the patient is",
       options: ["<10", "30", "65", ">90"],
       answer: "65",
       explanation: "About two-thirds of incident photons are absorbed within a patient, one-third scattered out of the patient. Less than 1% gets to the image receptor to generate an image",
@@ -68,7 +68,7 @@
     },
     {
       questionNumber: 1.9,
-      preamble: "X-rays produced following a photoelectric interaction in tissue are best characterized as",
+      stem: "X-rays produced following a photoelectric interaction in tissue are best characterized as",
       options: [
         "Characteristic x-rays",
         "Compton scatter",
@@ -81,7 +81,7 @@
     },
     {
       questionNumber: 1.1,
-      preamble: "Which photon energies (keV) are most likely to undergo a K-shell photoelectric interaction with an iodine atom (K-edge 33 keV)?",
+      stem: "Which photon energies (keV) are most likely to undergo a K-shell photoelectric interaction with an iodine atom (K-edge 33 keV)?",
       options: ["20", "30", "35", "70"],
       answer: "35",
       explanation: "20- and 30-keV photons don't have sufficient energy to eject the iodine K-shell electron; maximum x-ray absorption is just above the K-edge, and at 70 keV, there will be 8 times fewer interactions than at 35 keV (PE varies as 1/E3)",
@@ -89,7 +89,7 @@
     },
     {
       questionNumber: 1.11,
-      preamble: "An adult abdomen (24-cm tissue) would most likely correspond to tissue half-value layers",
+      stem: "An adult abdomen (24-cm tissue) would most likely correspond to tissue half-value layers",
       options: ["2", "4", "8", "16"],
       answer: "8",
       explanation: "3 cm of tissue attenuates half of a typical x-ray beam, so 24 cm of tissue corresponds to 8-tissue HVL, that transmits l/2b of the incident x-rays (i.e., 0.4%)",
@@ -97,7 +97,7 @@
     },
     {
       questionNumber: 1.12,
-      preamble: "Linear attenuation coefficients include interactions due to",
+      stem: "Linear attenuation coefficients include interactions due to",
       options: [
         "Compton scatter",
         "Coherent scatter",
@@ -110,7 +110,7 @@
     },
     {
       questionNumber: 1.13,
-      preamble: "When the tissue linear attenuation coefficient is 0.1 cm-1, the fraction of photons transmitted through 2 cm is most likely",
+      stem: "When the tissue linear attenuation coefficient is 0.1 cm-1, the fraction of photons transmitted through 2 cm is most likely",
       options: ["0.1", "0.2", "0.8", "0.9"],
       answer: "0.8",
       explanation: "1 cm of tissue absorbs about 0.1, so 2 cm of tissue absorbs approximately twice as much (i.e., 0.2), which means that (approximately) 0.8 would be transmitted",
@@ -118,7 +118,7 @@
     },
     {
       questionNumber: 1.14,
-      preamble: "Which factor(s) contribute(s) to an increase in the dose delivered to a patient undergoing a radiographic examination?",
+      stem: "Which factor(s) contribute(s) to an increase in the dose delivered to a patient undergoing a radiographic examination?",
       options: ["mAs", "kV", "Beam filtration", "A, B, and C"],
       answer: "A, B, and C",
       explanation: "The patient dose in radiography is directly proportional to mAs, kV, and inversely proportional to beam filtration (A, B, and C)",
@@ -126,7 +126,7 @@
     },
     {
       questionNumber: 1.15,
-      preamble: "The maximum permissible dose (MPD) of ionizing radiation for a radiation worker is most likely",
+      stem: "The maximum permissible dose (MPD) of ionizing radiation for a radiation worker is most likely",
       options: ["1 mSv/year", "1 mSv/month", "5 mSv/year", "5 mSv/month"],
       answer: "1 mSv/year",
       explanation: "The maximum permissible dose (MPD) of ionizing radiation for a radiation worker is typically 1 mSv/year",
@@ -134,7 +134,7 @@
     },
     {
       questionNumber: 1.16,
-      preamble: "The beam quality (half-value layer) for an adult abdominal radiograph (80 kV) is most likely _____ mm aluminum",
+      stem: "The beam quality (half-value layer) for an adult abdominal radiograph (80 kV) is most likely _____ mm aluminum",
       options: ["0.3", "1", "3", "10"],
       answer: "3",
       explanation: "At 80 kV, the filtration of an x-ray tube would likely be 3 mm Al, which coincidentally results in an x-ray beam that has a half-value layer (penetrating power) of 3 mm Al",
@@ -142,7 +142,7 @@
     },
     {
       questionNumber: 1.17,
-      preamble: "When the x-ray tube current and exposure time are both doubled, the x-ray tube output increases by a factor of",
+      stem: "When the x-ray tube current and exposure time are both doubled, the x-ray tube output increases by a factor of",
       options: ["2", "4", "8", "16"],
       answer: "4",
       explanation: "Doubling the current (mA) and exposure time (s) will quadruple the mAs, and therefore increase x-ray tube output by a factor of 4",
@@ -150,7 +150,7 @@
     },
     {
       questionNumber: 1.18,
-      preamble: "When the tube technique (mAs) doubles, the increase (%) in average x-ray photon energy is most likely",
+      stem: "When the tube technique (mAs) doubles, the increase (%) in average x-ray photon energy is most likely",
       options: ["10", "25", "50", "100"],
       answer: "10",
       explanation: "Doubling the mAs (tube technique) will have no effect on the average x-ray photon energy (keV) since it depends only on the kVp",
@@ -158,7 +158,7 @@
     },
     {
       questionNumber: 1.19,
-      preamble: "Increasing the x-ray tube voltage (kVp) results in an increase in",
+      stem: "Increasing the x-ray tube voltage (kVp) results in an increase in",
       options: ["Quantity", "Quality", "Both A and B"],
       answer: "Both A and B",
       explanation: "Increasing the x-ray tube voltage (kVp) will increase both the quantity (number of photons) and quality (penetrating power) of the x-ray beam",
@@ -166,7 +166,7 @@
     },
     {
       questionNumber: 1.2,
-      preamble: "When a 2-fold increase in x-ray tube voltage (kVp) is accompanied by a halving of the x-ray tube current (mA), the x-ray tube output remains",
+      stem: "When a 2-fold increase in x-ray tube voltage (kVp) is accompanied by a halving of the x-ray tube current (mA), the x-ray tube output remains",
       options: ["The same", "Halved", "Doubled", "Quadrupled"],
       answer: "The same",
       explanation: "When the x-ray tube voltage (kVp) is doubled and the x-ray tube current (mA) is halved, the x-ray tube output remains the same (assuming the same exposure time) since the mAs is unchanged",

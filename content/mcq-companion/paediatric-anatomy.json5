@@ -1,6 +1,367 @@
 {
-  name: 'Paediatric anatomy',
-  authors: 'A. Doss and A. Sprigg',
-  slug: 'paediatric-anatomy',
-  questions: [],
+  name: "Paediatric anatomy",
+  authors: "A. Doss and A. Sprigg",
+  slug: "paediatric-anatomy",
+  questions: [
+    {
+      questionNumber: 1,
+      options: [
+        {
+          answer: "True",
+          explanation: "due to a large size in neonates the adrenal can be mistaken for the kidney in renal agenesis",
+          response: "",
+          text: "The weight of the neonatal suprarenal gland may be 30% of that of a neonatal kidney",
+        },
+        {
+          answer: "True",
+          explanation: "and they may be physiological",
+          response: "",
+          text: "Gastro-oesophageal and vesico-ureteric reﬂux are common in neonates",
+        },
+        {
+          answer: "True",
+          explanation: "on axial CT of the chest in children, it is difficult to assess mediastinal structures due to lack of inherent contrast",
+          response: "",
+          text: "There is less mediastinal and retroperitoneal fat in children compared with adults",
+        },
+        {
+          answer: "True",
+          explanation: "due to persistence of fetal lobulation after birth",
+          response: "",
+          text: "Neonatal kidneys have a more lobulated contour compared with adults",
+        },
+        {
+          answer: "True",
+          explanation: "hence gives a false appearance of a mass in the upper abdomen or lower chest",
+          response: "",
+          text: "The curved diaphragm results in mirror image artefacts during ultrasonography of children",
+        },
+      ],
+      stem: "Concerning the various differences between paediatric and adult anatomy",
+    },
+    {
+      questionNumber: 2,
+      options: [
+        {
+          answer: "True",
+          explanation: "using a 5 MHz sector probe. Sometimes the posterior fontanelle and sutures may be used with a smaller 'foot print' probe",
+          response: "",
+          text: "It is performed through the anterior fontanelle during the ﬁrst year of life",
+        },
+        {
+          answer: "True",
+          explanation: "using the pterion (just above and behind the pinna of the ear) as the acoustic window",
+          response: "",
+          text: "Axial sections, which correlate with axial sections of computerized tomography, are obtained at the level of the basal cisterns",
+        },
+        {
+          answer: "True",
+          explanation: "Elsewhere the lateral ventricles appear echopoor due to CSF. Intraventricular hemorrhage will also appear echobright",
+          response: "",
+          text: "The choroid plexuses in the lateral ventricles are echobright",
+        },
+        {
+          answer: "True",
+          explanation: "",
+          response: "",
+          text: "Pulsating middle cerebral arteries are seen in the Sylvian ﬁssure",
+        },
+        {
+          answer: "True",
+          explanation: "very vascular tissue, in the caudothalamic notch, is a site of hemorrhage in the preterm infant. Further tissue may be present in the third and fourth ventricle",
+          response: "",
+          text: "The germinal matrix lines the ﬂoor of the lateral ventricles above the heads and bodies of the caudate nuclei",
+        },
+      ],
+      stem: "Concerning cranial ultrasonography",
+    },
+    {
+      questionNumber: 3,
+      options: [
+        {
+          answer: "False",
+          explanation: "contrary to expectations, this CSF-filled space is echobright and the reasons are not fully understood",
+          response: "",
+          text: "The quadrigeminal cistern is echopoor in the neonate",
+        },
+        {
+          answer: "False",
+          explanation: "obliquity of the ultrasound probe and position of the head are commoner than pathology. Asymmetry of ventricles can be seen in up to 40% of premature infants and is less than 20% in term babies",
+          response: "",
+          text: "Asymmetry of the ventricles is usually pathological in the neonatal brain",
+        },
+        {
+          answer: "True",
+          explanation: "only for several months after birth, especially in the lumbar region",
+          response: "",
+          text: "Incomplete ossiﬁcation of the posterior spinal arches allows an acoustic window for spinal sonography",
+        },
+        {
+          answer: "True",
+          explanation: "a central echobright line is present due to the interface between the central part of the anterior median fissure and myelinated ventral white commissure",
+          response: "",
+          text: "The spinal cord is echopoor with echobright posterior and anterior walls",
+        },
+        {
+          answer: "True",
+          explanation: "",
+          response: "",
+          text: "The vertebra appears as echobright blocks separated by echopoor intervertebral discs",
+        },
+      ],
+      stem: "Regarding paediatric ultrasonography",
+    },
+    {
+      questionNumber: 4,
+      options: [
+        {
+          answer: "False",
+          explanation: "trachea and airways are much narrower, more pliable than in adults and more prone to compression and obstruction. Repeated compression may result in a weak and flaccid trachea (tracheomalacia), which collapses and obstructs during expiration",
+          response: "",
+          text: "The trachea is less prone to compression in a child than in an adult",
+        },
+        {
+          answer: "True",
+          explanation: "on T1-W MRI, this appears as a lobular intermediate signal structure in the superior mediastinum",
+          response: "",
+          text: "Mediastinal widening in young children may be due to a normal thymus",
+        },
+        {
+          answer: "False",
+          explanation: "sickness, stress and steroids reduce the size of the thymus initially and the gland regrows during recovery – a common cause of erroneous diagnosis of thymic or mediastinal tumors as a cause of the child's sickness",
+          response: "",
+          text: "The thymus enlarges in illness initially and reduces in size during recovery",
+        },
+        {
+          answer: "False",
+          explanation: "on expiration a neonate can almost white out the lungs",
+          response: "",
+          text: "A complete ‘white out’ on a chest radiograph of a neonate is due to collapse or consolidation",
+        },
+        {
+          answer: "True",
+          explanation: "",
+          response: "",
+          text: "A posterior impression of the oesophagus can be due to aberrant neck vessels",
+        },
+      ],
+      stem: "Regarding the paediatric chest",
+    },
+    {
+      questionNumber: 5,
+      options: [
+        {
+          answer: "False",
+          explanation: "mucosa is echobright and muscle is echopoor",
+          response: "",
+          text: "The mucosa of the pylorus appears echopoor",
+        },
+        {
+          answer: "False",
+          explanation: "dimensions vary depending on size of the child. However upper limits in the longitudinal section are as follows: 3 mm thickness of pyloric muscle, and 17 mm in length for the pyloric canal. With measurements above these figures pyloric stenosis has to be suspected",
+          response: "",
+          text: "The thickness of the normal pyloric muscle should not exceed 3 mm",
+        },
+        {
+          answer: "True",
+          explanation: "provides an acoustic window",
+          response: "",
+          text: "The pancreas is more easily visualized in children through the left lobe of the liver",
+        },
+        {
+          answer: "True",
+          explanation: "trace of free fluid between the left lobe of liver and spleen may give rise to an erroneous diagnosis of laceration of the spleen",
+          response: "",
+          text: "The left lobe of the liver extends anterior to the spleen",
+        },
+        {
+          answer: "True",
+          explanation: "",
+          response: "",
+          text: "Splenunculi occur in 15% of children",
+        },
+      ],
+      stem: "Regarding ultrasound of the gastrointestinal tract",
+    },
+    {
+      questionNumber: 6,
+      options: [
+        {
+          answer: "False",
+          explanation: "in the upper poles of the kidneys in the perirenal fascia",
+          response: "",
+          text: "They lie in the anterior pararenal space",
+        },
+        {
+          answer: "False",
+          explanation: "80% of the adrenal gland is fetal cortex and this undergoes hemorrhagic necrosis after birth causing loss of 30% of weight in the first few weeks",
+          response: "",
+          text: "They lose 80% of their weight in the ﬁrst 2 to 3 weeks after birth",
+        },
+        {
+          answer: "True",
+          explanation: "and have limbs",
+          response: "",
+          text: "The glands have an echobright centre and echopoor rim",
+        },
+        {
+          answer: "True",
+          explanation: "",
+          response: "",
+          text: "The gland on the right lies between the IVC, right diaphragmatic crus, and the upper pole of the right kidney",
+        },
+        {
+          answer: "True",
+          explanation: "",
+          response: "",
+          text: "The gland on the left lies lateral to the aorta and left diaphragmatic crus, medial to the spleen and behind the stomach",
+        },
+      ],
+      stem: "Concerning the suprarenal glands",
+    },
+    {
+      questionNumber: 7,
+      options: [
+        {
+          answer: "False",
+          explanation: "are not moulded by upper abdominal organs and therefore lose the reniform shape",
+          response: "",
+          text: "Ectopic kidneys retain their reniform shape",
+        },
+        {
+          answer: "True",
+          explanation: "occurs once in 3300 births and is diagnosed in utero due to the presence of oligohydramnios",
+          response: "",
+          text: "Bilateral renal agenesis is diagnosed on antenatal scans",
+        },
+        {
+          answer: "False",
+          explanation: "ureter of the ectopic kidney crosses the abdomen to enter the correct side of the bladder",
+          response: "",
+          text: "In crossed renal ectopia both ureters insert on the same side of the bladder",
+        },
+        {
+          answer: "False",
+          explanation: "it cannot ascend through the abdomen completely as the IMA stops the bridge of renal tissue in the lower abdomen",
+          response: "",
+          text: "A horseshoe kidney usually lies above the level of the inferior mesenteric artery (IMA)",
+        },
+        {
+          answer: "False",
+          explanation: "it enters at the normal orifice: the ureter of the upper moiety enters at an ectopic site lower than the normal orifice",
+          response: "",
+          text: "In a duplex kidney the ureter of the lower moiety enters the bladder below to that of the upper moiety",
+        },
+      ],
+      stem: "Concerning the renal tract",
+    },
+    {
+      questionNumber: 8,
+      options: [
+        {
+          answer: "False",
+          explanation: "from the 'dome' of the bladder the remnant of the urachus may be visible on cystography. This may give rise to midline cysts between the umbilicus and bladder",
+          response: "",
+          text: "A narrow track may persist from the trigone of the bladder to the umbilicus",
+        },
+        {
+          answer: "False",
+          explanation: "micturating cystography",
+          response: "",
+          text: "Cystoscopy is the most reliable method of detecting posterior urethral valves in boys",
+        },
+        {
+          answer: "False",
+          explanation: "10 to 20% lie within the abdomen and 80 to 90% lie in the inguinal canal",
+          response: "",
+          text: "In the ﬁrst year of life about 90% of undescended testes lie within the abdomen and the remainder lie in the inguinal canal",
+        },
+        {
+          answer: "True",
+          explanation: "and larger",
+          response: "",
+          text: "The medullary pyramids of the neonatal kidney are more hypoechoic than older children",
+        },
+        {
+          answer: "False",
+          explanation: "the male urethra is imaged in an oblique projection. In the female, congenital abnormalities are rare and the urethra is short. Therefore, it is imaged in the anteroposterior projection",
+          response: "",
+          text: "The female urethra is imaged routinely in the oblique projection",
+        },
+      ],
+      stem: "Regarding the urogenital system in children",
+    },
+    {
+      questionNumber: 9,
+      options: [
+        {
+          answer: "True",
+          explanation: "",
+          response: "",
+          text: "The examination is performed using a high frequency linear array probe",
+        },
+        {
+          answer: "True",
+          explanation: "the neonatal hip is largely a cartilaginous structure",
+          response: "",
+          text: "The femoral head is a round structure with ﬁne stippled echoes",
+        },
+        {
+          answer: "True",
+          explanation: "echogenic bony cup with a central defect – the triradiate cartilage that separates the two bones",
+          response: "",
+          text: "The ‘V’-shaped acetabulum has the ischium posteriorly and the pubis anteriorly",
+        },
+        {
+          answer: "True",
+          explanation: "this is the angle between a vertical line along the lateral aspect of the ilium and the line joining the outer and the lowest part of the acetabulum – usually about 60°",
+          response: "",
+          text: "The ‘α’ angle assesses the depth of the acetabulum",
+        },
+        {
+          answer: "True",
+          explanation: "",
+          response: "",
+          text: "In the dynamic assessment, the hip is ﬂexed and backward pressure is applied and scanned for evidence of subluxation or dislocation",
+        },
+      ],
+      stem: "Concerning ultrasonography of the neonatal hip",
+    },
+    {
+      questionNumber: 10,
+      options: [
+        {
+          answer: "True",
+          explanation: "centred over the head of the third metacarpal, the images may be analysed by two different methods",
+          response: "",
+          text: "Bone maturation and development are assessed on a single view of the non-dominant hand and wrist",
+        },
+        {
+          answer: "False",
+          explanation: "the opposite is true",
+          response: "",
+          text: "The central shaft of a long bone (diaphysis) shows increased uptake of radioisotope compared to the metaphysis",
+        },
+        {
+          answer: "True",
+          explanation: "the physis or cartilaginous growth plate of long bones separates the metaphysis and epiphysis",
+          response: "",
+          text: "The epiphysis is the ossiﬁed area distal to the physis in a long bone",
+        },
+        {
+          answer: "True",
+          explanation: "an accessory area of ossification, which does not contribute to bone length",
+          response: "",
+          text: "An apophysis occurs at the sites of insertion of ligaments and tendons",
+        },
+        {
+          answer: "False",
+          explanation: "assesses the prominence of the labrum. Dysplastic hips have low alpha angles and high beta angles",
+          response: "",
+          text: "On ultrasound of the hips, the beta angle assesses the anteversion of the neck of the femur",
+        },
+      ],
+      stem: "Regarding paediatric bones and joints",
+    },
+  ],
 }

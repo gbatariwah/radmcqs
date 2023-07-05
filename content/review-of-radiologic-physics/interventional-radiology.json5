@@ -4,7 +4,7 @@
   questions: [
       {
         "questionNumber": "10.1",
-        "preamble": "The cost of a single plane IR imaging chain is about higher than an R/F system for performing G1 and urologic examinations",
+        "stem": "The cost of a single plane IR imaging chain is about higher than an R/F system for performing G1 and urologic examinations",
         "options": ["50%", "x2", "x3 to 4", "x5 to 10"],
         "answer": "x3 to 4",
         "explanation": "A single plane imaging chain would likely cost $l,250k whereas an R/F unit would likely cost $350k (2015 prices)",
@@ -12,7 +12,7 @@
       },
       {
         "questionNumber": "10.2",
-        "preamble": "Flat panel detectors used in IR imaging are most likely made of",
+        "stem": "Flat panel detectors used in IR imaging are most likely made of",
         "options": ["CsI", "Se", "BaFBr", "Xe"],
         "answer": "CsI",
         "explanation": "Scintillators such as CsI are used in virtually all FPDs in IR",
@@ -20,7 +20,7 @@
       },
       {
         "questionNumber": "10.3",
-        "preamble": "Patient doses using FPDs, operated using large fields of view, are most likely those using image intensifiers",
+        "stem": "Patient doses using FPDs, operated using large fields of view, are most likely those using image intensifiers",
         "options": ["double", "comparable to", "half"],
         "answer": "comparable to",
         "explanation": "For large fields of view, doses are very similar for both FPDs and Ils, because these both use essentially the same detectors (CsI scintillators)",
@@ -28,7 +28,7 @@
       },
       {
         "questionNumber": "10.4",
-        "preamble": "Pixel binning during fluoroscopy is normally applied to imaging systems that use",
+        "stem": "Pixel binning during fluoroscopy is normally applied to imaging systems that use",
         "options": ["Only flat panel detectors (FPDs)", "Only image intensifiers (II)", "FPD or II", "Neither FPDs nor II"],
         "answer": "Only flat panel detectors (FPDs)",
         "explanation": "Pixel binning (combining four pixels to make one) is only done with flat panel detectors, usually for fluoroscopy using large fields of view",
@@ -36,7 +36,7 @@
       },
       {
         "questionNumber": "10.5",
-        "preamble": "Most important image quality differences between FPDs and Ils are likely in their",
+        "stem": "Most important image quality differences between FPDs and Ils are likely in their",
         "options": ["Resolution", "Contrast", "Mottle", "Artifacts"],
         "answer": "Artifacts",
         "explanation": "Any comparison of phantom images clearly illustrates artifacts (distortions and saturations) on II images that disappear on those obtained using FPDs",
@@ -44,7 +44,7 @@
       },
       {
         "questionNumber": "10.6",
-        "preamble": "Which parameter is 'wrong' for a digital subtraction angiography acquisition",
+        "stem": "Which parameter is 'wrong' for a digital subtraction angiography acquisition",
         "options": ["70 kV", "500 mA", "20 mAs", "4:1 grid"],
         "answer": "4:1 grid",
         "explanation": "DSA imaging would use the same grids as in most of radiography and fluoroscopy of the body (i.e., 10:1 grid ratio)",
@@ -52,7 +52,7 @@
       },
       {
         "questionNumber": "10.7",
-        "preamble": "The minimum focus to patient distance is cm for fixed systems, and cm for mobile units",
+        "stem": "The minimum focus to patient distance is cm for fixed systems, and cm for mobile units",
         "options": ["30 for both", "30; 38", "38; 30", "38 for both"],
         "answer": "38; 30",
         "explanation": "FDA requires a minimum focus to patient distance of 38 cm for fixed systems, and 30 cm for mobile units, to minimize the risk of skin burns",
@@ -60,7 +60,7 @@
       },
       {
         "questionNumber": "10.8",
-        "preamble": "In IR imaging, as patient size increases from infants to obese adults, x-ray tube voltages most likely increase from to kV",
+        "stem": "In IR imaging, as patient size increases from infants to obese adults, x-ray tube voltages most likely increase from to kV",
         "options": ["60; 90", "60; 120", "90; 120", "90; 150"],
         "answer": "60; 120",
         "explanation": "A tube voltage of 60 kV would most likely be used to image a neonate, whereas 120 kV would likely be used to image obese adults",
@@ -68,7 +68,7 @@
       },
       {
         "questionNumber": "10.9",
-        "preamble": "The interventional reference point (IRP) is located at",
+        "stem": "The interventional reference point (IRP) is located at",
         "options": ["Isocenter", "Patient skin (entrance)", "15 cm from isocenter (toward focus)", "15 cm from isocenter (away from focus)"],
         "answer": "15 cm from isocenter (toward focus)",
         "explanation": "The interventional reference point (IRP) is located 15 cm from isocenter (toward focus) and is intended to estimate the point where the x-ray beam enters the patient",
@@ -76,7 +76,7 @@
       },
       {
         "questionNumber": "10.10",
-        "preamble": "Percentage (%) of IR patients who exceed a cumulative IRP Kair of 2 Gy is most likely",
+        "stem": "Percentage (%) of IR patients who exceed a cumulative IRP Kair of 2 Gy is most likely",
         "options": ["10", "30", "60", "90"],
         "answer": "30",
         "explanation": "About 30% of IR patients are likely to have a cumulative IRP Kair higher than 2 Gy",
@@ -84,7 +84,7 @@
       },
       {
         "questionNumber": "10.11",
-        "preamble": "The percentage (%) of IR patients who exceed a peak skin dose of 5 Gy is most likely",
+        "stem": "The percentage (%) of IR patients who exceed a peak skin dose of 5 Gy is most likely",
         "options": ["<5", "5", "10", "20"],
         "answer": "<5",
         "explanation": "Only about 2% of IR patients are likely to receive a peak skin dose higher than 5 Gy",
@@ -92,7 +92,7 @@
       },
       {
         "questionNumber": "10.12",
-        "preamble": "The Joint Commission defines a sentinel event as one where the peak skin dose unintentionally exceeds Gy",
+        "stem": "The Joint Commission defines a sentinel event as one where the peak skin dose unintentionally exceeds Gy",
         "options": ["5", "10", "15", "20"],
         "answer": "15",
         "explanation": "The unintended peak skin dose that would be classified by the Joint Commission as a sentinel event is 15 Gy",
@@ -100,7 +100,7 @@
       },
       {
         "questionNumber": "10.13",
-        "preamble": "The frequency of IR procedures at an AMC that would require major clinical intervention (e.g., skin graft) is most likely 1 per",
+        "stem": "The frequency of IR procedures at an AMC that would require major clinical intervention (e.g., skin graft) is most likely 1 per",
         "options": ["100", "1,000", "10,000", "100,000"],
         "answer": "10,000",
         "explanation": "Frequency of IR procedures requiring major clinical intervention has been estimated at about 1 in 10,000",
@@ -108,7 +108,7 @@
       },
       {
         "questionNumber": "10.14",
-        "preamble": "The median patient Kerma-Area Product (Gy-cm2) for IR procedures performed at US AMC is most likely",
+        "stem": "The median patient Kerma-Area Product (Gy-cm2) for IR procedures performed at US AMC is most likely",
         "options": ["2", "20", "200", "2,000"],
         "answer": "200",
         "explanation": "Average Kerma-Area Product (Gy-cm2) for IR procedures is estimated at 200 Gy-cm2",
@@ -116,7 +116,7 @@
       },
       {
         "questionNumber": "10.15",
-        "preamble": "Patient scatter radiation results in doses at 1 m that are about______% of the radiation intensity incident on the patient",
+        "stem": "Patient scatter radiation results in doses at 1 m that are about______% of the radiation intensity incident on the patient",
         "options": ["10", "1", "0.1", "0.01"],
         "answer": "0.1",
         "explanation": "Patient scatter radiation results in doses at 1 m that are about 0.1% of the radiation intensity incident on the patient",
@@ -124,7 +124,7 @@
       },
       {
         "questionNumber": "10.16",
-        "preamble": "Technologists who work in IR suites are most likely to receive annual effective doses (mSv) of",
+        "stem": "Technologists who work in IR suites are most likely to receive annual effective doses (mSv) of",
         "options": ["<1", "1 to 5", ">5"],
         "answer": "1 to 5",
         "explanation": "Technologists who work in IR suites are most likely to receive annual effective doses higher than 1 mSv but are unlikely to exceed 5 mSv",
@@ -132,7 +132,7 @@
       },
       {
         "questionNumber": "10.17",
-        "preamble": "Increasing which factor is most likely to increase operator doses in IR",
+        "stem": "Increasing which factor is most likely to increase operator doses in IR",
         "options": ["Distance from source", "Lead shielding", "Exposure time", "A, B, and C"],
         "answer": "Exposure time",
         "explanation": "Increasing exposure time increases operator doses, whereas increasing shielding and distance from the source will reduce operator doses",
@@ -140,7 +140,7 @@
       },
       {
         "questionNumber": "10.18",
-        "preamble": "IR operators who wear lead impregnated gloves can expect to reduce their extremity doses by (%)",
+        "stem": "IR operators who wear lead impregnated gloves can expect to reduce their extremity doses by (%)",
         "options": ["50", "90", "99", ">99"],
         "answer": "50",
         "explanation": "IR operators wearing lead-impregnated gloves are likely to reduce extremity doses by approximately 50%",
@@ -148,7 +148,7 @@
       },
       {
         "questionNumber": "10.19",
-        "preamble": "Wearing protective (plastic) glasses is most likely to reduce eye lens doses by about (%)",
+        "stem": "Wearing protective (plastic) glasses is most likely to reduce eye lens doses by about (%)",
         "options": ["<5", "5 to 10", "10 to 20", ">20"],
         "answer": "<5",
         "explanation": "Wearing 1- or 2-mm thick plastic glasses reduce eye lens doses by less than 5%. Plastic is similar to tissue, and it takes 30 mm of tissue to attenuate a radiographic x-ray beam by 50%",
@@ -156,7 +156,7 @@
       },
       {
         "questionNumber": "10.20",
-        "preamble": "Annual radiation doses (mSv) outside of an IR suite with 2 mm Pb shielding are most likely",
+        "stem": "Annual radiation doses (mSv) outside of an IR suite with 2 mm Pb shielding are most likely",
         "options": ["Zero", "0.25", "0.5", "1"],
         "answer": "Zero",
         "explanation": "Technologists who work outside of protective walls invariably record zero on their personal dosimeters",

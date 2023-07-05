@@ -41,6 +41,8 @@ const { data: section, refresh } = await useAsyncData(
   }
 );
 
+console.log(section);
+
 const shuffleQuestions = () => {
   questionsShuffled.value = true;
   toast.add({ title: "Questions Shuffled!", icon: "i-ic-outline-info" });
@@ -109,7 +111,7 @@ const handleReset = () => {
   <div class="space-y-6">
     <div class="flex flex-col sm:flex-row items-center sm:items-start">
       <img
-        src="~/assets/mcq-companion/cover.jpg"
+        src="~/assets/covers/mcq-companion.jpg"
         alt="mcq-companion"
         class="w-40"
       />
@@ -147,19 +149,16 @@ const handleReset = () => {
                 size="xs"
                 variant="soft"
                 @click="shuffleQuestions"
-              >
-                <UIcon name="i-ic-baseline-shuffle" />
-                Shuffle Questions
-              </UButton>
+                icon="i-ic-baseline-shuffle"
+              />
               <UButton
                 variant="soft"
-                label="Shuffle Questions"
+                label="Shuffle Choices"
                 class="flex gap-2"
                 size="xs"
                 @click="shuffleOptions"
-              >
-                <UIcon name="i-ic-baseline-shuffle" /> Shuffle Options
-              </UButton>
+                icon="i-ic-baseline-shuffle"
+              />
             </div>
           </div>
         </div>
@@ -246,7 +245,7 @@ const handleReset = () => {
       </div>
 
       <div class="space-y-8">
-        <Question
+        <MultipleChoice
           v-for="(question, questionId) in section.questions"
           :key="questionId"
           :question="question"

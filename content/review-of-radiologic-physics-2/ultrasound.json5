@@ -4,7 +4,7 @@
   questions: [
     {
       questionNumber: 10.1,
-      preamble: "In a sound wave, the physical quantity varying with time is",
+      stem: "In a sound wave, the physical quantity varying with time is",
       options: ["voltage", "magnetic field", "pressure", "charge", "current"],
       answer: "pressure",
       explanation: "A sound wave is a variation of pressure with time",
@@ -12,7 +12,7 @@
     },
     {
       questionNumber: 10.2,
-      preamble: "The wavelength of a 3-MHz sound beam is shortest in",
+      stem: "The wavelength of a 3-MHz sound beam is shortest in",
       options: ["air", "fat", "muscle", "bone", "PZT"],
       answer: "air",
       explanation: "Air, since wavelength is velocity/frequency and air has the lowest velocity",
@@ -20,7 +20,7 @@
     },
     {
       questionNumber: 10.3,
-      preamble: "A signal attenuated to 1% of its original intensity corresponds to attenuation (-dB) of",
+      stem: "A signal attenuated to 1% of its original intensity corresponds to attenuation (-dB) of",
       options: ["1", "5", "10", "20", "100"],
       answer: "20",
       explanation: "Attenuation of -20 dB is 1% (-10 dB is 10%, and -30 dB is 0.1%)",
@@ -28,7 +28,7 @@
     },
     {
       questionNumber: 10.4,
-      preamble: "Which of the following has the highest acoustic impedance",
+      stem: "Which of the following has the highest acoustic impedance",
       options: ["Bone", "Fat", "Air", "Water", "Eye lens"],
       answer: "Bone",
       explanation: "Bone, since acoustic impedance is density times sound velocity, which are both highest in bone",
@@ -36,7 +36,7 @@
     },
     {
       questionNumber: 10.5,
-      preamble: "An ultrasound beam traveling through tissue is least likely to be",
+      stem: "An ultrasound beam traveling through tissue is least likely to be",
       options: ["absorbed", "amplified", "scattered", "reflected", "refracted"],
       answer: "amplified",
       explanation: "Amplified, since ultrasound beams are normally strongly attenuated at a rate of about -0.5 dB/cm/MHz",
@@ -44,7 +44,7 @@
     },
     {
       questionNumber: 10.6,
-      preamble: "Reflections are least likely to occur from",
+      stem: "Reflections are least likely to occur from",
       options: [
         "smooth surfaces",
         "kidney interior",
@@ -58,7 +58,7 @@
     },
     {
       questionNumber: 10.7,
-      preamble: "The largest ultrasound reflections most likely occur between soft tissue and",
+      stem: "The largest ultrasound reflections most likely occur between soft tissue and",
       options: ["water", "fat", "bone", "blood", "air"],
       answer: "air",
       explanation: "Air-soft tissue interfaces will give rise to the largest echoes because of the large mismatch in the acoustic properties of air (very low) and soft tissue (average)",
@@ -66,7 +66,7 @@
     },
     {
       questionNumber: 10.8,
-      preamble: "Snell's law describes the relation between the",
+      stem: "Snell's law describes the relation between the",
       options: [
         "angle of incidence and transmission",
         "Fraunhofer angle and wavelength",
@@ -80,7 +80,7 @@
     },
     {
       questionNumber: 10.9,
-      preamble: "Depth gain compensation accounts for tissue attenuation by increasing the",
+      stem: "Depth gain compensation accounts for tissue attenuation by increasing the",
       options: [
         "transducer output",
         "echo amplification",
@@ -94,7 +94,7 @@
     },
     {
       questionNumber: 10.1,
-      preamble: "Attenuation of ultrasound in soft tissue at 2 MHz is most likely (dB/cm)",
+      stem: "Attenuation of ultrasound in soft tissue at 2 MHz is most likely (dB/cm)",
       options: ["0.25", "0.5", "1", "2", "4"],
       answer: "1",
       explanation: "One dB, since the value used in clinical ultrasound is 0.5 dB/cm per MHz",
@@ -102,7 +102,7 @@
     },
     {
       questionNumber: 10.11,
-      preamble: "Increasing the transducer thickness is most likely to increase the sound",
+      stem: "Increasing the transducer thickness is most likely to increase the sound",
       options: [
         "frequency",
         "velocity",
@@ -116,7 +116,7 @@
     },
     {
       questionNumber: 10.12,
-      preamble: "The damping material behind the crystal transducer reduces the",
+      stem: "The damping material behind the crystal transducer reduces the",
       options: [
         "tissue attenuation",
         "pulse length",
@@ -130,7 +130,7 @@
     },
     {
       questionNumber: 10.13,
-      preamble: "An ultrasound near field is made longer when increasing the transducer",
+      stem: "An ultrasound near field is made longer when increasing the transducer",
       options: [
         "operating frequency",
         "time gain compensation",
@@ -144,7 +144,7 @@
     },
     {
       questionNumber: 10.14,
-      preamble: "A 4-kHz PRF corresponds to a listening time (μs) of",
+      stem: "A 4-kHz PRF corresponds to a listening time (μs) of",
       options: ["60", "125", "250", "500", "1,000"],
       answer: "250",
       explanation: "The pulse repetition period (listening time) is 250 μs, which is given by 1/PRF (i.e., 1/4,000 seconds)",
@@ -152,7 +152,7 @@
     },
     {
       questionNumber: 10.15,
-      preamble: "Ultrasound signals are converted to a video monitor display using",
+      stem: "Ultrasound signals are converted to a video monitor display using",
       options: [
         "log amplifiers",
         "array processors",

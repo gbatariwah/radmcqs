@@ -8,7 +8,7 @@ const { data: modules } = await useAsyncData("mcq-companion", () =>
   <div class="space-y-8">
     <div class="flex">
       <img
-        src="~/assets/mcq-companion/cover.jpg"
+        src="~/assets/covers/mcq-companion.jpg"
         alt="mcq-companion"
         class="w-40"
       />

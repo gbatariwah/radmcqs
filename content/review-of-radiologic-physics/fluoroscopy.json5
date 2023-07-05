@@ -4,7 +4,7 @@
   questions: [
         {
           "questionNumber": "9.1",
-          "preamble": "During fluoroscopy, the power loading (kW) on the x-ray tube is most likely",
+          "stem": "During fluoroscopy, the power loading (kW) on the x-ray tube is most likely",
           "options": ["<1", "1", "10", "100"],
           "answer": "<1",
           "explanation": "The tube voltage (80 kV) with a tube current of 3 mA corresponds to a power loading of only 240 W (i.e., 0.24 kW)",
@@ -12,7 +12,7 @@
         },
         {
           "questionNumber": "9.2",
-          "preamble": "Fluoroscopy is normally performed with a focal spot size of (mm)",
+          "stem": "Fluoroscopy is normally performed with a focal spot size of (mm)",
           "options": ["0.3", "0.6", "1.2", "2.5"],
           "answer": "0.6",
           "explanation": "The small x-ray tube focal spot size used during fluoroscopy is 0.6 mm because it tolerates the extremely low power loading (e.g., <1 kW)",
@@ -20,7 +20,7 @@
         },
         {
           "questionNumber": "9.3",
-          "preamble": "Which image intensifier component absorbs light and emits low-energy electrons",
+          "stem": "Which image intensifier component absorbs light and emits low-energy electrons",
           "options": ["Input window (Al)", "Input phosphor", "Photocathode", "Output phosphor"],
           "answer": "Photocathode",
           "explanation": "The photocathode absorbs light and emits low-energy electrons, which are subsequently accelerated to high energy",
@@ -28,7 +28,7 @@
         },
         {
           "questionNumber": "9.4",
-          "preamble": "With an II/TV system, fluoroscopy most likely uses TV lines, and photospot imaging most likely uses TV lines",
+          "stem": "With an II/TV system, fluoroscopy most likely uses TV lines, and photospot imaging most likely uses TV lines",
           "options": ["500; 500", "500; 1,000", "1,000; 500", "1,000; 1,000"],
           "answer": "500; 1,000",
           "explanation": "II-based fluoroscopy is normally performed with TV cameras using 500 lines, whereas photospot imaging is performed with 1,000 TV lines",
@@ -36,7 +36,7 @@
         },
         {
           "questionNumber": "9.5",
-          "preamble": "One frame of digital fluoroscopy most likely has data content (MB) of about",
+          "stem": "One frame of digital fluoroscopy most likely has data content (MB) of about",
           "options": ["0.05", "0.5", "5", "50"],
           "answer": "0.5",
           "explanation": "A digital fluoroscopy frame likely has 500 lines and a 5,122 matrix size (i.e., 250,000 pixels) with 2 bytes/pixel, which corresponds to 0.5 MB (i.e., 250,000 pixels x 2 bytes/pixel)",
@@ -44,7 +44,7 @@
         },
         {
           "questionNumber": "9.6",
-          "preamble": "The most likely tube current (mA) during continuous fluoroscopy is",
+          "stem": "The most likely tube current (mA) during continuous fluoroscopy is",
           "options": ["0.3", "3", "30", "300"],
           "answer": "3",
           "explanation": "Continuous fluoroscopy tube currents are a few mA, and they are increased by about 100 when photospot images are being acquired",
@@ -52,7 +52,7 @@
         },
         {
           "questionNumber": "9.7",
-          "preamble": "R/F units (i.e., x-ray tube at floor) attenuate about % of the x-ray beam by the table prior to the patient",
+          "stem": "R/F units (i.e., x-ray tube at floor) attenuate about % of the x-ray beam by the table prior to the patient",
           "options": ["1", "3",
 
             "10", "30"],
@@ -62,7 +62,7 @@
         },
         {
           "questionNumber": "9.8",
-          "preamble": "Grid ratios used in fluoroscopy are most likely those used in radiography when imaging similar body parts",
+          "stem": "Grid ratios used in fluoroscopy are most likely those used in radiography when imaging similar body parts",
           "options": ["greater than", "comparable to", "lower than"],
           "answer": "comparable to",
           "explanation": "Grid ratios in radiography and fluoroscopy are the same because scatter is determined by the patient",
@@ -70,7 +70,7 @@
         },
         {
           "questionNumber": "9.9",
-          "preamble": "When iodine is administered to a patient to visualize the vasculature, the most likely x-ray tube voltage (kV) is",
+          "stem": "When iodine is administered to a patient to visualize the vasculature, the most likely x-ray tube voltage (kV) is",
           "options": ["50", "70", "100", ">100"],
           "answer": "70",
           "explanation": "With a tube voltage of 70 kV, the average x-ray beam energy (around 35 keV) is close to the iodine k-edge (33 keV), which maximizes x-ray absorption by iodine",
@@ -78,7 +78,7 @@
         },
         {
           "questionNumber": "9.10",
-          "preamble": "When barium is administered to a patient to visualize the GI tract, the most likely x-ray tube voltage (kV) is",
+          "stem": "When barium is administered to a patient to visualize the GI tract, the most likely x-ray tube voltage (kV) is",
           "options": ["50", "70", "90", "110"],
           "answer": "70",
           "explanation": "A tube voltage of 70 kV is required to penetrate the barium contrast in the GI tract; at low tube voltages, any part of the GI that had any barium would appear white",
@@ -86,7 +86,7 @@
         },
         {
           "questionNumber": "9.11",
-          "preamble": "When switching from normal mode to Mag 1 (electronic magnification), the area exposed is most likely reduced to (%)",
+          "stem": "When switching from normal mode to Mag 1 (electronic magnification), the area exposed is most likely reduced to (%)",
           "options": ["90", "50", "25", "10"],
           "answer": "50",
           "explanation": "Normal mode normally exposes 100% of the image intensifier phosphor area, Mag 1 exposes 50%, and Mag 2 exposes 25%",
@@ -94,7 +94,7 @@
         },
         {
           "questionNumber": "9.12",
-          "preamble": "The patient dose rate in pulsed fluoroscopy (30 pulses/second) will likely be those of continuous fluoroscopy",
+          "stem": "The patient dose rate in pulsed fluoroscopy (30 pulses/second) will likely be those of continuous fluoroscopy",
           "options": ["higher than", "comparable to", "lower than"],
           "answer": "comparable to",
           "explanation": "Switching from continuous to 30 pulses/second in pulsed fluoroscopy results in the acquisition of the same number of frames in each second (i.e., 30), so the dose will not change",
@@ -102,7 +102,7 @@
         },
         {
           "questionNumber": "9.13",
-          "preamble": "In pulsed fluoroscopy, reducing the acquisition frame rate normally results in the dose per frame being",
+          "stem": "In pulsed fluoroscopy, reducing the acquisition frame rate normally results in the dose per frame being",
           "options": ["Increased", "Maintained", "Reduced"],
           "answer": "Increased",
           "explanation": "At reduced acquisition frame rates, the dose per frame is increased to maintain image quality and diagnostic performance",
@@ -110,7 +110,7 @@
         },
         {
           "questionNumber": "9.14",
-          "preamble": "Radiologists benefit from collimation during fluoroscopy because of improved",
+          "stem": "Radiologists benefit from collimation during fluoroscopy because of improved",
 
 
           "options": ["Resolution (spatial)", "Resolution (temporal)", "Mottle (reduced)", "Contrast (lesion)"],
@@ -120,7 +120,7 @@
         },
         {
           "questionNumber": "9.15",
-          "preamble": "Selection of automatic exposure control (AEC) curves in fluoroscopy primarily pertains to control of",
+          "stem": "Selection of automatic exposure control (AEC) curves in fluoroscopy primarily pertains to control of",
           "options": ["Patient dose", "Image quality", "Dose and image quality", "Fluoroscopy time"],
           "answer": "Dose and image quality",
           "explanation": "AEC curves enable operators to optimize the dose and image quality of any examination",
@@ -128,7 +128,7 @@
         },
         {
           "questionNumber": "9.16",
-          "preamble": "In fluoroscopy with AEC, increasing kV as opposed to mA when imaging larger patients most likely improves",
+          "stem": "In fluoroscopy with AEC, increasing kV as opposed to mA when imaging larger patients most likely improves",
           "options": ["Doses", "Contrast", "Resolution", "CNR"],
           "answer": "Doses",
           "explanation": "Radiation doses will be lower in a larger patient with increased kV compared to imaging the same patient with increased mA",
@@ -136,7 +136,7 @@
         },
         {
           "questionNumber": "9.17",
-          "preamble": "Regulatory entrance Kair limit in standard fluoroscopy is (mGy/minute)",
+          "stem": "Regulatory entrance Kair limit in standard fluoroscopy is (mGy/minute)",
           "options": ["10", "50", "100", "200"],
           "answer": "100",
           "explanation": "Current US regulations require the maximum entrance Kair rate in standard fluoroscopy to be around 100 mGy/minute",
@@ -144,7 +144,7 @@
         },
         {
           "questionNumber": "9.18",
-          "preamble": "One minute of standard fluoroscopy most likely delivers the same patient dose as ______ photospot images",
+          "stem": "One minute of standard fluoroscopy most likely delivers the same patient dose as ______ photospot images",
           "options": ["0.1", "1", "10", "100"],
           "answer": "10",
           "explanation": "As a rule of thumb, 1 minute of fluoroscopy (10 mGy/minute) likely delivers the same patient dose as 10 photospot images (1 mGy/photospot image)",
@@ -152,7 +152,7 @@
         },
         {
           "questionNumber": "9.19",
-          "preamble": "Which II artifact is most likely to appear after a mobile C-arm is moved close to an MR scanner?",
+          "stem": "Which II artifact is most likely to appear after a mobile C-arm is moved close to an MR scanner?",
           "options": ["Pin cushion distortion", "Vignetting", "Lag", "S-distortion"],
           "answer": "S-distortion",
           "explanation": "When electrons are affected by stray magnetic fields, S-distortion occurs",
@@ -160,7 +160,7 @@
         },
         {
           "questionNumber": "9.20",
-          "preamble": "Barium studies likely have effective doses that are deemed to be ______",
+          "stem": "Barium studies likely have effective doses that are deemed to be ______",
           "options": ["very low (<0.1 mSv)", "low (0.1 to 1 mSv)", "moderate (1 to 10 mSv)", "high (>10 mSv)"],
           "answer": "moderate (1 to 10 mSv)",
           "explanation": "Barium studies generally have effective doses between 1 and 10 mSv",

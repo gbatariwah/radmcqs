@@ -4,140 +4,140 @@
   questions: [
     {
       "questionNumber": 5.1,
-      "preamble": "Which organism is likely to be easiest to 'kill' with ionizing radiation?",
+      "stem": "Which organism is likely to be easiest to 'kill' with ionizing radiation?",
       "options": ["Virus", "Bacteria", "Human cells"],
       "answer": "Human cells",
       "explanation": "It is easier to kill human cells because they contain much more DNA (or RNA)"
     },
     {
       "questionNumber": 5.2,
-      "preamble": "Deposition of ionizing radiation in a somatic cell is unlikely to result in",
+      "stem": "Deposition of ionizing radiation in a somatic cell is unlikely to result in",
       "options": ["Cell death", "Fatal cancer", "Nonfatal cancer", "Genetic effects"],
       "answer": "Genetic effects",
       "explanation": "For genetic effects to occur, energy must be deposited in the gametes (eggs or sperms), not somatic cells"
     },
     {
       "questionNumber": 5.3,
-      "preamble": "Which of the following is normally associated with a threshold dose?",
+      "stem": "Which of the following is normally associated with a threshold dose?",
       "options": ["Genetic effect", "Fatal cancer", "Nonfatal cancer", "Sterility"],
       "answer": "Sterility",
       "explanation": "Sterility is a deterministic effect with a threshold dose that depends on the sex of the exposed individual, as well as their age"
     },
     {
       "questionNumber": 5.4,
-      "preamble": "The hematopoietic syndrome most likely occurs at acute whole-body doses (Gy) of about",
+      "stem": "The hematopoietic syndrome most likely occurs at acute whole-body doses (Gy) of about",
       "options": ["0.4", "4", "40", "400"],
       "answer": "4",
       "explanation": "Hematopoietic syndrome occurs for acute whole-body doses of about 4 Gy"
     },
     {
       "questionNumber": 5.5,
-      "preamble": "Dermal atrophy and induration at most likely observed (long term) at peak skin doses of (Gy)",
+      "stem": "Dermal atrophy and induration at most likely observed (long term) at peak skin doses of (Gy)",
       "options": ["2", "5", "10", "15"],
       "answer": "10",
       "explanation": "Dermal atrophy and induration are most likely observed as long term at peak skin doses approaching 10 Gy"
     },
     {
       "questionNumber": 5.6,
-      "preamble": "Threshold doses (Gy) for temporary and permanent epilation are most likely",
+      "stem": "Threshold doses (Gy) for temporary and permanent epilation are most likely",
       "options": ["1 and 2", "2 and 4", "3 and 7", "10 and 15"],
       "answer": "3 and 7",
       "explanation": "Currently accepted values for the threshold dose are 3 and 7 Gy for temporary and permanent epilation, respectively"
     },
     {
       "questionNumber": 5.7,
-      "preamble": "A radiation-induced skin erythema is most likely to occur after 10",
+      "stem": "A radiation-induced skin erythema is most likely to occur after 10",
       "options": ["Minutes", "Hours", "Days", "Weeks"],
       "answer": "Days",
       "explanation": "Radiation-induced erythema is most likely to be observed 10 days after the skin has been irradiated"
     },
     {
       "questionNumber": 5.8,
-      "preamble": "Threshold dose introduced by ICRP (2011) for cataract induction is (Gy)",
+      "stem": "Threshold dose introduced by ICRP (2011) for cataract induction is (Gy)",
       "options": ["0.5", "2", "5", "15"],
       "answer": "0.5",
       "explanation": "In 2011, the International Commission on Radiological Protection stated that there is a 0.5-Gy threshold dose for cataract induction, applicable for both chronic and acute eye exposures"
     },
     {
       "questionNumber": 5.9,
-      "preamble": "The principal difference between a radiation-induced and a natural cancer is",
+      "stem": "The principal difference between a radiation-induced and a natural cancer is",
       "options": ["Age of occurrence", "Lethality", "Treatment response", "None (indistinguishable)"],
       "answer": "None (indistinguishable)",
       "explanation": "There is no difference between radiation-induced and other types of cancer, with radiation just increasing the rate at which cancers occur"
     },
     {
       "questionNumber": 5.10,
-      "preamble": "Radiation-induced cancers have not been observed in",
+      "stem": "Radiation-induced cancers have not been observed in",
       "options": ["Uranium miners", "Watch dial painters", "Postpartum mastitis patients", "Nuclear medicine technologists"],
       "answer": "Nuclear medicine technologists",
       "explanation": "No radiation-induced cancers have ever been observed in any group of nuclear medicine technologists"
     },
     {
       "questionNumber": 5.11,
-      "preamble": "Latent periods (years) for induction of leukemia and solid tumors are currently most likely taken to be",
+      "stem": "Latent periods (years) for induction of leukemia and solid tumors are currently most likely taken to be",
       "options": ["2 and 5", "5 and 2", "5 and 10", "10 and 5"],
       "answer": "5 and 10",
       "explanation": "Leukemia is taken to have a latent period of at least 5 years, and solid tumors a latent period of at least 10 years"
     },
     {
       "questionNumber": 5.12,
-      "preamble": "For practical radiation protection purposes, the most common model for radiation-induced carcinogenesis is taken to be",
+      "stem": "For practical radiation protection purposes, the most common model for radiation-induced carcinogenesis is taken to be",
       "options": ["Threshold", "Linear no threshold", "Supralinear no threshold", "Hormesis"],
       "answer": "Linear no threshold",
       "explanation": "For practical radiation protection purposes, most radiation protection organizations recommend use of a Linear No Threshold (LNT) model for radiation-induced carcinogenesis"
     },
     {
       "questionNumber": 5.13,
-      "preamble": "A patient who refuses to have any diagnostic x-ray examination has a chance of getting cancer (%) in their lifetime of about",
+      "stem": "A patient who refuses to have any diagnostic x-ray examination has a chance of getting cancer (%) in their lifetime of about",
       "options": ["0", "10", "20", "40"],
       "answer": "0",
       "explanation": "A patient who refuses to have any diagnostic x-ray examination has a chance of getting cancer of 0% in their lifetime"
     },
     {
       "questionNumber": 5.14,
-      "preamble": "Uncertainties in current radiation risk estimates are most likely",
+      "stem": "Uncertainties in current radiation risk estimates are most likely",
       "options": ["Few percent (e.g., ± 5%)", "Tens of percent (e.g., ± 50%)", "Factor of three (e.g., ± x3)", "Order of magnitude (e.g., ± xlO)"],
       "answer": "Factor of three (e.g., ± x3)",
       "explanation": "Most scientific radiation risk estimates accept uncertainties of factors of 2 to 3, in both directions (i.e., smaller or bigger)"
     },
     {
       "questionNumber": 5.15,
-      "preamble": "The cancer sensitivity of a 65 year old is most likely_____ times lower than that of a 25 year old",
+      "stem": "The cancer sensitivity of a 65 year old is most likely_____ times lower than that of a 25 year old",
       "options": ["1.5", "3", "6", "10"],
       "answer": "3",
       "explanation": "A 65-year-old is most likely three times less sensitive than a 25-year-old in terms of radiation-induced carcinogenesis"
     },
     {
       "questionNumber": 5.16,
-      "preamble": "The genetic doubling dose in humans is most likely between (Gy)",
+      "stem": "The genetic doubling dose in humans is most likely between (Gy)",
       "options": ["0 and 1", "1 and 2", "2 and 5", "5 and 10"],
       "answer": "1 and 2",
       "explanation": "Current estimates of the genetic doubling dose in humans are between 1 and 2 Gy"
     },
     {
       "questionNumber": 5.17,
-      "preamble": "The threshold dose (mGy) for deterministic effects to the conceptus in pregnant women is currently taken to be",
+      "stem": "The threshold dose (mGy) for deterministic effects to the conceptus in pregnant women is currently taken to be",
       "options": ["0", "5", "50", "500"],
       "answer": "0",
       "explanation": "No deterministic effects are expected below 50 mGy to the embryo or fetus"
     },
     {
       "questionNumber": 5.18,
-      "preamble": "At high doses (e.g., 1 Gy), which is least likely to occur following exposure of the embryo and/or fetus?",
+      "stem": "At high doses (e.g., 1 Gy), which is least likely to occur following exposure of the embryo and/or fetus?",
       "options": ["Congenital abnormality", "Embryonic death", "Mental retardation", "Atrial septal defect"],
       "answer": "Atrial septal defect",
       "explanation": "Atrial septal defects are not associated with radiation exposures, whereas congenital abnormalities, embryonic death, and mental retardation are all observed at high doses"
     },
     {
       "questionNumber": 5.19,
-      "preamble": "When a 25-year-old undergoes a TIPS procedure (effective dose 100 mSv), his/her cancer risk increases from 40% to approximately (%)",
+      "stem": "When a 25-year-old undergoes a TIPS procedure (effective dose 100 mSv), his/her cancer risk increases from 40% to approximately (%)",
       "options": ["40.01", "40.1", "41", "50"],
       "answer": "41",
       "explanation": "The average cancer risk to a 25-year-old from 100 mSv is about 1% (a risk of 0.1% is normally assumed for a dose of 10 mSv), so the increase in cancer risk would be from 40% to approximately 41%"
     },
     {
       "questionNumber": 5.20,
-      "preamble": "For a population exposed to uniform whole-body doses, genetic effects are currently estimated to contribute % to the total detriment",
+      "stem": "For a population exposed to uniform whole-body doses, genetic effects are currently estimated to contribute % to the total detriment",
       "options": ["<1", "1", "8", "25"],
       "answer": "8",
       "explanation": "The gonad tissue weighting factor (WT) is currently assigned a value of 0.08 by the ICRP, which implies that genetic effects contribute approximately 8% to the total detriment"

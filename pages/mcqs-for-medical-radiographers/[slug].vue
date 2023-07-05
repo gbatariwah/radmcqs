@@ -9,7 +9,7 @@ const { data: section, refresh } = await useAsyncData(
   "review-of-radiologic-physics",
   () =>
     queryContent()
-      .where({ _path: `/review-of-radiologic-physics-2/${params.slug}` })
+      .where({ _path: `/mcqs-for-medical-radiographers/${params.slug}` })
       .findOne(),
   {
     transform: (res) => {
@@ -104,8 +104,8 @@ const handleReset = () => {
   <div>
     <div class="flex flex-col sm:flex-row items-center sm:items-start">
       <img
-        src="~/assets/covers/review-of-radiologic-physics-2.jpg"
-        alt="review-of-radiologic-physics-2"
+        src="~/assets/covers/800-mcqs.png"
+        alt="mcqs-for-medical-radiographers"
         class="w-40"
       />
 
@@ -114,7 +114,7 @@ const handleReset = () => {
           <h1
             class="font-[oswald] font-bold text-xl tracking-wider uppercase mb-2"
           >
-            {{ section.name }}
+            {{ section.part }}
           </h1>
 
           <p class="py-4 font-[oswald] tracking-wider">
@@ -215,7 +215,7 @@ const handleReset = () => {
               class="self-center"
               icon="i-ic-baseline-arrow-circle-left
 
-            "
+                  "
               @click="$router.back()"
               >Go Back</UButton
             >
@@ -224,7 +224,7 @@ const handleReset = () => {
               @click="handleReset"
               icon="i-ic-round-settings-backup-restore
 
-            "
+                  "
               >Reset</UButton
             >
           </div>

@@ -4,7 +4,7 @@
   questions: [
     {
       questionNumber: 6.1,
-      preamble: "Subject contrast is most likely to be affected by the",
+      stem: "Subject contrast is most likely to be affected by the",
       options: [
         "exposure time",
         "tube current (mA)",
@@ -18,7 +18,7 @@
     },
     {
       questionNumber: 6.2,
-      preamble: "The most important factor for maximizing film contrast is most likely the film",
+      stem: "The most important factor for maximizing film contrast is most likely the film",
       options: [
         "optical density",
         "base thickness",
@@ -32,7 +32,7 @@
     },
     {
       questionNumber: 6.3,
-      preamble: "Film contrast is inversely related to film",
+      stem: "Film contrast is inversely related to film",
       options: ["fog", "noise", "latitude", "speed", "resolution"],
       answer: "latitude",
       explanation: "Film contrast (i.e., gradient) is inversely related to film latitude",
@@ -40,7 +40,7 @@
     },
     {
       questionNumber: 6.4,
-      preamble: "A characteristic curve with a high gamma likely results in images with a high",
+      stem: "A characteristic curve with a high gamma likely results in images with a high",
       options: [
         "patient dose",
         "film density",
@@ -54,7 +54,7 @@
     },
     {
       questionNumber: 6.5,
-      preamble: "Screen–film mammography contrast is likely improved by increasing",
+      stem: "Screen–film mammography contrast is likely improved by increasing",
       options: [
         "tube voltage",
         "target atomic number",
@@ -68,7 +68,7 @@
     },
     {
       questionNumber: 6.6,
-      preamble: "Increasing the kV alone in CT scanning would most likely reduce",
+      stem: "Increasing the kV alone in CT scanning would most likely reduce",
       options: [
         "anode loading",
         "image mottle",
@@ -82,7 +82,7 @@
     },
     {
       questionNumber: 6.7,
-      preamble: "Increasing the amount of scatter in a radiograph reduces",
+      stem: "Increasing the amount of scatter in a radiograph reduces",
       options: [
         "image contrast",
         "focal blur",
@@ -96,7 +96,7 @@
     },
     {
       questionNumber: 6.8,
-      preamble: "Which of the following is least likely a measure of spatial resolution",
+      stem: "Which of the following is least likely a measure of spatial resolution",
       options: ["ROC", "PSF", "LSF", "FWHM", "MTF"],
       answer: "ROC",
       explanation: "ROC is receiver operating characteristic, which measures diagnostic performance (PSF is the point spread function; LSF is the line spread function; FWHM is the full width half maximum; and MTF is the modulation transfer function)",
@@ -104,7 +104,7 @@
     },
     {
       questionNumber: 6.9,
-      preamble: "Spatial resolution is important when detecting lesions that are characterized as being",
+      stem: "Spatial resolution is important when detecting lesions that are characterized as being",
       options: [
         "small size",
         "low contrast",
@@ -118,7 +118,7 @@
     },
     {
       questionNumber: 6.1,
-      preamble: "The most likely limitation of geometric magnification is an increase in",
+      stem: "The most likely limitation of geometric magnification is an increase in",
       options: [
         "focal blur",
         "screen blur",
@@ -132,7 +132,7 @@
     },
     {
       questionNumber: 6.11,
-      preamble: "Radiographic spatial resolution performance can be best improved by reducing",
+      stem: "Radiographic spatial resolution performance can be best improved by reducing",
       options: [
         "beam filtration",
         "detector exposure",
@@ -146,7 +146,7 @@
     },
     {
       questionNumber: 6.12,
-      preamble: "Increasing the detector thickness to absorb more x-rays will most likely increase image",
+      stem: "Increasing the detector thickness to absorb more x-rays will most likely increase image",
       options: ["contrast", "magnification", "blur", "mottle", "brightness"],
       answer: "blur",
       explanation: "Image blur will increase with a thicker x-ray detector",
@@ -154,7 +154,7 @@
     },
     {
       questionNumber: 6.13,
-      preamble: "When the full width half maximum FWHM of an imaged slit is 0.1 mm, the limiting resolution (line pairs per mm) is most likely",
+      stem: "When the full width half maximum FWHM of an imaged slit is 0.1 mm, the limiting resolution (line pairs per mm) is most likely",
       options: ["1", "2", "3", "5", "10"],
       answer: "5",
       explanation: "Five line pairs per mm, since the achievable number of lp/mm is normally taken to be ~1/(2 × FWHM)",
@@ -162,7 +162,7 @@
     },
     {
       questionNumber: 6.14,
-      preamble: "The MTF value (%) at the lowest spatial frequencies is most likely",
+      stem: "The MTF value (%) at the lowest spatial frequencies is most likely",
       options: ["100", "75", "50", "25", "0"],
       answer: "100",
       explanation: "The MTF value is 100% for all imaging systems; this effectively means that huge objects can very easily be seen",
@@ -170,7 +170,7 @@
     },
     {
       questionNumber: 6.15,
-      preamble: "The limiting spatial resolution (lp/mm) of a (dedicated) chest screen–film unit is likely",
+      stem: "The limiting spatial resolution (lp/mm) of a (dedicated) chest screen–film unit is likely",
       options: ["0.5", "1", "2.5", "5", "10"],
       answer: "5",
       explanation: "Screen–film (200 speed) should achieve 5 lp/mm",
@@ -178,7 +178,7 @@
     },
     {
       questionNumber: 6.16,
-      preamble: "Actual vertical resolution (line pairs) achieved with a 525-line TV monitor is",
+      stem: "Actual vertical resolution (line pairs) achieved with a 525-line TV monitor is",
       options: ["180", "262", "370", "425", "525"],
       answer: "180",
       explanation: "A TV with 525 lines can display 262.5 line pairs, but the TV achieves only 70% of this value, so the actual vertical TV resolution is 180 line pairs",
@@ -186,7 +186,7 @@
     },
     {
       questionNumber: 6.17,
-      preamble: "The horizontal resolution of a TV system is primarily determined by",
+      stem: "The horizontal resolution of a TV system is primarily determined by",
       options: [
         "image lag",
         "bandwidth",
@@ -200,7 +200,7 @@
     },
     {
       questionNumber: 6.18,
-      preamble: "Digital fluoroscopy spatial resolution would most likely be improved by increasing",
+      stem: "Digital fluoroscopy spatial resolution would most likely be improved by increasing",
       options: [
         "grid ratio",
         "II input diameter",
@@ -214,7 +214,7 @@
     },
     {
       questionNumber: 6.19,
-      preamble: "The maximum number of line pairs that can be observed using a 1k matrix size is",
+      stem: "The maximum number of line pairs that can be observed using a 1k matrix size is",
       options: ["50", "100", "250", "500", "1,000"],
       answer: "500",
       explanation: "A 1k matrix can display 500 line pairs (1 line pair needs two pixels, one that is white and one that is black)",
@@ -222,7 +222,7 @@
     },
     {
       questionNumber: 6.2,
-      preamble: "The best achievable head CT limiting resolution (line pairs/mm) using a 5122 matrix and 25 cm field-of-view is most likely",
+      stem: "The best achievable head CT limiting resolution (line pairs/mm) using a 5122 matrix and 25 cm field-of-view is most likely",
       options: ["0.25", "0.5", "1.0", "2.0", "4.0"],
       answer: "1.0",
       explanation: "One line pair per mm, since the pixel size is 0.5 mm",
@@ -230,7 +230,7 @@
     },
     {
       questionNumber: 6.21,
-      preamble: "If an average of 10,000 photons are detected per mm2, the chance (%) of detecting between 9,700 and 10,300 counts in any exposed mm2 is",
+      stem: "If an average of 10,000 photons are detected per mm2, the chance (%) of detecting between 9,700 and 10,300 counts in any exposed mm2 is",
       options: ["67", "90", "95", "99", "99.9"],
       answer: "99",
       explanation: "Ninety-nine percent, since the standard deviation is 100, and the limits correspond to three standard deviations",
@@ -238,7 +238,7 @@
     },
     {
       questionNumber: 6.22,
-      preamble: "X-ray quantum mottle is best characterized by quantifying",
+      stem: "X-ray quantum mottle is best characterized by quantifying",
       options: [
         "x-ray beam filtration",
         "detector air kerma",
@@ -252,7 +252,7 @@
     },
     {
       questionNumber: 6.23,
-      preamble: "For comparable image mottle in an abdominal radiograph, which image receptor would likely result in the highest patient dose",
+      stem: "For comparable image mottle in an abdominal radiograph, which image receptor would likely result in the highest patient dose",
       options: [
         "Screen-film",
         "Photostimulable phosphor",
@@ -266,7 +266,7 @@
     },
     {
       questionNumber: 6.24,
-      preamble: "The dominant source of image mottle in a radiographic flat panel detector is most likely",
+      stem: "The dominant source of image mottle in a radiographic flat panel detector is most likely",
       options: [
         "detector granularity",
         "electronic noise",
@@ -280,7 +280,7 @@
     },
     {
       questionNumber: 6.25,
-      preamble: "The detector air kerma (μGy) producing a digital photospot image in a Ba enema examination is most likely",
+      stem: "The detector air kerma (μGy) producing a digital photospot image in a Ba enema examination is most likely",
       options: ["1", "5", "25", "100", "500"],
       answer: "1",
       explanation: "The detector air kerma in digital photospot imaging is 1 μGy",
@@ -288,7 +288,7 @@
     },
     {
       questionNumber: 6.26,
-      preamble: "The II air kerma (μGy) needed to produce a single digital fluoroscopy image (frame) is most likely",
+      stem: "The II air kerma (μGy) needed to produce a single digital fluoroscopy image (frame) is most likely",
       options: ["0.01", "0.03", "0.1", "0.3", "1"],
       answer: "0.01",
       explanation: "The air kerma that produces a single digital fluoroscopy frame is 0.01 μGy",
@@ -296,7 +296,7 @@
     },
     {
       questionNumber: 6.27,
-      preamble: "CT image mottle is least likely to be affected by changing",
+      stem: "CT image mottle is least likely to be affected by changing",
       options: [
         "section thickness",
         "reconstruction algorithm",
@@ -310,7 +310,7 @@
     },
     {
       questionNumber: 6.28,
-      preamble: "Sensitivity is given by",
+      stem: "Sensitivity is given by",
       options: [
         "true-negative fraction",
         "true-positive fraction",
@@ -324,7 +324,7 @@
     },
     {
       "questionNumber": 6.29,
-      "preamble": "Specificity is given by the",
+      "stem": "Specificity is given by the",
       "options": [
         "true-negative fraction",
         "true-positive fraction",
@@ -338,7 +338,7 @@
     },
     {
       "questionNumber": 6.30,
-      "preamble": "Relaxing the threshold criterion in a ROC study increases false-positive fraction as well as the test",
+      "stem": "Relaxing the threshold criterion in a ROC study increases false-positive fraction as well as the test",
       "options": [
         "performance",
         "specificity",
