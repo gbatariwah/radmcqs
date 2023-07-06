@@ -16,7 +16,7 @@
           answer: "True",
           explanation: "and they may be physiological",
           response: "",
-          text: "Gastro-oesophageal and vesico-ureteric reﬂux are common in neonates",
+          text: "Gastro-oesophageal and vesico-ureteric reflux are common in neonates",
         },
         {
           answer: "True",
@@ -46,7 +46,7 @@
           answer: "True",
           explanation: "using a 5 MHz sector probe. Sometimes the posterior fontanelle and sutures may be used with a smaller 'foot print' probe",
           response: "",
-          text: "It is performed through the anterior fontanelle during the ﬁrst year of life",
+          text: "It is performed through the anterior fontanelle during the first year of life",
         },
         {
           answer: "True",
@@ -64,13 +64,13 @@
           answer: "True",
           explanation: "",
           response: "",
-          text: "Pulsating middle cerebral arteries are seen in the Sylvian ﬁssure",
+          text: "Pulsating middle cerebral arteries are seen in the Sylvian fissure",
         },
         {
           answer: "True",
           explanation: "very vascular tissue, in the caudothalamic notch, is a site of hemorrhage in the preterm infant. Further tissue may be present in the third and fourth ventricle",
           response: "",
-          text: "The germinal matrix lines the ﬂoor of the lateral ventricles above the heads and bodies of the caudate nuclei",
+          text: "The germinal matrix lines the floor of the lateral ventricles above the heads and bodies of the caudate nuclei",
         },
       ],
       stem: "Concerning cranial ultrasonography",
@@ -94,7 +94,7 @@
           answer: "True",
           explanation: "only for several months after birth, especially in the lumbar region",
           response: "",
-          text: "Incomplete ossiﬁcation of the posterior spinal arches allows an acoustic window for spinal sonography",
+          text: "Incomplete ossification of the posterior spinal arches allows an acoustic window for spinal sonography",
         },
         {
           answer: "True",
@@ -196,7 +196,7 @@
           answer: "False",
           explanation: "80% of the adrenal gland is fetal cortex and this undergoes hemorrhagic necrosis after birth causing loss of 30% of weight in the first few weeks",
           response: "",
-          text: "They lose 80% of their weight in the ﬁrst 2 to 3 weeks after birth",
+          text: "They lose 80% of their weight in the first 2 to 3 weeks after birth",
         },
         {
           answer: "True",
@@ -274,7 +274,7 @@
           answer: "False",
           explanation: "10 to 20% lie within the abdomen and 80 to 90% lie in the inguinal canal",
           response: "",
-          text: "In the ﬁrst year of life about 90% of undescended testes lie within the abdomen and the remainder lie in the inguinal canal",
+          text: "In the first year of life about 90% of undescended testes lie within the abdomen and the remainder lie in the inguinal canal",
         },
         {
           answer: "True",
@@ -304,7 +304,7 @@
           answer: "True",
           explanation: "the neonatal hip is largely a cartilaginous structure",
           response: "",
-          text: "The femoral head is a round structure with ﬁne stippled echoes",
+          text: "The femoral head is a round structure with fine stippled echoes",
         },
         {
           answer: "True",
@@ -322,7 +322,7 @@
           answer: "True",
           explanation: "",
           response: "",
-          text: "In the dynamic assessment, the hip is ﬂexed and backward pressure is applied and scanned for evidence of subluxation or dislocation",
+          text: "In the dynamic assessment, the hip is flexed and backward pressure is applied and scanned for evidence of subluxation or dislocation",
         },
       ],
       stem: "Concerning ultrasonography of the neonatal hip",
@@ -346,7 +346,7 @@
           answer: "True",
           explanation: "the physis or cartilaginous growth plate of long bones separates the metaphysis and epiphysis",
           response: "",
-          text: "The epiphysis is the ossiﬁed area distal to the physis in a long bone",
+          text: "The epiphysis is the ossified area distal to the physis in a long bone",
         },
         {
           answer: "True",

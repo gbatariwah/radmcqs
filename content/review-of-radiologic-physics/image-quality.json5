@@ -2,8 +2,6 @@
   "name": "Image Quality",
   "slug": "image-quality",
   questions: [
-    {
-      "questions": [
         {
           "questionNumber": 3.1,
           "stem": "Subject contrast is most likely dependent on x-ray",
@@ -165,6 +163,4 @@
           "response": ""
         }
       ]
-    }
-  ]
 }

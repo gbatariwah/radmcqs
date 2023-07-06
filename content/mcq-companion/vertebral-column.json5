@@ -354,7 +354,7 @@
           explanation: "the axis (second cervical vertebrae) is the strongest of the cervical vertebrae",
         },
         {
-          text: "The dens of the axis develops entirely from two primary ossiﬁcation centres",
+          text: "The dens of the axis develops entirely from two primary ossification centres",
           answer: "False",
           response: "",
           explanation: "the tip of the dens develops from secondary centres at 3 years and fuses at 12 years. The dens unites with the rest of the body of the axis at 3 years",
@@ -414,7 +414,7 @@
           explanation: "no more than a third of the dens or 5 mm of the dens should be above the Chamberlain's line. This line extends from the hard palate to the posterior lip of the foramen magnum. The McGregor line uses the inferior surface of the occiput rather than the foramen magnum",
         },
         {
-          text: "The anterior atlanto-axial distance should be less than 3 mm in adults in ﬂexion-extension or in a neutral position",
+          text: "The anterior atlanto-axial distance should be less than 3 mm in adults in flexion-extension or in a neutral position",
           answer: "True",
           response: "",
           explanation: "less than 5 mm in children, with a target to film distance of 180 cm",
@@ -426,13 +426,13 @@
           explanation: "not in a lateral cervical radiograph, but in a midline sagittal MRI of the craniovertebral junction, tonsillar descent of 3-5 mm into the spinal canal is a normal feature",
         },
         {
-          text: "In adults from the atlas to the C4/5 disc the maximum dimension of the prevertebral soft tissue is 3 mm (with a ﬁlm-target distance of 180 cm)",
+          text: "In adults from the atlas to the C4/5 disc the maximum dimension of the prevertebral soft tissue is 3 mm (with a film-target distance of 180 cm)",
           answer: "True",
           response: "",
           explanation: "in children, this may be up to 7 mm. Below this level, the oesophagus increases the dimensions to up to 22 mm in adults, and in the lower cervical spine this dimension should not exceed that of the adjacent vertebral body",
         },
         {
-          text: "On ﬂexion and extension views, the oﬀset from adjacent vertebrae seen in the posterior and anterior cortical margins, respectively, should not exceed 3 mm",
+          text: "On flexion and extension views, the offset from adjacent vertebrae seen in the posterior and anterior cortical margins, respectively, should not exceed 3 mm",
           answer: "True",
           response: "",
           explanation: "",
@@ -468,7 +468,7 @@
           explanation: "this prevents forward translation on the sloping surface of the sacrum - L5 is an atypical vertebra",
         },
         {
-          text: "Lumbarization of the ﬁrst sacral segment is less common than sacralization of ﬁfth lumbar vertebra",
+          text: "Lumbarization of the first sacral segment is less common than sacralization of fifth lumbar vertebra",
           answer: "True",
           response: "",
           explanation: "failure of segmentation at the lumbosacral level is seen in up to 6% of normal individuals",
@@ -480,13 +480,13 @@
       stem: "The spinal cord",
       options: [
         {
-          text: "extends in the adult from foramen magnum to the ﬁrst or second lumbar vertebra",
+          text: "extends in the adult from foramen magnum to the first or second lumbar vertebra",
           answer: "True",
           response: "",
           explanation: "",
         },
         {
-          text: "segments diﬀer by up to ﬁve in the lower thoracic region",
+          text: "segments differ by up to five in the lower thoracic region",
           answer: "False",
           response: "",
           explanation: "difference of one segment in the lower cervical spine; two segments in the upper thoracic and three in the lower thoracic",
@@ -516,13 +516,13 @@
       stem: "In the spine",
       options: [
         {
-          text: "The ﬁrst to the seventh cervical spinal nerves exit below the pedicle of the corresponding vertebrae",
+          text: "The first to the seventh cervical spinal nerves exit below the pedicle of the corresponding vertebrae",
           answer: "False",
           response: "",
           explanation: "there are eight cervical, twelve thoracic, five lumbar, five sacral and one coccygeal segmental nerves. The first to the seventh cervical spinal nerves exit above the pedicle of the corresponding vertebrae, whereas all the other roots exit below the pedicles",
         },
         {
-          text: "A postero-lateral prolapse of the L4/5 disc usually compresses the ﬁfth lumbar root",
+          text: "A postero-lateral prolapse of the L4/5 disc usually compresses the fifth lumbar root",
           answer: "False",
           response: "",
           explanation: "fourth lumbar root. However, a similar situation in the cervical vertebra would compress the fifth cervical root",
@@ -540,7 +540,7 @@
           explanation: "the epidural (extradural) space is between the periosteum of the vertebrae (which represents the outer periosteal layer of the dura) and the spinal dura mater",
         },
         {
-          text: "The spinal dural sac is ﬁrmly attached to the anterior longitudinal ligament",
+          text: "The spinal dural sac is firmly attached to the anterior longitudinal ligament",
           answer: "False",
           response: "",
           explanation: "it is attached to the tectorial membrane and posterior longitudinal ligament",
@@ -564,13 +564,13 @@
           explanation: "the pia mater is applied to the surface of the spinal cord and is vascular",
         },
         {
-          text: "The three meningeal layers fuse with the periosteum of the ﬁrst coccygeal segment",
+          text: "The three meningeal layers fuse with the periosteum of the first coccygeal segment",
           answer: "True",
           response: "",
           explanation: "",
         },
         {
-          text: "The ﬁlum terminale fuses with the periosteum of the ﬁrst coccygeal segment",
+          text: "The filum terminale fuses with the periosteum of the first coccygeal segment",
           answer: "True",
           response: "",
           explanation: "",

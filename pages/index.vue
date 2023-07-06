@@ -11,14 +11,14 @@ const books = [
     title: "800 MCQ For Medical Radiographers",
     slug: "mcqs-for-medical-radiographers",
     edition: 1,
-    color: "rose",
+    color: "red",
     type: "sbas",
   },
   {
     title: "Review of Radiologic Physics",
     slug: "review-of-radiologic-physics",
     edition: 4,
-    color: "lime",
+    color: "green",
     type: "sbas",
   },
   {

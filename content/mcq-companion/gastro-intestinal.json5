@@ -20,7 +20,7 @@
           response: "",
         },
         {
-          text: "The superior mesenteric artery supplies the gut from the inferior half of the duodenum to the splenic ﬂexure",
+          text: "The superior mesenteric artery supplies the gut from the inferior half of the duodenum to the splenic flexure",
           answer: "True",
           explanation: "",
           response: "",
@@ -32,9 +32,9 @@
           response: "",
         },
         {
-          text: "The inferior mesenteric artery supplies the hind gut distal to the hepatic ﬂexure up to the anal canal",
+          text: "The inferior mesenteric artery supplies the hind gut distal to the hepatic flexure up to the anal canal",
           answer: "False",
-          explanation: "distal to the splenic ﬂexure up to the upper half of the anal canal",
+          explanation: "distal to the splenic flexure up to the upper half of the anal canal",
           response: "",
         },
       ],
@@ -164,7 +164,7 @@
           response: "",
         },
         {
-          text: "The ﬂow of peritoneal ﬂuid is directed in a cephalad direction by the negative intra-abdominal pressure generated in the upper abdomen by respiration",
+          text: "The flow of peritoneal fluid is directed in a cephalad direction by the negative intra-abdominal pressure generated in the upper abdomen by respiration",
           answer: "True",
           explanation: "and is directed by gravity",
           response: "",
@@ -208,13 +208,13 @@
         {
           text: "Fluid collections in the pelvis that spread to the left subphrenic space generally involve the lesser sac",
           answer: "False",
-          explanation: "the splenorenal and gastrosplenic ligaments limit the lesser sac on the left. Therefore ﬂuid collection spreading into the left subphrenic space does not involve the lesser sac",
+          explanation: "the splenorenal and gastrosplenic ligaments limit the lesser sac on the left. Therefore fluid collection spreading into the left subphrenic space does not involve the lesser sac",
           response: "",
         },
         {
           text: "Subphrenic collections are more common on the left than the right",
           answer: "False",
-          explanation: "the phrenicocolic ligament extends from the splenic ﬂexure of the colon to the diaphragm, partially separates the left posterior subphrenic space from the rest of the peritoneal cavity. It forms a partial barrier to the spread of ﬂuid from the left paracolic gutter into the left subphrenic space which is why right- sided collections are more common than left-sided collections",
+          explanation: "the phrenicocolic ligament extends from the splenic flexure of the colon to the diaphragm, partially separates the left posterior subphrenic space from the rest of the peritoneal cavity. It forms a partial barrier to the spread of fluid from the left paracolic gutter into the left subphrenic space which is why right- sided collections are more common than left-sided collections",
           response: "",
         },
       ],
@@ -226,7 +226,7 @@
         {
           text: "The right inframesocolic space is in direct communication with the pelvis",
           answer: "False",
-          explanation: "the inframesocolic compartment is divided into the smaller right and larger left spaces by the root of the small bowel mesentery which runs from the duodenojejunal ﬂexure to the ileocaecal valve. The right inframesocolic compartment is bounded by the transverse colon and the root of the small bowel mesentery. The left inframesocolic space is in free communication with the pelvis on the right of the midline and the mesentery of the sigmoid colon forms a partial barrier on the left of the midline",
+          explanation: "the inframesocolic compartment is divided into the smaller right and larger left spaces by the root of the small bowel mesentery which runs from the duodenojejunal flexure to the ileocaecal valve. The right inframesocolic compartment is bounded by the transverse colon and the root of the small bowel mesentery. The left inframesocolic space is in free communication with the pelvis on the right of the midline and the mesentery of the sigmoid colon forms a partial barrier on the left of the midline",
           response: "",
         },
         {
@@ -248,7 +248,7 @@
           response: "",
         },
         {
-          text: "The peritoneum is reﬂected on the prostate",
+          text: "The peritoneum is reflected on the prostate",
           answer: "False",
           explanation: "",
           response: "",
@@ -266,15 +266,15 @@
           response: "",
         },
         {
-          text: "The peritoneum is reﬂected on the infero-lateral aspect of the bladder bilaterally",
+          text: "The peritoneum is reflected on the infero-lateral aspect of the bladder bilaterally",
           answer: "False",
-          explanation: "it is reﬂected over the fundus of the bladder",
+          explanation: "it is reflected over the fundus of the bladder",
           response: "",
         },
         {
           text: "The broad ligaments contain the fallopian tubes",
           answer: "True",
-          explanation: "the layers of peritoneum on the anterior and posterior surfaces of the uterus are reﬂected laterally as the broad ligaments",
+          explanation: "the layers of peritoneum on the anterior and posterior surfaces of the uterus are reflected laterally as the broad ligaments",
           response: "",
         },
         {
@@ -302,7 +302,7 @@
           response: "",
         },
         {
-          text: "The root of the transverse mesocolon is conﬂuent with the root of the small bowel mesentery",
+          text: "The root of the transverse mesocolon is confluent with the root of the small bowel mesentery",
           answer: "True",
           explanation: "near the uncinate process of the pancreas. The middle colic vessels course through the transverse mesocolon",
           response: "",
@@ -416,7 +416,7 @@
           response: "",
         },
         {
-          text: "In a plain radiograph the properitoneal fat lines seen in each ﬂank represent the borders of the peritoneum",
+          text: "In a plain radiograph the properitoneal fat lines seen in each flank represent the borders of the peritoneum",
           answer: "True",
           explanation: "",
           response: "",
@@ -514,7 +514,7 @@
         {
           text: "Deglutition is best assessed by barium swallow examination using spot ﬁlms",
           answer: "False",
-          explanation: "videoﬂuoroscopy is used to assess the act of deglutition and provides anatomical information",
+          explanation: "video fluoroscopy is used to assess the act of deglutition and provides anatomical information",
           response: "",
         },
         {
@@ -916,7 +916,7 @@
         {
           text: "During defaecating proctography the dynamics of rectal evacuation and position of the anorectal junction is evaluated",
           answer: "True",
-          explanation: "the anorectal junction at rest is just above the level of the ischial tuberosities. During evacuation the pelvic ﬂoor descends and the anorectal angle widens from 90° to 115°",
+          explanation: "the anorectal junction at rest is just above the level of the ischial tuberosities. During evacuation the pelvic floor descends and the anorectal angle widens from 90° to 115°",
           response: "",
         },
         {
@@ -956,7 +956,7 @@
           response: "",
         },
         {
-          text: "The coeliac axis may be compressed by the median arcuate ligament preventing antegrade ﬂow of blood",
+          text: "The coeliac axis may be compressed by the median arcuate ligament preventing antegrade flow of blood",
           answer: "True",
           explanation: "resulting in enlargement of collateral vessels arising from the superior or inferior mesenteric arteries",
           response: "",
@@ -1106,7 +1106,7 @@
           response: "",
         },
         {
-          text: "The blood ﬂow in the arterial tree is usually unidirectional",
+          text: "The blood flow in the arterial tree is usually unidirectional",
           answer: "False",
           explanation: "numerous anastomoses allow multi-directional flow",
           response: "",
@@ -1250,7 +1250,7 @@
           response: "",
         },
         {
-          text: "The left gastric vein drains into the conﬂuence of the splenic and superior mesenteric vein",
+          text: "The left gastric vein drains into the confluence of the splenic and superior mesenteric vein",
           answer: "True",
           explanation: "into the splenic vein in 15%, into the main portal vein in 25%",
           response: "",
@@ -1306,7 +1306,7 @@
         {
           text: "It is anterior to the upper pole of the right kidney and suprarenal gland",
           answer: "True",
-          explanation: "the upper pole of right kidney, suprarenal gland and distal IVC are related directly to the liver and have no peritoneal coverings. Therefore free ﬂuid cannot be seen anterior to the upper pole of the right kidney except in patients who have undergone liver transplantation",
+          explanation: "the upper pole of right kidney, suprarenal gland and distal IVC are related directly to the liver and have no peritoneal coverings. Therefore free fluid cannot be seen anterior to the upper pole of the right kidney except in patients who have undergone liver transplantation",
           response: "",
         },
         {
@@ -1378,7 +1378,7 @@
         {
           text: "The caudate lobe of the liver lies in the greater sac",
           answer: "False",
-          explanation: "the omental reﬂections divide the caudate from the quadrate lobe. The caudate lobe lies in the lesser sac and the quadrate lobe lies within the greater sac",
+          explanation: "the omental reflections divide the caudate from the quadrate lobe. The caudate lobe lies in the lesser sac and the quadrate lobe lies within the greater sac",
           response: "",
         },
         {
@@ -1438,7 +1438,7 @@
         {
           text: "Lymph drainage mainly follows the common bile duct to the liver",
           answer: "True",
-          explanation: "some lymph from the gall bladder ﬂows directly into the liver. This is important in malignancy of the gall bladder as it may be necessary to resect local segments of the liver with the gall bladder tumour",
+          explanation: "some lymph from the gall bladder flows directly into the liver. This is important in malignancy of the gall bladder as it may be necessary to resect local segments of the liver with the gall bladder tumour",
           response: "",
         },
       ],

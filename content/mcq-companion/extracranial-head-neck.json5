@@ -8,7 +8,7 @@
       stem: "Regarding the head and neck",
       options: [
         {
-          text: "The tongue receives innervation from nerves of the ﬁrst, second, third and fourth pharyngeal arches",
+          text: "The tongue receives innervation from nerves of the first, second, third and fourth pharyngeal arches",
           answer: "True",
           response: "",
           explanation: "",
@@ -44,10 +44,10 @@
       stem: "Regarding the head and neck",
       options: [
         {
-          text: "The pterygomaxillary ﬁssure opens into the infratemporal fossa through the pterygopalatine fossa",
+          text: "The pterygomaxillary fissure opens into the infratemporal fossa through the pterygopalatine fossa",
           answer: "False",
           response: "",
-          explanation: "the lateral opening of the pterygopalatine fossa into the infratemporal fossa is the pterygomaxillary ﬁssure",
+          explanation: "the lateral opening of the pterygopalatine fossa into the infratemporal fossa is the pterygomaxillary fissure",
         },
         {
           text: "The infratemporal fossa communicates with the nasal cavity through the sphenopalatine foramen",
@@ -80,7 +80,7 @@
       stem: "Regarding the mandible and the temporomandibular joint",
       options: [
         {
-          text: "Each half of the body of the mandible is ﬁxed anteriorly in the midline at the mental symphysis",
+          text: "Each half of the body of the mandible is fixed anteriorly in the midline at the mental symphysis",
           answer: "True",
           response: "",
           explanation: "",
@@ -92,7 +92,7 @@
           explanation: "enters on the inner surface of the ramus and emerges on the outer surface through the mental foramen",
         },
         {
-          text: "The TMJ has a ﬁbrous articular disc, which separates the mandibular fossa of the temporal bone into lateral and medial compartments",
+          text: "The TMJ has a fibrous articular disc, which separates the mandibular fossa of the temporal bone into lateral and medial compartments",
           answer: "False",
           response: "",
           explanation: "divides into larger inferior and smaller superior compartments, which do not communicate and function as separate joints",
@@ -164,7 +164,7 @@
           explanation: "not to be confused with inflammation when seen on a plain radiograph",
         },
         {
-          text: "The ostiomeatal complex is the ﬁnal common pathway for drainage of secretions from the maxillary, frontal and anterior and middle ethmoid sinuses into the middle meatus",
+          text: "The ostiomeatal complex is the final common pathway for drainage of secretions from the maxillary, frontal and anterior and middle ethmoid sinuses into the middle meatus",
           answer: "True",
           response: "",
           explanation: "",
@@ -212,7 +212,7 @@
           explanation: "higher than that of the parotid gland",
         },
         {
-          text: "The digastric muscle divides the submandibular gland into superﬁcial and deep portions",
+          text: "The digastric muscle divides the submandibular gland into superficial and deep portions",
           answer: "False",
           response: "",
           explanation: "mylohyoid divides the gland into superficial and deep portions. The digastric muscle divides the gland into its anterior and posterior portions",
@@ -230,7 +230,7 @@
           explanation: "from the base of the skull to the lower border of the cricoid cartilage at the level of C6, where it becomes continuous with the esophagus",
         },
         {
-          text: "The pharyngobasilar fascia at the level of the nasopharynx is deﬁcient as the sinus of Morgagni",
+          text: "The pharyngobasilar fascia at the level of the nasopharynx is deficient as the sinus of Morgagni",
           answer: "True",
           response: "",
           explanation: "this serves as a potential conduit for neoplastic or inflammatory process to reach the skull base",
@@ -296,13 +296,13 @@
       stem: "Regarding the fascial layers of the neck",
       options: [
         {
-          text: "The superﬁcial cervical fascia is subcutaneous and extends into the thorax inferiorly",
+          text: "The superficial cervical fascia is subcutaneous and extends into the thorax inferiorly",
           answer: "True",
           response: "",
           explanation: "and completely encircles the head and neck",
         },
         {
-          text: "The superﬁcial or investing layer of the deep cervical fascia envelopes the parotid and submandibular gland",
+          text: "The superficial or investing layer of the deep cervical fascia envelopes the parotid and submandibular gland",
           answer: "True",
           response: "",
           explanation: "and extends to clavicles, sternum and scapulae",
@@ -341,7 +341,7 @@
           text: "is one of the commonest sites for primary pharyngeal tumours",
           answer: "False",
           response: "",
-          explanation: "it is characteristically inﬁltrated, displaced by surrounding masses",
+          explanation: "it is characteristically infiltrated, displaced by surrounding masses",
         },
         {
           text: "contains the maxillary artery",
@@ -383,13 +383,13 @@
           text: "The follicular nature of the thyroid is resolved by high frequency ultrasonographic examination",
           answer: "False",
           response: "",
-          explanation: "the thyroid appears relatively homogeneous in texture and relatively hyperechoic to the superﬁcial sternocleidomastoid muscles",
+          explanation: "the thyroid appears relatively homogeneous in texture and relatively hyperechoic to the superficial sternocleidomastoid muscles",
         },
         {
           text: "99mTc pertechnetate imaging provides functional data on the thyroid gland",
           answer: "False",
           response: "",
-          explanation: "99mTc is not metabolized in the thyroid. However, 123I is both trapped and organiﬁed, and functional data can be obtained. 99mTc provides morphological information and will reveal the presence of ectopic thyroid tissue",
+          explanation: "99mTc is not metabolized in the thyroid. However, 123I is both trapped and organified, and functional data can be obtained. 99mTc provides morphological information and will reveal the presence of ectopic thyroid tissue",
         },
         {
           text: "The thyroid derives its blood supply from the external and internal carotid systems",
@@ -410,10 +410,10 @@
           explanation: "an important artery in interventional radiology, it participates in extensive anastomoses with other branches of the external carotid artery, cavernous branches of the internal carotid artery and meningeal branches of the vertebral artery",
         },
         {
-          text: "The ﬁrst branch is the lingual artery",
+          text: "The first branch is the lingual artery",
           answer: "False",
           response: "",
-          explanation: "superior thyroid artery is the ﬁrst branch",
+          explanation: "superior thyroid artery is the first branch",
         },
         {
           text: "The facial artery contributes to connections between the external carotid and internal carotid arteries",
@@ -428,10 +428,10 @@
           explanation: "also sends meningeal branches to the dura of the posterior fossa",
         },
         {
-          text: "The superﬁcial temporal and posterior auricular arteries are the two terminal branches of the external carotid artery",
+          text: "The superficial temporal and posterior auricular arteries are the two terminal branches of the external carotid artery",
           answer: "False",
           response: "",
-          explanation: "superﬁcial temporal and maxillary arteries",
+          explanation: "superficial temporal and maxillary arteries",
         },
       ],
     },
@@ -458,10 +458,10 @@
           explanation: "enters the middle cranial fossa through the foramen spinosum. The anterior division is prone to damage in fractures of the skull, giving rise to an extradural haematoma",
         },
         {
-          text: "The superﬁcial temporal artery is usually a straight structure",
+          text: "The superficial temporal artery is usually a straight structure",
           answer: "False",
           response: "",
-          explanation: "this artery has a ‘corkscrew’ appearance compared with the relatively straight branches of the maxillary artery, which enables its easy identiﬁcation on a lateral angiogram",
+          explanation: "this artery has a ‘corkscrew’ appearance compared with the relatively straight branches of the maxillary artery, which enables its easy identification on a lateral angiogram",
         },
         {
           text: "The anterior deep temporal artery is a branch of the second part of the maxillary artery",
@@ -482,16 +482,16 @@
           explanation: "it produces two parallel echoes, which represent the intima and adventitia with the intervening echopoor layer of the media",
         },
         {
-          text: "The Doppler ﬂow study measures the velocity of blood ﬂowing through the arteries",
+          text: "The Doppler flow study measures the velocity of blood flowing through the arteries",
           answer: "True",
           response: "",
-          explanation: "and also provides information on direction and ﬂow characteristics",
+          explanation: "and also provides information on direction and flow characteristics",
         },
         {
           text: "The common carotid arterial Doppler trace resembles that of the external carotid artery",
           answer: "False",
           response: "",
-          explanation: "70% of common carotid arterial blood ﬂow is directed towards the brain. Therefore the common carotid arterial Doppler resembles that of the internal carotid artery",
+          explanation: "70% of common carotid arterial blood flow is directed towards the brain. Therefore the common carotid arterial Doppler resembles that of the internal carotid artery",
         },
         {
           text: "The internal carotid artery supplies a high resistance circulation",
@@ -548,7 +548,7 @@
       stem: "Regarding the brachial plexus",
       options: [
         {
-          text: "It is formed from the anterior rami of the ﬁfth cervical to the ﬁrst thoracic nerve roots",
+          text: "It is formed from the anterior rami of the fifth cervical to the first thoracic nerve roots",
           answer: "True",
           response: "",
           explanation: "the fourth cervical and second thoracic roots may also contribute",
@@ -557,16 +557,16 @@
           text: "The upper trunk lies between the scalenus anterior and medius muscles",
           answer: "True",
           response: "",
-          explanation: "it is formed by the ﬁfth and sixth cervical roots",
+          explanation: "it is formed by the fifth and sixth cervical roots",
         },
         {
           text: "The middle trunk lies beneath the scalenus anterior muscle",
           answer: "False",
           response: "",
-          explanation: "the middle trunk is formed by the seventh cervical root. The eighth cervical and ﬁrst thoracic roots unite behind scalenus anterior to form the lower trunk",
+          explanation: "the middle trunk is formed by the seventh cervical root. The eighth cervical and first thoracic roots unite behind scalenus anterior to form the lower trunk",
         },
         {
-          text: "The ﬁve nerve roots eventually give rise to ﬁve nerves",
+          text: "The five nerve roots eventually give rise to five nerves",
           answer: "True",
           response: "",
           explanation: "",
@@ -575,7 +575,7 @@
           text: "The cords of the brachial plexus form above and behind the pectoralis minor muscle",
           answer: "True",
           response: "",
-          explanation: "and surround the axillary artery, run between the clavicle and ﬁrst rib to enter the axilla, where they divide into their terminal branches",
+          explanation: "and surround the axillary artery, run between the clavicle and first rib to enter the axilla, where they divide into their terminal branches",
         },
       ],
     },

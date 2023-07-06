@@ -62,7 +62,7 @@
           explanation: "During embryonic life the alveoli is lined by cuboidal epithelium that lines the rest of the respiratory tract. When respiration commences at birth the transfer to the flattened pavement epithelium of the alveoli is accomplished",
         },
         {
-          text: "A persistent tracheo-oesophageal ﬁstula (TOF) is commonly associated with an atresia of the duodenum",
+          text: "A persistent tracheo-oesophageal fistula (TOF) is commonly associated with an atresia of the duodenum",
           response: "",
           answer: "False",
           explanation: "TOF indicates the close developmental relationship between the foregut and the respiratory passages. It is usually associated with an atresia of the oesophagus and the fistula is situated below the atretic segment",
@@ -371,7 +371,7 @@
           text: "The azygos fissure results from failure of normal migration of the azygos vein from the chest wall through the lung",
           response: "",
           answer: "True",
-          explanation: "almost always on the right, rarely an analogous ﬁssure may be seen on the left with the accessory hemiazygos or left superior intercostal vein",
+          explanation: "almost always on the right, rarely an analogous fissure may be seen on the left with the accessory hemiazygos or left superior intercostal vein",
         },
         {
           text: "The inferior accessory fissure separates the medial basal segment from the rest of the right lower lobe",
@@ -383,13 +383,13 @@
           text: "The superior accessory fissure lies above the minor fissure",
           response: "",
           answer: "False",
-          explanation: "Superior accessory ﬁssure separates the superior segment of the lower lobe from the basal segments and is inferior to the minor ﬁssure on the frontal radiograph",
+          explanation: "Superior accessory fissure separates the superior segment of the lower lobe from the basal segments and is inferior to the minor fissure on the frontal radiograph",
         },
         {
           text: "A left minor fissure is seen in 10% of frontal radiographs",
           response: "",
           answer: "False",
-          explanation: "Left minor ﬁssure seen in 10% of individuals is hardly seen on frontal or lateral radiographs. It separates the lingular segments from the rest of the upper lobe",
+          explanation: "Left minor fissure seen in 10% of individuals is hardly seen on frontal or lateral radiographs. It separates the lingular segments from the rest of the upper lobe",
         },
         {
           text: "The inferior pulmonary ligaments are pleural reflections from the pericardium",
@@ -413,7 +413,7 @@
           text: "The deep bronchial veins may end in the left atrium",
           response: "",
           answer: "True",
-          explanation: "The deep bronchial veins communicate freely with the pulmonary veins, end in a pulmonary vein or left atrium. The superﬁcial bronchial veins drain extrapulmonary bronchi, visceral pleura and hilar lymph nodes, end on the right side into the azygos vein and on the left into the left superior intercostal vein or the accessory hemiazygos vein",
+          explanation: "The deep bronchial veins communicate freely with the pulmonary veins, end in a pulmonary vein or left atrium. The superficial bronchial veins drain extrapulmonary bronchi, visceral pleura and hilar lymph nodes, end on the right side into the azygos vein and on the left into the left superior intercostal vein or the accessory hemiazygos vein",
         },
         {
           text: "The right and left pulmonary arteries are at the same height in the chest",
@@ -635,7 +635,7 @@
           text: "The single atrium and ventricle are separated by the dorsal and ventral endocardial cushions",
           response: "",
           answer: "True",
-          explanation: "These divide the common atrio-ventricular opening into a right (tricuspid) and left (mitral) oriﬁce",
+          explanation: "These divide the common atrio-ventricular opening into a right (tricuspid) and left (mitral) orifice",
         },
         {
           text: "The foramen secundum is a defect in the septum secundum",

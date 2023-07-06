@@ -209,7 +209,7 @@
           text: 'The flexor retinaculum is attached to the pisiform, hook of hamate, scaphoid tubercle, and ridge of the trapezium',
           response: '',
           answer: 'True',
-          explanation: 'This forms the carpal tunnel which contains tendons of ﬂexor pollicis longus, ﬂexor digitorum profundus and superﬁcialis and the median nerve. The tendon of ﬂexor carpiradialis lies in a separate compartment of the carpal tunnel',
+          explanation: 'This forms the carpal tunnel which contains tendons of flexor pollicis longus, flexor digitorum profundus and superficialis and the median nerve. The tendon of flexor carpiradialis lies in a separate compartment of the carpal tunnel',
         },
         {
           text: 'Flexor carpi radialis attaches to the pisiform',
@@ -239,13 +239,13 @@
           text: 'The scaphoid ossifies in the sixth year',
           response: '',
           answer: 'True',
-          explanation: 'So do trapezium and trapezoid. Capitate and hamate ossify in the ﬁrst year, triquetral in the second, lunate in the third, pisiform in the twelfth year',
+          explanation: 'So do trapezium and trapezoid. Capitate and hamate ossify in the first year, triquetral in the second, lunate in the third, pisiform in the twelfth year',
         },
         {
           text: 'All the metacarpals articulate with each other and with the corresponding carpal bones',
           response: '',
           answer: 'False',
-          explanation: 'All but the ﬁrst metacarpals which articulate only with the trapezium',
+          explanation: 'All but the first metacarpals which articulate only with the trapezium',
         },
         {
           text: 'The commonest supernumerary bone of the wrist joint is the os radiale',
@@ -287,7 +287,7 @@
           text: 'Bone scans using 99mTc MDP are very specific for pathology',
           response: '',
           answer: 'False',
-          explanation: 'A three-phase study is used – immediate vascular images (0.3 minutes), a blood-pool phase (3–5 minutes), and delayed static images (4–6 hours). Bone scan is very sensitive to the presence of any pathology, but is relatively non- speciﬁc. Hot spots are due to increased blood supply or osteoblast activity and may be seen in infection, fracture or malignancy',
+          explanation: 'A three-phase study is used – immediate vascular images (0.3 minutes), a blood-pool phase (3–5 minutes), and delayed static images (4–6 hours). Bone scan is very sensitive to the presence of any pathology, but is relatively non- specific. Hot spots are due to increased blood supply or osteoblast activity and may be seen in infection, fracture or malignancy',
         },
       ],
     },
@@ -317,7 +317,7 @@
           text: 'The obturator foramen is bounded inferiorly by the sacrospinous ligaments',
           response: '',
           answer: 'False',
-          explanation: 'The obturator foramen is bounded by the bodies and rami of the pubis and ischium. The sacrospinous ligament deﬁnes the inferior limit of the greater sciatic foramen',
+          explanation: 'The obturator foramen is bounded by the bodies and rami of the pubis and ischium. The sacrospinous ligament defines the inferior limit of the greater sciatic foramen',
         },
         {
           text: 'The sacrotuberous ligament defines the posterior limit of the lesser sciatic foramen',
@@ -347,7 +347,7 @@
           text: 'The sacroiliac joint does not have a synovial component',
           response: '',
           answer: 'False',
-          explanation: 'Has a synovial component. The sacral surface is lined by ﬁbrocartilage and the iliac surface by hyaline cartilage',
+          explanation: 'Has a synovial component. The sacral surface is lined by fibrocartilage and the iliac surface by hyaline cartilage',
         },
         {
           text: 'The intersosseous sacroiliac ligament is a strong ligament',
@@ -524,9 +524,9 @@
           response: '',
         },
         {
-          text: 'The principal blood supply to the head of the adult femur is from the medial and lateral circumﬂex femoral arteries',
+          text: 'The principal blood supply to the head of the adult femur is from the medial and lateral circumflex femoral arteries',
           answer: 'True',
-          explanation: 'The central part of the head may be supplied by the artery of ligamentum teres, a branch of the obturator artery. This may be absent in about 20% of individuals. Intracapsular fractures of the femoral neck can compromise the blood supply to the head of the femur as the circumﬂex arteries may be torn. This gives rise to a high incidence of avascular necrosis of the femoral head or non-union',
+          explanation: 'The central part of the head may be supplied by the artery of ligamentum teres, a branch of the obturator artery. This may be absent in about 20% of individuals. Intracapsular fractures of the femoral neck can compromise the blood supply to the head of the femur as the circumflex arteries may be torn. This gives rise to a high incidence of avascular necrosis of the femoral head or non-union',
           response: '',
         },
         {
@@ -560,7 +560,7 @@
           explanation: 'A fabeLLa –‘L’ for lateral',
         },
         {
-          text: 'The shaft of the femur ossiﬁes at the 35th week of fetal life',
+          text: 'The shaft of the femur ossifies at the 35th week of fetal life',
           response: '',
           answer: 'False',
           explanation: 'Starts to ossify at the seventh week of fetal life',
@@ -611,7 +611,7 @@
           text: 'The biceps femoris attaches to the lateral condyle of the femur',
           response: '',
           answer: 'False',
-          explanation: 'Originates from the ischial tuberosity (long head) and the linea aspera (short head) and inserts into the head of the ﬁbula',
+          explanation: 'Originates from the ischial tuberosity (long head) and the linea aspera (short head) and inserts into the head of the fibula',
         },
       ],
     },
@@ -626,7 +626,7 @@
           explanation: 'Intracapsular',
         },
         {
-          text: 'A Baker’s cyst is an inﬂamed or swollen medial gastrocnemius – semimembranosus bursa',
+          text: 'A Baker’s cyst is an inflamed or swollen medial gastrocnemius – semimembranosus bursa',
           response: '',
           answer: 'True',
           explanation: 'Best seen on ultrasound as an anechoic area that may connect to the knee joint',
@@ -635,7 +635,7 @@
           text: 'The lateral collateral ligament is separated from the capsule by the popliteus tendon',
           response: '',
           answer: 'True',
-          explanation: 'It is a cord-like structure between the lateral epicondyle of the femur and head of the ﬁbula',
+          explanation: 'It is a cord-like structure between the lateral epicondyle of the femur and head of the fibula',
         },
         {
           text: 'The anterior cruciate ligament passes from the anterior intercondylar area of the tibia to the medial femoral condyle.',
@@ -644,7 +644,7 @@
           explanation: 'To the medial surface of lateral femoral condyle. It prevents femur moving backwards on tibia',
         },
         {
-          text: 'The medial collateral ligament is a ﬂattened band that blends posteriorly with the ﬁbrous capsule.',
+          text: 'The medial collateral ligament is a flattened band that blends posteriorly with the fibrous capsule.',
           response: '',
           answer: 'True',
           explanation: '',
@@ -779,7 +779,7 @@
           "text": "The tibiofibular and calcaneofibular ligaments form the superior group of the lateral collateral ligament complex in the ankle",
           "response": "",
           "answer": "False",
-          "explanation": "These form the inferior group. The superior group is formed by the anterior and posterior tibial and ﬁbular ligaments. The anterior taloﬁbular ligament is the most commonly torn ligament in the ankle"
+          "explanation": "These form the inferior group. The superior group is formed by the anterior and posterior tibial and fibular ligaments. The anterior talofibular ligament is the most commonly torn ligament in the ankle"
         },
         {
           "text": "The sinus tarsus is a space between the talus and calcaneus and is filled with fat and hindfoot ligaments",
@@ -791,7 +791,7 @@
           "text": "Tarsal coalition is usually of no consequence",
           "response": "",
           "answer": "False",
-          "explanation": "This is a common cause of a painful ﬂat foot. The coalition which may be bony, cartilagenous or ﬁbrous, most commonly occurs at the calcaneo- navicular joint and is usually bilateral"
+          "explanation": "This is a common cause of a painful flat foot. The coalition which may be bony, cartilagenous or fibrous, most commonly occurs at the calcaneo- navicular joint and is usually bilateral"
         }
       ]
     },
@@ -827,7 +827,7 @@
           "text": "(e) Lateral ligamentous stability of the ankle is best demonstrated on a dorsiflexion view",
           "response": "",
           "answer": "False",
-          "explanation": "Avulsion fracture of the base of the ﬁfth metatarsal is transverse to the long axis of the metatarsal. An apophysis which mimics a fracture is longitudinal to the long axis of the metatarsal"
+          "explanation": "Avulsion fracture of the base of the fifth metatarsal is transverse to the long axis of the metatarsal. An apophysis which mimics a fracture is longitudinal to the long axis of the metatarsal"
         }
       ]
     }

@@ -50,7 +50,7 @@
             explanation: 'A guide wire is passed through the needle into the artery. The needle is removed and a catheter is passed over the guide wire into the artery',
           },
           {
-            text: 'Retrograde popliteal artery puncture is useful for angioplasty of the superﬁcial femoral artery',
+            text: 'Retrograde popliteal artery puncture is useful for angioplasty of the superficial femoral artery',
             response: '',
             answer: 'True',
             explanation: '',
@@ -89,7 +89,7 @@
             text: 'The subclavian artery lies posterior to the subclavian vein',
             response: '',
             answer: 'True',
-            explanation: 'And scalenus anterior muscle and ends at the lateral border of the ﬁrst rib, where it continues as the axillary artery',
+            explanation: 'And scalenus anterior muscle and ends at the lateral border of the first rib, where it continues as the axillary artery',
           },
           {
             text: 'The dorsal scapular artery arises from the second part of the subclavian artery',
@@ -200,7 +200,7 @@
           explanation: 'Into the internal and external iliac arteries',
         },
         {
-          text: 'The common iliac arteries lie in front of the fourth and ﬁfth lumbar vertebrae',
+          text: 'The common iliac arteries lie in front of the fourth and fifth lumbar vertebrae',
           response: '',
           answer: 'True',
           explanation: '',
@@ -236,10 +236,10 @@
           explanation: 'Runs in the broad ligament',
         },
         {
-          text: 'The umbilical artery is the ﬁrst branch of the internal iliac artery in the fetus',
+          text: 'The umbilical artery is the first branch of the internal iliac artery in the fetus',
           response: '',
           answer: 'True',
-          explanation: 'Persists as the ﬁbrous medial umbilical ligament, which may be recognized in a plain abdominal ﬁlm in the presence of a pneumoperitoneum',
+          explanation: 'Persists as the fibrous medial umbilical ligament, which may be recognized in a plain abdominal film in the presence of a pneumoperitoneum',
         },
         {
           text: 'The internal pudendal artery re-enters the pelvis through the lesser sciatic foramen',
@@ -248,7 +248,7 @@
           explanation: 'Supplies the genitalia',
         },
         {
-          text: 'The inferior epigastric artery is given oﬀ above the inguinal ligament from the external iliac artery',
+          text: 'The inferior epigastric artery is given off above the inguinal ligament from the external iliac artery',
           response: '',
           answer: 'True',
           explanation: 'Runs up on the deep surface of the anterior abdominal wall and enters the rectus sheath',
@@ -260,13 +260,13 @@
       stem: 'In the lower limb',
       options: [
         {
-          text: 'The main supply to the trochanteric anastomosis is through the superﬁcial femoral artery',
+          text: 'The main supply to the trochanteric anastomosis is through the superficial femoral artery',
           response: '',
           answer: 'False',
           explanation: 'This anastomosis supplies the femoral head and is formed by anastomosing branches of lateral and medial circumﬂex femoral and superior gluteal arteries',
         },
         {
-          text: 'The superﬁcial femoral artery passes lateral to and behind the lower shaft of the femur',
+          text: 'The superficial femoral artery passes lateral to and behind the lower shaft of the femur',
           response: '',
           answer: 'False',
           explanation: 'Posterior and medial to the femur, through the adductor hiatus',
@@ -281,7 +281,7 @@
           text: 'The descending genicular artery is a branch of the popliteal artery supplying the knee',
           response: '',
           answer: 'False',
-          explanation: 'This is a branch of the superﬁcial femoral artery, prior to entering the adductor hiatus. The medial and lateral superior and inferior genicular arteries are given oﬀ in the popliteal fossa',
+          explanation: 'This is a branch of the superficial femoral artery, prior to entering the adductor hiatus. The medial and lateral superior and inferior genicular arteries are given off in the popliteal fossa',
         },
         {
           text: 'The anterior tibial artery runs anterior to the interosseous membrane',
@@ -347,7 +347,7 @@
           text: 'Fifty per cent of patients demonstrate cross-drainage of lymphatics from right to left at the level of L3/4',
           response: '',
           answer: 'True',
-          explanation: 'Lumbar gap – non-opaciﬁcation of nodes at this level on lymphography',
+          explanation: 'Lumbar gap – non-opacification of nodes at this level on lymphography',
         },
         {
           text: 'The cisterna chyli continues upwards through the aortic opening in the diaphragm as the thoracic duct',

@@ -1,11 +1,17 @@
 <script setup lang="ts">
+import { filename } from "pathe/utils";
+
 const { path, params } = useRoute();
 const toast = useToast();
 
 const questionsShuffled = ref(false);
 const optionsShuffled = ref(false);
 
-const { data: section, refresh } = await useAsyncData(
+const {
+  data: section,
+  refresh,
+  pending,
+} = await useAsyncData(
   `${params.bookSlug}-${params.sectionSlug}`,
   () =>
     queryContent()
@@ -40,8 +46,6 @@ const { data: section, refresh } = await useAsyncData(
     },
   }
 );
-
-console.log(section);
 
 const shuffleQuestions = () => {
   questionsShuffled.value = true;
@@ -105,164 +109,176 @@ const handleReset = () => {
   checkAnswers.value = false;
   refresh();
 };
+
+const glob = import.meta.glob("~/assets/covers/*.jpg", { eager: true });
+const covers = Object.fromEntries(
+  Object.entries(glob).map(([key, value]) => [filename(key), value.default])
+);
+
+const bookSlug = computed(() => path.split("/")[2]);
 </script>
 
 <template>
-  <div class="space-y-6">
-    <div class="flex flex-col sm:flex-row items-center sm:items-start">
-      <img
-        src="~/assets/covers/mcq-companion.jpg"
-        alt="mcq-companion"
-        class="w-40"
-      />
+  <div>
+    <Loader v-if="pending" />
+    <div v-else class="space-y-6">
+      <div class="flex flex-col sm:flex-row items-center sm:items-start">
+        <img :src="covers[bookSlug]" alt="mcq-companion" class="w-40" />
 
-      <div class="p-4 flex flex-col justify-between">
-        <div>
-          <h1
-            class="font-[oswald] font-bold text-xl tracking-wider uppercase mb-2"
+        <div class="p-4 flex flex-col justify-between">
+          <div>
+            <h1
+              class="font-[oswald] font-bold text-xl tracking-wider uppercase mb-2"
+            >
+              {{ section.name }}
+            </h1>
+            <p>by {{ section.authors }}</p>
+
+            <p class="py-4 font-[oswald] tracking-wider">
+              <span class="text-orange-400 font-bold">
+                {{ totalQuestions }}
+              </span>
+              Questions
+            </p>
+
+            <div v-if="section.questions?.length > 0">
+              <div v-if="isAnswering">
+                <UButton
+                  icon="i-ic-outline-restart-alt"
+                  label="Restart"
+                  variant="outline"
+                  size="xs"
+                  @click="handleReset"
+                />
+              </div>
+              <div v-else class="flex gap-4">
+                <UButton
+                  label="Shuffle Questions"
+                  class="flex gap-2"
+                  size="xs"
+                  variant="soft"
+                  @click="shuffleQuestions"
+                  icon="i-ic-baseline-shuffle"
+                />
+                <UButton
+                  variant="soft"
+                  label="Shuffle Choices"
+                  class="flex gap-2"
+                  size="xs"
+                  @click="shuffleOptions"
+                  icon="i-ic-baseline-shuffle"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div
+        v-if="section.questions?.length === 0"
+        class="flex flex-col items-center py-6 gap-4"
+      >
+        <img src="/img/wait.svg" alt="wait for questions" class="w-2/5" />
+
+        <p class="font-[oswald] tracking-wider font-thin">
+          Questions will be added soon...🙂
+        </p>
+      </div>
+
+      <div v-else>
+        <div v-if="showAnswers" class="mb-6">
+          <h5
+            class="font-[oswald] font-medium text-2xl tracking-wider text-center py-4"
           >
-            {{ section.name }}
-          </h1>
-          <p>by {{ section.authors }}</p>
-
-          <p class="py-4 font-[oswald] tracking-wider">
-            <span class="text-orange-400 font-bold">
-              {{ totalQuestions }}
-            </span>
-            Questions
-          </p>
-
-          <div v-if="section.questions?.length > 0">
-            <div v-if="isAnswering">
+            Summary <UIcon name="i-ic-outline-ssid-chart" />
+          </h5>
+          <div class="flex flex-col justify-center gap-4">
+            <div class="border dark:border-zinc-900 rounded p-4 space-y-2">
+              <div>
+                <div class="font-[oswald] tracking-wider">
+                  Number of Questions
+                </div>
+                <div
+                  class="font-bold text-2xl font-[poppins] tracking-wide pl-2"
+                >
+                  {{ section.questions.length * 5 }}
+                </div>
+              </div>
+              <div>
+                <div class="font-[oswald] tracking-wider">Correct Answers</div>
+                <div
+                  class="font-bold text-2xl font-[poppins] tracking-wide text-green-700 pl-2"
+                >
+                  {{ stats.correct }}
+                </div>
+              </div>
+              <div>
+                <div class="font-[oswald] tracking-wider">Wrong Answers</div>
+                <div
+                  class="font-bold text-2xl font-[poppins] tracking-wide text-red-700 pl-2"
+                >
+                  {{ stats.wrong }}
+                </div>
+              </div>
+              <div>
+                <div class="font-[oswald] tracking-wider uppercase">
+                  Percentage (%)
+                </div>
+                <div
+                  class="font-bold text-2xl font-[poppins] tracking-wide pl-2"
+                >
+                  {{
+                    (
+                      (stats.correct / (section.questions.length * 5)) *
+                      100
+                    ).toFixed(1)
+                  }}
+                </div>
+              </div>
+            </div>
+            <div class="flex gap-2 justify-center">
               <UButton
-                icon="i-ic-outline-restart-alt"
-                label="Restart"
-                variant="outline"
-                size="xs"
+                class="self-center"
+                icon="i-ic-baseline-arrow-circle-left
+
+  "
+                @click="$router.back()"
+                >Go Back</UButton
+              >
+              <UButton
+                class="self-center"
+                icon="i-ic-round-settings-backup-restore
+
+  "
                 @click="handleReset"
-              />
-            </div>
-            <div v-else class="flex gap-4">
-              <UButton
-                label="Shuffle Questions"
-                class="flex gap-2"
-                size="xs"
-                variant="soft"
-                @click="shuffleQuestions"
-                icon="i-ic-baseline-shuffle"
-              />
-              <UButton
-                variant="soft"
-                label="Shuffle Choices"
-                class="flex gap-2"
-                size="xs"
-                @click="shuffleOptions"
-                icon="i-ic-baseline-shuffle"
-              />
+                >Reset</UButton
+              >
             </div>
           </div>
         </div>
-      </div>
-    </div>
 
-    <div
-      v-if="section.questions?.length === 0"
-      class="flex flex-col items-center py-6 gap-4"
-    >
-      <img src="/img/wait.svg" alt="wait for questions" class="w-2/5" />
-
-      <p class="font-[oswald] tracking-wider font-thin">
-        Questions will be added soon...🙂
-      </p>
-    </div>
-
-    <div v-else>
-      <div v-if="showAnswers" class="mb-6">
-        <h5
-          class="font-[oswald] font-medium text-2xl tracking-wider text-center py-4"
-        >
-          Summary <UIcon name="i-ic-outline-ssid-chart" />
-        </h5>
-        <div class="flex flex-col justify-center gap-4">
-          <div class="border dark:border-zinc-900 rounded p-4 space-y-2">
-            <div>
-              <div class="font-[oswald] tracking-wider">
-                Number of Questions
-              </div>
-              <div class="font-bold text-2xl font-[poppins] tracking-wide pl-2">
-                {{ section.questions.length * 5 }}
-              </div>
-            </div>
-            <div>
-              <div class="font-[oswald] tracking-wider">Correct Answers</div>
-              <div
-                class="font-bold text-2xl font-[poppins] tracking-wide text-green-700 pl-2"
-              >
-                {{ stats.correct }}
-              </div>
-            </div>
-            <div>
-              <div class="font-[oswald] tracking-wider">Wrong Answers</div>
-              <div
-                class="font-bold text-2xl font-[poppins] tracking-wide text-red-700 pl-2"
-              >
-                {{ stats.wrong }}
-              </div>
-            </div>
-            <div>
-              <div class="font-[oswald] tracking-wider uppercase">
-                Percentage (%)
-              </div>
-              <div class="font-bold text-2xl font-[poppins] tracking-wide pl-2">
-                {{
-                  (
-                    (stats.correct / (section.questions.length * 5)) *
-                    100
-                  ).toFixed(1)
-                }}
-              </div>
-            </div>
-          </div>
-          <div class="flex gap-2 justify-center">
-            <UButton
-              class="self-center"
-              icon="i-ic-baseline-arrow-circle-left
-
-  "
-              @click="$router.back()"
-              >Go Back</UButton
-            >
-            <UButton
-              class="self-center"
-              icon="i-ic-round-settings-backup-restore
-
-  "
-              @click="handleReset"
-              >Reset</UButton
-            >
-          </div>
+        <div class="space-y-8">
+          <MultipleChoice
+            v-for="(question, questionId) in section.questions"
+            :key="questionId"
+            :question="question"
+            :showAnswers="showAnswers"
+            :checkAnswers="checkAnswers"
+            :questionId="questionId"
+          />
         </div>
-      </div>
 
-      <div class="space-y-8">
-        <MultipleChoice
-          v-for="(question, questionId) in section.questions"
-          :key="questionId"
-          :question="question"
-          :showAnswers="showAnswers"
-          :checkAnswers="checkAnswers"
-          :questionId="questionId"
-        />
-      </div>
-
-      <div v-if="section.questions?.length">
-        <div class="flex justify-end border-t dark:border-t-zinc-900 pt-4 mt-4">
-          <UButton
-            class="animate__animated animate__bounceIn animate__faster"
-            @click="handleSubmit"
-            :disabled="showAnswers || !allQuestionsAnswered"
-            >Submit</UButton
+        <div v-if="section.questions?.length">
+          <div
+            class="flex justify-end border-t dark:border-t-zinc-900 pt-4 mt-4"
           >
+            <UButton
+              class="animate__animated animate__bounceIn animate__faster"
+              @click="handleSubmit"
+              :disabled="showAnswers || !allQuestionsAnswered"
+              >Submit</UButton
+            >
+          </div>
         </div>
       </div>
     </div>
