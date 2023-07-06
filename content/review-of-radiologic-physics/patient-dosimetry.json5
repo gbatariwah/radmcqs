@@ -139,7 +139,7 @@
     },
     {
       "questionNumber": 4.19,
-      "stem": "A population exposed to a uniform whole-body dose of 10 mGy (effective dose of 10 mSv), results in % additional radiation-induced cancers",
+      "stem": "A population exposed to a uniform whole-body dose of 10 mGy (effective dose of 10 mSv), results in  ______  % additional radiation-induced cancers",
       "options": ["0.001", "0.01", "0.1", "1"],
       "answer": "0.1",
       "explanation": "Following a whole-body dose of 10 mGy to a population, there will be expected to be 0.1% additional radiation-induced cancers"

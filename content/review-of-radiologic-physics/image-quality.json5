@@ -62,7 +62,7 @@
         },
         {
           "questionNumber": 3.8,
-          "stem": "Noise reduction by the application of pixel averaging is most likely to result in spatial resolution performance",
+          "stem": "Noise reduction by the application of pixel averaging is most likely to result in  ______  spatial resolution performance",
           "options": ["Improved", "The same", "Inferior"],
           "answer": "Inferior",
           "explanation": "Random noise can be reduced by averaging the detected counts in adjacent pixels, but this will most likely result in a blurrier image.",
@@ -78,7 +78,7 @@
         },
         {
           "questionNumber": 3.10,
-          "stem": "Photographs exhibit little mottle because the number of photons used is times higher than in x-ray radiography",
+          "stem": "Photographs exhibit little mottle because the number of photons used is ______ times higher than in x-ray radiography",
           "options": ["1.1", "5", "100", "10,000"],
           "answer": "10,000",
           "explanation": "Photographs use 10^9 light photons/mm² to create an image, which is 10,000 times higher than the 10^5 x-ray photons/mm² used to make radiographs.",
@@ -86,7 +86,7 @@
         },
         {
           "questionNumber": 3.11,
-          "stem": "Chest x-rays exhibit less mottle than NM imaging because the number of photons used is times higher",
+          "stem": "Chest x-rays exhibit less mottle than NM imaging because the number of photons used is ______ times higher",
           "options": ["5", "100", "10,000", "1,000,000"],
           "answer": "10,000",
           "explanation": "Radiographs use 10^9 photons/mm² to create an image, which is 10,000 times higher than the 10^5 gamma rays/mm² used to make nuclear medicine (NM) images.",
@@ -110,7 +110,7 @@
         },
         {
           "questionNumber": 3.14,
-          "stem": "Motion blur is most likely",
+          "stem": "Motion blur is most likely  ______ image",
           "options": ["Increased by", "Independent of", "Reduced by"],
           "answer": "Independent of",
           "explanation": "Motion blur is independent of exposure technique factors (mAs, kV, etc.) but is affected by the speed of the object being imaged.",
@@ -118,7 +118,7 @@
         },
         {
           "questionNumber": 3.15,
-          "stem": "If a detector thickness is 0.5 mm, the amount of blur in the resultant image is most likely_____ 0.5",
+          "stem": "If a detector thickness is 0.5 mm, the amount of blur in the resultant image is most likely _____ 0.5",
           "options": ["much less than", "comparable to", "much bigger than"],
           "answer": "comparable to",
           "explanation": "If an x-ray detector is 0.5 mm thick, the image blur will be comparable to 0.5 mm",

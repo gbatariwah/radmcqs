@@ -81,7 +81,7 @@
     },
     {
       questionNumber: "17.10",
-      stem: "An ultrasound transducer most likely converts ____ energy into _____ energy",
+      stem: "An ultrasound transducer most likely converts _____ energy into _____ energy",
       options: [
         "Sound; electrical",
         "Electrical; sound",
@@ -149,7 +149,7 @@
     },
     {
       questionNumber: "17.16",
-      stem: "Individual elements in multielemental arrays most likely have a width of_____wavelengths (X) and a height of______mm",
+      stem: "Individual elements in multielemental arrays most likely have a width of _____wavelengths (X) and a height of______mm",
       options: ["0.5; 0.3", "0.5; 3", "2; 0.3", "2; 3"],
       answer: "0.5; 3",
       explanation: "Individual elements in multielemental arrays most likely have a width of about half a wavelength and a height of a few millimeters",

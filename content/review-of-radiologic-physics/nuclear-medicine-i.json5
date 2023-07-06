@@ -30,7 +30,7 @@
     },
     {
       questionNumber: "13.3",
-      stem: "In beta decay, the daughter atomic number is and in |3' decay, the daughter atomic number is",
+      stem: "In β^- decay, the daughter atomic number is _____ and in β^+ decay, the daughter atomic number is ______",
       options: [
         "Increased;increased",
         "Increased;decreased",
@@ -75,7 +75,7 @@
     },
     {
       questionNumber: "13.8",
-      stem: "In secular equilibrium, the activity of the daughter is most likely",
+      stem: "In secular equilibrium, the activity of the daughter is most likely _____ the activity of the parent",
       options: ["Greater than", "Equal to", "Less than"],
       answer: "Equal to",
       explanation: "Parent and daughter activities are exactly equal in secular equilibrium, so 1 GBq of a long-lived parent produces 1 GBq of a short-lived daughter",
@@ -96,7 +96,7 @@
     },
     {
       questionNumber: "13.10",
-      stem: "A gamma ray spectrum from a scintillator would plot the number of counts (vertical axis) as a function of",
+      stem: "A gamma ray spectrum from a scintillator would plot the number of counts (vertical axis) as a function of ______ (horizontal axis)",
       options: [
         "Detected light",
         "Charge deposited",
@@ -138,7 +138,7 @@
     },
     {
       questionNumber: "13.14",
-      stem: "A 99mTc contaminated tie, with an activity -1 kBq, would likely result in a spectrum containing counts in 10 seconds",
+      stem: "A 99mTc contaminated tie, with an activity -1 kBq, would likely result in a spectrum containing ______ counts in 10 seconds",
       options: ["<100", "100", "10,000", "1,000,000"],
       answer: "10,000",
       explanation: "1 kBq emits approximately 10,000 gamma rays in 10 seconds, and most of them will likely be detected",
@@ -171,7 +171,7 @@
     },
     {
       questionNumber: "13.17",
-      stem: "Increasing NM collimator hole size likely sensitivity and spatial resolution performance.",
+      stem: "Increasing NM collimator hole size likely ______ sensitivity and _______ spatial resolution performance",
       options: [
         "Improves; improves",
         "Improves; degrades",
@@ -192,7 +192,7 @@
     },
     {
       questionNumber: "13.19",
-      stem: "NRC regulations require activity administered to an NM patient to be within % of the prescribed dose.",
+      stem: "NRC regulations require activity administered to an NM patient to be within ______% of the prescribed dose.",
       options: ["±1", "±5", "±20", "±50"],
       answer: "±20",
       explanation: "NRC regulations require activity administered to an NM patient to be within ±20% of the prescribed dose, although some states require ±10%",

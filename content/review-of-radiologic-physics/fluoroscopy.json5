@@ -28,7 +28,7 @@
         },
         {
           "questionNumber": "9.4",
-          "stem": "With an II/TV system, fluoroscopy most likely uses TV lines, and photospot imaging most likely uses TV lines",
+          "stem": "With an II/TV system, fluoroscopy most likely uses  ______ TV lines, and photospot imaging most likely uses  ______ TV lines",
           "options": ["500; 500", "500; 1,000", "1,000; 500", "1,000; 1,000"],
           "answer": "500; 1,000",
           "explanation": "II-based fluoroscopy is normally performed with TV cameras using 500 lines, whereas photospot imaging is performed with 1,000 TV lines",
@@ -62,7 +62,7 @@
         },
         {
           "questionNumber": "9.8",
-          "stem": "Grid ratios used in fluoroscopy are most likely those used in radiography when imaging similar body parts",
+          "stem": "Grid ratios used in fluoroscopy are most likely  ______  those used in radiography when imaging similar body parts",
           "options": ["greater than", "comparable to", "lower than"],
           "answer": "comparable to",
           "explanation": "Grid ratios in radiography and fluoroscopy are the same because scatter is determined by the patient",
@@ -94,7 +94,7 @@
         },
         {
           "questionNumber": "9.12",
-          "stem": "The patient dose rate in pulsed fluoroscopy (30 pulses/second) will likely be those of continuous fluoroscopy",
+          "stem": "The patient dose rate in pulsed fluoroscopy (30 pulses/second) will likely be  ______  those of continuous fluoroscopy",
           "options": ["higher than", "comparable to", "lower than"],
           "answer": "comparable to",
           "explanation": "Switching from continuous to 30 pulses/second in pulsed fluoroscopy results in the acquisition of the same number of frames in each second (i.e., 30), so the dose will not change",

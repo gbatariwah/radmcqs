@@ -4,7 +4,7 @@
   questions: [
       {
         "questionNumber": "10.1",
-        "stem": "The cost of a single plane IR imaging chain is about higher than an R/F system for performing G1 and urologic examinations",
+        "stem": "The cost of a single plane IR imaging chain is about ______  higher than an R/F system for performing G1 and urologic examinations",
         "options": ["50%", "x2", "x3 to 4", "x5 to 10"],
         "answer": "x3 to 4",
         "explanation": "A single plane imaging chain would likely cost $l,250k whereas an R/F unit would likely cost $350k (2015 prices)",
@@ -20,7 +20,7 @@
       },
       {
         "questionNumber": "10.3",
-        "stem": "Patient doses using FPDs, operated using large fields of view, are most likely those using image intensifiers",
+        "stem": "Patient doses using FPDs, operated using large fields of view, are most likely  ______ those using image intensifiers",
         "options": ["double", "comparable to", "half"],
         "answer": "comparable to",
         "explanation": "For large fields of view, doses are very similar for both FPDs and Ils, because these both use essentially the same detectors (CsI scintillators)",
@@ -52,7 +52,7 @@
       },
       {
         "questionNumber": "10.7",
-        "stem": "The minimum focus to patient distance is cm for fixed systems, and cm for mobile units",
+        "stem": "The minimum focus to patient distance is ______ cm for fixed systems, and  ______ cm for mobile units",
         "options": ["30 for both", "30; 38", "38; 30", "38 for both"],
         "answer": "38; 30",
         "explanation": "FDA requires a minimum focus to patient distance of 38 cm for fixed systems, and 30 cm for mobile units, to minimize the risk of skin burns",
@@ -60,7 +60,7 @@
       },
       {
         "questionNumber": "10.8",
-        "stem": "In IR imaging, as patient size increases from infants to obese adults, x-ray tube voltages most likely increase from to kV",
+        "stem": "In IR imaging, as patient size increases from infants to obese adults, x-ray tube voltages most likely increase from  ______ to  ______  kV",
         "options": ["60; 90", "60; 120", "90; 120", "90; 150"],
         "answer": "60; 120",
         "explanation": "A tube voltage of 60 kV would most likely be used to image a neonate, whereas 120 kV would likely be used to image obese adults",
@@ -92,7 +92,7 @@
       },
       {
         "questionNumber": "10.12",
-        "stem": "The Joint Commission defines a sentinel event as one where the peak skin dose unintentionally exceeds Gy",
+        "stem": "The Joint Commission defines a sentinel event as one where the peak skin dose unintentionally exceeds  ______ Gy",
         "options": ["5", "10", "15", "20"],
         "answer": "15",
         "explanation": "The unintended peak skin dose that would be classified by the Joint Commission as a sentinel event is 15 Gy",
@@ -116,7 +116,7 @@
       },
       {
         "questionNumber": "10.15",
-        "stem": "Patient scatter radiation results in doses at 1 m that are about______% of the radiation intensity incident on the patient",
+        "stem": "Patient scatter radiation results in doses at 1 m that are about ______% of the radiation intensity incident on the patient",
         "options": ["10", "1", "0.1", "0.01"],
         "answer": "0.1",
         "explanation": "Patient scatter radiation results in doses at 1 m that are about 0.1% of the radiation intensity incident on the patient",

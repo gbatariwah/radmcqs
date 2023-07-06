@@ -4,7 +4,7 @@
   questions: [
     {
       questionNumber: "16.1",
-      stem: "In spin echo sequences, the echo intensity is not affected by T2* effects and reduced by T2 effects",
+      stem: "In spin echo sequences, the echo intensity is ______  by T2* effects and ______  by T2 effects",
       options: [
         "Not affected; not affected",
         "Not affected; reduced",
@@ -25,7 +25,7 @@
     },
     {
       questionNumber: "16.3",
-      stem: "To obtain T2 weighting, the operator must choose TR to be long and TE to be long",
+      stem: "To obtain T2 weighting, the operator must choose TR to be ______  and TE to be ______ ",
       options: ["Long; long", "Long; short", "Short; long", "Short; short"],
       answer: "Long; long",
       explanation: "T2 weighting is obtained when TR is long (i.e., eliminates T1 weighting), and TE is long",
@@ -33,7 +33,7 @@
     },
     {
       questionNumber: "16.4",
-      stem: "Fat appears on T1 weighted SE images, and fluids appear on T2 weighted images",
+      stem: "Fat appears ______  on T1 weighted SE images, and fluids appear ______  on T2 weighted images",
       options: ["Bright; bright", "Bright; dark", "Dark; bright", "Dark; dark"],
       answer: "Bright; bright",
       explanation: "Fat appears bright on T1 weighted SE images, and fluids appear bright on T2 weighted images",
@@ -41,7 +41,7 @@
     },
     {
       questionNumber: "16.5",
-      stem: "The phase-encode direction is likely the lateral projection in head MR and the AP projection in abdominal MR",
+      stem: "The phase-encode direction is likely the ______  projection in head MR and the ______  projection in abdominal MR",
       options: ["AP; AP", "AP; lateral", "Lateral; AP", "Lateral; lateral"],
       answer: "Lateral; AP",
       explanation: "The phase-encode direction is most likely the lateral projection in head MR and the AP projection in abdominal MR (i.e., the shortest patient dimension)",
@@ -49,7 +49,7 @@
     },
     {
       questionNumber: "16.6",
-      stem: "Increasing the RF flip angle in GRE is most likely to increase T1 weighting",
+      stem: "Increasing the RF flip angle in GRE is most likely to increase ______  weighting",
       options: ["T1", "T2", "T2*", "T2 and T2*"],
       answer: "T1",
       explanation: "Increasing the RF flip angle in GRE increases T1 weighting",
@@ -65,7 +65,7 @@
     },
     {
       questionNumber: "16.8",
-      stem: "In DWI imaging, reduced diffusion would be expected when the DWI pixel values are high and the ADC values are low",
+      stem: "In DWI imaging, reduced diffusion would be expected when the DWI pixel values are ______  and the ADC values are ______ ",
       options: ["Low; low", "Low; high", "High; low", "High; high"],
       answer: "High; low",
       explanation: "In DWI imaging, low diffusion has high (bright) DWI pixels and low apparent diffusion coefficients",
@@ -73,7 +73,7 @@
     },
     {
       questionNumber: "16.9",
-      stem: "Gd contrast in MR angiography most likely increases signals because of reduced T1 values of blood",
+      stem: "Gd contrast in MR angiography most likely increases signals because of ______  values of blood",
       options: ["Reduced T1", "Reduced T2", "Increased T1", "Increased T2"],
       answer: "Reduced T1",
       explanation: "Application of Gd contrast reduces T1 times by increasing spin-lattice interactions (i.e., Gd and blood)",
@@ -81,7 +81,7 @@
     },
     {
       questionNumber: "16.10",
-      stem: "Imaging time to acquire a 32 x 32 x 64 3D image of the knee would most likely be 32 x 32 x TR (repetition time)",
+      stem: "Imaging time to acquire a 32 x 32 x 64 3D image of the knee would most likely be ______  TR (repetition time)",
       options: ["32 x 32", "32 x 64", "32 x 32 x 64", "32 + 32 + 64"],
       answer: "32 x 32 x 64",
       explanation: "Imaging time to acquire a 32 x 32 x 64 3D image of the knee would most likely be 32 x 32 x TR (repetition time). Each echo would be sampled 64 times, 32 x 32 echoes would be required, and each echo takes time TR",
@@ -89,7 +89,7 @@
     },
     {
       questionNumber: "16.11",
-      stem: "An echo planar image, obtained in one acquisition following a 90-degree RF pulse, can most likely be obtained in ms",
+      stem: "An echo planar image, obtained in one acquisition following a 90-degree RF pulse, can most likely be obtained in ______  ms",
       options: ["1", "10", "100", "1,000"],
       answer: "100",
       explanation: "Following the 90-degree RF pulse, gradients are rapidly switched to create multiple echoes which must be obtained before the echoes disappear",
@@ -126,7 +126,7 @@
     },
     {
       questionNumber: "16.15",
-      stem: "Gd is generally a positive contrast agent, whereas SP1O is a negative contrast agent",
+      stem: "Gd is generally a ______ contrast agent, whereas SP1O is a ______  contrast agent",
       options: [
         "Positive; positive",
         "Positive; negative",
@@ -139,7 +139,7 @@
     },
     {
       questionNumber: "16.16",
-      stem: "Acquiring four images will increase the detected signals by 4 and the detected noise by 2",
+      stem: "Acquiring four images will increase the detected signals by ______  and the detected noise by ______ ",
       options: ["4; 4", "4; 2", "2; 4", "2; 2"],
       answer: "4; 2",
       explanation: "Acquiring four images increases detected signals by a factor of 4 and increases detected noise by a factor of 2, thereby doubling SNR (i.e., 4/2)",
@@ -163,7 +163,7 @@
     },
     {
       questionNumber: "16.19",
-      stem: "Chemical shift artifacts in SE imaging are most likely to appear along the frequency encode direction",
+      stem: "Chemical shift artifacts in SE imaging are most likely to appear along the ______  direction",
       options: ["Slice select", "Phase encode", "Frequency encode", "Any"],
       answer: "Frequency encode",
       explanation: "Chemical shift artifacts appear along the frequency-encode gradient direction",

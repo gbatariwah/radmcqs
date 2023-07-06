@@ -20,7 +20,7 @@
     },
     {
       questionNumber: 18.3,
-      stem: "Ultrasound line density is most likely to affect the ultrasound image resolution",
+      stem: "Ultrasound line density is most likely to affect the ultrasound image ______  resolution",
       options: ["axial", "lateral", "elevational", "temporal"],
       answer: "lateral",
       explanation: "Line density always affects lateral resolution, but may also impact temporal resolution (i.e., more lines per frame may result in fewer frames per second)",
@@ -28,7 +28,7 @@
     },
     {
       questionNumber: 18.4,
-      stem: "Increasing the PRF implies a listening period, and a ultrasound imaging depth",
+      stem: "Increasing the PRF implies a ______  listening period, and a  ______ ultrasound imaging depth",
       options: [
         "longer; increased",
         "longer; reduced",
@@ -88,7 +88,7 @@
     },
     {
       questionNumber: 18.9,
-      stem: "Large signals in contrast imaging most likely occur because of differences in between encapsulated microbubblesand tissues",
+      stem: "Large signals in contrast imaging most likely occur because of differences in ______  between encapsulated microbubblesand tissues",
       options: [
         "acoustic impedance",
         "effective wavelength",
@@ -117,7 +117,7 @@
     },
     {
       questionNumber: 18.12,
-      stem: "Spectral analysis most likely shows on the vertical axis and along the horizontal axis",
+      stem: "Spectral analysis most likely shows ______  on the vertical axis and ______  along the horizontal axis",
       options: [
         "frequency shifts; time",
         "frequency shifts; distance",

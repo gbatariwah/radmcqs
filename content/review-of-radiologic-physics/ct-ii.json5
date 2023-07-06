@@ -12,7 +12,7 @@
     },
     {
       questionNumber: "12.2",
-      stem: "Compared to routine head CT examinations performed at 120 kV, head CTA examinations would use a tube voltage",
+      stem: "Compared to routine head CT examinations performed at 120 kV, head CTA examinations would use a  ______ tube voltage",
       options: ["higher", "similar", "lower"],
       answer: "lower",
       explanation: "CT angiography requires a lower tube voltage (e.g., 100 kV) to increase the visibility of iodine contrast",
@@ -28,7 +28,7 @@
     },
     {
       questionNumber: "12.4",
-      stem: "CT scans of obese patients likely use mAs and kV",
+      stem: "CT scans of obese patients likely use  ______ mAs and  ______  kV",
       options: [
         "increased; increased",
         "increased; decreased",
@@ -41,7 +41,7 @@
     },
     {
       questionNumber: "12.5",
-      stem: "An infant with a tissue thickness of 12 cm most likely corresponds to tissue half-value layers",
+      stem: "An infant with a tissue thickness of 12 cm most likely corresponds to  ______ tissue half-value layers",
       options: ["2", "3", "4", "5"],
       answer: "3",
       explanation: "The tissue HVL in CT is 4 cm, so 12 cm corresponds to 3 HVLs, and would transmit 1/8 (i.e., 1/2') of the incident radiation",
@@ -57,7 +57,7 @@
     },
     {
       questionNumber: "12.7",
-      stem: "The radiation doses associated with a projection radiograph are most likely % of the dose of an adult chest CT examination",
+      stem: "The radiation doses associated with a projection radiograph are most likely  ______ % of the dose of an adult chest CT examination",
       options: ["<5", "10", "25", "50"],
       answer: "<5",
       explanation: "Projection radiographs have very low patient doses, and are unlikely to exceed 5% of a head or body CT",
@@ -65,7 +65,7 @@
     },
     {
       questionNumber: "12.8",
-      stem: "In dual-energy CT, images would most likely be acquired at kV and kV",
+      stem: "In dual-energy CT, images would most likely be acquired at  ______ kV and  ______ kV",
       options: ["120; 140", "100; 150", "70; 100", "80; 140"],
       answer: "80; 140",
       explanation: "CT images are normally acquired at the lowest (i.e., 80 kV) and highest (i.e., 140 kV) tube voltages that are available",
@@ -81,7 +81,7 @@
     },
     {
       questionNumber: "12.10",
-      stem: "Contrast in CT images is most likely to with increasing mAs",
+      stem: "Contrast in CT images is most likely to  ______ with increasing mAs",
       options: ["increase", "be unchanged", "decrease"],
       answer: "be unchanged",
       explanation: "Difference between fat (HU = -100) and soft tissue (HU = 50) is 150 HU, and this is true at any mAs",
@@ -97,7 +97,7 @@
     },
     {
       questionNumber: "12.12",
-      stem: "Increasing the CT x-ray tube voltage at constant mAs most likely contrast and image noise",
+      stem: "Increasing the CT x-ray tube voltage at constant mAs most likely  ______  contrast and  ______ image noise",
       options: [
         "increases; increases",
         "increases; decreases",
@@ -163,7 +163,7 @@
     },
     {
       questionNumber: "12.19",
-      stem: "For the same DLP, the effective doses in infants and children are doses in adults",
+      stem: "For the same DLP, the effective doses in infants and children are ______  doses in adults",
       options: ["higher than", "comparable to", "lower than"],
       answer: "higher than",
       explanation: "For the same DLP, infant effective doses are about five times higher than in adults",

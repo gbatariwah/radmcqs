@@ -65,7 +65,7 @@
     },
     {
       questionNumber: "7.8",
-      stem: "Compared to a chest x-ray (1 mAs), the amount of radiation (i.e., m As) in an abdominal radiograph is most likely ____ times higher",
+      stem: "Compared to a chest x-ray (1 mAs), the amount of radiation (i.e., m As) in an abdominal radiograph is most likely ______ times higher",
       options: ["2", "5", "10", ">10"],
       answer: ">10",
       explanation: "An abdominal radiograph would likely use 20 mAs, or 20 times higher than a chest x-ray",

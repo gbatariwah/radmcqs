@@ -89,7 +89,7 @@
     },
     {
       questionNumber: 1.11,
-      stem: "An adult abdomen (24-cm tissue) would most likely correspond to tissue half-value layers",
+      stem: "An adult abdomen (24-cm tissue) would most likely correspond to ______ tissue half-value layers",
       options: ["2", "4", "8", "16"],
       answer: "8",
       explanation: "3 cm of tissue attenuates half of a typical x-ray beam, so 24 cm of tissue corresponds to 8-tissue HVL, that transmits l/2b of the incident x-rays (i.e., 0.4%)",

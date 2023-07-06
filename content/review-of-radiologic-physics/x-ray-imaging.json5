@@ -82,7 +82,7 @@
     },
     {
       questionNumber: 2.1,
-      stem: "Screens most likely absorb times more x-rays than films alone",
+      stem: "Screens most likely absorb ______ times more x-rays than films alone",
       options: ["5", "50", "500", ">500"],
       answer: "50",
       explanation: "A typical film would absorb only 1% of the incident x-rays, whereas a screen would likely absorb 50%",
@@ -90,7 +90,7 @@
     },
     {
       questionNumber: 2.11,
-      stem: "For screen-film radiography, increasing the beam quality most likely the patient entrance Kair",
+      stem: "For screen-film radiography, increasing the beam quality most likely  ______  the patient entrance Kair",
       options: ["Increases", "Does not change", "Reduces"],
       answer: "Reduces",
       explanation: "When beam quality increases, the x-ray beam becomes more penetrating, so less is required at the patient entrance to maintain a constant exposure at the image receptor. Film always requires a fixed amount of radiation to achieve the right film density",
@@ -135,7 +135,7 @@
     },
     {
       questionNumber: 2.16,
-      stem: "A 1 GB storage device would most likely store more _____ images.",
+      stem: "A 1 GB storage device would most likely store more _____ images",
       options: ["chest x-ray", "mammogram", "CT", "MR"],
       answer: "MR",
       explanation: "Because MR images are generally the smallest (1/8th MB), the storage device could store the most of these types of images",

@@ -17,7 +17,7 @@
     },
     {
       questionNumber: "11.2",
-      stem: "For CT x-ray tubes, maximum power loadings (kW) on the small and large focal spots are, respectively",
+      stem: "For CT x-ray tubes, maximum power loadings (kW) on the small and large focal spots are  ______  and  ______  respectively",
       options: ["25; 50", "25; 100", "50; 100", "50; 150"],
       answer: "25; 100",
       explanation: "For CT x-ray tubes, 25 kW can be applied to the small focal spot (0.6 mm) and 100 kW to the large focal spot (1.2 mm)",
@@ -70,7 +70,7 @@
     },
     {
       questionNumber: "11.8",
-      stem: "Doubling both CT pitch and effective mAs used in helical scanning would likely",
+      stem: "Doubling both CT pitch and effective mAs used in helical scanning would likely  ______ patient dose",
       options: ["Double", "Not affect", "Halve"],
       answer: "Double",
       explanation: "Patient dose is directly proportional to effective mAs. Doubling effective mAs at twice the pitch value requires mAs be quadrupled (i.e., patient dose doubles)",
@@ -78,7 +78,7 @@
     },
     {
       questionNumber: "11.9",
-      stem: "Back projection of 1,000 units of x-ray attenuation along a ray in a CT image (5002) likely allocates units of attenuation in each pixel",
+      stem: "Back projection of 1,000 units of x-ray attenuation along a ray in a CT image (5002) likely allocates  ______ units of attenuation in each pixel",
       options: ["1", "2", "4", "8"],
       answer: "2",
       explanation: "Back projection means that 1,000 units of attenuation will be equally distributed into 500 pixels",

@@ -3,7 +3,7 @@
   slug: "radiation-protection",
   questions: [
     {
-      questionNumber: "6.1",
+      questionNumber: 6.1,
       stem: "Low-level contamination (e.g., 40 kBq of MMmTc) on the floor in an NM department is best detected using",
       options: [
         "Ionization chamber",
@@ -16,7 +16,7 @@
       response: "",
     },
     {
-      questionNumber: "6.2",
+      questionNumber: 6.2,
       stem: "GI radiologists wear dosimeters to assess occupational exposure",
       options: [
         "At collar level",
@@ -29,7 +29,7 @@
       response: "",
     },
     {
-      questionNumber: "6.3",
+      questionNumber: 6.3,
       stem: "US States coordinate x-ray regulations by annual meetings of",
       options: ["BEIR", "UNSCEAR", "CRCPD", "NCRP"],
       answer: "CRCPD",
@@ -37,7 +37,7 @@
       response: "",
     },
     {
-      questionNumber: "6.4",
+      questionNumber: 6.4,
       stem: "Who regulates the use of radioactive materials in the United States?",
       options: ["BEIR", "NRC", "CRCPD", "NCRP"],
       answer: "NRC",
@@ -45,7 +45,7 @@
       response: "",
     },
     {
-      questionNumber: "6.5",
+      questionNumber: 6.5,
       stem: "The current (2015) US regulatory dose limit (mSv) for the annual effective dose to radiation workers is",
       options: ["1", "5", "20", "50"],
       answer: "50",
@@ -53,7 +53,7 @@
       response: "",
     },
     {
-      questionNumber: "6.6",
+      questionNumber: 6.6,
       stem: "The current (2015) US regulatory dose limit for the eye lens (mSv/year) is",
       options: ["5", "50", "150", "500"],
       answer: "150",
@@ -61,7 +61,7 @@
       response: "",
     },
     {
-      questionNumber: "6.7",
+      questionNumber: 6.7,
       stem: "Current (2015) US dose limits for members of the public are (mSv/year)",
       options: ["0.1", "1", "5", "20"],
       answer: "1",
@@ -69,7 +69,7 @@
       response: "",
     },
     {
-      questionNumber: "6.8",
+      questionNumber: 6.8,
       stem: "US regulatory dose limits would most likely include exposures from",
       options: [
         "Cosmic radiation",
@@ -82,7 +82,7 @@
       response: "",
     },
     {
-      questionNumber: "6.9",
+      questionNumber: 6.9,
       stem: "The current (2015) US regulatory dose limit to the fetus of a radiation worker is (mSv/month)",
       options: ["0.1", "0.2", "0.5", "1"],
       answer: "0.5",
@@ -90,7 +90,7 @@
       response: "",
     },
     {
-      questionNumber: "6.10",
+      questionNumber: 6.10,
       stem: "Between 1980 and 2006, medical doses in the United States have increased by (%) approximately",
       options: ["50", "100", "250", "600"],
       answer: "600",
@@ -98,7 +98,7 @@
       response: "",
     },
     {
-      questionNumber: "6.11",
+      questionNumber: 6.11,
       stem: "The per capita medical dose (mSv) in the United States in 2006 was most likely",
       options: ["0.6", "1", "2", "3"],
       answer: "3",
@@ -106,7 +106,7 @@
       response: "",
     },
     {
-      questionNumber: "6.12",
+      questionNumber: 6.12,
       stem: "Per capita medical doses in the United States are _______ natural background doses",
       options: ["lower than", "comparable to", "greater than"],
       answer: "comparable to",
@@ -114,7 +114,7 @@
       response: "",
     },
     {
-      questionNumber: "6.13",
+      questionNumber: 6.13,
       stem: "Which imaging modality contributes the most to US medical doses?",
       options: [
         "Nuclear medicine",
@@ -127,7 +127,7 @@
       response: "",
     },
     {
-      questionNumber: "6.14",
+      questionNumber: 6.14,
       stem: "The best advice a radiologist can offer a patient concerned about radiation is to explain that an examination is",
       options: ["Worthwhile", "Low dose", "Painless", "Low cost"],
       answer: "Worthwhile",
@@ -135,7 +135,7 @@
       response: "",
     },
     {
-      questionNumber: "6.15",
+      questionNumber: 6.15,
       stem: "In diagnostic radiology, As Low As Reasonably Achievable (ALARA) may be taken to mean ensuring",
       options: [
         "Patient doses low",
@@ -148,7 +148,7 @@
       response: "",
     },
     {
-      questionNumber: "6.16",
+      questionNumber: 6.16,
       stem: "What embryo/fetal radiation dose (mGy) would likely trigger consideration of possible medical intervention?",
       options: ["10", "30", "100", "Any dose"],
       answer: "100",
@@ -156,7 +156,7 @@
       response: "",
     },
     {
-      "questionNumber": "6.17",
+      "questionNumber": 6.17,
       "stem": "The scattered radiation (pGy/minute) 1 m from a patient undergoing a fluoroscopy is most likely",
       "options": ["0.1", "1", "10", "100"],
       "answer": "10",
@@ -164,7 +164,7 @@
       "response": ""
     },
     {
-      "questionNumber": "6.18",
+      "questionNumber": 6.18,
       "stem": "When a radiologist increases the distance to a patient from 50 to 150 cm, his/her radiation dose changes by a factor of",
       "options": ["9", "3", "1/3", "1/9"],
       "answer": "1/9",
@@ -172,7 +172,7 @@
       "response": ""
     },
     {
-      "questionNumber": "6.19",
+      "questionNumber": 6.19,
       "stem": "The minimum regulatory lead equivalent lead apron thickness (mm) in the US is currently (2015)",
       "options": ["0.1", "0.25", "0.5", "No minimum value"],
       "answer": "0.25",
@@ -180,7 +180,7 @@
       "response": ""
     },
     {
-      "questionNumber": "6.20",
+      "questionNumber": 6.20,
       "stem": "The annual dose received by IR fellows is most likely ________ the additional cosmic radiation dose received by pilots flying for 1 year",
       "options": ["less than", "comparable to", "greater than"],
       "answer": "comparable to",

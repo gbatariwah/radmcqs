@@ -102,7 +102,7 @@
     },
     {
       "questionNumber": 5.15,
-      "stem": "The cancer sensitivity of a 65 year old is most likely_____ times lower than that of a 25 year old",
+      "stem": "The cancer sensitivity of a 65 year old is most likely _____ times lower than that of a 25 year old",
       "options": ["1.5", "3", "6", "10"],
       "answer": "3",
       "explanation": "A 65-year-old is most likely three times less sensitive than a 25-year-old in terms of radiation-induced carcinogenesis"
@@ -137,7 +137,7 @@
     },
     {
       "questionNumber": 5.20,
-      "stem": "For a population exposed to uniform whole-body doses, genetic effects are currently estimated to contribute % to the total detriment",
+      "stem": "For a population exposed to uniform whole-body doses, genetic effects are currently estimated to contribute  ______% to the total detriment",
       "options": ["<1", "1", "8", "25"],
       "answer": "8",
       "explanation": "The gonad tissue weighting factor (WT) is currently assigned a value of 0.08 by the ICRP, which implies that genetic effects contribute approximately 8% to the total detriment"

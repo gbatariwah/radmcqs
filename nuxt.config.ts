@@ -8,5 +8,14 @@ export default defineNuxtConfig({
 
   app: {
     pageTransition: { name: "page", mode: "out-in" },
+    head: {
+      script: [
+        {
+          src: "https://analytics.umami.is/script.js",
+          async: true,
+          "data-website-id": "3ac56f86-681b-44cb-a36d-dfcc75dced78",
+        },
+      ],
+    },
   },
 });
