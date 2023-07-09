@@ -1,0 +1,12 @@
+{
+  title: "MCQs in Anatomy",
+  slug: "mcqs-in-anatomy",
+  author: "M.Qaiyum and C.Wakeley",
+  edition: 1,
+  sections: [
+    {
+      "name": "MCQs in Anatomy",
+      "slug": "questions"
+    }
+  ]
+}

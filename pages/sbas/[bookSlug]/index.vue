@@ -9,11 +9,11 @@ const { data: book } = await useAsyncData(`${params.bookSlug}`, () =>
 );
 
 const editionSuffix = computed(() =>
-  book.value.editon === 1
+  book.value.edition === 1
     ? "st"
-    : book.value.editon === 2
+    : book.value.edition === 2
     ? "nd"
-    : book.value.editon === 3
+    : book.value.edition === 3
     ? "rd"
     : "th"
 );

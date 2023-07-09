@@ -12,6 +12,19 @@
       :optionId="optionId"
       :checkAnswers="checkAnswers"
     />
+    <div v-if="isMCQsInAnatomy && (showAnswers || checkAnswers)">
+      <div v-if="question.explanation">
+        <UBadge
+          color="lime"
+          class="text-sm p-2 font-light rounded-lg mt-1 flex pr-6"
+        >
+          <p class="p-4">
+            <UIcon name="i-ic-baseline-lightbulb" />
+          </p>
+          <p>{{ question.explanation }}.</p>
+        </UBadge>
+      </div>
+    </div>
     <div class="py-2 text-right" v-if="questionsAnswered && !showAnswers">
       <UButton
         @click="checkAnswers = !checkAnswers"
@@ -31,12 +44,18 @@
 </template>
 
 <script setup>
+const { path } = useRoute();
+
 const props = defineProps({
   question: Object,
   showAnswers: Boolean,
   checkAnswers: Boolean,
   questionId: Number,
 });
+
+const isMCQsInAnatomy = computed(
+  () => path.split("/")[2] === "mcqs-in-anatomy"
+);
 
 const questionsAnswered = computed(() =>
   props.question.options.every((option) => option.response !== "")

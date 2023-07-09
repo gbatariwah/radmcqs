@@ -1,0 +1,805 @@
+{
+  name: "MCQs in Anatomy for Part I FRCR",
+  authors: "M.Qaiyum and C.Wakeley",
+  slug: "questions",
+  questions: [
+    {
+      questionNumber: 1,
+      stem: "The following are branches of the second part of the axillary artery",
+      options: [
+        {
+          label: "a",
+          text: "anterior circumflex artery",
+          response: "",
+          answer: "False",
+        },
+        {
+          label: "b",
+          text: "lateral thoracic artery",
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "c",
+          text: "subscapular artery",
+          response: "",
+          answer: "False",
+        },
+        {
+          label: "d",
+          text: "suprascapular artery",
+          response: "",
+          answer: "False",
+        },
+        {
+          label: "e",
+          text: "thoracoacromial artery",
+          response: "",
+          answer: "True",
+        },
+      ],
+      explanation: "The axillary artery is indeed divided into three parts by the pectoralis minor muscle. The branches of the axillary artery are:\nFirst part - superior thoracic artery\nSecond part - thoracoacromial artery, lateral thoracic artery\nThird part - subscapular artery, anterior and posterior circumflex humeral artery",
+    },
+    {
+      questionNumber: 2,
+      stem: "Concerning the lesser sac",
+      options: [
+        {
+          label: "a",
+          text: "the left margin opens into the greater sac",
+          response: "",
+          answer: "False",
+        },
+        {
+          label: "b",
+          text: "the IVC lies posterior to the epiploic foramen",
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "c",
+          text: "the caudate process lies superiorly to the epiploic foramen",
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "d",
+          text: "it projects between the layers of the greater omentum",
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "e",
+          text: "it projects upwards as far as the diaphragm",
+          response: "",
+          answer: "True",
+        },
+      ],
+      explanation: "The statement is partially true. The lesser sac does lie behind the stomach and lesser omentum and it does project superiorly as far as the diaphragm. However, it extends inferiorly between the layers of the greater omentum, not between the layers of the lesser omentum. The right margin of the lesser sac does open into the greater sac through the epiploic foramen",
+    },
+    {
+      questionNumber: 3,
+      stem: "The first part of the duodenum",
+      options: [
+        {
+          label: "a",
+          text: "is retroperitoneal",
+          response: "",
+          answer: "False",
+        },
+        {
+          label: "b",
+          text: "runs posteriorly",
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "c",
+          text: "lies to the right of L3",
+          response: "",
+          answer: "False",
+        },
+        {
+          label: "d",
+          text: "lies anterior to the common bile duct",
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "e",
+          text: "lies inferior to the epiploic foramen",
+          response: "",
+          answer: "True",
+        },
+      ],
+      explanation: "The first part of the duodenum does run upwards and backwards at the level of the L1 vertebra and is covered on both sides by peritoneum. The remainder of the duodenum, however, is retroperitoneal. The relations of the first part of the duodenum are:\nAnteriorly - gallbladder, quadrate lobe of liver\nPosteriorly - lesser sac, gastroduodenal artery, portal vein, IVC, common bile duct\nSuperiorly - epiploic foramen\nInferiorly - head of pancreas",
+    },
+    {
+      questionNumber: 4,
+      stem: "The gallbladder",
+      options: [
+        {
+          label: "a",
+          text: "lies posterior to the transverse colon",
+          response: "",
+          answer: "False",
+        },
+        {
+          label: "b",
+          text: "has a capacity of 50ml",
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "c",
+          text: "has a fundus covered by peritoneum",
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "d",
+          text: "lies posterior to the IVC",
+          response: "",
+          answer: "False",
+        },
+        {
+          label: "e",
+          text: "is supplied by a branch of the left hepatic artery",
+          response: "",
+          answer: "False",
+        },
+      ],
+      explanation: "The gallbladder has a capacity of 50ml and lies on the visceral surface of the liver. The fundus usually projects below the inferior margin of the liver and is surrounded by peritoneum. The cystic artery, which is a branch of the right hepatic artery, supplies the gallbladder, and it drains via the cystic vein into the portal vein. The relations of the gallbladder are anteriorly - anterior abdominal wall, liver, posteriorly - transverse colon, 1st and 2nd parts of the duodenum",
+    },
+    {
+      questionNumber: 5,
+      stem: "The abdominal aorta",
+      options: [
+        {
+          label: "a",
+          text: "gives origin to the inferior mesenteric artery at the level L2",
+          response: "",
+          answer: "False",
+        },
+        {
+          label: "b",
+          text: "lies to left of the cisterna chyli",
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "c",
+          text: "gives the coeliac artery as an anterior branch",
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "d",
+          text: "gives origin to the superior mesenteric artery at the level L1",
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "e",
+          text: "divides into the common iliac arteries at the level L4",
+          response: "",
+          answer: "True",
+        },
+      ],
+      explanation: "The aorta enters the abdomen at the level T12 and runs anterior to the L1-L4 vertebrae before dividing into the common iliac arteries at the level L4. The IVC, cisterna chyli, and the beginning of the azygos vein lie on the right side of the abdominal aorta, and the sympathetic trunk lies on the left. The branches of the abdominal aorta are anterior branches - coeliac artery (T12/L1), superior mesenteric artery (L1), inferior mesenteric artery (L3), lateral branches - inferior phrenic arteries (T12), adrenal arteries (L1), renal arteries (L1/2), gonadal arteries (L2), lumbar arteries, terminal branches - common iliac arteries, median sacral artery",
+    },
+    {
+      questionNumber: 6,
+      stem: "The ureter",
+      options: [
+        {
+          label: "a",
+          text: "crosses the bifurcation of the common iliac artery",
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "b",
+          text: "may show a normal constriction at the pelvic brim",
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "c",
+          text: "is related to the duodenum on the right",
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "d",
+          text: "may have retrocaval course causing medial deviation",
+          response: "",
+          answer: "False",
+        },
+        {
+          label: "e",
+          text: "crosses anterior to the gonadal vessels",
+          response: "",
+          answer: "False",
+        },
+      ],
+      explanation: "The ureter enters the pelvis by crossing the bifurcation of the common iliac artery anterior to the sacroiliac joint. It then courses down the lateral pelvic wall and turns forward at the level of the ischial spine to enter the bladder. The ureter has three constrictions along its course: (1) at the pelvic-ureteric junction, (2) at the pelvic brim, (3) at the uretero-vesical junction. The relations of the right ureter are anteriorly - duodenum, terminal ileum, right colic and ileocolic vessels, right gonadal vessels, root of small bowel mesentery, posteriorly - right psoas muscle, bifurcation of the right common iliac artery",
+    },
+    {
+      questionNumber: 7,
+      stem: "The para-aortic nodes drain the following structures",
+      options: [
+        {
+          label: "a",
+          text: "gallbladder",
+          response: "",
+          answer: "False",
+        },
+        {
+          label: "b",
+          text: "kidneys",
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "c",
+          text: "testis",
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "d",
+          text: "bladder",
+          response: "",
+          answer: "False",
+        },
+        {
+          label: "e",
+          text: "uterine fundus",
+          response: "",
+          answer: "True",
+        },
+      ],
+      explanation: "The para-aortic nodes drain the kidneys, adrenal glands, testis, ovaries, uterine fundus, fallopian tubes, deep lymph vessels of the abdominal walls, and the common iliac nodes",
+    },
+    {
+      questionNumber: 8,
+      stem: "The following are muscles of the rotator cuff",
+      options: [
+        {
+          label: "a",
+          text: "pectoralis minor",
+          response: "",
+          answer: "False",
+        },
+        {
+          label: "b",
+          text: "teres major",
+          response: "",
+          answer: "False",
+        },
+        {
+          label: "c",
+          text: "infraspinatus",
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "d",
+          text: "subscapularis",
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "e",
+          text: "supraspinatus",
+          response: "",
+          answer: "True",
+        },
+      ],
+      explanation: "The rotator cuff muscles comprise the supraspinatus, infraspinatus, subscapularis, and teres minor muscles",
+    },
+    {
+      questionNumber: 9,
+      stem: "Regarding the colon",
+      options: [
+        {
+          label: "a",
+          text: "the superior mesenteric artery supplies all the transverse colon",
+          response: "",
+          answer: "False",
+        },
+        {
+          label: "b",
+          text: "the appendix is attached to the postero-medial surface of the caecum",
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "c",
+          text: "the ascending colon is usually on a mesentery",
+
+          response: "",
+          answer: "False",
+        },
+        {
+          label: "d",
+          text: "the left colic flexure is higher than the right",
+
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "e",
+          text: "the caecum is covered by peritoneum",
+
+          response: "",
+          answer: "True",
+        },
+      ],
+      explanation: "The caecum is completely covered with peritoneum and the appendix is attached to its posteromedial surface. The transverse and sigmoid colon are usually on a mesentery. The superior mesenteric artery supplies the proximal two thirds of the transverse colon and the inferior mesenteric artery supplies the remainder",
+    },
+    {
+      questionNumber: 10,
+      stem: "The axillary artery",
+      options: [
+        {
+          label: "a",
+          text: "begins at the medial border of the first rib",
+
+          response: "",
+          answer: "False",
+        },
+        {
+          label: "b",
+          text: "is related to the brachial plexus cords",
+
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "c",
+          text: "is divided into three parts by the pectoralis minor muscle",
+
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "d",
+          text: "ends at the lower border of the teres minor",
+
+          response: "",
+          answer: "False",
+        },
+        {
+          label: "e",
+          text: "has an axillary sheath continuous with the prevertebral fascia",
+
+          response: "",
+          answer: "True",
+        },
+      ],
+      explanation: "The axillary artery begins at the lateral border of the first rib and ends at the lower border of the teres major muscle. It is related to the cords of the brachial plexus and is enclosed in the axillary sheath, which is continuous with the prevertebral fascia",
+    },
+    {
+      questionNumber: 11,
+      stem: "Concerning the infratemporal fossa",
+      options: [
+        {
+          label: "a",
+          text: "it is bounded medially by the lateral pterygoid plate",
+
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "b",
+          text: "it communicates with the pterygopalatine fossa",
+
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "c",
+          text: "it contains the mandibular nerve",
+
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "d",
+          text: "the foramen spinosum lies in its roof",
+
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "e",
+          text: "the foramen ovale lies in its roof",
+
+          response: "",
+          answer: "True",
+        },
+      ],
+      explanation: "The infratemporal fossa is bounded medially by the lateral pterygoid plate and laterally by the ramus of the mandible. The foramen spinosum and ovale lie in the roof of the infratemporal fossa. The foramen spinosum transmits the middle meningeal artery, and the foramen ovale transmits the mandibular nerve. Medially, the infratemporal fossa communicates with the pterygo-palatine fossa",
+    },
+    {
+      questionNumber: 12,
+      stem: "The pancreas",
+      options: [
+        {
+          label: "a",
+          text: "the head of the pancreas lies at the level of L3",
+
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "b",
+          text: "lies posterior to the common bile duct",
+
+          response: "",
+          answer: "False",
+        },
+        {
+          label: "c",
+          text: "has a head which lies higher than the tail",
+
+          response: "",
+          answer: "False",
+        },
+        {
+          label: "d",
+          text: "lies anterior to the lesser sac",
+
+          response: "",
+          answer: "False",
+        },
+        {
+          label: "e",
+          text: "has the splenic vein running along its inferior border",
+
+          response: "",
+          answer: "False",
+        },
+      ],
+      explanation: "The pancreas lies on the posterior abdominal wall at the level L1, and its tail lies higher than the head. The tail of the pancreas lies in the lienorenal ligament, whereas the remainder of the gland is retroperitoneal.\nThe relations of the pancreas are:\nAnteriorly - transverse colon, attachment of transverse mesocolon, lesser sac, stomach\nPosteriorly - common bile duct, portal and splenic veins, IVC and aorta, origin of the superior mesenteric artery, left kidney and adrenal gland, psoas muscle, spleen",
+    },
+    {
+      questionNumber: 13,
+      stem: "Concerning the diaphragm",
+      options: [
+        {
+          label: "a",
+          text: "the right vagus nerve passes through the caval opening",
+
+          response: "",
+          answer: "False",
+        },
+        {
+          label: "b",
+          text: "the oesophageal hiatus lies at the level T12",
+
+          response: "",
+          answer: "False",
+        },
+        {
+          label: "c",
+          text: "it receives a blood supply from aortic branches",
+
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "d",
+          text: "it is pierced by the thoracic duct",
+
+          response: "",
+          answer: "False",
+        },
+        {
+          label: "e",
+          text: "it arises in part from slips from the lower six costal cartilages",
+
+          response: "",
+          answer: "True",
+        },
+      ],
+      explanation: "The diaphragm originates from:\n(1) the medial arcuate ligament\n(2) the lateral arcuate ligament\n(3) slips from the lower six costal cartilages\n(4) slips from the posterior xiphisternum surface\n(5) central tendon\n\nThe diaphragm has three main openings. The aortic opening at the level T12 transmits the aorta, thoracic duct, and azygos vein. The esophageal opening at the level T10 transmits the esophagus, vagal trunks, branches of the left gastric artery, veins, and lymphatics. The caval opening at the level T8 transmits the IVC and the right phrenic nerve.\nThe diaphragm is supplied by inferior phrenic arteries from the aorta and the intercostal arteries",
+    },
+    {
+      questionNumber: 14,
+      stem: "The skull base consists of the following bones",
+      options: [
+        {
+          label: "a",
+          text: "the maxilla",
+
+          response: "",
+          answer: "False",
+        },
+        {
+          label: "b",
+          text: "the occipital bone",
+
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "c",
+          text: "the sphenoid bone",
+
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "d",
+          text: "the frontal bone",
+
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "e",
+          text: "the temporal bone",
+
+          response: "",
+          answer: "True",
+        },
+      ],
+      explanation: "",
+    },
+    {
+      questionNumber: 15,
+      stem: "The trachea",
+      options: [
+        {
+          label: "a",
+          text: "begins at the level C4",
+
+          response: "",
+          answer: "False",
+        },
+        {
+          label: "b",
+          text: "is 10 cm long",
+
+          response: "",
+          answer: "False",
+        },
+        {
+          label: "c",
+          text: "has a diameter of 1cm",
+
+          response: "",
+          answer: "False",
+        },
+        {
+          label: "d",
+          text: "consists of complete cartilage rings",
+
+          response: "",
+          answer: "False",
+        },
+        {
+          label: "e",
+          text: "lies anterior to the recurrent laryngeal nerve",
+
+          response: "",
+          answer: "True",
+        },
+      ],
+      explanation: "The trachea begins at the level C6 and extends to the level T5. It is 15cms long, 2cm in diameter and is composed of incomplete cartilage rings. The relations of the cervical course of the trachea are: Anteriorly - isthmus of thyroid, inferior thyroid veins, sternohyoid and sternothyroid muscle. Posteriorly - esophagus, recurrent laryngeal nerves. Laterally - thyroid gland, common carotid artery. The relations of the thoracic course of the trachea are: Anteriorly - left brachiocephalic vein, brachiocephalic and left common carotid artery, arch of aorta, sternum, thymus. Posteriorly - esophagus and left recurrent laryngeal nerve. Right side - azygos vein, right vagus nerve, and pleura. Left side - arch of the aorta, left common carotid and left subclavian arteries, left vagus and phrenic nerves, pleura",
+    },
+    {
+      questionNumber: 16,
+      stem: "The urinary bladder",
+      options: [
+        {
+          label: "a",
+          text: "has a triangular base",
+
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "b",
+          text: "is ovoid in shape when full",
+
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "c",
+          text: "neck rests on the prostate",
+
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "d",
+          text: "trigone has a trabeculated surface",
+
+          response: "",
+          answer: "False",
+        },
+        {
+          label: "e",
+          text: "is intraperitoneal",
+
+          response: "",
+          answer: "False",
+        },
+      ],
+      explanation: "The empty bladder has a pyramidal shape and is described as having an apex, base, superior surface, two inferolateral surfaces, and a neck. The base is triangular, and the area of mucous membrane on the internal surface of the base is called the trigone. The trigone has a smooth surface, and its superior angles correspond to the ureteric openings, and the inferior angle corresponds to the internal urethral orifice. The bladder is extraperitoneal",
+    },
+    {
+      questionNumber: 17,
+      stem: "The right main bronchus",
+      options: [
+        {
+          label: "a",
+          text: "is wider than the left",
+
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "b",
+          text: "lies 40 degrees from the vertical",
+
+          response: "",
+          answer: "False",
+        },
+        {
+          label: "c",
+          text: "is longer than the left main bronchus",
+
+          response: "",
+          answer: "False",
+        },
+        {
+          label: "d",
+          text: "lies anterior to the SVC",
+
+          response: "",
+          answer: "False",
+        },
+        {
+          label: "e",
+          text: "is posterior to the right pulmonary artery",
+
+          response: "",
+          answer: "True",
+        },
+      ],
+      explanation: "The right main bronchus is wider and shorter than the left, and the right main pulmonary artery runs anterior to it. The right main bronchus lies 20 degrees to the vertical, and the left bronchus lies 40 degrees to the vertical",
+    },
+    {
+      questionNumber: 18,
+      stem: "The portal vein",
+      options: [
+        {
+          label: "a",
+          text: "is formed by the splenic artery and superior mesenteric artery",
+
+          response: "",
+          answer: "False",
+        },
+        {
+          label: "b",
+          text: "runs posterior to the first part of the duodenum",
+
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "c",
+          text: "joins the IVC posterior to the common bile duct",
+
+          response: "",
+          answer: "False",
+        },
+        {
+          label: "d",
+          text: "is formed behind the body of the pancreas",
+
+          response: "",
+          answer: "False",
+        },
+        {
+          label: "e",
+          text: "is 5cm long",
+
+          response: "",
+          answer: "True",
+        },
+      ],
+      explanation: "The portal vein is formed behind the neck of the pancreas by the union of the splenic and superior mesenteric vein. It then runs posterior to the first part of the duodenum and enters the lesser omentum to ascend to the porta hepatis",
+    },
+    {
+      questionNumber: 19,
+      stem: "Concerning the humerus",
+      options: [
+        {
+          label: "a",
+          text: "The epicondyles are intracapsular",
+
+          response: "",
+          answer: "False",
+        },
+        {
+          label: "b",
+          text: "The capitellum articulates with the radial head",
+
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "c",
+          text: "The radial nerve lies in close relation to the diaphysis",
+
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "d",
+          text: "The medial epicondyle is the flexor origin",
+
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "e",
+          text: "The supraspinatus muscle attaches to the lesser tuberosity",
+
+          response: "",
+          answer: "False",
+        },
+      ],
+      explanation: "The epicondyles are extracapsular. The medial epicondyle gives rise to the flexor origin, and the lateral epicondyle gives rise to the extensor origin",
+    },
+    {
+      questionNumber: 20,
+      stem: "Regarding the pulmonary vessels",
+      options: [
+        {
+          label: "a",
+          text: "The ascending aorta lies anterior to the main pulmonary artery",
+
+          response: "",
+          answer: "False",
+        },
+        {
+          label: "b",
+          text: "All the main pulmonary artery is contained in the pericardium",
+
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "c",
+          text: "At the pulmonary hilum the right superior pulmonary vein is antero-inferior to the right pulmonary artery",
+
+          response: "",
+          answer: "True",
+        },
+        {
+          label: "d",
+          text: "The right pulmonary artery lies anterior to the SVC",
+
+          response: "",
+          answer: "False",
+        },
+        {
+          label: "e",
+          text: "The left pulmonary artery passes anterior to the left main bronchus",
+
+          response: "",
+          answer: "True",
+        },
+      ],
+      explanation: "The main pulmonary artery leaves the upper part of the right ventricle and is enclosed in a pericardial sheath with the ascending aorta. It terminates in the concavity of the arch of the aorta by dividing into the right and left pulmonary arteries. The right pulmonary artery is longer than the left and runs behind the ascending aorta and superior vena cava (SVC). It then runs anterior to the right main bronchus. The left pulmonary artery runs to the left in front of the left main bronchus and then spirals over the superior aspect of the left main bronchus",
+    },
+  ],
+}

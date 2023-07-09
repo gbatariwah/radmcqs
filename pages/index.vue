@@ -8,6 +8,13 @@ const books = [
     type: "mcqs",
   },
   {
+    title: "MCQs in Anatomy",
+    slug: "mcqs-in-anatomy",
+    edition: 1,
+    color: "primary",
+    type: "mcqs",
+  },
+  {
     title: "800 MCQ For Medical Radiographers",
     slug: "mcqs-for-medical-radiographers",
     edition: 1,

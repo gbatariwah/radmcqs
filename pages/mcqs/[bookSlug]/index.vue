@@ -15,11 +15,11 @@ const covers = Object.fromEntries(
 );
 
 const editionSuffix = computed(() =>
-  book.value.editon === 1
+  book.value.edition === 1
     ? "st"
-    : book.value.editon === 2
+    : book.value.edition === 2
     ? "nd"
-    : book.value.editon === 3
+    : book.value.edition === 3
     ? "rd"
     : "th"
 );
@@ -61,6 +61,14 @@ const editionSuffix = computed(() =>
           </div>
         </div>
       </div>
+    </div>
+    <div v-if="params.bookSlug === 'mcqs-in-anatomy'">
+      <nuxt-link
+        :to="`/mcqs/mcqs-in-anatomy/${book.sections[0].slug}`"
+        class="font-[oswald] font-bold text-xl tracking-wider uppercase mb-4"
+      >
+        Questions
+      </nuxt-link>
     </div>
   </div>
 </template>
