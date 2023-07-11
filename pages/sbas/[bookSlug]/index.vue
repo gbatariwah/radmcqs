@@ -53,7 +53,7 @@ const covers = Object.fromEntries(
         <div v-for="part in book.sections" :key="part.slug">
           <nuxt-link :to="`/sbas/mcqs-for-medical-radiographers/${part.slug}`">
             <h3
-              class="py-2 font-[oswald] text-orange-400 font-bold tracking-wider text-xl"
+              class="py-2 font-[oswald] font-bold tracking-wider text-xl underline"
             >
               {{ part.part }}
             </h3>
@@ -81,7 +81,10 @@ const covers = Object.fromEntries(
         <div v-for="section in book.sections" :key="section.slug">
           <div class="space-y-4">
             <div class="font-[oswald] text-xl">
-              <nuxt-link :to="`/sbas/${params.bookSlug}/${section.slug}`">
+              <nuxt-link
+                :to="`/sbas/${params.bookSlug}/${section.slug}`"
+                class="hover:underline"
+              >
                 {{ section.name }}
               </nuxt-link>
             </div>

@@ -15,7 +15,7 @@
     <div v-if="isMCQsInAnatomy && (showAnswers || checkAnswers)">
       <div v-if="question.explanation">
         <UBadge
-          color="lime"
+          color="emerald"
           class="text-sm p-2 font-light rounded-lg mt-1 flex pr-6"
         >
           <p class="p-4">
@@ -56,6 +56,8 @@ const props = defineProps({
 const isMCQsInAnatomy = computed(
   () => path.split("/")[2] === "mcqs-in-anatomy"
 );
+
+const optionLabels = ["a", "b", "c", "d", "e"];
 
 const questionsAnswered = computed(() =>
   props.question.options.every((option) => option.response !== "")

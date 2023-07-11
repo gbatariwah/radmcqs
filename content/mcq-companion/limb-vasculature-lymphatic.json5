@@ -62,7 +62,7 @@
             explanation: 'Intravenous digital subtraction angiography usually requires large amounts of iodinated contrast medium',
           },
           {
-            text: 'Radial artery catheterization is performed using a 5F catheter.',
+            text: 'Radial artery catheterization is performed using a 5F catheter',
             response: '',
             answer: 'False',
             explanation: 'Radial artery catheterization is usually performed using 3F catheters, not 5F catheters',
@@ -140,7 +140,7 @@
             explanation: 'And contributes to the scapular anastomosis',
           },
           {
-            text: 'The third part is superficial and may be used for arterial puncture.',
+            text: 'The third part is superficial and may be used for arterial puncture',
             response: '',
             answer: 'True',
             explanation: '',

@@ -52,7 +52,10 @@ const editionSuffix = computed(() =>
           <div class="space-y-4">
             <div v-for="(section, id) in module" :key="id">
               <h5 class="font-[oswald] text-xl">
-                <nuxt-link :to="`/mcqs/mcq-companion/${section.slug}`">
+                <nuxt-link
+                  :to="`/mcqs/mcq-companion/${section.slug}`"
+                  class="hover:underline"
+                >
                   {{ section.name }}
                 </nuxt-link>
               </h5>
@@ -65,7 +68,7 @@ const editionSuffix = computed(() =>
     <div v-if="params.bookSlug === 'mcqs-in-anatomy'">
       <nuxt-link
         :to="`/mcqs/mcqs-in-anatomy/${book.sections[0].slug}`"
-        class="font-[oswald] font-bold text-xl tracking-wider uppercase mb-4"
+        class="font-[oswald] font-bold text-xl tracking-wider uppercase mb-4 underline"
       >
         Questions
       </nuxt-link>

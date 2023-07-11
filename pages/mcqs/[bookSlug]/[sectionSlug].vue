@@ -58,7 +58,7 @@ const shuffleOptions = () => {
   refresh();
 };
 
-const totalQuestions = computed(() => section.value.questions?.length * 5);
+const totalQuestions = computed(() => section.value.questions?.length);
 
 const showAnswers = ref(false);
 const checkAnswers = ref(false);

@@ -36,6 +36,15 @@ const books = [
     type: "sbas",
   },
 ];
+
+const optionLabels = ["a", "b", "c", "d", "e"];
+
+const transform = (q) => {
+  return q.map((que) => ({
+    ...que,
+    options: que.options.map((o, i) => ({ ...o, label: optionLabels[i] })),
+  }));
+};
 </script>
 
 <template>

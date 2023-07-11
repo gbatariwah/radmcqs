@@ -98,13 +98,13 @@
           explanation: 'The tendinous margin is echobright and central portion is echopoor',
         },
         {
-          text: 'In anterior dislocation of the shoulder, cortical defects may occur in the anterior aspect of the head of the humerus.',
+          text: 'In anterior dislocation of the shoulder, cortical defects may occur in the anterior aspect of the head of the humerus',
           response: '',
           answer: 'True',
           explanation: 'They occur in the posterior aspect of the head of the humerus (Hill–Sachs lesion), which are best shown by a Striker’s view (patient supine, humerus 90° to the table with a cephald beam at 25°)',
         },
         {
-          text: 'All the rotator cuff muscles are attached to the greater tubercle of the humerus.',
+          text: 'All the rotator cuff muscles are attached to the greater tubercle of the humerus',
           response: '',
           answer: 'False',
           explanation: 'they occur in the posterior aspect of the head of the humerus (Hill–Sachs lesion), which are best shown by a Striker’s view (patient supine, humerus 90° to the table with a cephald beam at 25°)',
@@ -116,7 +116,7 @@
       stem: 'Regarding the upper limb',
       options: [
         {
-          text: 'The radial groove is situated in the radius.',
+          text: 'The radial groove is situated in the radius',
           response: '',
           answer: 'False',
           explanation: 'Within the radial groove runs the radial nerve and the profunda brachialis artery. This groove is closely applied to the mid shaft of the humerus and a fracture in this location may give rise to neuropraxia',
@@ -134,13 +134,13 @@
           explanation: 'This ligament runs from a supracondylar spur (which may be seen in less than 1% of individuals) to the medial epicondyle with the median nerve and brachial artery beneath it',
         },
         {
-          text: 'The capitulum is the first secondary ossification centre to appear in the elbow.',
+          text: 'The capitulum is the first secondary ossification centre to appear in the elbow',
           response: '',
           answer: 'True',
           explanation: 'The order in which they appear are as follows: capitulum (1 year), radial head and medial (internal) epicondyle (5 years), trochlea (11 years), olecranon (12 years), lateral (external) epicondyle (13 years) – use the mnemonic CRITOE',
         },
         {
-          text: 'A prominent posterior fat pad in a lateral radiograph of the elbow is seen in cases of joint effusion.',
+          text: 'A prominent posterior fat pad in a lateral radiograph of the elbow is seen in cases of joint effusion',
           response: '',
           answer: 'True',
           explanation: 'A prominent anterior fat pad is a normal variant in 15% of individuals',
@@ -305,7 +305,7 @@
           text: 'The iliac crest has a separate ossification center',
           response: '',
           answer: 'True',
-          explanation: 'Fuses from 20 years onwards.',
+          explanation: 'Fuses from 20 years onwards',
         },
         {
           text: 'The rectus femoris originates at the anterior superior iliac spine',
@@ -380,7 +380,7 @@
           explanation: 'The piriformis passes through the greater sciatic foramen, not the lesser sciatic foramen',
         },
         {
-          text: 'The obturator internus arises from the medial part of the obturator membrane and surrounding bone and passes through the lesser sciatic foramen.',
+          text: 'The obturator internus arises from the medial part of the obturator membrane and surrounding bone and passes through the lesser sciatic foramen',
           response: '',
           answer: 'True',
           explanation: '',
@@ -392,7 +392,7 @@
           explanation: 'The gemellus inferior arises from the ischial tuberosity, and the gemellus superior arises from the ischial spine. Both muscles insert into the greater trochanter',
         },
         {
-          text: 'The tendons of obturator internus and gemelli muscles lie between the femoral head anteriorly and gluteus maximus posteriorly.',
+          text: 'The tendons of obturator internus and gemelli muscles lie between the femoral head anteriorly and gluteus maximus posteriorly',
           response: '',
           answer: 'True',
           explanation: '',
@@ -422,7 +422,7 @@
           explanation: 'From the medial aspect of the femoral neck it usually is a smooth curve',
         },
         {
-          text: 'The sacrum is better seen with a 35° cephalad angulation on the AP radiograph.',
+          text: 'The sacrum is better seen with a 35° cephalad angulation on the AP radiograph',
           response: '',
           answer: 'True',
           explanation: 'Ferguson’s view. The Stork’s view to assess instability of the pubic symphysis is taken standing on each leg. Change in alignment of the superior surface of the pubic rami of more than 3 mm is abnormal',
@@ -458,13 +458,13 @@
           response: '',
         },
         {
-          text: 'The pelvic outlet dimensions are more important than the inlet dimensions.',
+          text: 'The pelvic outlet dimensions are more important than the inlet dimensions',
           answer: 'False',
           explanation: 'There is a considerable increase in the outlet diameter of up to 4 cm during delivery due to relaxation of the symphysis pubis and rotation of the sacroiliac joints',
           response: '',
         },
         {
-          text: 'The transverse outlet diameter is measured between the ischial tuberosities.',
+          text: 'The transverse outlet diameter is measured between the ischial tuberosities',
           answer: 'True',
           explanation: 'Average is 10.5 cm',
           response: '',
@@ -488,7 +488,7 @@
           response: '',
         },
         {
-          text: 'The fibrous capsule is attached around the rim of the acetabulum and inferiorly to the transverse acetabular ligament.',
+          text: 'The fibrous capsule is attached around the rim of the acetabulum and inferiorly to the transverse acetabular ligament',
           answer: 'True',
           explanation: 'Where the weight is borne',
           response: '',
@@ -500,7 +500,7 @@
           response: '',
         },
         {
-          text: 'The Von Rosen’s view is useful in the assessment of femoral capital epiphyses in children.',
+          text: 'The Von Rosen’s view is useful in the assessment of femoral capital epiphyses in children',
           answer: 'False',
           explanation: 'the Frog’s lateral view is used for this – the Von Rosen’s view is used in the assessment of congenital dislocation of the hip. Judet’s views of the acetabulum and femoral head give information on the anterior and posterior columns of the acetabulum',
           response: '',
@@ -572,7 +572,7 @@
           explanation: 'Usually bilateral. May be diﬃcult to diﬀerentiate from a fracture',
         },
         {
-          text: '(e) Tensor fascia lata arises from the anterior superior iliac spine and inserts into the lateral condyle of the femur',
+          text: 'Tensor fascia lata arises from the anterior superior iliac spine and inserts into the lateral condyle of the femur',
           response: '',
           answer: 'False',
           explanation: 'Inserts into the iliotibial tract – a strong thickened band of deep fascia of the lateral aspect of the thigh (fascia lata) which is attached to the lateral condyle of the tibia',
@@ -584,7 +584,7 @@
       stem: 'In the lower limb',
       options: [
         {
-          text: 'The rectus femoris arises from the anterior superior iliac spine.',
+          text: 'The rectus femoris arises from the anterior superior iliac spine',
           response: '',
           answer: 'False',
           explanation: 'From the anterior inferior iliac spine. The sartorius and tensor fascia lata arise from the anterior superior iliac spine. The rectus femoris inserts into the base of the patella and by the patellar ligament to the tibial tuberosity. This insertion is the same for the other muscles which form the quadriceps femoris; vastus – lateralis, medialis and intermedius',
@@ -638,13 +638,13 @@
           explanation: 'It is a cord-like structure between the lateral epicondyle of the femur and head of the fibula',
         },
         {
-          text: 'The anterior cruciate ligament passes from the anterior intercondylar area of the tibia to the medial femoral condyle.',
+          text: 'The anterior cruciate ligament passes from the anterior intercondylar area of the tibia to the medial femoral condyle',
           response: '',
           answer: 'False',
           explanation: 'To the medial surface of lateral femoral condyle. It prevents femur moving backwards on tibia',
         },
         {
-          text: 'The medial collateral ligament is a flattened band that blends posteriorly with the fibrous capsule.',
+          text: 'The medial collateral ligament is a flattened band that blends posteriorly with the fibrous capsule',
           response: '',
           answer: 'True',
           explanation: '',
@@ -824,7 +824,7 @@
           "explanation": "In the oblique view of the foot, the medial margin of the base of the third metatarsal should be in line with the medial margin of the lateral cuneiform. If not, it is a Lisfranc injury"
         },
         {
-          "text": "(e) Lateral ligamentous stability of the ankle is best demonstrated on a dorsiflexion view",
+          "text": "Lateral ligamentous stability of the ankle is best demonstrated on a dorsiflexion view",
           "response": "",
           "answer": "False",
           "explanation": "Avulsion fracture of the base of the fifth metatarsal is transverse to the long axis of the metatarsal. An apophysis which mimics a fracture is longitudinal to the long axis of the metatarsal"
