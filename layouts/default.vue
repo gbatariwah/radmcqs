@@ -5,6 +5,7 @@
     </header>
     <main class="p-4 min-h-[500px]">
       <slot />
+      <ScrollToTop />
     </main>
     <footer class="text-center p-8 border-t dark:border-zinc-800">
       <p>&copy; RAD MCQS. {{ new Date().getFullYear() }}</p>

@@ -3,5 +3,127 @@
 
   "name": "Part III",
   "slug": "part-iii",
-  questions: []
+  questions: [
+    {
+      "questionNumber": 1,
+      "stem": "Which is true for barium sulfate?",
+      "options": [
+        "Radio opaque positive contrast media",
+        "Contraindicated in case of GIT perforation",
+        "Mal absorption material",
+        "All above"
+      ],
+      "response": "",
+      "answer": "All above"
+    },
+    {
+      "questionNumber": 2,
+      "stem": "For IVU procedure, the plain film is needed for",
+      "options": [
+        "Determine the optimal technical factor",
+        "Differentiate any calcification or stone before enhancing with contrast media",
+        "Evaluation the preparation of the patient",
+        "All above"
+      ],
+      "response":  "",
+      "answer": "All above"
+    },
+    {
+      "questionNumber": 3,
+      "stem": "The most safety contrast media is",
+      "options": [
+        "Low osmolarity",
+        "High osmolarity",
+        "Ionic",
+        "B+C"
+      ],
+      "response":  "",
+      "answer": "Low osmolarity"
+    },
+    {
+      "questionNumber": 4,
+      "stem": "In Case of barium swallow for trachoesophageal fistula the contrast which used is",
+      "options": [
+        "Gastrographin",
+        "Soft barium",
+        "Ionic contrast media",
+        "None of above"
+      ],
+      "response":  "",
+      "answer": "Soft barium"
+    },
+    {
+      "questionNumber": 5,
+      "stem": "Barium Swallow is procedure used to demonstrate",
+      "options": [
+        "Esophagus",
+        "Stomach",
+        "Small bowel",
+        "Large bowel"
+      ],
+      "response":  "",
+      "answer": "Esophagus"
+    },
+    {
+      "questionNumber": 6,
+      "stem": "When examining the IVU procedure for hypertensive patient, the films should be taken in which of the following series times?",
+      "options": [
+        "2min, 5min, 10min",
+        "5min, 10min, 15min",
+        "10min, 15min, 20min",
+        "15min, 20min, 25min"
+      ],
+      "response":  "",
+      "answer": "2min, 5min, 10min"
+    },
+    {
+      "questionNumber": 7,
+      "stem": "In order to demonstrate the Urinary tract, the following procedures are used for this purpose except",
+      "options": [
+        "T- Tube",
+        "MCUG",
+        "IVU",
+        "Urethrography"
+      ],
+      "response":  "",
+      "answer": "T- Tube"
+    },
+    {
+      "questionNumber": 8,
+      "stem": "HSG is procedure used to demonstrate",
+      "options": [
+        "Uterus and fallopian tubes",
+        "Liver and Billary system",
+        "Gastrointestinal tract",
+        "Urinary tract"
+      ],
+      "response":  "",
+      "answer": "Uterus and fallopian tubes"
+    },
+    {
+      "questionNumber": 9,
+      "stem": "In fluoroscopy, when protective aprons are worn, the dosimeter should be worn",
+      "options": [
+        "Outside the apron at level of the collar",
+        "Inside the apron at level of the top torso",
+        "Outside the apron at level of the waist",
+        "Not necessary worn dosimeter with apron"
+      ],
+      "response":  "",
+      "answer": "Inside the apron at level of the top torso"
+    },
+    {
+      "questionNumber": 10,
+      "stem": "The concentration of barium in barium enema procedure",
+      "options": [
+        "100% W/V",
+        "150% W/V",
+        "200% W/V",
+        "250% W/V"
+      ],
+      "response":  "",
+      "answer": "150% W/V"
+    }
+  ]
+
 }

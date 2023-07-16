@@ -1777,7 +1777,7 @@
           answer: "False",
         },
       ],
-      explanation: "The carotid sheath contains: \n- common and internal carotid arteries. \n- internal jugular vein. \n- vagus nerve. \n- deep cervical lymph nodes",
+      explanation: "",
     },
     {
       questionNumber: 49,
@@ -2110,7 +2110,7 @@
           answer: "True",
         },
       ],
-      explanation: "No explanation provided",
+      explanation: "",
     },
     {
       questionNumber: 58,

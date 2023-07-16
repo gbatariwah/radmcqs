@@ -3,5 +3,107 @@
 
   "name": "Part II",
   "slug": "part-ii",
-  questions: []
+  questions: [
+    {
+      "questionNumber": 1,
+      "stem": "Which specific positioning error is present if the mandibular rami are not superimposed on a lateral skull radiograph?",
+      "options": [
+        "Tilt",
+        "Rotation",
+        "Incorrect CR angle",
+        "Over flexion of head and neck"
+      ],
+      "response": "",
+      "answer": "Rotation"
+    },
+    {
+      "questionNumber": 2,
+      "stem": "Which one of the following projections is the best to demonstrate the right thoracic intervertebral foramina?",
+      "options": [
+        "Lateral projection ( left lateral position )",
+        "Lateral projection ( right lateral position )",
+        "RAO position",
+        "A and D"
+      ],
+      "response": "",
+      "answer": "A and D"
+    },
+    {
+      "questionNumber": 3,
+      "stem": "The proper position of LSS for diagnosis the spine bifda",
+      "options": ["AP", "Lateral", "AP oblique", "PA oblique"],
+      "response": "",
+      "answer": "AP"
+    },
+    {
+      "questionNumber": 4,
+      "stem": "Which the following position is used to demonstrate the sternum",
+      "options": ["LAO position", "RAO position", "PA chest", "AP chest"],
+      "response": "",
+      "answer": "RAO position"
+    },
+    {
+      "questionNumber": 5,
+      "stem": "Which is the minimum amount of time a patient should be upright before taking a projection to demonstrate intra-abdominal free air?",
+      "options": ["20 minutes", "30 minutes", "2 minutes", "5 minutes"],
+      "response": "",
+      "answer": "5 minutes"
+    },
+    {
+      "questionNumber": 6,
+      "stem": "Where are the petrous ridges projected for a properly positioned modified parietoacanthial projection?",
+      "options": [
+        "Petrous ridges are projected just below the inferior orbital rim",
+        "Petrous ridges are projected into the lower one-third of the orbits",
+        "Petrous ridges are projected into the upper half of the maxillary sinuses",
+        "Petrous ridges are projected just below the maxillary sinuses"
+      ],
+      "response": "",
+      "answer": "Petrous ridges are projected just below the maxillary sinuses"
+    },
+    {
+      "questionNumber": 7,
+      "stem": "During a Panorama procedure, it is important to keep the ... positioning line parallel to the floor",
+      "options": ["OML", "AML", "GAL", "IOML"],
+      "response": "",
+      "answer": "IOML"
+    },
+    {
+      "questionNumber": 8,
+      "stem": "What is the proper position for an AP forearm projection?",
+      "options": [
+        "Hand supinated",
+        "Hand pronated",
+        "Elbow at 90 degrees",
+        "A and C"
+      ],
+      "response": "",
+      "answer": "Hand supinated"
+    },
+    {
+      "questionNumber": 9,
+      "stem": "The Skyline position is used to demonstrate",
+      "options": [
+        "Intercondyler notch",
+        "Patella",
+        "Medial epicondyle",
+        "Lateral epicondyle"
+      ],
+      "response": "",
+      "answer": "Patella"
+    },
+    {
+      "questionNumber": 10,
+      "stem": "Which the following criteria are used to evaluate PA projection of chest?",
+      "options": [
+        "(9 to 10 posterior ribs) should be visualized",
+        "Sternoclavicular joints should be symmetrical",
+        "The scapula should be outside the lung fields",
+        "All above"
+      ],
+      "response": "",
+      "answer": "All above"
+    }
+  ]
+
 }
