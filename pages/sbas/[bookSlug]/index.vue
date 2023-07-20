@@ -36,11 +36,15 @@ const covers = Object.fromEntries(
       <div class="p-4">
         <h1 class="font-[oswald] text-4xl pb-2">
           {{ book.title }}
-          <span class="text-orange-400 font-light"
+          <span
+            v-if="params.bookSlug !== 'engineering-interview-questions'"
+            class="text-orange-400 font-light"
             >{{ book.edition }}{{ editionSuffix }} Edition</span
           >
         </h1>
-        <p>By {{ book.author }}</p>
+        <p v-if="params.bookSlug !== 'engineering-interview-questions'">
+          By {{ book.author }}
+        </p>
       </div>
     </div>
 

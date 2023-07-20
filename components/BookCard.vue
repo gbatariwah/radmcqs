@@ -33,7 +33,10 @@ const covers = Object.fromEntries(
         class="font-[oswald] tracking-wider font-medium"
       >
         {{ book.title }}
-        <UBadge :color="book.color" size="xs"
+        <UBadge
+          v-if="book.slug !== 'engineering-interview-questions'"
+          :color="book.color"
+          size="xs"
           >{{ book.edition }}<sup>{{ editionSuffix }}</sup>
           <span class="ml-1">Edition</span></UBadge
         >

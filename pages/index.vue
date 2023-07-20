@@ -35,6 +35,13 @@ const books = [
     color: "primary",
     type: "sbas",
   },
+  {
+    title: "Engineering Interview Questions - Radiology",
+    slug: "engineering-interview-questions",
+    edition: 0,
+    color: "primary",
+    type: "sbas",
+  },
 ];
 </script>
 
