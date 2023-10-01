@@ -5,7 +5,6 @@ const { path, params } = useRoute();
 const toast = useToast();
 
 const questionsShuffled = ref(false);
-const optionsShuffled = ref(false);
 
 const {
   data: section,
@@ -25,19 +24,14 @@ const {
           .sort((a, b) => a.sort - b.sort)
           .map(({ value }) => value);
 
-      const shuffledQuestions = shuffle(res.questions);
-
       if (questionsShuffled.value) {
         questionsShuffled.value = false;
-        return { ...res, questions: shuffledQuestions };
-      }
-
-      if (optionsShuffled.value) {
-        optionsShuffled.value = false;
-        const transformed = res.questions.map((question) => ({
-          ...question,
-          options: shuffle(question.options),
-        }));
+        const transformed = shuffle(
+          res.questions.map((question) => ({
+            ...question,
+            options: shuffle(question.options),
+          }))
+        );
 
         return { ...res, questions: transformed };
       }
@@ -51,11 +45,6 @@ const bookSlug = computed(() => path.split("/")[2]);
 const shuffleQuestions = () => {
   questionsShuffled.value = true;
   toast.add({ title: "Questions Shuffled!", icon: "i-ic-outline-info" });
-  refresh();
-};
-const shuffleOptions = () => {
-  optionsShuffled.value = true;
-  toast.add({ title: "Options Shuffled!", icon: "i-ic-outline-info" });
   refresh();
 };
 
@@ -143,21 +132,12 @@ const covers = Object.fromEntries(
                   @click="handleReset"
                 />
               </div>
-              <div v-else class="flex gap-4">
+              <div v-else>
                 <UButton
-                  label="Shuffle Questions"
+                  label="Shuffle"
                   class="flex gap-2"
                   size="xs"
-                  variant="soft"
                   @click="shuffleQuestions"
-                  icon="i-ic-baseline-shuffle"
-                />
-                <UButton
-                  variant="soft"
-                  label="Shuffle Options"
-                  class="flex gap-2"
-                  size="xs"
-                  @click="shuffleOptions"
                   icon="i-ic-baseline-shuffle"
                 />
               </div>

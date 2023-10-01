@@ -12,6 +12,8 @@ const editionSuffix = computed(() =>
     ? "nd"
     : props.book.edition === 3
     ? "rd"
+    : typeof props.book.edition === "string"
+    ? ""
     : "th"
 );
 

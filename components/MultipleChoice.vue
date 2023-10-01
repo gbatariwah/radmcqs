@@ -28,7 +28,7 @@
     <div class="py-2 text-right" v-if="questionsAnswered && !showAnswers">
       <UButton
         @click="checkAnswers = !checkAnswers"
-        :label="checkAnswers ? 'Hide Answers' : 'Check Answers'"
+        :label="checkAnswers ? 'Hide Answers' : 'Show Answers'"
         class="animate__animated animate__bounceIn animate__faster"
         size="xs"
         color="sky"

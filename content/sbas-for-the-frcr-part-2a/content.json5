@@ -1,0 +1,32 @@
+{
+  title: "SBAs for the FRCR Part 2A",
+  slug: "sbas-for-the-frcr-part-2a",
+  author: "Richard Lindsay, Scott Gillespie, Rory Kelly, Raghuram Sathyanarayana, Nicholas Napier, Paul Burns",
+  edition: "Illustrated",
+  sections: [
+    {
+      name: "Cardiothoracic and Vascular",
+      slug: "cardiothoracic-and-vascular",
+    },
+    {
+      name: "Musculoskeletal and Trauma",
+      slug: "musculoskeletal-and-trauma",
+    },
+    {
+      name: "Gastrointestinal",
+      slug: "gastrointestinal",
+    },
+    {
+      name: "Genitourinary, Adrenal, Obstetric & Gynaecology and Breast",
+      slug: "genitourinary-adrenal-obstetric-gynaecology-and-breast",
+    },
+    {
+      name: "Paediatrics",
+      slug: "paediatrics",
+    },
+    {
+      name: "Central Nervous and Head & Neck",
+      slug: "central-nervous-and-head-neck",
+    },
+  ],
+}

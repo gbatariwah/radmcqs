@@ -1,0 +1,828 @@
+[
+  {
+    "questionNumber": 1,
+    "stem": "A 33-year-old driver is severely injured in a motor vehicle accident. He develops increasing dyspnoea and hypoxia, and requires intubation. A chest x-ray (CXR) was normal on admission and his pulmonary capillary wedge pressure is normal. A repeat CXR performed at over 24 hours after the trauma is not normal. He is re-imaged during his intensive care unit (ICU) stay and at one point undergoes a computed tomography pulmonary angiography (CTPA), which is negative for pulmonary embolism (PE). The clinical team suspect acute respiratory distress syndrome (ARDS). Which of the following radiographic features is inconsistent with this diagnosis?",
+    "options": [
+      "A. Bronchial dilatation on computed tomography (CT).",
+      "B. Bilateral heterogeneous air-space opacities.",
+      "C. Diffuse reticular changes.",
+      "D. Pneumothorax.",
+      "E. Bilateral pleural effusions."
+    ]
+  },
+  {
+    "questionNumber": 2,
+    "stem": "A previously well 42-year-old man is admitted with acute left-sided pleuritic chest pain. His SaO2 is recorded as 92%. D-Dimer assay is elevated. His mother had died suddenly at the age of 58 years. He is further investigated via CTPA, which is negative for PE. Based on his presenting symptoms, the referring consultant continues to be concerned that the patient has a PE. What advice do you offer regarding this patient’s management?",
+    "options": [
+      "A. Refer for V/Q scanning.",
+      "B. Refer for catheter pulmonary angiography.",
+      "C. Commence anticoagulation for 3 months given clinical suspicion.",
+      "D. Commence anticoagulation for 6 months given clinical suspicion.",
+      "E. No further investigation or anticoagulation required.",
+      "F. Repeat CTPA"
+    ]
+  },
+  {
+    "questionNumber": 3,
+    "stem": "A 45-year-old male smoker has a 6-month history of gradually increasing shortness of breath and cough. CXR shows a mild increase in interstitial markings in the mid and upper zones. An high-resolution CT (HRCT) of chest is requested for clarification and this demonstrates ill-defined centrilobular ground-glass nodules, more pronounced in the mid and upper zones. There is no traction bronchiectasis or honeycombing. What is the most likely diagnosis?",
+    "options": [
+      "A. Desquamative interstitial pneumonia (DIP).",
+      "B. Usual interstitial pneumonia (UIP).",
+      "C. Respiratory bronchiolitis interstitial lung disease (RBILD).",
+      "D. Non-specific interstitial pneumonia (NSIP).",
+      "E. Cryptogenic organizing pneumonia (COP)."
+    ]
+  },
+  {
+    "questionNumber": 4,
+    "stem": "A 25-year-old with a history of cystic fibrosis presents with massive haemoptysis. Bronchial artery embolization is requested. Which of the following statements regarding bronchial artery embolization is false?",
+    "options": [
+      "A. A descending thoracic aortogram is performed prior to selective bronchial angiography.",
+      "B. Bronchial angiography is performed with manual injection of contrast medium.",
+      "C. The abnormal bronchial artery is embolized at its origin.",
+      "D. Polyvinyl alcohol particles (diameter of 350–500 μm) may be used as the embolic material.",
+      "E. Chest pain is the most common complication."
+    ]
+  },
+  {
+    "questionNumber": 5,
+    "stem": "A 73-year-old patient is involved in a road traffic accident (RTA) and sustains a head injury. He is intubated at the scene due to a low Glasgow Coma Scale (GCS). The patient is transferred for a CT chest as he is hypoxic. On reviewing the CT scan you note widespread emphysema, consistent with the history of smoking. He has a narrowing of the trachea, immediately inferior to the distal margin of the endotracheal (ET) tube. This narrowing is caused by an endoluminal mass associated with a circumferential area of soft tissue that extends into the paratracheal space. There is no pneumomediastinum and no other lung injury is seen. What is the most likely cause?",
+    "options": [
+      "A. Post-intubation stenosis.",
+      "B. Tracheal papilloma.",
+      "C. Non small cell lung cancer.",
+      "D. Adenoid cystic carcinoma.",
+      "E. Squamous cell carcinoma."
+    ]
+  },
+  {
+    "questionNumber": 6,
+    "stem": "A patient is admitted with a comminuted femoral fracture. Initially he is quite well, but goes to theatre for internal fixation of the fracture. His clinical condition deteriorates after 24 hours and he develops fever, hypoxia, and confusion. The clinical team have noted a rash and at the same time as requesting a CT chest, request a CT brain ‘?meningitis secondary to epidural’. The CT chest reveals widespread peripheral areas of ground-glass opacification (GGO) and air-space consolidation. There are no septal lines or pleural effusions. A follow-up radiograph 10 days later reveals complete resolution. What is the most likely diagnosis?",
+    "options": [
+      "A. Multiple pulmonary contusions.",
+      "B. Pulmonary oedema secondary to anaesthetic medication.",
+      "C. Fat embolism.",
+      "D. ARDS.",
+      "E. Pneumococcal meningitis."
+    ]
+  },
+  {
+    "questionNumber": 7,
+    "stem": "A 50-year-old woman presents with gradually increasing shortness of breath. A CXR and HRCT of chest show subpleural reticulation, more marked in the lower zones. Which of the following further findings on HRCT is most likely to support the diagnosis of NSIP?",
+    "options": [
+      "A. Centrilobular nodules.",
+      "B. Air-trapping.",
+      "C. GGO.",
+      "D. Cystic changes.",
+      "E. Pleural effusions."
+    ]
+  },
+  {
+    "questionNumber": 8,
+    "stem": "A 60-year-old man presents with a history of headache, vertigo, ataxia, and intermittent pain and weakness in his left arm initiated by using the left arm for daily activities. On examination, the left radial pulse is weak and the systolic blood pressure on the left side is reduced by 30 mmHg. Doppler ultrasound reveals reversal of flow in the left vertebral artery. What is the likely underlying pathology?",
+    "options": [
+      "A. Critical stenosis of right middle cerebral artery (MCA).",
+      "B. Critical stenosis of left MCA.",
+      "C. Critical stenosis of third part of left subclavian artery.",
+      "D. Critical stenosis of left vertebral artery.",
+      "E. Critical stenosis of the origin of left subclavian artery."
+    ]
+  },
+  {
+    "questionNumber": 9,
+    "stem": "You are carrying out a CT chest scan on a patient who is under the joint care of the respiratory physicians and the rheumatologists. The patient reports slowly progressing stridor. The patient has already been assessed by ear, nose and throat (ENT) due to collapse of the nasal turbinates, but this is felt to be unconnected to his stridor. His inflammatory markers are elevated. A nasal biopsy showed an inflammatory infiltrate in the cartilage causing dissolution, but no granuloma formation or vasculitis. The CT shows smooth thickening of the anterior trachea, with early calcium deposition, with relative sparing of the posterior trachea. This pattern is most marked in the subglottic region. There is narrowing of the airway. This pattern is unaffected on the expiratory scan as compared to the inspiratory scan. The transverse diameter of the trachea is 60% of the sagittal diameter. What is the likely cause?",
+    "options": [
+      "A. Wegener’s granulomatosis.",
+      "B. Amyloidosis.",
+      "C. Relapsing polychondritis.",
+      "D. Mounier–Kuhn disease.",
+      "E. Tracheobronchomalacia."
+    ]
+  },
+  {
+    "questionNumber": 10,
+    "stem": "A 56-year-old man is admitted via the accident and emergency (A&E) department. He has a past medical history of mitral valve disease. He is complaining of shortness of breath and the clinical team believe he has pulmonary edema, but ask for your opinion on his CXR to rule out infection. The presence of which of the follow features could not be attributed to cardiac failure and would make you doubt the diagnosis?",
+    "options": [
+      "A. Perihilar alveolar opacities.",
+      "B. Sparing of the lung periphery.",
+      "C. A unilateral pleural effusion.",
+      "D. Unilateral regional oligemia.",
+      "E. Right upper lobe opacification."
+    ]
+  },
+  {
+    "questionNumber": 11,
+    "stem": "A 62-year-old man undergoes lung scintigraphy for investigation of PE. There is no prior history of PE. Which of the following scan patterns would be in keeping with a low probability for PE?",
+    "options": [
+      "A. Triple matched defect in the lower lung zone.",
+      "B. Single moderate matched V/Q defect with a normal CXR.",
+      "C. Perfusion defect with a rim of surrounding normally perfused lung.",
+      "D. No defects present on perfusion scan.",
+      "E. Four moderate segmental defects."
+    ]
+  },
+  {
+    "questionNumber": 12,
+    "stem": "A 65-year-old man has kept pigeons for over 20 years. He is complaining of gradually worsening shortness of breath. A CXR shows increased interstitial markings, with reduction in lung volumes. A subsequent HRCT of chest shows quite marked pulmonary fibrosis with areas of honeycomb formation. Which part of the lung is likely to be relatively spared by the fibrotic process?",
+    "options": [
+      "A. Upper zones.",
+      "B. Mid zones.",
+      "C. Posterior costophrenic sulci.",
+      "D. Central peribronchovascular regions.",
+      "E. Subpleural lung."
+    ]
+  },
+  {
+    "questionNumber": 13,
+    "stem": "A 70-year-old male undergoes endovascular stent graft repair of an infrarenal abdominal aortic aneurysm. A follow-up CT at 1 year demonstrates increasing aneurysm sac diameter without any evidence of endoleak. What is the diagnosis?",
+    "options": [
+      "A. Type I endoleak.",
+      "B. Type II endoleak.",
+      "C. Type III endoleak.",
+      "D. Type IV endoleak.",
+      "E. Type V endoleak."
+    ]
+  },
+  {
+    "questionNumber": 14,
+    "stem": "A patient is referred to radiology with a diagnosis of a mass in the lung which is adjacent to, but not overtly invading, the pleura. The clinical team need a tissue type to decide on treatment. There is a history of colorectal carcinoma. You are undecided as to whether to carry out a core biopsy with a coaxial system or a fine needle aspiration (FNA). Which of these factors should have the greatest influence on your decision?",
+    "options": [
+      "A. Pneumothorax risk.",
+      "B. Availability of a cytopathologist.",
+      "C. Tumour seeding risk.",
+      "D. Suspected cell type of the lesion.",
+      "E. Risk of air embolism"
+    ]
+  },
+  {
+    "questionNumber": 15,
+    "stem": "A 28-year-old man is being investigated for haemoptysis. He has a history of sinusitis. Full blood picture is normal. He is referred for a CT of chest during which intravenous (IV) contrast was withheld by the radiographer due to a reduction in estimated glomerular filtration rate (eGFR). It reveals bilateral nodules in a peribronchovascular distribution, some of which show cavitation. There are peripheral wedge-shaped areas of consolidation. There are also areas of bronchial stenosis and thickening. No mediastinal or hilar adenopathy is present. What is the most likely diagnosis?",
+    "options": [
+      "A. Goodpasture’s syndrome.",
+      "B. Sarcoidosis.",
+      "C. Churg–Strauss syndrome.",
+      "D. Wegener’s granulomatosis.",
+      "E. Pulmonary tuberculosis."
+    ]
+  },
+  {
+    "questionNumber": 16,
+    "stem": "A 50-year-old woman presents with progressive exertional dyspnoea, fatigue and atypical chest pain. Her jugular venous pressure (JVP) is elevated on examination. Her CXR reveals prominence of the right side of the heart with asymmetric enlargement of the central pulmonary arteries. Patchy oligaemic vascularity is also evident. What is the most likely diagnosis?",
+    "options": [
+      "A. Atrial septal defect.",
+      "B. Primary pulmonary hypertension.",
+      "C. Chronic thromboembolic pulmonary hypertension.",
+      "D. Cardiopulmonary schistosomiasis.",
+      "E. Pulmonary veno-occlusive disease."
+    ]
+  },
+  {
+    "questionNumber": 17,
+    "stem": "A 34-year-old woman presents with a 4-month history of gradually increasing dyspnoea and cough. A CXR and subsequent CT scan show multiple cavitating lung lesions. On the CT scan, some of these lesions are noted to have surrounding ground-glass attenuation. No other abnormality is seen. Which of the following diagnoses are the findings most compatible with?",
+    "options": [
+      "A. Rheumatoid lung.",
+      "B. Lung abscesses.",
+      "C. Eosinophilic granuloma.",
+      "D. Churg–Strauss syndrome.",
+      "E. Melanoma metastases."
+    ]
+  },
+  {
+    "questionNumber": 18,
+    "stem": "A 45-year-old woman presents with significant ongoing melaena, tachycardia and hypotension. Multidetector CT mesenteric angiography (MDCTA) is requested prior to consideration of mesenteric embolization. Which of the following statements regarding gastrointestinal (GI) bleeding and MDCTA is true?",
+    "options": [
+      "A. Oral contrast should be administered to identify the causative lesion.",
+      "B. Scans are usually performed in the arterial phase only from diaphragm to ischial tuberosity.",
+      "C. Acute GI bleeding can be intermittent. Failure to demonstrate active bleeding does not prove cessation of bleeding.",
+      "D. Suture material, dense foreign bodies or faecolith can be easily distinguished from contrast extravasation.",
+      "E. The lowest detectable bleeding rate with MDCTA is 2 ml/min."
+    ]
+  },
+  {
+    "questionNumber": 19,
+    "stem": "You are taking the respiratory multidisciplinary team meeting. A respiratory physician has asked you to present two patients, both with incidentally detected solitary pulmonary nodules. Patient A is a 64-year-old male patient. He is a non-smoker. The lesion is 7 mm in diameter and smooth. Patient B is also a 64-year-old male, who smokes 30 cigarettes per day. His lesion is 5 mm in diameter. What follow-up would you recommend for these patients?",
+    "options": [
+      "A. Urgent positron emission tomography (PET) scan for both. Reassess with result.",
+      "B. CT within 6 months for Patient A. If unchanged repeat within 12 months. PET scan for Patient B and reassess with result.",
+      "C. CT scan within 12 months for Patient A. If unchanged further CT within a further 12 months. Serial 6 monthly CT scans for Patient B for 2 years.",
+      "D. CT scan within 12 months for both. If unchanged, both need a follow-up CT within a further 12 months.",
+      "E. Follow-up CT at 12 months for both. If unchanged, no further follow-up."
+    ]
+  },
+  {
+    "questionNumber": 20,
+    "stem": "A 64-year-old smoker is referred by his GP for persisting consolidation which has failed to resolve despite multiple antibiotic therapies. Of note he has been apyrexial and inflammatory markers have not been particularly raised. The respiratory team request a CT of chest, which shows GGO and consolidation of almost the entire left lower lobe, delineated by the major fissure, which is not displaced. Air bronchograms are present, but there is no significant loss of volume or expansion of the lobe and no mediastinal or hilar adenopathy. No mass obstructing the left lower lobe bronchus (either endoluminal or extrinsic) is demonstrated and the bronchoscopy findings corroborate this (results from washings not yet available). A PET-CT is normal. What is the most likely pathology?",
+    "options": [
+      "A. Carcinoid tumour.",
+      "B. Bronchioloalveolar carcinoma.",
+      "C. Small cell carcinoma.",
+      "D. Tuberculosis (TB).",
+      "E. Klebsiella pneumonia."
+    ]
+  },
+  {
+    "questionNumber": 21,
+    "stem": "A 34-year-old woman with a preceding history of chronic cough, weight loss and intermittent chest tightness presents with acute shortness of breath. CTPA reveals a large filling defect within the left pulmonary artery. Which radiological feature would most suggest a diagnosis of pulmonary artery sarcoma as opposed to pulmonary embolism?",
+    "options": [
+      "A. Mosaic lung perfusion.",
+      "B. Peripheral filling defect forming acute angle with arterial wall.",
+      "C. Peripheral filling defect forming obtuse angle with arterial wall.",
+      "D. Low attenuation filling defect occupying and expanding the entire luminal diameter.",
+      "E. Partial filling defect surrounded by areas of intravascular contrast enhancement."
+    ]
+  },
+  {
+    "questionNumber": 22,
+    "stem": "A 45-year-old male smoker has a history of fatigue and mild shortness of breath. He also keeps pigeons. A CXR shows mildly increased interstitial markings in the upper zones. An HRCT of chest demonstrates multiple small pulmonary nodules and reticulation, more marked in the upper lungs. What location of the nodularity is more likely to suggest a diagnosis of subacute extrinsic alveolitis or respiratory bronchiolitis interstitial lung disease as opposed to sarcoidosis?",
+    "options": [
+      "A. Bronchovascular bundle.",
+      "B. Centrilobular region.",
+      "C. Fissural.",
+      "D. Subpleural region.",
+      "E. Interlobular septa."
+    ]
+  },
+  {
+    "questionNumber": 23,
+    "stem": "A 40-year-old male presents with a history of severe epigastric pain and raised amylase. CT demonstrates acute pancreatitis complicated by a 2.5-cm pseudoaneurysm of the gastroduodenal artery (GDA). Embolization of the GDA is requested. What is the accepted method of embolization?",
+    "options": [
+      "A. Coil embolization proximal to the pseudoaneurysm.",
+      "B. Coil embolization distal and proximal to the pseudoaneurysm.",
+      "C. Embolization with polyvinyl alcohol (PVA) particles.",
+      "D. Amplatzer plug occlusion of common hepatic artery.",
+      "E. Embolization with gelfoam."
+    ]
+  },
+  {
+    "questionNumber": 24,
+    "stem": "A 72-year-old former ship builder has presented with increasing shortness of breath to the respiratory physicians. A CXR reveals a pleural mass. You carry out a CT scan, which shows a 1cm diameter area of pleural thickening extending along the lateral chest wall inferiorly to the diaphragm. On coronal reconstructions the diaphragm appears smooth. There are a number of >1-cm nodes noted in the ipsilateral hilum as well as a solitary 1.2-cm node noted in the contralateral hilum. Following discussion with thoracic surgery a core biopsy is done, which confirms the diagnosis of malignant mesothelioma. A magnetic resonance imaging (MRI) scan is carried out. The lesion is increased signal on T2 weighted imaging (T2WI). The enlarged nodes are also identified. On post-gadolinium coronal fat saturation sequences a focus of high signal is noted to extend from the parietal pleura through the diaphragm to involve the peritoneum. A single focus of chest wall invasion is also noted. PET-CT shows high uptake in the lesion with a standard uptake value maximum (SUV max) of 25. All nodes with the exception of the contralateral node demonstrate uptake. Which of these factors means this tumour is inoperable?",
+    "options": [
+      "A. The contralateral enlarged node noted on CT and MRI.",
+      "B. The tissue diagnosis of malignant mesothelioma.",
+      "C. The high SUV max.",
+      "D. The chest wall disease noted on MRI.",
+      "E. The diaphragmatic disease noted on MRI."
+    ]
+  },
+  {
+    "questionNumber": 25,
+    "stem": "A 61-year-old man has a history of chronic myeloid leukaemia. He presents with mild dyspnoea and dry cough. A CXR shows symmetrical, perihilar reticulo-nodular opacities with relative sparing of the apices and costophrenic angles, without cardiomegaly or pleural effusion. An HRCT reveals smoothly thickened septal lines with intervening GGO and sharply marginated areas of geographic sparing. Bronchoalveolar lavage (BAL) is negative for organisms. What is the most likely diagnosis?",
+    "options": [
+      "A. Pulmonary haemorrhage.",
+      "B. Left ventricular failure.",
+      "C. Pulmonary alveolar proteinosis.",
+      "D. Pneumocystis pneumonia.",
+      "E. Radiation fibrosis."
+    ]
+  },
+  {
+    "questionNumber": 26,
+    "stem": "A 28-year-old Asian male immigrant presents with low-grade fever, weight loss and productive cough. There is no history of immunosuppression. Which of the following CXR findings is most in keeping with post-primary TB?",
+    "options": [
+      "A. Unilateral hilar lymphadenopathy.",
+      "B. Cavitating parenchymal opacity.",
+      "C. Pleural effusion.",
+      "D. Multiple bilateral non-calcified nodules <3 mm diameter.",
+      "E. Right lower lobe atelectasis."
+    ]
+  },
+  {
+    "questionNumber": 27,
+    "stem": "A 65-year-old man has a history of liver cirrhosis. He presents with increasing dyspnoea. A CXR shows some basal reticulo-nodular opacities. An HRCT of the chest demonstrates distal vascular dilatation and subpleural telangiectasia. You suspect he may have hepato-pulmonary syndrome. Which of the following nuclear medicine techniques is most likely to prove the presence of right-to-left shunting?",
+    "options": [
+      "A. 99mTc-labelled sulphur colloid scan.",
+      "B. 99mTc-labelled red blood cell scan.",
+      "C. 99mTc-labelled pertechnetate scan.",
+      "D. 99mTc-labelled HMPAO scan.",
+      "E. 99mTc-labelled macro-aggregated albumin scan."
+    ]
+  },
+  {
+    "questionNumber": 28,
+    "stem": "A 55-year-old man with a recent diagnosis of multifocal hepatocellular carcinoma is referred for transarterial chemoembolisation. Which of the following statements regarding hepatic arterial anatomy is true?",
+    "options": [
+      "A. The classic hepatic arterial anatomy, with the proper and hepatic artery dividing into the right and left hepatic arteries, is seen in approximately 80% of the population.",
+      "B. Accessory left hepatic artery from the left gastric artery is seen in 25% of cases.",
+      "C. Replaced right hepatic artery commonly arises from the gastroduodenal artery.",
+      "D. Replaced left hepatic artery commonly arises from the left gastric artery.",
+      "E. The common hepatic artery is a branch of the superior mesenteric artery."
+    ]
+  },
+  {
+    "questionNumber": 29,
+    "stem": "A 72-year-old female patient presents with a diagnosis of lung malignancy obtained from bronchial washings. The CT shows a 4cm lesion in the right upper lobe with ipsilateral hilar and mediastinal lymphadenopathy in the 4R station. There is no chest wall invasion, and the lung lesion is surrounded on all sides by lung parenchyma. There is currently no evidence of infradiaphragmatic disease. What is the TNM stage of this small cell lung cancer?",
+    "options": [
+      "A. T2a N1 M0.",
+      "B. T2b N1 M0.",
+      "C. T1b N2 M0.",
+      "D. T2a N2 M0.",
+      "E. None of these."
+    ]
+  },
+  {
+    "questionNumber": 30,
+    "stem": "A 43-year-old patient presents with cough, shortness of breath, and fever which has lasted a month. An HRCT reveals bilateral areas of consolidation, predominantly in a peripheral distribution. There are also areas of GGO, predominantly in the middle and upper zones, with band-like subpleural attenuation. The plain film findings have remained unchanged for days. What is the most likely diagnosis?",
+    "options": [
+      "A. Chronic eosinophilic pneumonia.",
+      "B. Allergic bronchopulmonary aspergillosis (ABPA).",
+      "C. Acute eosinophilic pneumonia.",
+      "D. Löffler’s syndrome.",
+      "E. Eosinophilic granuloma."
+    ]
+  },
+  {
+    "questionNumber": 31,
+    "stem": "A 30-year-old caucasian man, recently treated with bone marrow transplantation for acute myeloid leukemia, presents with fever and cough. HRCT chest demonstrates multiple, small centrilobular nodules of soft tissue attenuation connected to linear branching opacities. What is the most likely cause of this finding?",
+    "options": [
+      "A. Endobronchial tuberculosis.",
+      "B. Primary pulmonary lymphoma.",
+      "C. Invasive aspergillosis.",
+      "D. Obliterative bronchiolitis.",
+      "E. Diffuse panbronchiolitis."
+    ]
+  },
+  {
+    "questionNumber": 32,
+    "stem": "A 56-year-old woman with a history of Sjogren’s syndrome complains of gradually increasing shortness of breath. A CXR has identified a mild generalized interstitial pattern, with maintained lung volumes. A subsequent HRCT of the chest demonstrates a few scattered well-defined, regular lung cysts. Within the lung parenchyma there is also noted patchy ground-glass change and mild centrilobular nodularity. Mild mediastinal and hilar lymphadenopathy is present. What is the most likely diagnosis?",
+    "options": [
+      "A. Langerhans cell histiocytosis.",
+      "B. Desquamative interstitial pneumonia.",
+      "C. Lymphangioleiomyomatosis.",
+      "D. Lymphocytic interstitial pneumonia.",
+      "E. Birt–Hogg–Dube syndrome."
+    ]
+  },
+  {
+    "questionNumber": 33,
+    "stem": "A 70-year-old man undergoes a trans-femoral angiogram as a day procedure. Haemostasis is achieved by manual compression to the puncture site for 15 minutes. The next day he returns to A&E with a history of pain and swelling in the groin. On examination, a tender, pulsatile swelling is noted in the groin at the site of femoral puncture. Doppler ultrasound confirms a femoral artery pseudoaneurysm. Which of the following statements regarding iatrogenic femoral artery pseudoaneurysm is false?",
+    "options": [
+      "A. It is contained only by the hematoma and surrounding tissues.",
+      "B. Patients undergoing hemodialysis are at increased risk of developing pseudoaneurysm.",
+      "C. Low femoral puncture is associated with a higher risk of developing pseudoaneurysm.",
+      "D. Ultrasound is the diagnostic method of choice.",
+      "E. Ultrasound-guided compression is the treatment of choice."
+    ]
+  },
+  {
+    "questionNumber": 34,
+    "stem": "A 68-year-old patient has a CXR carried out due to a recurrent chest infection. The patient is a smoker. The CXR shows a solitary pulmonary nodule. A CT is carried out which demonstrates a 2.8-cm lesion in the right lower lobe as noted on CXR. This lesion is spiculated. There is a second lesion noted in the right lower lobe that is 1.2 cm in size and was not visible on the CXR. There is a 0.8-cm ipsilateral peribronchial lymph node identified. There are no evident metastases. A PET-CT is carried out which shows an SUV max of 8 in both pulmonary lesions. There is no uptake in the lymph node. No metastases are identified. A biopsy confirms non-small cell lung cancer. Based on the available imaging, what is the stage of this lesion?",
+    "options": [
+      "A. Stage 1A.",
+      "B. Stage 1B.",
+      "C. Stage 2A.",
+      "D. Stage 2B.",
+      "E. Stage 3A."
+    ]
+  },
+  {
+    "questionNumber": 35,
+    "stem": "A specialty trainee from the medical ward shows you a CXR of a breathless patient. You observe splaying of the carina and a ’double right heart border’. What is the most likely underlying diagnosis?",
+    "options": [
+      "A. Mitral stenosis.",
+      "B. Aortic stenosis.",
+      "C. Tricuspid incompetence.",
+      "D. Left ventricular aneurysm.",
+      "E. Coarctation of the aorta."
+    ]
+  },
+  {
+    "questionNumber": 36,
+    "stem": "A 64-year-old man with a history of alcoholism presents with acute onset fever and productive cough. CXR demonstrates bilateral parahilar fine reticular opacities. There is no appreciable lymphadenopathy. What is the most likely diagnosis?",
+    "options": [
+      "A. Mycobacterium avium-intracellulare.",
+      "B. Pneumocystis jirovecii (formerly P. carinii).",
+      "C. Toxoplasmosis.",
+      "D. Coccidioidomycosis.",
+      "E. Candidiasis."
+    ]
+  },
+  {
+    "questionNumber": 37,
+    "stem": "A 67-year-old man who was previously a manual worker presents with chest pain, which subsequently turns out to be due to myocardial ischemia. He has a CXR performed which shows numerous small nodular densities, and you suspect he has an occupational lung disease, as these densities are unchanged from previous radiographs. A subsequent HRCT of the chest shows no evidence of linear interstitial change or fibrosis. Pulmonary function tests are normal. Which of the following possible causes is least likely to result in functional lung impairment?",
+    "options": [
+      "A. Coal workers’ pneumoconiosis.",
+      "B. Silicosis.",
+      "C. Berylliosis.",
+      "D. Siderosis.",
+      "E. Asbestosis."
+    ]
+  },
+  {
+    "questionNumber": 38,
+    "stem": "A 35-year-old male smoker presents with a history of progressive dyspnea and rapidly deteriorating lung function. CXR shows hyperinflated lungs and decreased pulmonary vascular markings. High-resolution CT of the chest shows well-defined foci of reduced lung attenuation without definable wall, decreased pulmonary vascular markings, and bullae with basilar predominance. What is the likely diagnosis?",
+    "options": [
+      "A. Centrilobular emphysema.",
+      "B. Paraseptal emphysema.",
+      "C. Alpha-1 antitrypsin deficiency.",
+      "D. Congenital lobar emphysema.",
+      "E. Chronic obstructive pulmonary disease (COPD)."
+    ]
+  },
+  {
+    "questionNumber": 39,
+    "stem": "You are attending a lecture on lung cancer, but unfortunately you arrive late so you have missed the introduction. The lecturer is describing a subtype of lung cancer. The description is of a tumor that comprises 30% of all lung cancers. It typically occurs peripherally, but can be central. This tumor can cavitate, but this occurs in only 4% of cases. Hilar and/or mediastinal involvement is seen in over half of cases on plain film radiography. What subtype of lung cancer is being described?",
+    "options": [
+      "A. Adenocarcinoma.",
+      "B. Bronchoalveolar carcinoma.",
+      "C. Squamous cell carcinoma.",
+      "D. Small cell carcinoma.",
+      "E. Giant cell carcinoma."
+    ]
+  },
+  {
+    "questionNumber": 40,
+    "stem": "A 63-year-old male has a complex past medical history including testicular carcinoma, cardiac disease, rheumatoid arthritis (RA), and diabetes mellitus. He presents with shortness of breath and is referred for a CT chest. This reveals multiple areas of ground-glass attenuation, crazy-paving, and consolidation in both lungs. You also notice that the spleen and liver are of increased attenuation. What is the most likely explanation for these findings?",
+    "options": [
+      "A. RA-related lung disease.",
+      "B. Cardiac failure.",
+      "C. Amiodarone.",
+      "D. Bleomycin.",
+      "E. Methotrexate."
+    ]
+  },
+  {
+    "questionNumber": 41,
+    "stem": "A 28-year-old HIV-positive IV drug user presents with progressive exertional dyspnea, fever, and non-productive cough. CXR demonstrates bilateral parahilar fine reticular opacities. There is no appreciable lymphadenopathy. What is the most likely diagnosis?",
+    "options": [
+      "A. Mycobacterium avium-intracellulare.",
+      "B. Pneumocystis jirovecii (formerly P. carinii).",
+      "C. Toxoplasmosis.",
+      "D. Coccidioidomycosis.",
+      "E. Candidiasis."
+    ]
+  },
+  {
+    "questionNumber": 42,
+    "stem": "A 50-year-old man has developed graft vs host disease following a bone marrow transplant. He develops some breathlessness and has pulmonary function tests showing irreversible obstruction. Constrictive (obliterative) bronchiolitis is suspected. Which of the following findings on HRCT is likely to be most helpful in making this diagnosis?",
+    "options": [
+      "A. ‘Tree in bud’ opacities.",
+      "B. Bronchiolectasis.",
+      "C. Air-trapping.",
+      "D. Centrilobular nodules.",
+      "E. Cystic change."
+    ]
+  },
+  {
+    "questionNumber": 43,
+    "stem": "A 50-year-old female is found to have a solitary pulmonary nodule on imaging. Which of the following features suggests that it is benign?",
+    "options": [
+      "A. Irregular, spiculated margin.",
+      "B. Central ‘popcorn’ calcification.",
+      "C. Doubling time of 180 days.",
+      "D. Contrast enhancement of 25 Hounsfield units (HU).",
+      "E. SUV of 8 on PET-CT."
+    ]
+  },
+  {
+    "questionNumber": 44,
+    "stem": "A 47-year-old male patient is referred to the respiratory physicians with a 1-year history of wheeze. He is a non-smoker. A CXR reveals subtle narrowing of the bronchus intermedius. A CT scan reveals a lesion with an endobronchial component, which narrows the airway significantly. The lesion also has an extraluminal component, which is 2 cm in diameter and has smooth margins. The lesion displays stippled calcification and no cavitation. Following contrast enhancement, the lesion enhances avidly in the arterial phase. You formulate a differential diagnosis based on these imaging features. The patient is not keen for intervention. Based on your suspicions, what would be the least invasive means of follow-up imaging to help achieve a diagnosis?",
+    "options": [
+      "A. PET-CT.",
+      "B. Bronchoscopy and biopsy.",
+      "C. Indium-111 octreotide single photon emission computed tomography (SPECT) CT.",
+      "D. MRI using T2WI and short tau inversion recovery (STIR) coronal imaging.",
+      "E. Bronchial angiography."
+    ]
+  },
+  {
+    "questionNumber": 45,
+    "stem": "A 45-year-old male presents with a 3-month history of a non-productive cough and dyspnoea, which was preceded by a flu-like illness. Pulmonary function tests reveal a restrictive pattern and a CXR shows multifocal bilateral consolidation. HRCT of chest reveals bilateral peripheral subpleural well-defined areas of consolidation, some of which are surrounded by ground-glass opacity and some of which show an air bronchogram. There is also a focal area of GGO, which is surrounded by a smooth-walled ring of consolidation. What is the most likely diagnosis?",
+    "options": [
+      "A. Sarcoidosis.",
+      "B. TB.",
+      "C. Cryptococcosis.",
+      "D. Obliterative bronchiolitis.",
+      "E. Cryptogenic organizing pneumonia."
+    ]
+  },
+  {
+    "questionNumber": 46,
+    "stem": "A 24-year-old serviceman presents with insidious onset of fever, headache and worsening non-productive cough. His white cell count and erythrocyte sedimentation rate (ESR) are elevated and serum cold agglutination is positive. He had failed to improve with initial antibiotic therapy. HRCT of chest demonstrates areas of ground-glass opacity, air-space consolidation, centrilobular nodules and thickening of bronchovascular bundles. What is the most likely diagnosis?",
+    "options": [
+      "A. Chlamydia pneumonia.",
+      "B. Mycoplasma pneumonia.",
+      "C. Pneumococcal pneumonia.",
+      "D. Legionella pneumonia.",
+      "E. Staphylococcal pneumonia."
+    ]
+  },
+  {
+    "questionNumber": 47,
+    "stem": "A 51-year-old woman has a past history of a prolonged ICU admission following a subarachnoid haemorrhage 2 years previously. Despite the stormy course in ICU, she made a good neurological recovery, but has had persistent breathlessness on exertion since discharge. Her imaging shows interstitial fibrosis. Which part of the lung is likely to be relatively spared by the interstitial process?",
+    "options": [
+      "A. Posterior aspect of the lungs.",
+      "B. Anterior aspect of the lungs.",
+      "C. Periphery of the lungs.",
+      "D. Lower zones of the lungs.",
+      "E. Mid-zones of the lungs."
+    ]
+  },
+  {
+    "questionNumber": 48,
+    "stem": "A 30-year-old male smoker presents with a history of acute dyspnoea. CXR shows bilateral reticulo-nodular interstitial changes, predominantly in the upper and mid zones, with preservation of lung volume. There is a right-sided apical pneumothorax and a small right pleural effusion. HRCT of chest shows complex thin- and thick-walled cysts and irregular centrilobular nodules in a similar distribution with sparing of the bases. The intervening lung appears normal. What is the diagnosis?",
+    "options": [
+      "A. Lymphangioleiomyomatosis.",
+      "B. Bronchiectasis.",
+      "C. Metastases.",
+      "D. Pulmonary Langerhans cell histiocytosis.",
+      "E. Idiopathic pulmonary fibrosis."
+    ]
+  },
+  {
+    "questionNumber": 49,
+    "stem": "A 55-year-old male patient with a history of dilated cardiomyopathy has undergone a cardiac transplantation. Now 3 months post-op, the patient presents to his cardiologists with acute lethargy, dyspnoea and productive cough. A CXR is carried out, which shows a diffuse right-sided airspace infiltrate, with an ill-defined density noted in the right upper lobe. A CT scan is carried out, which shows patchy areas of air-space consolidation with surrounding ground-glass change in the right hemithorax. There is an area of cavitation in the right upper lobe that has a surrounding halo of ground-glass change. The interstitial markings are not thickened. There is low attenuation noted around the heart, which has an attenuation value of –10 HU. There is a calibre change between the donor and recipient aorta. Based on the most likely pathology, as indicated by these features, what is the most appropriate first-line treatment?",
+    "options": [
+      "A. Systemic amphotericin.",
+      "B. Frusemide infusion.",
+      "C. Systemic ganciclovir.",
+      "D. High-dose steroid and OKT3.",
+      "E. CT guided biopsy of lesion."
+    ]
+  },
+  {
+    "questionNumber": 50,
+    "stem": "A 42-year-old male presents with chest pain, dyspnoea and palpitations. He undergoes cardiac MRI, which reveals extensive scattered delayed enhancement in the anterior, lateral and inferior wall and apex of the left ventricle. This enhancement occurs in the midwall with relative sparing of the subendocardial region. T2WI is unremarkable. What is the most likely diagnosis?",
+    "options": [
+      "A. Acute myocardial infarction.",
+      "B. Sarcoidosis.",
+      "C. Myocarditis.",
+      "D. Hypertrophic cardiomyopathy.",
+      "E. Amyloidosis."
+    ]
+  },
+  {
+    "questionNumber": 51,
+    "stem": "A 28-year-old woman presents with fever, myalgia and cough. Due to a current community outbreak, the clinical team suspect that she has H1N1 influenza (swine flu). Which finding on her admission CXR is most strongly predictive of an adverse outcome?",
+    "options": [
+      "A. Upper lobe consolidation.",
+      "B. Bilateral central opacity.",
+      "C. Multizonal peripheral opacity.",
+      "D. Air bronchogram.",
+      "E. Pleural effusion."
+    ]
+  },
+  {
+    "questionNumber": 52,
+    "stem": "A 56-year-old man presents with shortness of breath. He subsequently has an HRCT of chest performed. This shows a mosaic attenuation pattern throughout the lung parenchyma, but you are having some difficulty determining if the more lucent areas are normal or abnormal. Which of the following findings is most likely to be helpful in confirming that the lucent areas are the abnormal areas and you are not dealing with multifocal GGO?",
+    "options": [
+      "A. Increased calibre of vessels in denser areas.",
+      "B. Decreased calibre of vessels in denser areas.",
+      "C. Increased calibre of vessels in lucent areas.",
+      "D. Decreased caliber of vessels in lucent areas.",
+      "E. Calibre of vessels is unhelpful and expiratory scans must be used."
+    ]
+  },
+  {
+    "questionNumber": 53,
+    "stem": "A 60-year-old male awaiting cardiac bypass surgery undergoes Doppler assessment of leg veins to check suitability for a vein graft. On ultrasound, incidental note is made of 1.8-cm popliteal artery aneurysm with mural thrombus. Which of the following statements regarding popliteal artery aneurysm is false?",
+    "options": [
+      "A. It is bilateral in 50–70% of cases.",
+      "B. It is associated with abdominal aortic aneurysm in 30–50% of cases.",
+      "C. Symptomatic patients present with effects of distal embolization.",
+      "D. It may be missed on conventional angiography.",
+      "E. It should be treated only when symptomatic."
+    ]
+  },
+  {
+    "questionNumber": 54,
+    "stem": "A 55-year-old female patient presents to the neurology service with features of myasthenia gravis. As part of the routine work-up a CXR is requested which demonstrates an anterior mediastinal mass. A CT scan is requested. This reveals a 5cm mass located centrally within the anterior mediastinum. This mass has poorly defined margins, resulting in obliteration of the mediastinal fat plane. There are areas of low attenuation within this lesion which have an attenuation value of 3 HU. There are stippled areas of calcification noted. There is also a right-sided pleural effusion. There is no evidence of disease elsewhere in the mediastinum, or invasion of the great vessels. You plan to carry out a CT guided biopsy, but at this stage what is the most likely diagnosis?",
+    "options": [
+      "A. Benign thymoma.",
+      "B. Atypical thymoma.",
+      "C. Thymic carcinoma.",
+      "D. Thymic lymphoma.",
+      "E. Malignant thymic germ cell tumour."
+    ]
+  },
+  {
+    "questionNumber": 55,
+    "stem": "A 34-year-old man presents with chest pain and palpitations. An electrocardiogram (ECG) reveals a ventricular tachycardia with left bundle branch block (LBBB). A T1WI sequence shows transmural high signal and thinning of the myocardium of the right ventricle, with dilatation of the right ventricle and right ventricular outflow tract. What is the most likely diagnosis?",
+    "options": [
+      "A. Tricuspid stenosis.",
+      "B. Uhl’s anomaly.",
+      "C. Pericardial effusion.",
+      "D. Arrhythmogenic right ventricular dysplasia.",
+      "E. Melanoma metastasis."
+    ]
+  },
+  {
+    "questionNumber": 56,
+    "stem": "An 18-year-old woman with Poland syndrome is being assessed by plastic surgery for reconstruction. As part of her pre-operative work-up a CT chest is requested. What is the classic finding in this disorder?",
+    "options": [
+      "A. Absence of the sternal head of pectoralis major.",
+      "B. Hypoplastic clavicles.",
+      "C. Anterior protrusion of the ribs.",
+      "D. Bilateral breast aplasia.",
+      "E. Anterior protrusion of the sternum."
+    ]
+  },
+  {
+    "questionNumber": 57,
+    "stem": "A 65-year-old man presents to the A&E department with acute shortness of breath. He has a CXR performed and this demonstrates a ‘bat-wing’ pattern of pulmonary oedema. Which of the following is the most likely cause?",
+    "options": [
+      "A. Fat embolism.",
+      "B. Diffuse alveolar damage.",
+      "C. Adult respiratory distress syndrome.",
+      "D. Acute mitral valve insufficiency.",
+      "E. Left ventricular failure."
+    ]
+  },
+  {
+    "questionNumber": 58,
+    "stem": "A 25-year-old baseball player presents with a history of worsening pain, diffuse oedema and discolouration of the right upper limb following a game. Doppler ultrasound demonstrates occlusion of the axillary and subclavian veins. He undergoes catheter-directed thrombolysis successfully. Check venogram demonstrates external compression from scalenus muscle. What is the diagnosis?",
+    "options": [
+      "A. May–Thurner syndrome.",
+      "B. Nutcracker syndrome.",
+      "C. Paget–Schroetter syndrome.",
+      "D. Trousseau syndrome.",
+      "E. Virchow syndrome."
+    ]
+  },
+  {
+    "questionNumber": 59,
+    "stem": "A 45-year-old male patient is referred by his GP for a CXR due to a history of dyspnoea and cough. The CXR shows a convex appearance to the hila with a right paratracheal stripe that measures 1.5 cm. You are arranging follow-up and the respiratory team ask you for your top differential. What do you say?",
+    "options": [
+      "A. TB.",
+      "B. Lymphoma.",
+      "C. Sarcoid.",
+      "D. Castleman’s disease.",
+      "E. Silicosis."
+    ]
+  },
+  {
+    "questionNumber": 60,
+    "stem": "A 58-year-old smoker with a history of hypertension and diabetes presents with chest pain typical of angina and is referred for CT coronary angiography. This reveals soft plaque in the proximal left anterior descending (LAD) artery, which is causing a 40% stenosis by area and calcified plaque in the right coronary artery (RCA), which is causing a 50% stenosis by area. Which of the following is the most appropriate next step?",
+    "options": [
+      "A. Percutaneous coronary intervention (PCI) to the LAD.",
+      "B. PCI to the RCA.",
+      "C. PCI to both vessels.",
+      "D. Exercise stress testing.",
+      "E. Lifestyle and risk factor modification."
+    ]
+  },
+  {
+    "questionNumber": 61,
+    "stem": "A junior doctor requests your opinion on a postero-anterior (PA) CXR of a 21-year-old man admitted with chest pain. She suspects that the patient has right middle lobe consolidation. What feature on the patient’s radiograph allows you to reassure her that the imaging appearances are secondary to pectus excavatum?",
+    "options": [
+      "A. Rightward displacement of the heart.",
+      "B. ‘Sevens’ appearance to ribs.",
+      "C. Indistinct right heart border.",
+      "D. Bilateral hilar enlargement.",
+      "E. Steeply angulated posterior ribs."
+    ]
+  },
+  {
+    "questionNumber": 62,
+    "stem": "A 30-year-old male mechanic presents with digital ischemia. Catheter angiogram demonstrates occlusion of the distal ulnar artery and abrupt occlusion of some of the digital arteries. The radial artery is patent and there is filling of the superficial palmar arch via deep palmar arch collaterals. What is the diagnosis?",
+    "options": [
+      "A. Hypothenar hammer syndrome.",
+      "B. Peripheral embolic disease.",
+      "C. Raynaud’s disease.",
+      "D. Thoracic outlet syndrome.",
+      "E. Takayasu arteritis."
+    ]
+  },
+  {
+    "questionNumber": 63,
+    "stem": "A 57-year-old patient has a CXR carried out. This shows a mass in the left apex, adjacent to the spine. Numerous soft tissue densities are noted projected across the lungs. A lateral radiograph is carried out which projects the mass over the vertebral bodies and indicates that the smaller densities are cutaneous. You request additional information from the referring clinician. This patient has a complex history. He has type 1 neurofibromatosis, but has also recently been diagnosed with myelofibrosis. You perform a CT scan, which shows widening of the neural foramen on the left side, which is in continuity with the left apex mass. This mass measures 2 cm in diameter and has an attenuation value of 4 HU. What is the most likely diagnosis?",
+    "options": [
+      "A. Neuroblastoma.",
+      "B. Neurofibroma.",
+      "C. Extramedullary hematopoiesis.",
+      "D. Lateral meningocele.",
+      "E. Neuro-enteric cyst."
+    ]
+  },
+  {
+    "questionNumber": 64,
+    "stem": "A 45-year-old woman presents with chest pain, typical of angina. Her ECG and troponin are normal. She is a non-smoker and does not have hypertension or diabetes. Her resting heart rate is 56 beats per minute (bpm). To best assess her further, what do you decide to perform next?",
+    "options": [
+      "A. CT calcium score.",
+      "B. Exercise stress testing.",
+      "C. Contrast enhanced cardiac MRI.",
+      "D. Retrospectively ECG-gated CT coronary angiography.",
+      "E. Prospectively ECG-gated CT coronary angiography"
+    ]
+  },
+  {
+    "questionNumber": 65,
+    "stem": "A 64-year-old woman presents with a 3-week history of dry cough. A CXR is performed and shows multifocal bilateral peripheral areas of consolidation. An HRCT of chest is recommended and this demonstrates bilateral peripheral areas of consolidation and GGO. There is no fibrosis. There is peripheral eosinophilia detected on routine blood tests. A careful drug history is obtained. Which of the following medications is the patient most likely to be on?",
+    "options": [
+      "A. Nitrofurantoin.",
+      "B. Amiodarone.",
+      "C. Methotrexate.",
+      "D. Bleomycin.",
+      "E. Cyclophosphamide."
+    ]
+  },
+  {
+    "questionNumber": 66,
+    "stem": "A 50-year-old chronic alcoholic and smoker presents with chronic cough. CXR shows bilateral upper lobe consolidation with nodular opacities and cavitation. These changes are slowly progressive over serial x-rays. A bronchoscopy is arranged and washouts from the upper lobes are negative for mycobacterial infection. Aspergillus titres are positive. How is the disease process best described?",
+    "options": [
+      "A. Allergic bronchopulmonary aspergillosis.",
+      "B. Bilateral aspergillomas with background COPD.",
+      "C. Semi-invasive aspergillosis.",
+      "D. Invasive aspergillosis.",
+      "E. Chronic aspiration pneumonia (aspergillus titres irrelevant)."
+    ]
+  },
+  {
+    "questionNumber": 67,
+    "stem": "A 70-year-old man presents with a 6-month history of cramping pain in the left calf brought on by walking and settling with rest. For the past 3 weeks he has been experiencing pain at rest, which is relieved by dependency of the foot. On examination, the popliteal and tibial pulses are absent. There is no ulceration or gangrene. What is the diagnosis?",
+    "options": [
+      "A. Intermittent claudication.",
+      "B. Critical limb ischaemia.",
+      "C. Acute limb ischaemia.",
+      "D. Nerve root compression.",
+      "E. Diabetic neuropathy."
+    ]
+  },
+  {
+    "questionNumber": 68,
+    "stem": "A 4-year-old with a history of asthma is admitted with an acute exacerbation. A post-admission CXR shows evidence of pneumomediastinum. Which one of the following is a recognized sign of pneumomediastinum?",
+    "options": [
+      "A. Spinnaker/thymic sail sign.",
+      "B. Air-crescent sign.",
+      "C. Deep sulcus sign.",
+      "D. Inverted V sign.",
+      "E. Outline of the medial diaphragm inferior to the cardiac silhouette."
+    ]
+  },
+  {
+    "questionNumber": 69,
+    "stem": "A 25-year-old man presents with chest pain on exertion. He is referred for CT coronary angiography. Which of the following findings is most significant?",
+    "options": [
+      "A. The RCA arises from the left coronary sinus and passes between the aorta and pulmonary artery.",
+      "B. Separate ostia of the LAD and left circumflex (LCx) coronary arteries arise from the left coronary sinus.",
+      "C. The left main stem (LMS) arises from the right coronary cusp and passes anterior to the pulmonary artery.",
+      "D. The RCA arises from the right coronary cusp and passes into the right atrioventricular (AV) groove.",
+      "E. The LMS arises from the left coronary cusp and trifurcates into an LAD, LCx and ramus intermedius branch."
+    ]
+  },
+  {
+    "questionNumber": 70,
+    "stem": "A patient is being investigated by his GP due to a history of dysphagia and occasional stridor. A CXR has been requested, which is reported as showing possible tracheal abnormality. A lateral CXR is requested and this shows an abnormality in the retro-tracheal space (Raider triangle). Using your knowledge of the anatomy of this space and the diseases that may affect it, which of the following statements correctly describes an abnormality in this area and the effect it will have radiologically on the retro-tracheal space?",
+    "options": [
+      "A. A thickened tracheo-oesophageal stripe of 11mm will displace the trachea posteriorly.",
+      "B. An enlarged aorta bulges into the inferior aspect of the retro-tracheal space.",
+      "C. A subclavian artery aneurysm will be noted posterior to the tracheo-oesophageal stripe and will displace this anteriorly.",
+      "D. Mediastinal extension of a retropharyngeal abscess will widen the tracheo-oesophageal stripe superiorly.",
+      "E. A thyroid goitre extending retrosternally will displace the trachea posteriorly."
+    ]
+  },
+  {
+    "questionNumber": 71,
+    "stem": "A 50-year-old male smoker presents with a history of right-sided calf claudication. The symptoms are not settling with best medical therapy. The magnetic resonance angiogram (MRA) shows occlusion of the right common and external iliac arteries. He is otherwise well and has normal calf veins. What is the recommended treatment for this type of lesion?",
+    "options": [
+      "A. Symptomatic relief.",
+      "B. Continue modification of risk factors and exercise therapy.",
+      "C. Percutaneous angioplasty.",
+      "D. Percutaneous stenting.",
+      "E. Surgical bypass"
+    ]
+  },
+  {
+    "questionNumber": 72,
+    "stem": "You notice a mass within the heart on a CT thorax of a 45-year-old patient. There is contrast enhancement of the mass. Without further assessment, what is this mass most likely to be?",
+    "options": [
+      "A. Myxoma.",
+      "B. Angiosarcoma.",
+      "C. Metastasis.",
+      "D. Rhabdomyosarcoma.",
+      "E. Primary cardiac lymphoma."
+    ]
+  },
+  {
+    "questionNumber": 73,
+    "stem": "A 28-year-old patient is admitted from the dermatology clinic where she is being treated for basal cell carcinoma. She suffered an episode of ventricular tachycardia and imaging is requested secondary to the results of echocardiography. CXR reveals bifid ribs. Cardiac MRI reveals a well-circumscribed abnormality, which is low signal on both T1WI and T2WI and shows delayed enhancement, within the myocardium of the left ventricular free wall. CT reveals a soft-tissue attenuation mass with calcification. What is the most likely diagnosis?",
+    "options": [
+      "A. Myxoma.",
+      "B. Paraganglioma.",
+      "C. Fibroma.",
+      "D. Fibroelastoma.",
+      "E. Lipoma."
+    ]
+  },
+  {
+    "questionNumber": 74,
+    "stem": "A patient is referred for cardiac MRI. Which of the following is a definite contraindication?",
+    "options": [
+      "A. Cardiac pacemaker.",
+      "B. Loop recorder.",
+      "C. Coronary artery bypass grafting 2 months ago.",
+      "D. Cardiac stenting 2 months ago.",
+      "E. None of the above."
+    ]
+  },
+  {
+    "questionNumber": 75,
+    "stem": "A 24-year-old woman who is 28 weeks pregnant is admitted with suspected pulmonary embolism. As the on-call radiologist, her obstetrician contacts you seeking advice regarding further management. An admission CXR is normal. What investigation do you advise initially?",
+    "options": [
+      "A. Venous ultrasound.",
+      "B. Low-dose CTPA.",
+      "C. Reduced dose lung scintigraphy.",
+      "D. MRA.",
+      "E. Catheter pulmonary angiography."
+    ]
+  }
+]

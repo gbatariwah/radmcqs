@@ -184,7 +184,7 @@
     },
     {
       questionNumber: "13.18",
-      stem: "Total number of acquired counts (k) in a Tc-labeled sulfur colloid image of the liver and spleen is most likely:",
+      stem: "Total number of acquired counts (k) in a Tc-labeled sulfur colloid image of the liver and spleen is most likely",
       options: ["5", "50", "500", "5,000"],
       answer: "500",
       explanation: "A typical NM image obtained with a gamma camera has 500,000 counts",
@@ -192,7 +192,7 @@
     },
     {
       questionNumber: "13.19",
-      stem: "NRC regulations require activity administered to an NM patient to be within ______% of the prescribed dose.",
+      stem: "NRC regulations require activity administered to an NM patient to be within ______% of the prescribed dose",
       options: ["±1", "±5", "±20", "±50"],
       answer: "±20",
       explanation: "NRC regulations require activity administered to an NM patient to be within ±20% of the prescribed dose, although some states require ±10%",
@@ -200,7 +200,7 @@
     },
     {
       questionNumber: "13.20",
-      stem: "In a typical gamma camera image, the average count density is most likely (counts/pixel):",
+      stem: "In a typical gamma camera image, the average count density is most likely (counts/pixel)",
       options: ["1", "10", "100", "1,000"],
       answer: "10",
       explanation: "A typical gamma camera image has an average count density of about 10 counts/pixel",

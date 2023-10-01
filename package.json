@@ -18,11 +18,12 @@
     "@vueuse/core": "^10.2.0",
     "@vueuse/nuxt": "^10.2.0",
     "daisyui": "^3.1.6",
-    "nuxt": "^3.6.0",
+    "nuxt": "^3.7.4",
     "prettier": "^2.8.8",
     "typescript": "latest"
   },
   "dependencies": {
-    "animate.css": "^4.1.1"
+    "animate.css": "^4.1.1",
+    "nuxt-umami": "^2.5.4"
   }
 }

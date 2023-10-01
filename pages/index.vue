@@ -42,6 +42,20 @@ const books = [
     color: "primary",
     type: "sbas",
   },
+  {
+    title: "Grainger & Allison’s Diagnostic Radiology: Single Best Answer MCQs",
+    slug: "grainger-and-allisons-diagnostic-radiology",
+    edition: 5,
+    color: "green",
+    type: "sbas",
+  },
+  {
+    title: "SBAs for the FRCR Part 2A",
+    slug: "sbas-for-the-frcr-part-2a",
+    edition: "Illustrated",
+    color: "primary",
+    type: "sbas",
+  },
 ];
 </script>
 

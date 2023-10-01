@@ -6,12 +6,25 @@ const props = defineProps({
   checkAnswer: Boolean,
 });
 
-const optionLabels = ["A", "B", "C", "D", "E"];
+const { params } = useRoute();
+
+const isGraingerOrSbas = computed(
+  () =>
+    params.bookSlug === "grainger-and-allisons-diagnostic-radiology" ||
+    params.bookSlug === "sbas-for-the-frcr-part-2a"
+);
+
+const optionLabels = ["A", "B", "C", "D", "E", "F"];
 </script>
 
 <template>
   <div class="border-b dark:border-b-zinc-900">
-    <h2 class="font-[oswald] text-lg tracking-wide font-bold">
+    <h2
+      class="font-[oswald] text-lg tracking-wide"
+      :class="{
+        'font-bold': !isGraingerOrSbas,
+      }"
+    >
       <span class="text-orange-400">{{ questionId + 1 }}</span
       >. {{ question.stem }}:
     </h2>
@@ -76,33 +89,20 @@ const optionLabels = ["A", "B", "C", "D", "E"];
         </div>
       </div>
     </div>
-    <div v-if="(checkAnswer || showAnswers) && question.explanation">
-      <UBadge
-        color="green"
-        v-if="question.response === question.answer"
-        class="text-sm p-2 font-light rounded-lg mt-1 flex pr-6"
-      >
-        <p class="p-4">
-          <UIcon name="i-ic-baseline-lightbulb" />
-        </p>
-        <p>{{ question.explanation }}.</p>
-      </UBadge>
-      <UBadge
-        color="red"
-        v-else
-        class="text-sm p-2 font-light rounded-lg mt-1 flex pr-6"
-      >
-        <p class="p-4">
-          <UIcon name="i-ic-baseline-lightbulb" />
-        </p>
-        <p>{{ question.explanation }}.</p>
-      </UBadge>
-    </div>
+
+    <template v-if="(checkAnswer || showAnswers) && question.explanation">
+      <Explanation
+        :text="question.explanation"
+        :reference="question.reference"
+        :answer="question.answer"
+        :response="question.response"
+      />
+    </template>
 
     <div class="py-2 text-right" v-if="question.response && !showAnswers">
       <UButton
         @click="checkAnswer = !checkAnswer"
-        :label="checkAnswer ? 'Hide Answer' : 'Check Answer'"
+        :label="checkAnswer ? 'Hide Answer' : 'Show Answer'"
         size="xs"
         color="sky"
         class="animate__animated animate__bounceIn animate__faster"

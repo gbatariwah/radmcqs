@@ -6,7 +6,7 @@
     {
       questionNumber: 40,
       stem: "Right border of the heart in a chest X-ray, is not formed by",
-      options: ["fVC", "SVC", "Right atrium", "Aorta"],
+      options: ["IVC", "SVC", "Right atrium", "Aorta"],
       response: "",
       answer: "Aorta",
     },

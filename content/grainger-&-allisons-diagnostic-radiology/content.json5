@@ -1,0 +1,33 @@
+{
+  title: 'Grainger & Allison’s Diagnostic Radiology: Single Best Answer MCQs',
+  slug: 'grainger-and-allisons-diagnostic-radiology',
+  author: 'Andrew S McQueen, Lee A. Grant, Jennifer F. Findlay, Sheetal Sharma, Vivek S. Shrivastava and Scott M. M McDonald',
+  edition: 5,
+  modules: [
+    {
+      "name": "Cardiothoracic and Vascular",
+      "slug": "cardiothoracic-and-vascular"
+    },
+    {
+      "name": "Musculoskeletal and Trauma",
+      "slug": "musculoskeletal-and-trauma"
+    },
+    {
+      "name": "Gastrointestinal",
+      "slug": "gastrointestinal"
+    },
+    {
+      "name": "Genitourinary, Adrenal, Obstetric & Gynaecology and Breast",
+      "slug": "genitourinary-adrenal-obstetric-gynaecology-and-breast"
+    },
+    {
+      "name": "Paediatrics",
+      "slug": "paediatrics"
+    },
+    {
+      "name": "Central Nervous and Head & Neck",
+      "slug": "central-nervous-and-head-neck"
+    }
+  ]
+
+}

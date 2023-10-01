@@ -1,0 +1,41 @@
+<script setup lang="ts">
+const props = defineProps({
+  text: String,
+  reference: String,
+  response: String,
+  answer: String,
+});
+</script>
+
+<template>
+  <div>
+    <UBadge
+      color="green"
+      v-if="response === answer"
+      class="text-sm p-2 font-light rounded-lg mt-1 flex pr-6"
+    >
+      <p class="p-4 self-start text-lg">
+        <UIcon name="i-ic-baseline-lightbulb" />
+      </p>
+      <div class="space-y-2">
+        <p>{{ text }}.</p>
+        <p class="font-thin" v-if="reference">Reference: {{ reference }}</p>
+      </div>
+    </UBadge>
+    <UBadge
+      color="red"
+      v-else
+      class="text-sm p-2 font-light rounded-lg mt-1 flex pr-6"
+    >
+      <p class="p-4 self-start text-lg">
+        <UIcon name="i-ic-baseline-lightbulb" />
+      </p>
+      <div class="space-y-2">
+        <p>{{ text }}.</p>
+        <p class="font-thin" v-if="reference">Reference: {{ reference }}</p>
+      </div>
+    </UBadge>
+  </div>
+</template>
+
+<style scoped></style>
