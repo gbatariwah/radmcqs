@@ -26,7 +26,7 @@ const optionLabels = ["A", "B", "C", "D", "E", "F"];
       }"
     >
       <span class="text-orange-400">{{ questionId + 1 }}</span
-      >. {{ question.stem }}:
+      >. {{ question.stem }}{{ isGraingerOrSbas ? "" : ":" }}
     </h2>
 
     <div v-for="(option, optionId) in question.options">
@@ -90,7 +90,12 @@ const optionLabels = ["A", "B", "C", "D", "E", "F"];
       </div>
     </div>
 
-    <template v-if="(checkAnswer || showAnswers) && question.explanation">
+    <template
+      v-if="
+        ((checkAnswer || showAnswers) && question.explanation) ||
+        ((checkAnswer || showAnswers) && question.reference)
+      "
+    >
       <Explanation
         :text="question.explanation"
         :reference="question.reference"

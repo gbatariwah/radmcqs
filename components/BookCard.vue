@@ -29,20 +29,21 @@ const covers = Object.fromEntries(
       <img :src="covers[book.slug]" :alt="book.slug" />
     </nuxt-link>
 
-    <p class="py-2 text-center">
+    <p class="py-2 flex flex-col gap-1">
       <nuxt-link
         :to="`/${book.type}/${book.slug}`"
-        class="font-[oswald] tracking-wider font-medium"
+        class="font-[oswald] tracking-wider font-medium text-center"
       >
         {{ book.title }}
-        <UBadge
-          v-if="book.slug !== 'engineering-interview-questions'"
-          :color="book.color"
-          size="xs"
-          >{{ book.edition }}<sup>{{ editionSuffix }}</sup>
-          <span class="ml-1">Edition</span></UBadge
-        >
       </nuxt-link>
+      <UBadge
+        class="self-center"
+        v-if="book.slug !== 'engineering-interview-questions'"
+        :color="book.color"
+        size="xs"
+        >{{ book.edition }}<sup>{{ editionSuffix }}</sup>
+        <span class="ml-1">Edition</span>
+      </UBadge>
     </p>
   </div>
 </template>

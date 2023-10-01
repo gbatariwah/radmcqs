@@ -28,9 +28,13 @@ const editionSuffix = computed(() =>
 <template>
   <div class="space-y-8">
     <div class="flex">
-      <img :src="covers[params.bookSlug]" :alt="params.bookSlug" class="w-40" />
+      <img
+        :src="covers[params.bookSlug]"
+        :alt="params.bookSlug"
+        class="w-40 self-start"
+      />
 
-      <div class="p-4">
+      <div class="px-4">
         <h1 class="font-[oswald] text-4xl pb-2">
           {{ book.title }}
           <span class="text-orange-400 font-light"

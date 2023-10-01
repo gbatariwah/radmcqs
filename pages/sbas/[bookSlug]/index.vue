@@ -29,9 +29,13 @@ const covers = Object.fromEntries(
 <template>
   <div class="space-y-8">
     <div class="flex">
-      <img :src="`${covers[book.slug]}`" :alt="book.slug" class="w-40" />
+      <img
+        :src="`${covers[book.slug]}`"
+        :alt="book.slug"
+        class="w-40 self-start"
+      />
 
-      <div class="p-4">
+      <div class="px-4">
         <h1 class="font-[oswald] text-4xl pb-2">
           {{ book.title }}
           <span
@@ -40,7 +44,10 @@ const covers = Object.fromEntries(
             >{{ book.edition }}{{ editionSuffix }} Edition</span
           >
         </h1>
-        <p v-if="params.bookSlug !== 'engineering-interview-questions'">
+        <p
+          v-if="params.bookSlug !== 'engineering-interview-questions'"
+          class="font-thin"
+        >
           By {{ book.author }}
         </p>
       </div>

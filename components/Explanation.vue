@@ -18,7 +18,7 @@ const props = defineProps({
         <UIcon name="i-ic-baseline-lightbulb" />
       </p>
       <div class="space-y-2">
-        <p>{{ text }}.</p>
+        <p v-if="text">{{ text }}</p>
         <p class="font-thin" v-if="reference">Reference: {{ reference }}</p>
       </div>
     </UBadge>
@@ -31,11 +31,9 @@ const props = defineProps({
         <UIcon name="i-ic-baseline-lightbulb" />
       </p>
       <div class="space-y-2">
-        <p>{{ text }}.</p>
+        <p v-if="text">{{ text }}</p>
         <p class="font-thin" v-if="reference">Reference: {{ reference }}</p>
       </div>
     </UBadge>
   </div>
 </template>
-
-<style scoped></style>
