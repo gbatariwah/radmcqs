@@ -121,7 +121,9 @@ const bookSlug = computed(() => path.split("/")[2]);
             >
               {{ section.name }}
             </h1>
-            <p>by {{ section.authors }}</p>
+            <p v-if="params.bookSlug !== 'qbase-radiology-vol-1'">
+              by {{ section.authors }}
+            </p>
 
             <p class="py-4 font-[oswald] tracking-wider">
               <span class="text-orange-400 font-bold">

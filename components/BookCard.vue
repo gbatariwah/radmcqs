@@ -5,16 +5,16 @@ const props = defineProps({
   book: Object,
 });
 
-const editionSuffix = computed(() =>
+const formatedEdition = computed(() =>
   props.book.edition === 1
-    ? "st"
+    ? "1st Edition"
     : props.book.edition === 2
-    ? "nd"
+    ? "2nd Edition"
     : props.book.edition === 3
-    ? "rd"
+    ? "3rd Edition"
     : typeof props.book.edition === "string"
-    ? ""
-    : "th"
+    ? props.book.edition
+    : `${props.book.edition}th Edition`
 );
 
 const glob = import.meta.glob("~/assets/covers/*.jpg", { eager: true });
@@ -41,8 +41,7 @@ const covers = Object.fromEntries(
         v-if="book.slug !== 'engineering-interview-questions'"
         :color="book.color"
         size="xs"
-        >{{ book.edition }}<sup>{{ editionSuffix }}</sup>
-        <span class="ml-1">Edition</span>
+        >{{ formatedEdition }}
       </UBadge>
     </p>
   </div>

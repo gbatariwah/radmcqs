@@ -1,0 +1,38 @@
+{
+  title: "QBase Radiology: Volume 1, MCQs for the FRCR",
+  slug: "qbase-radiology-vol-1",
+  author: "R. R. Misra, M. C. Uthappa, P. S. Richards, D. Evans, O. Chan",
+  edition: "Volume 1",
+  sections: [
+    {
+      name: "Exam 1",
+      slug: "exam-1",
+    },
+    {
+      name: "Exam 2",
+      slug: "exam-2",
+    },
+    {
+      name: "Exam 3",
+      slug: "exam-3",
+    },
+    {
+      name: "Exam 4",
+      slug: "exam-4",
+    },
+    {
+      name: "Exam 5",
+      slug: "exam-5",
+    },
+    {
+      name: "Exam 6",
+      slug: "exam-6",
+    },{
+      name: "Exam 7",
+      slug: "exam-7",
+    },{
+      name: "Exam 8",
+      slug: "exam-8",
+    },
+  ],
+}

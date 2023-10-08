@@ -15,6 +15,13 @@ const books = [
     type: "mcqs",
   },
   {
+    title: "QBase Radiology: Volume 1, MCQs for the FRCR",
+    slug: "qbase-radiology-vol-1",
+    edition: "Volume 1",
+    color: "sky",
+    type: "mcqs",
+  },
+  {
     title: "800 MCQ For Medical Radiographers",
     slug: "mcqs-for-medical-radiographers",
     edition: 1,
@@ -52,7 +59,7 @@ const books = [
   {
     title: "SBAs for the FRCR Part 2A",
     slug: "sbas-for-the-frcr-part-2a",
-    edition: "Illustrated",
+    edition: "Illustrated Edition",
     color: "primary",
     type: "sbas",
   },

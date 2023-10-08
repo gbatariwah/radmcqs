@@ -14,14 +14,16 @@ const covers = Object.fromEntries(
   Object.entries(glob).map(([key, value]) => [filename(key), value.default])
 );
 
-const editionSuffix = computed(() =>
+const formatedEdition = computed(() =>
   book.value.edition === 1
-    ? "st"
+    ? "1st Edition"
     : book.value.edition === 2
-    ? "nd"
+    ? "2nd Edition"
     : book.value.edition === 3
-    ? "rd"
-    : "th"
+    ? "3rd Edition"
+    : typeof book.value.edition === "string"
+    ? book.value.edition
+    : `${book.value.edition}th Edition`
 );
 </script>
 
@@ -37,9 +39,7 @@ const editionSuffix = computed(() =>
       <div class="px-4">
         <h1 class="font-[oswald] text-4xl pb-2">
           {{ book.title }}
-          <span class="text-orange-400 font-light"
-            >{{ book.edition }}{{ editionSuffix }} Edition</span
-          >
+          <span class="text-orange-400 font-light">{{ formatedEdition }}</span>
         </h1>
         <p>By {{ book.author }}</p>
       </div>
@@ -69,13 +69,34 @@ const editionSuffix = computed(() =>
         </div>
       </div>
     </div>
-    <div v-if="params.bookSlug === 'mcqs-in-anatomy'">
-      <nuxt-link
-        :to="`/mcqs/mcqs-in-anatomy/${book.sections[0].slug}`"
-        class="font-[oswald] font-bold text-xl tracking-wider uppercase mb-4 underline"
-      >
-        Questions
-      </nuxt-link>
+    <div v-else>
+      <h2 class="font-[oswald] font-bold text-xl tracking-wider uppercase mb-4">
+        Contents
+      </h2>
+
+      <div class="space-y-6">
+        <div v-for="(section, i) in book.sections" :key="section.slug">
+          <div class="space-y-4">
+            <div class="font-[oswald] text-xl flex items-center gap-6">
+              <p
+                class="font-extrabold shrink-0 text-xl ring-2 ring-zinc-700 h-8 w-8 rounded-full flex items-center justify-center"
+              >
+                {{ i + 1 }}
+              </p>
+              <nuxt-link
+                :to="`/mcqs/${params.bookSlug}/${section.slug}`"
+                class="hover:underline"
+              >
+                {{
+                  params.bookSlug === "mcqs-in-anatomy"
+                    ? "Questions"
+                    : section.name
+                }}
+              </nuxt-link>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </template>

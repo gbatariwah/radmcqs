@@ -8,16 +8,16 @@ const { data: book } = await useAsyncData(`${params.bookSlug}`, () =>
     .findOne()
 );
 
-const editionSuffix = computed(() =>
+const formatedEdition = computed(() =>
   book.value.edition === 1
-    ? "st"
+    ? "1st Edition"
     : book.value.edition === 2
-    ? "nd"
+    ? "2nd Edition"
     : book.value.edition === 3
-    ? "rd"
+    ? "3rd Edition"
     : typeof book.value.edition === "string"
-    ? ""
-    : "th"
+    ? book.value.edition
+    : `${book.value.edition}th Edition`
 );
 
 const glob = import.meta.glob("~/assets/covers/*.jpg", { eager: true });
@@ -41,7 +41,7 @@ const covers = Object.fromEntries(
           <span
             v-if="params.bookSlug !== 'engineering-interview-questions'"
             class="text-orange-400 font-light"
-            >{{ book.edition }}{{ editionSuffix }} Edition</span
+            >{{ formatedEdition }}</span
           >
         </h1>
         <p

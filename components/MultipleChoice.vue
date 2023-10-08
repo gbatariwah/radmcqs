@@ -9,19 +9,24 @@
       :key="optionId"
       :option="option"
       :showAnswers="showAnswers"
-      :optionId="optionId"
+      :optionId="Number(optionId)"
       :checkAnswers="checkAnswers"
     />
-    <div v-if="isMCQsInAnatomy && (showAnswers || checkAnswers)">
+    <div v-if="isMCQsInAnatomyOrQbase1 && (showAnswers || checkAnswers)">
       <div v-if="question.explanation">
         <UBadge
           color="emerald"
           class="text-sm p-2 font-light rounded-lg mt-1 flex pr-6"
         >
-          <p class="p-4">
+          <p class="p-4 self-start">
             <UIcon name="i-ic-baseline-lightbulb" />
           </p>
-          <p>{{ question.explanation }}.</p>
+          <div class="space-y-2">
+            <p>{{ question.explanation }}.</p>
+            <p class="font-thin" v-if="question.reference">
+              Reference: {{ question.reference }}
+            </p>
+          </div>
         </UBadge>
       </div>
     </div>
@@ -53,8 +58,10 @@ const props = defineProps({
   questionId: Number,
 });
 
-const isMCQsInAnatomy = computed(
-  () => path.split("/")[2] === "mcqs-in-anatomy"
+const isMCQsInAnatomyOrQbase1 = computed(
+  () =>
+    path.split("/")[2] === "mcqs-in-anatomy" ||
+    path.split("/")[2] === "qbase-radiology-vol-1"
 );
 
 const optionLabels = ["a", "b", "c", "d", "e"];

@@ -1,1119 +1,1324 @@
-[
+{
+  "": [
     {
-      "questionNumber": "1",
-      "stem": "An athletic 19-year-old medical student presents to the Emergency Department after sustaining an injury to his right hip during training. A radiograph reveals a fracture of the anterior superior iliac spine. What is the most likely diagnosis?",
+      "questionNumber": 21,
+      "stem": "Regarding the carotid vessels",
       "options": [
-        "A Avulsion of the adductor muscles",
-        "B Avulsion of the hamstring muscles",
-        "C Avulsion of iliopsoas",
-        "D Avulsion of rectus femoris",
-        "E Avulsion of sartorius"
+        {
+          "label": "A",
+          "text": "CT is better than MRI in imaging the vessels at the thoracic inlet because of less bony artifact",
+          "answer": "False"
+        },
+        {
+          "label": "B",
+          "text": "High-frequency probe is used to assess the carotid artery bifurcation",
+          "answer": "True"
+        },
+        {
+          "label": "C",
+          "text": "Selective catheterization of the external carotid artery is performed to assess supply to vascular tumors of the neck",
+          "answer": "True"
+        },
+        {
+          "label": "D",
+          "text": "Intracranial pathology can cause enlargement of external carotid artery branches",
+          "answer": "True"
+        },
+        {
+          "label": "E",
+          "text": "Right subclavian artery may arise as the last branch of the arch in 5% of people",
+          "answer": "False"
+        }
       ],
-      "answer": "E",
-      "explanation": "Avulsion injuries occur at characteristic sites and are particularly common in children and adolescents.",
-      "reference": "Grainger & Allison's 5e, p 981."
+      "explanation": "MRI has the advantage in imaging the vessels at the thoracic inlet without any degradation from bony artefact. The right subclavian artery may arise at the last branch of the arch in approximately 0.5% of people",
+      "reference": "Anatomy for Diagnostic Imaging. Ryan & McNicholas, W B  Saunder Co Ltd\nEssential Anatomy by Lumley, Craven & Aikens 3rd Edition Churchill Livingstone\nClinical Anatomy by Harold Ellis, 8th Edition. Chuchill Livington"
     },
     {
-      "questionNumber": "2",
-      "stem": "The radiograph of an 8-year-old boy with dietary Vitamin D deficiency reveals cupping and fraying of the distal tibial metaphysis. Which radiological finding is a recognised feature of this condition?",
+      "questionNumber": 22,
+      "stem": "The following statements are true",
       "options": [
-        "A Cortical sclerosis involving the margin of the epiphysis",
-        "B Expansion of the costochondral junctions",
-        "C Exuberant periosteal reaction",
-        "D Increased density of the end of the metaphyses",
-        "E Metaphyseal spurs"
+        {
+          "label": "A",
+          "text": "The occipital horn of the lateral ventricle is bilaterally well developed in 90% of subjects",
+          "answer": "False"
+        },
+        {
+          "label": "B",
+          "text": "Choroid plexus is usually seen in the occipital horn",
+          "answer": "False"
+        },
+        {
+          "label": "C",
+          "text": "The anterior choroidal artery is a branch of the internal carotid artery",
+          "answer": "True"
+        },
+        {
+          "label": "D",
+          "text": "The width of the 3rd ventricle decreases with age",
+          "answer": "False"
+        },
+        {
+          "label": "E",
+          "text": "The nuclei of the 3rd, 4th, and 5th cranial nerves are all periaqueductal grey matter",
+          "answer": "True"
+        }
       ],
-      "answer": "B",
-      "explanation": "Sclerosis of the margins of the epiphysis (Wimberger sign), metaphyseal (Pelcan) spurs, dense metaphyseal lines (white lines of Frankel) and exuberant periosteal reactions (secondary to recurrent subperiosteal bleeding) are features of scurvy. Expansion of the costochondral junctions results in the characteristic appearance of a rachitic rosary.",
-      "reference": "Grainger & Allison's 5e, pp 1104—1105; 1601."
+      "explanation": "Occipital horns are well developed in only 12%. There is usually no choroid plexus in the occipital horn. The width of the 3rd ventricle increases with age: normally 2-10 mm. The nuclei of the 3rd, 4th, and 5th cranial nerves surround the cerebral aqueduct",
+      "reference": "Anatomy for Diagnostic Imaging. Ryan & McNicholas. W B Saunders Co Ltd. Essential Anatomy by Lumley, Craven & Aitken. 3rd Edition. Churchill Livingstone. Clinical Anatomy by Harold Ellis. 8th Edition. Churchill Livingstone"
     },
     {
-      "questionNumber": "3",
-      "stem": "A 60-year-old woman is assessed by the Emergency Department following a fall onto her right wrist. The initial radiograph shows an extra-articular fracture of the right distal radius, with volar subluxation of the distal fragment. Which eponymous fracture type best matches this description?",
+      "questionNumber": 23,
+      "stem": "Regarding the hip joint",
       "options": [
-        "A Barton's fracture",
-        "B Colles’ fracture",
-        "C Hutchinson's fracture",
-        "D Reverse Barton's fracture",
-        "E Smith's fracture"
+        {
+          "label": "A",
+          "text": "Retinacular fibers lie between the synovial membrane and the femoral neck",
+          "answer": "True"
+        },
+        {
+          "label": "B",
+          "text": "The ligamentum teres is attached to the fovea of the acetabulum",
+          "answer": "False"
+        },
+        {
+          "label": "C",
+          "text": "The acetabular epiphysis is closed before puberty",
+          "answer": "False"
+        },
+        {
+          "label": "D",
+          "text": "The transverse ligament is attached to the ligamentum teres",
+          "answer": "True"
+        },
+        {
+          "label": "E",
+          "text": "Thigh extension is limited by the iliofemoral ligament",
+          "answer": "True"
+        }
       ],
-      "answer": "E",
-      "explanation": "Although eponymous classification of injuries is often criticised, many eponyms endure as succinct descriptions of fracture patterns, forcing the radiologist to remain aware of the more common eponymous injuries.",
-      "reference": "Grainger & Allison's 5e, pp 996-997."
+      "explanation": "The ligamentum teres is attached to the fovea of the femoral head. The acetabular epiphysis closes in adult life (18-25)",
+      "reference": "Last’s Anatomy, McMinn. 9th Edition. Churchill Livingstone"
     },
     {
-      "questionNumber": "4",
-      "stem": "A previously well 80-year-old woman sustains a subcapital fracture of the right neck of femur following a fall onto hard ground. The plain film reveals multiple lytic lesions within the pelvic bones and proximal femora, which are highly suspicious for bone metastases. What is the most likely occult primary lesion?",
+      "questionNumber": 24,
+      "stem": "In the lower limb",
       "options": [
-        "A Carcinoma of the bladder",
-        "B Carcinoma of the breast",
-        "C Carcinoma of the bronchus",
-        "D Carcinoma of the colon",
-        "E Carcinoma of the stomach"
+        {
+          "label": "A",
+          "text": "The long saphenous vein is anterior to the medial malleolus",
+          "answer": "True"
+        },
+        {
+          "label": "B",
+          "text": "The medial meniscus is larger than the lateral meniscus",
+          "answer": "True"
+        },
+        {
+          "label": "C",
+          "text": "The popliteal artery lies against the capsule of the knee joint",
+          "answer": "True"
+        },
+        {
+          "label": "D",
+          "text": "The dorsalis pedis artery is a continuation of the posterior tibial artery",
+          "answer": "False"
+        },
+        {
+          "label": "E",
+          "text": "Tibialis anterior is an evertor of the foot",
+          "answer": "False"
+        }
       ],
-      "answer": "B",
+      "explanation": "The dorsalis pedis is a continuation of the anterior tibial artery. Tibialis anterior inverts the foot",
+      "reference": "Last’s Anatomy. McMinn, 9th Edition. Churchill Livingstone, Anatomy for Diagnostic Imaging. Ryan & McNicholas. W B Saunders Co Ltd"
+    },
+    {
+      "questionNumber": 25,
+      "stem": "At the wrist",
+      "options": [
+        {
+          "label": "A",
+          "text": "The pisiform is a sesamoid bone",
+          "answer": "True"
+        },
+        {
+          "label": "B",
+          "text": "The capitate articulates with the third and fourth metacarpals",
+          "answer": "True"
+        },
+        {
+          "label": "C",
+          "text": "The lunate is the second carpal bone to ossify",
+          "answer": "False"
+        },
+        {
+          "label": "D",
+          "text": "The triangular fibrocartilage is attached to the radial styloid process",
+          "answer": "False"
+        },
+        {
+          "label": "E",
+          "text": "The radiocarpal joint freely communicates with the midcarpal joint",
+          "answer": "False"
+        }
+      ],
+      "explanation": "The hamate is the second carpal bone to ossify. The triangular fibrocartilage is attached to the ulnar styloid process. The radiocarpal joint does not normally communicate with the midcarpal joint",
+      "reference": "Last's Anatomy. McMinn. 9th Edition. Churchill Livingstone. Anatomy for Diagnostic Imaging. Ryan & McNicholas, W B Saunders Co Ltd"
+    },
+    {
+      "questionNumber": 26,
+      "stem": "The following statements are true",
+      "options": [
+        {
+          "label": "A",
+          "text": "The os styloideum is an accessory ossicle distal to the ulnar styloid process",
+          "answer": "False"
+        },
+        {
+          "label": "B",
+          "text": "The os triangulare may be seen between the ulna and triquetrum on an AP radiograph of the wrist",
+          "answer": "True"
+        },
+        {
+          "label": "C",
+          "text": "The supracondylar process of the humerus is seen in approximately 5% of Europeans",
+          "answer": "False"
+        },
+        {
+          "label": "D",
+          "text": "Thickening of the cortex on the lateral aspect of the humerus may be caused by insertion of the deltoid muscle",
+          "answer": "True"
+        },
+        {
+          "label": "E",
+          "text": "The lower humeral epiphysis lies at an angle of 5 degrees to the shaft",
+          "answer": "False"
+        }
+      ],
+      "explanation": "Os styloideum is an ossicle seen overlying the capitate and bases of the 2nd and 3rd metacarpals. A supracondylar process is seen in 1% of Europeans. The lower humeral epiphysis lies at an angle of 25 degrees to the shaft",
+      "reference": "Last’s Anatomy. McMinn. 9th Edition, Churchill Livingstone, Anatomy for Diagnostic Imaging. Ryan & McNicholas. W B Saunders Co Ltd. Atlas of Normal Roentgen Variants. Keats. 6th Edition, Mosby"
+    },
+    {
+      "questionNumber": 27,
+      "stem": "In relation to the penis",
+      "options": [
+        {
+          "label": "A",
+          "text": "The urethra is surrounded by a ring of tissue called the corpus spongiosum",
+          "answer": "True"
+        },
+        {
+          "label": "B",
+          "text": "The corpora cavernosa are covered by a fibrous coat, the tunica albuginea",
+          "answer": "True"
+        },
+        {
+          "label": "C",
+          "text": "The corpora cavernosa are commonly injected with contrast to investigate erectile dysfunction",
+          "answer": "True"
+        },
+        {
+          "label": "D",
+          "text": "The penis receives three pairs of arteries, all from the internal pudendal artery",
+          "answer": "True"
+        },
+        {
+          "label": "E",
+          "text": "Lymph from penile skin drains to superficial inguinal nodes",
+          "answer": "True"
+        }
+      ],
       "explanation": "",
-      "reference": "Grainger & Allison's 5e, pp 1059-1060, Table 48.2 (p 1060) provides a useful"
+      "reference": "Last’s Anatomy. McMinn, 9th Edition, Churchill Livingstone. Anatomy for Diagnostic Imaging. Ryan & McNicholas. W B Saunders Co Ltd"
     },
     {
-      "questionNumber": "5",
-      "stem": "A 32-year-old builder is brought to the Emergency Department following a fall from scaffolding. He is believed to have fallen a considerable height and witnesses report that he landed on his feet. On primary survey, he is tachycardic, hypotensive and extremely tender on palpation of the pelvis and left hip. During resuscitation, a radiographic trauma series is obtained. What is the most likely pattern of pelvic injury?",
+      "questionNumber": 28,
+      "stem": "The uterus",
       "options": [
-        "A Bilateral fractures of the superior and inferior pubic rami",
-        "B Bilateral fractures of the superior and inferior pubic rami with a fracture through the left sacral ala",
-        "C Disruption of the sacroiliac joints and pubic symphysis",
-        "D Localised fracture through the left iliac wing",
-        "E Vertical fracture through the left ilium with fractures through the left superior and inferior pubic rami"
+        {
+          "label": "A",
+          "text": "Is retroverted in the majority of individuals",
+          "answer": "False"
+        },
+        {
+          "label": "B",
+          "text": "Is covered with peritoneum in its upper third only",
+          "answer": "False"
+        },
+        {
+          "label": "C",
+          "text": "Is supplied by an artery directly from the aorta",
+          "answer": "False"
+        },
+        {
+          "label": "D",
+          "text": "Has the round ligament attached to the junction of the uterus and uterine tube",
+          "answer": "True"
+        },
+        {
+          "label": "E",
+          "text": "Is bicornuate if there is incomplete fusion of the paramesonephric ducts",
+          "answer": "True"
+        }
       ],
-      "answer": "E",
+      "explanation": "The uterus is usually anteverted. The majority of the uterus is covered in peritoneum. The uterine artery is a branch of the internal iliac artery",
+      "reference": "Last’s Anatomy. McMinn. 9th Edition, Churchill Livingstone. Atlas for Diagnostic Imaging, Ryan & McNicholas. W B Saunders Co Ltd"
+    },
+    {
+      "questionNumber": 29,
+      "stem": "Regarding the pancreas",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is closely related to the splenic vein anteriorly",
+          "answer": "False"
+        },
+        {
+          "label": "B",
+          "text": "Venous drainage is partially by the superior mesenteric vein",
+          "answer": "True"
+        },
+        {
+          "label": "C",
+          "text": "The tail lies within two layers of the lienorenal ligament",
+          "answer": "True"
+        },
+        {
+          "label": "D",
+          "text": "The uncinate process is not supplied by the splenic artery",
+          "answer": "True"
+        },
+        {
+          "label": "E",
+          "text": "Lymphatic drainage is to para-aortic nodes",
+          "answer": "False"
+        }
+      ],
+      "explanation": "The splenic vein is posterior to the pancreas. Lymphatic drainage from the pancreas is to the superior mesenteric and coeliac nodes",
+      "reference": "Last’s Anatomy. McMinn 9th Edition. Churchill Livingstone, Anatomy for Diagnostic Imaging. Ryan & McNicholas. W B Saunders Co Ltd"
+    },
+    {
+      "questionNumber": 30,
+      "stem": "The following statements are true",
+      "options": [
+        {
+          "label": "A",
+          "text": "The adrenal glands lie within the perirenal space",
+          "answer": "True"
+        },
+        {
+          "label": "B",
+          "text": "The adrenal glands lie within the renal capsule",
+          "answer": "False"
+        },
+        {
+          "label": "C",
+          "text": "Gerota’s fascia fuses medially with the adventitia of the renal vessels",
+          "answer": "True"
+        },
+        {
+          "label": "D",
+          "text": "The anterior pararenal space communicates across the midline",
+          "answer": "True"
+        },
+        {
+          "label": "E",
+          "text": "The posterior pararenal space communicates across the midline",
+          "answer": "False"
+        }
+      ],
+      "explanation": "The adrenal glands lie within Gerota's fascia but outside of the capsule. The posterior pararenal space is limited medially by the psoas fascia",
+      "reference": "Last's Anatomy. McMinn. 9th Edition. Churchill Livingstone. Anatomy for Diagnostic Imaging. Ryan & McNicholas. W B Saunders Co Ltd"
+    },
+    {
+      "questionNumber": 31,
+      "stem": "Regarding the gallbladder and biliary tree",
+      "options": [
+        {
+          "label": "A",
+          "text": "The cystic duct is about 2-3 cm long",
+          "answer": "True"
+        },
+        {
+          "label": "B",
+          "text": "The small cystic veins pass directly from the body of the gallbladder into the liver substance",
+          "answer": "True"
+        },
+        {
+          "label": "C",
+          "text": "The right and left hepatic ducts may fail to unite giving double hepatic ducts",
+          "answer": "True"
+        },
+        {
+          "label": "D",
+          "text": "A Phrygian cap is a diverticulum within the gallbladder",
+          "answer": "False"
+        },
+        {
+          "label": "E",
+          "text": "Two cystic veins accompany the cystic artery",
+          "answer": "False"
+        }
+      ],
+      "explanation": "A Phrygian cap is the appearance of the gallbladder fundus folded over on itself. Cystic veins are uncommon but when they occur they run into the right branch of the portal vein",
+      "reference": "Lasts Anatomy. McMinn, 9th Edition, Churchill Livingstone. Gray's Anatomy. 38th Edition, Churchill Livingstone"
+    },
+    {
+      "questionNumber": 32,
+      "stem": "The spleen",
+      "options": [
+        {
+          "label": "A",
+          "text": "Develops from ventral mesogastrium",
+          "answer": "False"
+        },
+        {
+          "label": "B",
+          "text": "Normally has a blood supply from the superior mesenteric artery",
+          "answer": "False"
+        },
+        {
+          "label": "C",
+          "text": "Has a notched posterior border",
+          "answer": "False"
+        },
+        {
+          "label": "D",
+          "text": "Receives sympathetic fibers from the coeliac plexus",
+          "answer": "True"
+        },
+        {
+          "label": "E",
+          "text": "Is related to the tail of the pancreas on its posterior surface",
+          "answer": "False"
+        }
+      ],
+      "explanation": "The spleen develops from dorsal mesogastrum. The blood supply to the spleen is normally from the coeliac artery. The anterior border of the spleen is notched. The spleen is related to the tail of the pancreas at the hilum",
+      "reference": "Last's Anatomy, McMinn. 9th Edition, Churchill Livingstone"
+    },
+    {
+      "questionNumber": 33,
+      "stem": "The following statements are true",
+      "options": [
+        {
+          "label": "A",
+          "text": "Costal cartilage calcification is usually marginal bands in males and a central tongue in females",
+          "answer": "True"
+        },
+        {
+          "label": "B",
+          "text": "Cervical ribs are found in 10-20% of normal subjects",
+          "answer": "False"
+        },
+        {
+          "label": "C",
+          "text": "The left paraspinal line is larger than the right paraspinal line",
+          "answer": "True"
+        },
+        {
+          "label": "D",
+          "text": "Rhomboid fossa is present at the inferomedial aspect of the clavicle",
+          "answer": "True"
+        },
+        {
+          "label": "E",
+          "text": "End plates of cervical spine vertebrae are well seen on views",
+          "answer": "False"
+        }
+      ],
+      "explanation": "Cervical ribs are seen in only 1-2% of subjects.\nLeft paraspinal line is 10mm and right is 3mm.\nRhomboid fossa is seen in 0.5% of cases. They are well seen on AP views",
+      "reference": "Anatomy for Diagnostic Imaging. Ryan & McNicholas. 1994 Edition. W B Saunders Co Ltd. Essential Anatomy by Lumley, Craven & Aitken. 3rd Edition, Churchill Livingstone Clinical Anatomy by Harold Ellis, 8th Edition. Churchill Livingstone"
+    },
+    {
+      "questionNumber": 34,
+      "stem": "The following statements are true",
+      "options": [
+        {
+          "label": "A",
+          "text": "The right ventricular chamber is flattened from side to side",
+          "answer": "False"
+        },
+        {
+          "label": "B",
+          "text": "The lower part of the right ventricle normally touches the lower part of the sternum in lateral view",
+          "answer": "True"
+        },
+        {
+          "label": "C",
+          "text": "The right ventricle has a smooth inflow tract and muscular outflow tract",
+          "answer": "False"
+        },
+        {
+          "label": "D",
+          "text": "The pulmonary valve has two anterior and one posterior cusp",
+          "answer": "True"
+        },
+        {
+          "label": "E",
+          "text": "The pulmonary valve is the most anterior and superior of all the cardiac valves",
+          "answer": "True"
+        }
+      ],
+      "explanation": "‘The right ventricular chamber is flattened from front to back due to the bulging left ventricle.\nThe right ventricle has a smooth outflow tract and a muscular inflow tract",
+      "reference": "Anatomy for Diagnostic Imaging. Ryan & McNicholas. WB Saunders Co Lid. Essential Anatomy by Lumley, Craven & Aitken. 3rd Edition. Churchill Livingstone. Clinical Anatomy by Harold Ellis, 8th Edition. Churchill Livingstone"
+    },
+    {
+      "questionNumber": 35,
+      "stem": "Regarding the thyroid cartilage",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is composed of hyaline cartilage",
+          "answer": "True"
+        },
+        {
+          "label": "B",
+          "text": "Epiglottis is attached to its inner surface",
+          "answer": "True"
+        },
+        {
+          "label": "C",
+          "text": "It forms the lateral wall of the piriform fossa",
+          "answer": "True"
+        },
+        {
+          "label": "D",
+          "text": "It has fibrous joints articulating with the arytenoid and cricoid cartilage",
+          "answer": "False"
+        },
+        {
+          "label": "E",
+          "text": "It lies at the level of the second cervical vertebra",
+          "answer": "False"
+        }
+      ],
+      "explanation": "Thyroid cartilage articulates with arytenoid and cricoid by synovial joints.\nThe thyroid cartilage lies at level C3-C6",
+      "reference": "Anatomy for Diagnostic Imaging. Ryan & McNicholas. 1994 Edition. WB Saunders Co Ltd. Essential Anatomy by Lumley, Craven & Aitken. 3rd Edition. Churchill Livingstone. Clinical Anatomy by Harold Ellis. 8th Edition. Churchill Livingstone"
+    },
+    {
+      "questionNumber": 36,
+      "stem": "The following are true statements",
+      "options": [
+        {
+          "label": "A",
+          "text": "The nasolacrimal duct drains into the middle meatus",
+          "answer": "False"
+        },
+        {
+          "label": "B",
+          "text": "The lacrimal gland is supplied by the superior orbital artery",
+          "answer": "False"
+        },
+        {
+          "label": "C",
+          "text": "The oculomotor nerve supplies the inferior oblique muscle",
+          "answer": "True"
+        },
+        {
+          "label": "D",
+          "text": "The upper permanent dentition normally erupts before the lower",
+          "answer": "False"
+        },
+        {
+          "label": "E",
+          "text": "The lacrimal gland is innervated by the trigeminal nerve",
+          "answer": "False"
+        }
+      ],
+      "explanation": "The nasolacrimal duct drams into the inferior meatus\nThe lacrimal gland is supplied by ophthalmic artery\nThe lower permanent dentition erupts before the upper\nLacrimal gland is innervated by facial nerve",
+      "reference": "Anatomy for Diagnostic Imaging. Ryan & McNicholas. WB Saunders Co Ltd. Essential Anatomy by Lumley, Craven & Aitken, 3rd Edition, Churchill Livingstone. Clinical Anatomy by Harold Ellis. 8th Edition, Churchill Livingstone"
+    },
+    {
+      "questionNumber": 37,
+      "stem": "The following statements are true",
+      "options": [
+        {
+          "label": "A",
+          "text": "The apex of the pleura is about 2.5cm above the clavicle",
+          "answer": "True"
+        },
+        {
+          "label": "B",
+          "text": "The pleural reflections cross the tenth rib at the mid axillary line",
+          "answer": "True"
+        },
+        {
+          "label": "C",
+          "text": "The internal thoracic vessels run downwards half an inch from the lateral border of the sternum",
+          "answer": "True"
+        },
+        {
+          "label": "D",
+          "text": "Each typical rib has two articular facets for articulation with the numerically corresponding vertebrae and the vertebra above",
+          "answer": "True"
+        },
+        {
+          "label": "E",
+          "text": "The inferior angle of scapula corresponds to the T8 vertebral level",
+          "answer": "True"
+        }
+      ],
       "explanation": "",
-      "reference": "Grainger & Allison's 5e, pp 980-981."
-    },
-    {
-      "questionNumber": "6",
-      "stem": "A 43-year-old man is investigated for pain related to his left arm. Plain radiography demonstrates a well-defined, lytic lesion in the proximal humerus, with chondroid matrix mineralisation and a narrow zone of transition. There is deep endosteal cortical scalloping and the suggestion of bone expansion. What is the most likely diagnosis?",
-      "options": [
-        "A Chondroblastoma",
-        "B Chondroma",
-        "C Chondromyxofibroma",
-        "D Chondrosarcoma",
-        "E Osteochondroma"
-      ],
-      "answer": "D",
-      "explanation": "",
-      "reference": "Grainger & Allison's 5e, pp 1063-1066."
-    },
-    {
-      "questionNumber": "7",
-      "stem": "A 19-year-old man, the unrestrained driver in a high-energy road traffic accident, has been brought by ambulance to the Emergency Department. A lateral cervical spine radiograph shows an anterior wedge fracture of C5 with a retropulsed bony fragment. What was the likely predominant force acting on the cervical spine at the time of injury?",
-      "options": [
-        "A Compression",
-        "B Distraction",
-        "C Extension",
-        "D Flexion",
-        "E Shearing"
-      ],
-      "answer": "A",
-      "explanation": "Figure 46.104 (p 1016) gives a helpful summary of the pathomechanics of spinal injury.",
-      "reference": "Grainger & Allison's 5e, pp 1014-1023."
-    },
-    {
-      "questionNumber": "8",
-      "stem": "A 45-year-old man underwent chemotherapy and limb-sparing surgery to treat a soft tissue sarcoma in his left leg. He remains under regular MRI surveillance to detect signs of recurrent disease. What feature on MRI would be most suggestive of disease recurrence?",
-      "options": [
-        "A New areas of high signal on proton density images",
-        "B New areas of high signal on T1w images",
-        "C New areas of high signal on T2w images",
-        "D New areas of reduced signal on T1w images",
-        "E New areas of reduced signal on T2w images"
-      ],
-      "answer": "C",
-      "explanation": "",
-      "reference": "Grainger & Allison's 5e, pp 974."
-    },
-    {
-      "questionNumber": "9",
-      "stem": "An aggressive, lytic bone lesion is observed to destroy the cortex of the second metacarpal in a 70-year-old woman. What is the most likely cause for these appearances?",
-      "options": [
-        "A Metastatic breast cancer",
-        "B Metastatic colon cancer",
-        "C Metastatic lung cancer",
-        "D Metastatic renal cancer",
-        "E Metastatic thyroid cancer"
-      ],
-      "answer": "C",
-      "explanation": "Skeletal metastases tend to involve the axial rather than appendicular skeleton, reflecting their predilection for bones containing red marrow. Metastases from bronchial carcinoma account for half of all peripheral metastases.",
-      "reference": "Grainger & Allison's 5e. pp 1060-1061."
-    },
-    {
-      "questionNumber": "10",
-      "stem": "A 14-year-old boy attends the Emergency Department following an injury to his right ankle in a rugby match. The radiograph shows a triplane fracture. Which fracture is likely to form part of this complex injury?",
-      "options": [
-        "A Coronal fracture through the physis",
-        "B Coronal fracture through the epiphysis",
-        "C Horizontal fracture through the metaphysis.",
-        "D Sagittal fracture through the epiphysis",
-        "E Sagittal fracture through the metaphysis"
-      ],
-      "answer": "D",
-      "explanation": "Triplane fractures are injuries of adolescence, occurring around the time of epiphyseal fusion. Partial fusion of the growth plate results in complex fracture geometry following injury; typically, this includes a coronal metaphyseal fracture, a horizontal fracture through the physis and a sagittal epiphyseal fracture (eg Salter-Harris IV injury).\nTillaux fractures occur at a similar age, and are characterised by a horizontal fracture through the growth plate and a vertical epiphyseal fracture (Salter-Harris III injury).",
-      "reference": "Grainger & Allison's 5e, p 1618."
-    },
-    {
-      "questionNumber": "11",
-      "stem": "A solitary, lytic lesion with aggressive features is an unexpected incidental finding on radiography of the left knee. Which radiological feature would favour a diagnosis of metastasis rather than primary bone tumour?",
-      "options": [
-        "A Bone expansion",
-        "B Diaphyseal location",
-        "C Florid periosteal reaction",
-        "D Tumour bone formation",
-        "E Soft tissue mass"
-      ],
-      "answer": "B",
-      "explanation": "",
-      "reference": "Grainger & Allison's 5c, p 1063 (Table 48.3 provides a concise summary)."
-    },
-    {
-      "questionNumber": "12",
-      "stem": "A pelvic radiograph reveals a symmetrical abnormality of the proximal femora characterised by thin lucent lines perpendicular to the medial femoral cortex, with a faint sclerotic margin. These linear lucent areas do not extend across the full width of the femur, and the visualized bones are otherwise of normal appearance. Which is the most likely diagnosis?",
-      "options": [
-        "A Hyperparathyroidism",
-        "B Multiple myeloma",
-        "C Osteomalacia",
-        "D Osteoporosis",
-        "E Paget's disease"
-      ],
-      "answer": "C",
-      "explanation": "Looser's zones represent areas of unmineralised osteoid and are pathognomonic of osteomalacia. The medial aspects of the proximal femora are typical sites for Looser's zones; other common sites include the pubic rami, ribs and the lateral border of the scapula.",
-      "reference": "Grainger & Allison's 5e, pp 1104—1105."
-    },
-    {
-      "questionNumber": "13",
-      "stem": "A 32-year-old man attends hospital following a fall onto his flexed left arm. He is referred to the duty orthopaedic team with a ‘Monteggia injury’. What are the most likely radiological findings?",
-      "options": [
-        "A A fracture of the distal radius with an associated dislocation of the radial",
-        "B A fracture of the distal radius with an associated disruption of the distal radioulnar joint",
-        "C A fracture of the distal ulna with an associated dislocation of the radial",
-        "D A fracture of the proximal ulna with an associated dislocation of the radial head",
-        "E A fracture of the proximal radius with an associated disruption of the distal radioulnar joint"
-      ],
-      "answer": "D",
-      "explanation": "",
-      "reference": "Grainger & Allison's 5e, pp 994-995."
-    },
-    {
-      "questionNumber": "14",
-      "stem": "A 1-year-old child with multiple injuries is brought to the Emergency Department by his mother. The history and mechanism of his injuries is not clear. Which radiological finding would be highly specific for non-accidental injury?",
-      "options": [
-        "A Scapular fracture",
-        "B Greenstick fracture",
-        "C Linear parietal fracture",
-        "D Mid-clavicular fracture",
-        "E Single diaphyseal fracture"
-      ],
-      "answer": "A",
-      "explanation": "Metaphyseal, rib, sternal and scapular fractures have a high specificity for non-accidental injury.",
-      "reference": "Grainger & Allison's 5e, p 1623."
-    },
-    {
-      "questionNumber": "15",
-      "stem": "A 70-year-old man complains of a tense painless swelling posterior to his right knee. Ultrasound demonstrates a large cyst, which communicates with the knee joint between which two structures?",
-      "options": [
-        "A Through the interval between semimembranosus and the lateral head of gastrocnemius",
-        "B Through the interval between semimembranosus and the medial head of gastrocnemius",
-        "C Through the interval between semimembranosus and semitendinosus",
-        "D Through the interval between semitendinosus and the lateral head of gastrocnemius",
-        "E Through the interval between semitendinosus and the medial head of gastrocnemius"
-      ],
-      "answer": "B",
-      "explanation": "",
-      "reference": "Grainger & Allison's 5e, p 1141."
-    },
-    {
-      "questionNumber": "16",
-      "stem": "On an otherwise normal lateral radiograph of the knee, the patella is noted to be inferiorly situated, in keeping with patella baja. What is a possible association of this condition?",
-      "options": [
-        "A Cerebral palsy",
-        "B Chondromalacia patella",
-        "C Juvenile idiopathic arthritis",
-        "D Quadriceps atrophy",
-        "E Recurrent patellar subluxation"
-      ],
-      "answer": "C",
-      "explanation": "On a lateral radiograph, the length of the patellar tendon should equal the height of the patella, plus or minus 20%. Patella baja is associated with polio, juvenile chronic arthritis and achondroplasia.",
-      "reference": "Grainger & Allison's 5e, p 1140."
-    },
-    {
-      "questionNumber": "17",
-      "stem": "A 75-year-old lady undergoes bone mineral density (BMD) measurements at the hip and spine by means of dual energy radiograph absorptiometry (DXA). What findings would satisfy the World Health Organisation (WHO) criteria for osteoporosis?",
-      "options": [
-        "A BMD below the young adult reference mean",
-        "B BMD between —1 and —2.5 standard deviations below that of the young adult reference mean",
-        "C BMD more than —2.5 standard deviations below the young adult reference mean",
-        "D BMD more than —2.5 standard deviations below the young adult reference mean, with one low-energy fracture",
-        "E BMD more than —2.5 standard deviations below the young adult reference mean, with two low-energy fractures"
-      ],
-      "answer": "C",
-      "explanation": "",
-      "reference": "Grainger & Allison's 5e, p 1087."
-    },
-    {
-      "questionNumber": "18",
-      "stem": "A 27-year-old man is referred by his GP with progressively painful swelling of his left knee following a minor football injury some weeks ago. The radiograph shows a 5-cm ill-defined lytic lesion within the left distal femoral metaphysis, with a permeative pattern of bone loss and areas of cloud-like ossification. There is an extensive periosteal reaction, predominantly orientated perpendicular to the cortex. What is the most likely diagnosis?",
-      "options": [
-        "A Aneurysmal bone cyst",
-        "B Chondrosarcoma",
-        "C Ewing's sarcoma",
-        "D Metastasis",
-        "E Osteosarcoma"
-      ],
-      "answer": "E",
-      "explanation": "The appearances are highly aggressive, and characteristic of osteosarcoma. The tumour matrix indicates a tumour of osseous rather than cartilaginous origin, making chondrosarcoma highly unlikely.",
-      "reference": "Grainger & Allison's 5e, pp 1066-1074, 1076."
-    },
-    {
-      "questionNumber": "19",
-      "stem": "A 25-year-old doctor injures her left wrist whilst snowboarding. Initial radiographs are reported as showing no fracture, but there is clinical suspicion of a scapholunate ligament disruption. Further views are obtained. Which radiological feature would support the diagnosis?",
-      "options": [
-        "A Scapholunate angle less than 30°",
-        "B Scapholunate distance of 2 mm",
-        "C ‘Signet ring’ appearance of the scaphoid",
-        "D Rotatory subluxation of the lunate",
-        "E Wedge-shaped appearance of the lunate"
-      ],
-      "answer": "C",
-      "explanation": "The ‘signet ring’ appearance is clue to rotatory subluxation of the scaphoid as a result of disruption of the scapholunate ligament.",
-      "reference": "Grainger dr Allison's 5e, pp 998-999."
-    },
-    {
-      "questionNumber": "20",
-      "stem": "A 50-year-old patient with right wrist pain and clicking is referred for an MRI by the orthopaedic surgeons, who suspect ulnolunate impingement. Which of the following imaging features would count against this provisional diagnosis?",
-      "options": [
-        "A Disruption of the lunotriquetral ligament",
-        "B High signal within the lunate on T2w or STIR sequences",
-        "C Negative ulnar variance",
-        "D Perforation of the central portion of the triangular fibrocartilage (TFC)",
-        "E Sclerosis within the lunate"
-      ],
-      "answer": "C",
-      "explanation": "",
-      "reference": "Grainger dr Allison's 5e, pp 1148—1149."
-    },
-    {
-      "questionNumber": "21",
-      "stem": "A 50-year-old woman attends the Emergency Department following a minor hand injury. A plain radiograph reveals no fracture, but there is evidence of subperiosteal erosion along the radial aspect of the middle phalanges of the middle and index fingers. What is the most likely diagnosis?",
-      "options": [
-        "A Hyperparathyroidism",
-        "B Myeloma",
-        "C Sarcoid",
-        "D Systemic lupus erythematosus"
-      ],
-      "answer": "B",
-      "explanation": "",
-      "reference": "Grainger dr Allison's 5e, p 1100."
-    },
-    {
-      "questionNumber": "22",
-      "stem": "A 6-week-old boy has a positive family history of developmental dysplasia of the hip (DDH) and is referred for a hip ultrasound. Which imaging features would be consistent with normal (Graf type 1) hips?",
-      "options": [
-        "A Alpha angle greater than 60°",
-        "B Beta angle greater than 77°",
-        "C Compressed cartilage roof",
-        "D Deficient bony roof",
-        "E Rounded ossific rim"
-      ],
-      "answer": "A",
-      "explanation": "",
-      "reference": "Grainger & Allison's 5e, p 1590 (Table 67.7 provides a concise summary)."
-    },
-    {
-      "questionNumber": "23",
-      "stem": "An 80-year-old woman is admitted to the hospital following a fall. The patient had a right mastectomy and axillary dissection 5 years ago to treat an invasive ductal carcinoma. The pelvic radiograph reveals a left hip fracture. Which fracture site would be most suggestive of a pathological fracture?",
-      "options": [
-        "A Greater trochanter fracture",
-        "B Intertrochanteric fracture of the left proximal femur",
-        "C Pertrochanteric fracture of the left proximal femur",
-        "D Subcapital fracture of the left neck of femur",
-        "E Subtrochanteric fracture of the left proximal femur"
-      ],
-      "answer": "E",
-      "explanation": "An isolated lesser trochanter fracture is also highly suspicious for a pathological fracture.",
-      "reference": "Grainger dr Allison's 5e, pp 1003-1004."
-    },
-    {
-      "questionNumber": "24",
-      "stem": "Regarding MRI examination of the shoulder, what are the signal characteristics of the normal supraspinatus tendon?",
-      "options": [
-        "A High signal intensity on all sequences",
-        "B High signal on T1w, low signal on T2w",
-        "C Intermediate signal on all sequences",
-        "D Low signal on all sequences",
-        "E Low signal on T1w, high signal on T2w"
-      ],
-      "answer": "D",
-      "explanation": "",
-      "reference": "Grainger & Allison's 5e, p 1145."
-    },
-    {
-      "questionNumber": "25",
-      "stem": "A 28-year-old tennis player undergoes a MR arthrogram to investigate recurrent right shoulder instability following a previous glenohumeral dislocation. The MRI reveals a tear of the anterosuperior labrum, closely related to the insertion of the biceps tendon. How are these appearances best described?",
-      "options": [
-        "A Anterior labral tear",
-        "B Bankart lesion",
-        "C Hill-Sachs lesion",
-        "D Reverse Hill-Sachs lesion",
-        "E Superior labrum from anterior to posterior (SLAP) lesion"
-      ],
-      "answer": "E",
-      "explanation": "",
-      "reference": "Grainger & Allison's 5e, p 1147."
-    },
-    {
-      "questionNumber": "26",
-      "stem": "In a 40-year-old woman complaining of wrist pain, radiographs reveal sclerosis and collapse of the lunate, with rotatory subluxation of the scaphoid. What is the most likely diagnosis?",
-      "options": [
-        "A Freiberg's disease",
-        "B Kienboeck's disease",
-        "C Kohler's disease",
-        "D Sever's disease",
-        "E Sinding-Larsen disease"
-      ],
-      "answer": "B",
-      "explanation": "Kienboeck's disease describes lunate collapse as a result of vascular insufficiency and avascular necrosis. Avascular necrosis of the navicular is Kohler's disease whilst Freiberg's disease describes avascular necrosis of the second metatarsal head. Sever's disease relates to calcaneal apophysitis whilst Sinding-Larsen's disease is a cause of anterior knee pain in adolescents.",
-      "reference": "Grainger & Allison's 5e, p 1149."
-    },
-    {
-      "questionNumber": "27",
-      "stem": "A 30-year-old woman experiences, amongst other symptoms, recurrent episodes of painful swelling and stiffness of both hands. Antibodies against antinuclear antigens and double-stranded DNA are detected in peripheral blood samples. Radiographs of both hands are obtained during her assessment. Which radiographic findings are most likely?",
-      "options": [
-        "A Atrophic soft tissues, resorption of the terminal phalanges and soft tissue calcinosis",
-        "B Punched-out marginal erosions in an asymmetric distribution, with preservation of bone density",
-        "C Symmetrical abnormality of the MCPs of the index and middle finger, characterized by joint space narrowing, subarticular cysts and hook-like osteophytes",
-        "D Symmetrical soft tissue swelling, marginal erosions and juxta-articular osteopenia",
-        "E Ulnar deviation at the MCPJs, without evidence of erosions"
-      ],
-      "answer": "E",
-      "explanation": "",
-      "reference": "Grainger & Allison's 5e, pp 1120-1130 (Table 50.7 on pp 1135-1136 provides a useful summary)."
-    },
-    {
-      "questionNumber": "28",
-      "stem": "An elderly diabetic patient with an established peripheral sensory neuropathy has deep ulcers on his right foot. Plain films show destruction of the architecture of the midfoot with extensive sclerosis, consistent with a Charcot arthropathy. Which imaging feature would suggest coexistent infection?",
-      "options": [
-        "A Collapse of the plantar arch on the lateral radiograph",
-        "B Enhancement of T1w signal following administration of gadolinium",
-        "C Evidence of bone edema on fluid-sensitive sequences",
-        "D Reduced bone marrow signal on STIR",
-        "E Slow progression of bone destruction on serial radiographs"
-      ],
-      "answer": "B",
-      "explanation": "The detection, or exclusion, of osteomyelitis in the context of Charcot arthropathy is difficult. Bone marrow oedema is a feature of both infection and Charcot changes, but enhancement following gadolinium is suspicious for coexistent infection.",
-      "reference": "Grainger & Allison's 5c. p 1162."
-    },
-    {
-      "questionNumber": "29",
-      "stem": "A 15-year-old male hemophiliac patient presents to the Emergency Department with painful swelling of the right knee. There have been similar presentations in the past. Following radiographs, he is referred for an MRI of the right knee. Which of the following imaging features would be regarded as unusual or atypical given the history?",
-      "options": [
-        "A Accelerated maturation of the epiphysis",
-        "B Epiphyseal enlargement",
-        "C Irregular synovial thickening",
-        "D Juxta-articular sclerosis",
-        "E Blooming of the synovium on gradient echo sequences"
-      ],
-      "answer": "D",
-      "explanation": "Juxta-articular osteoporosis is a typical feature of haemophilic arthropathy, as a result of the periarticular hyperaemia associated with recurrent haemorrhage.",
-      "reference": "Grainger & Allison's 5e, pp 1118-1119."
-    },
-    {
-      "questionNumber": "30",
-      "stem": "An asymptomatic 65-year-old woman on long-term steroids for rheumatoid disease undergoes dual-energy X-ray absorptiometry (DXA). Her Z score is —2 and her T score is —2.7. What is the WHO definition of osteoporosis?",
-      "options": [
-        "A T score less than —1",
-        "B T score less than —2.5",
-        "C Z score less than —1",
-        "D Z score less than —2.5",
-        "E Mean of T and Z score less than —2"
-      ],
-      "answer": "B",
-      "explanation": "Bone density can be measured in relation to an age and sex-matched population (Z score) or in relation to a population of young adults of the same sex (T score). The WHO defines osteoporosis as a T score less than —2.5, therefore relating bone mineral density to sex-matched peak bone mass.",
-      "reference": "Grainger dr Allison's 5e, pp 1097-1099."
-    },
-    {
-      "questionNumber": "31",
-      "stem": "A 20-year-old footballer injured his ankle 3 months ago, but still experiences pain that prevents a return to competitive sport. An MRI of his injured ankle shows a partially detached osteochondral fragment within the lateral aspect of the talar dome, with fluid deep to the fragment and a fissure in the overlying cartilage. Which stage of disease do these appearances represent?",
-      "options": [
-        "A Stage 0",
-        "B Stage 1",
-        "C Stage 2",
-        "D Stage 3",
-        "E Stage 4"
-      ],
-      "answer": "C",
-      "explanation": "",
-      "reference": "Grainger & Allison's 5e, p 1142."
-    },
-    {
-      "questionNumber": "32",
-      "stem": "A young man with sickle cell disease presents to the Emergency Department with left hip pain. The orthopedic team suspect avascular necrosis and request an MRI of both hips. The MRI shows a subchondral fracture of the left femoral head, with preservation of the joint space. The asymptomatic right hip is normal. How would the appearances of the left hip be classified?",
-      "options": [
-        "A Stage 0 disease",
-        "B Stage I disease",
-        "C Stage II disease",
-        "D Stage III disease",
-        "E Stage IV disease"
-      ],
-      "answer": "D",
-      "explanation": "",
-      "reference": "Grainger & Allison's 5e, p 1134."
-    },
-    {
-      "questionNumber": "33",
-      "stem": "A 13-year-old boy is referred to the orthopedic surgeons with a short history of pain and swelling around his left elbow. The radiograph reveals a 4-cm area of permeative bone destruction within the distal diaphysis of the left humerus, with a wide zone of transition. There is an extensive associated soft tissue component and evidence of a ‘hair-on-end’ pattern of periosteal reaction. What is most likely diagnosis?",
-      "options": [
-        "A Askin tumor",
-        "B Chondroblastoma",
-        "C Chondromyxoid fibroma",
-        "D Ewing's sarcoma",
-        "E Malignant fibrous histiocytoma"
-      ],
-      "answer": "D",
-      "explanation": "Infection and Langerhans cell histiocytosis (LCH) should be considered in the differential diagnosis of a permeative bone lesion in a child. Askin tumour is a rare primitive neuroectodermal tumour of the chest wall in children.",
-      "reference": "Grainger & Allison's 5e, pp 1074-1076."
-    },
-    {
-      "questionNumber": "34",
-      "stem": "A 2-cm, well-defined lytic bone lesion in the proximal tibial metaphysis is an incidental finding in a 25-year-old woman. The lesion has a thick sclerotic margin and there is a ground glass appearance to the matrix. There is a history of endocrine disturbance and several cafe-au-lait spots are evident on examination. Skeletal scintigraphy subsequently reveals multiple areas of increased activity within the skeleton. What is the most likely diagnosis?",
-      "options": [
-        "A Gardner's syndrome",
-        "B Mazabraud's syndrome",
-        "C Maffucci's syndrome",
-        "D McCune-Albright",
-        "E Ollier's syndrome"
-      ],
-      "answer": "D",
-      "explanation": "McCune-Albright syndrome is characterised by polyostotic fibrous dysplasia, cafe-au-lait spots and endocrine disturbance (most commonly precocious puberty in girls). The rare association of polyostotic fibrous dysplasia and soft tissue myxomas is Mazabraud’s syndrome.",
-      "reference": "Grainger & Allison's 5e, pp 1037; 1041; 1054."
-    },
-    {
-      "questionNumber": "35",
-      "stem": "A 19-year-old student returns to the UK following 4 months' travelling around the world. Radiographs reveal multiple oval areas of calcification, up to 1 cm in long axis, aligned in the direction of muscle fibres. What is the most likely diagnosis?",
-      "options": [
-        "A Cysticercosis",
-        "B Dracunculus (guinea worm) infection",
-        "C Hydatid disease",
-        "D Loiasis",
-        "E Schistosomiasis"
-      ],
-      "answer": "A",
-      "explanation": "",
-      "reference": "Grainger & Allisons 5e, pp 959-960."
-    },
-    {
-      "questionNumber": "36",
-      "stem": "An 80-year-old man undergoes skeletal scintigraphy for multifocal skeletal pain, malaise and weight loss. The scintigram shows diffusely increased activity throughout the skeleton, with absent renal activity. What is the most likely diagnosis?",
-      "options": [
-        "A Metastatic bladder cancer",
-        "B Metastatic colon cancer",
-        "C Metastatic gastric cancer",
-        "D Metastatic lung cancer",
-        "E Metastatic prostate cancer"
-      ],
-      "answer": "E",
-      "explanation": "",
-      "reference": "Grainger & Allison’s 5c. pp 1060-1061."
-    },
-    {
-      "questionNumber": "37",
-      "stem": "A 20-year-old man is brought to the Emergency Department after diving into the shallow end of a swimming pool at a party. Witnesses describe a hyperflexion injury to the cervical spine. A fracture is identified on the lateral cervical radiograph. What is the most likely fracture configuration given the mechanism of injury?",
-      "options": [
-        "A Anterior wedge fracture",
-        "B Burst fracture, with an anterior wedge fracture and a retropulsed fragment",
-        "C Fracture dislocation, with anterior dislocation of the more cranial vertebra and an avulsion fracture of the superoanterior margin of the more inferior vertebra",
-        "D Fracture of the pars interarticularis, in association with an avulsion fracture through the anteroinferior margin of the vertebra above",
-        "E Posterior elements fracture with anterior vertebral wedging"
-      ],
-      "answer": "A",
-      "explanation": "",
-      "reference": "Grainger & Allison’s 5e. p 1016 (Figure 46.104)."
-    },
-    {
-      "questionNumber": "38",
-      "stem": "A young patient is newly diagnosed with diaphyseal aclasis. What would be the expected imaging findings?",
-      "options": [
-        "A Multiple enchondromas",
-        "B Multiple enostoses",
-        "C Multiple osteochondromas",
-        "D Multiple osteomas",
-        "E Multiple osteoid osteomas"
-      ],
-      "answer": "C",
-      "explanation": "",
-      "reference": "Grainger & Allison's 5e, pp 1035-1042."
-    },
-    {
-      "questionNumber": "39",
-      "stem": "A 35-year-old woman injures her right foot during a fall whilst wearing high-heeled shoes. She is subsequently unable to weightbear, and the entire foot is bruised, swollen and tender. A radiograph of the foot initially appears normal, but the possibility of a Lisfranc fracture—dislocation prompts close attention to the tarsometatarsal alignment. What is the normal alignment in this area?",
-      "options": [
-        "A Fifth metatarsal aligned with the lateral cuneiform",
-        "B First metatarsal aligned with the cuboid",
-        "C Fourth metatarsal aligned with the medial cuneiform",
-        "D Second metatarsal aligned with the middle cuneiform",
-        "E Third metatarsal aligned with the navicular"
-      ],
-      "answer": "D",
-      "explanation": "",
-      "reference": "Grainger & Allison’s 5e. p 1012."
-    },
-    {
-      "questionNumber": "40",
-      "stem": "The unrestrained passenger of a vehicle involved in a high-energy road traffic accident is admitted with a ‘hangman's fracture’. What is the most likely appearance on plain film?",
-      "options": [
-        "A Fractures through the neural arch of Cl",
-        "B Fractures through the neural arch of C2",
-        "C Fracture of the spinous process of C7",
-        "D Transverse fracture through the base of the dens",
-        "E Wedge compression fracture of an upper cervical vertebra"
-      ],
-      "answer": "B",
-      "explanation": "",
-      "reference": "Grainger & Allison’s 5e, pp 1015-1018."
-    },
-    {
-      "questionNumber": "41",
-      "stem": "A 15-year-old boy is noted to have a solitary lytic lesion expanding the cortex of the proximal tibia. An MR1 demonstrates multiple fluid levels. What is the most likely diagnosis?",
-      "options": [
-        "A Aneurysmal bone cyst",
-        "B Enchondroma",
-        "C Giant cell tumour",
-        "D Osteoblastoma",
-        "E Simple bone cyst"
-      ],
-      "answer": "A",
-      "explanation": "",
-      "reference": "Grainger & Allison’s 5e, pp 1035-1055."
-    },
-    {
-      "questionNumber": "42",
-      "stem": "A 6-year-old boy is referred to the orthopaedic team with a limp. A pelvic radiograph reveals loss of height of the right femoral head, with fragmentation and sclerosis of the epiphysis. What is the most likely diagnosis?",
-      "options": [
-        "A Developmental dysplasia of the hip",
-        "B Perthes' disease",
-        "C Septic arthritis",
-        "D Slipped upper femoral epiphysis",
-        "E Transient synovitis of the hip"
-      ],
-      "answer": "B",
-      "explanation": "",
-      "reference": "Grainger & Allisons 5e, p 1134."
-    },
+      "reference": "Anatomy for Diagnostic Imaging. Ryan & McNicholas. W B Saunders Co Ltd. Essential Anatomy by Lumley, Craven & Aitken, 3rd Edition. Churchill Livingstone Clinical Anatomy by Harold Ellis, 8th Edition. Churchill Livingstone"
+    },
+    {
+      "questionNumber": 38,
+      "stem": "Regarding TM joint",
+      "options": [
+        {
+          "label": "A",
+          "text": "It has four accessory ligaments",
+          "answer": "False"
+        },
+        {
+          "label": "B",
+          "text": "The fibrocartilaginous disc has a concavoconvex upper surface",
+          "answer": "True"
+        },
+        {
+          "label": "C",
+          "text": "All the muscles of mastication are supplied by the trigeminal nerve",
+          "answer": "True"
+        },
+        {
+          "label": "D",
+          "text": "The medial pterygoid is attached to the head of the mandible",
+          "answer": "False"
+        },
+        {
+          "label": "E",
+          "text": "The masseter is attached to the lateral surface of the ramus and angle of the mandible",
+          "answer": "True"
+        }
+      ],
+      "explanation": "There are only two accessory ligaments which are the sphenomandibular and stylomandibular ligaments\nThe medial pterygoid is attached to the medial surface of ramus and angle of mandible",
+      "reference": "Anatomy for Diagnostic Imaging. Ryan & McNicholas. WB Saunders Co Ltd. Essential Anatomy by Lumley, Craven & Aitken, 3rd Edition. Churchill Livingstone. Clinical Anatomy by Harold Ellis, 8th Edition. Churchill Livingstone"
+    },
+    {
+      "questionNumber": 39,
+      "stem": "Tributaries of left brachiocephalic vein are",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vertebral vein",
+          "answer": "True"
+        },
+        {
+          "label": "B",
+          "text": "Inferior thyroid vein",
+          "answer": "True"
+        },
+        {
+          "label": "C",
+          "text": "Internal thoracic vein",
+          "answer": "True"
+        },
+        {
+          "label": "D",
+          "text": "Thoracic duct",
+          "answer": "True"
+        },
+        {
+          "label": "E",
+          "text": "Accessory hemiazygos vein",
+          "answer": "False"
+        }
+      ],
+      "explanation": "Accessory hemiazygous vein drains into the azygous vein",
+      "reference": "Anatomy for Diagnostic Imaging. Ryan & McNicholas. W B Saunders Co Ltd. Essential Anatomy by Lumley, Craven & Aitken, 3rd Edition. Churchill Livingstone. Clinical Anatomy by Harold Ellis. 8th Edition. Churchill Livingstone"
+    },
+    {
+      "questionNumber": 40,
+      "stem": "The following are endodermal in origin",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pharyngotympanic tube",
+          "answer": "True"
+        },
+        {
+          "label": "B",
+          "text": "Olfactory epithelium",
+          "answer": "False"
+        },
+        {
+          "label": "C",
+          "text": "Respiratory tract",
+          "answer": "True"
+        },
+        {
+          "label": "D",
+          "text": "Hepatic vein, bile ducts, and gall bladder",
+          "answer": "True"
+        },
+        {
+          "label": "E",
+          "text": "Ureter",
+          "answer": "False"
+        }
+      ],
+      "explanation": "Olfactory epithelium arises from the ectoderm\nUreter arises from the mesoderm",
+      "reference": "Anatomy for Diagnostic Imaging. Ryan & McNicholas. W B Saunders Co Led Essential Anatomy by Lumley, Craven & Aitken. 3rd Edition. Churchill Livingstone. Clinical Anatomy by Harold Ellis, 8th Edition. Churchill Livingstone"
+    },
     {
-      "questionNumber": "43",
-      "stem": "A 65-year-old woman is referred for a pelvic radiograph to investigate intermittent right hip pain. The radiograph shows thin lucent lines within both inferior pubic rami. Which radiographic feature would support a diagnosis of osteoporotic fracture rather than osteomalacia?",
-      "options": [
-        "A Callus formation",
-        "B Failure to extend across the entire width of the bone",
-        "C Sclerotic margin to lucencies",
-        "D Similar appearances within the proximal femora",
-        "E Symmetrical appearance"
-      ],
-      "answer": "A",
-      "explanation": "",
-      "reference": "Grainger & Allison's 5e, p 1105."
-    },
-    {
-      "questionNumber": "44",
-      "stem": "A young footballer has an MRI of the left knee following a recent injury. There is amorphous intermediate signal in the region of the anterior cruciate ligament and a bone contusion involving the articular surface of the lateral femoral condyle. In which other location is a bone contusion most likely?",
-      "options": [
-        "A The anterolateral aspect of the tibia",
-        "B The anteromedial aspect of the tibia",
-        "C The central articular surface of the tibia",
-        "D The posterolateral aspect of the tibia",
-        "E The posteromedial aspect of the tibia"
-      ],
-      "answer": "D",
-      "explanation": "",
-      "reference": "Grainger dr Allison's 5e, p 1007."
-    },
-    {
-      "questionNumber": "45",
-      "stem": "A radiograph of the thoracolumbar spine in a 75-year-old woman with a history of back pain shows an anterior wedge compression fracture of Til. What influence does this observation have on the likelihood of a subsequent fracture?",
-      "options": [
-        "A Doubles the risk of another vertebral fracture",
-        "B Doubles the risk of a proximal femoral fracture",
-        "C Has little effect on the risk of a subsequent fragility fracture",
-        "D Triples the risk of another vertebral fracture",
-        "E Triples the risk of a proximal femoral fracture"
-      ],
-      "answer": "B",
-      "explanation": "Vertebral fractures are not only the most common fragility fracture, but also serve as powerful predictors of subsequent fracture. A vertebral fracture increases the likelihood of a further vertebral fracture fivefold, and doubles the risk of subsequent femoral neck fracture.",
-      "reference": "Grainger & Allison's 5e, pp 1088-1090 (Figure 49.4 (p 1089) provides a useful"
-    },
-    {
-      "questionNumber": "46",
-      "stem": "A 50-year-old man has an MRI examination of his right shoulder. Which pattern of imaging features is compatible with a partial thickness supraspinatus tear?",
-      "options": [
-        "A A gap between the distal and proximal portions of the tendon, with retraction of the proximal tendon",
-        "B Areas of increased signal on T1 and T2 images",
-        "C Areas of increased signal on T1 and T2 images, extending across the full thickness of the tendon",
-        "D Areas of intermediate signal on Tl- and PD-weighted images, with low signal on T2w images",
-        "E Low signal on all sequences"
-      ],
-      "answer": "B",
-      "explanation": "",
-      "reference": "Grainger & Allison's 5e, pp 1145-1146."
-    },
-    {
-      "questionNumber": "47",
-      "stem": "A young man undergoes an MRI of the right knee due to clinical suspicion of an acute rupture of the ACL. The ACL is indistinct, and cannot be visualized in either the coronal or sagittal plane. Which additional features would be supportive of a diagnosis of ACL rupture?",
-      "options": [
-        "A Bunching up of the PCL",
-        "B Oedema within the medial collateral ligament",
-        "C Posterior translation of the femur on the tibial condyles",
-        "D Straightening of the patellar ligament",
-        "E Tear of the medial meniscus"
-      ],
-      "answer": "A",
-      "explanation": "",
-      "reference": "Grainger & Allison's 5e, p 1139"
-    },
-    {
-      "questionNumber": "48",
-      "stem": "A 30-year-old man complains of intermittent painful swelling of his left knee over the past year. Radiographs show several small articular erosions, whilst subsequent MRI reveals foci of low T2/T2* signal intensity within the synovium. Which is the most likely diagnosis?",
-      "options": [
-        "A Alkaptonuria",
-        "B Calcium pyrophosphate arthropathy",
-        "C Pigmented villonodular synovitis",
-        "D Psoriatic arthropathy",
-        "E Synovial chondromatosis"
-      ],
-      "answer": "C",
-      "explanation": "",
-      "reference": "Grainger & Allison's 5e, pp 1132-1133."
-    },
-    {
-      "questionNumber": "49",
-      "stem": "A 45-year-old man with hyperuricaemia is referred by the rheumatologists for an image-guided aspiration of a right ankle effusion. There is no previous history of note. A sample of the aspirate is sent for polarizing light microscopy. What findings would confirm the clinical suspicion of gout?",
-      "options": [
-        "A Rhomboid crystals",
-        "B Negatively birefringent needle-shaped crystals",
-        "C Negatively birefringent rhomboid crystals",
-        "D Positively birefringent needle-shaped crystals",
-        "E Positively birefringent rhomboid crystals"
-      ],
-      "answer": "B",
-      "explanation": "Monosodium urate crystals are needle-shaped and strongly negatively birefringent under polarising light. Weakly positively birefringent rhomboid crystals are characteristic of calcium pyrophosphate dihydrate deposition.",
-      "reference": "Grainger & Allison's 5e, p 1127."
-    },
-    {
-      "questionNumber": "50",
-      "stem": "Which one of the following conditions is NOT a recognized component of the SAPHO spectrum?",
-      "options": [
-        "A Arthritis",
-        "B Hyperostosis",
-        "C Osteomyelitis",
-        "D Pustulosis",
-        "E Synovitis"
-      ],
-      "answer": "A",
-      "explanation": "",
-      "reference": "Grainger dr Allison's 5e, p 1164."
-    },
-    {
-      "questionNumber": "51",
-      "stem": "A 75-year-old diabetic man underwent a left below knee amputation 3 months ago for osteomyelitis of the distal tibia. Since then, he has experienced recurrent episodes of fever and malaise. MRI is contraindicated due to a metallic aortic valve. Which is the best investigation to exclude an occult focus of osteomyelitis?",
-      "options": [
-        "A CT",
-        "B US",
-        "C Scintigraphy using gallium",
-        "D Scintigraphy using indium-labeled white cells",
-        "E Scintigraphy using technetium (Tc-99m) monodiphosphonate"
-      ],
-      "answer": "E",
-      "explanation": "Although an indium-labelled white cell study is more specific, a bone scintigram using Tc-99m monodiphosphonate is a more sensitive test to exclude osteomyelitis.",
-      "reference": "Grainger dr Allison's 5e, p 1159."
-    },
-    {
-      "questionNumber": "52",
-      "stem": "A 30-year-old amateur footballer twists his right knee during a match and is brought to the Emergency Medicine department with a painful swollen knee. Radiographs reveal an avulsion fracture closely related to the posterolateral tibial plateau, prompting an urgent MRI of the right knee. What are the most likely findings?",
-      "options": [
-        "A Disruption of the extensor mechanism",
-        "B Rupture of the ACL",
-        "C Rupture of the PCL",
-        "D Tear of the medial meniscus",
-        "E Tear of the lateral collateral ligament"
-      ],
-      "answer": "B",
-      "explanation": "",
-      "reference": "Grainger & Allison's 5e, pp 1005, 1139."
-    },
-    {
-      "questionNumber": "53",
-      "stem": "During an MRI examination of the shoulder, a 4-cm, well-defined structure is noted within the spinoglenoid notch, exhibiting high signal on T2w and low signal on T1w images. Which muscles should be carefully scrutinized for evidence of swelling or atrophy?",
-      "options": [
-        "A Infraspinatus and supraspinatus",
-        "B Subscapularis and trapezius",
-        "C Supraspinatus and subscapularis",
-        "D Teres minor and infraspinatus",
-        "E Trapezius and teres minor"
-      ],
-      "answer": "A",
-      "explanation": "",
-      "reference": "Grainger & Allison's 5e, pp 1147-1148."
-    },
-    {
-      "questionNumber": "54",
-      "stem": "In relation to bone formation and turnover, defective osteoclastic function is a predominant feature of which disease?",
-      "options": [
-        "A Osteomalacia",
-        "B Osteopetrosis",
-        "C Osteoporosis",
-        "D Paget's disease",
-        "E Rickets"
-      ],
-      "answer": "B",
-      "explanation": "",
-      "reference": "Grainger & Allison's 5c, p 1084."
-    },
-    {
-      "questionNumber": "55",
-      "stem": "An incidental finding on plain film is a 2-cm lucency within the diaphysis of the right humerus, which exhibits chondroid calcification. Which clinical or radiological feature would favor a diagnosis of chondrosarcoma rather than enchondroma?",
-      "options": [
-        "A Age less than 20 years",
-        "B Circular, curvilinear or nodular calcific densities",
-        "C Periosteal reaction",
-        "D Slow growth",
-        "E Well-defined round or elliptical margin"
-      ],
-      "answer": "C",
-      "explanation": "Outside the hands and feet, chondrosarcoma is five times more common than enchondroma.",
-      "reference": "Grainger & Allison's 5e, pp 1035-1040."
-    },
-    {
-      "questionNumber": "56",
-      "stem": "A 40-year-old builder is admitted unconscious to the Emergency Department following an accident at work. Details of the accident are unclear, but one witness describes scaffolding collapsing. He undergoes an emergency CT head and cervical spine, which reveals lateral displacement of both the lateral masses of C1. How may such an injury be described?",
-      "options": [
-        "A Atlanto-axial subluxation",
-        "B Clay shoveller's fracture",
-        "C Dens fracture",
-        "D Hangman's fracture",
-        "E Jefferson's fracture"
-      ],
-      "answer": "E",
-      "explanation": "",
-      "reference": "Grainger & Allison's 5e, pp 1016-1017."
-    },
-    {
-      "questionNumber": "57",
-      "stem": "A 20-year-old man complains of a 3-month history of pain from his left femur. The pain is of insidious onset and is worse at night. As part of his assessment, a bone scintigram is performed, which shows a corresponding area of abnormality in the left femoral shaft, characterized by a focus of very high activity surrounded by a diffuse area of modestly increased activity. What is the most likely diagnosis?",
-      "options": [
-        "A Aneurysmal bone cyst",
-        "B Enostosis",
-        "C Enchondroma",
-        "D Osteoid osteoma",
-        "E Osteoma"
-      ],
-      "answer": "D",
-      "explanation": "Streptococcus pneumoniae and Haemophilus influenzae are potential causes of primary bacteraemia and haematogenous infection of joints, but substantially less common than Staphylococcus aureus.",
-      "reference": "Grainger & Allison's 5e, pp 1035-1055, particularly pp 1041-1042."
-    },
-    {
-      "questionNumber": "58",
-      "stem": "An 18-year-old man experiences persistent symptoms following a fracture through the waist of the right scaphoid. Radiographs of the right scaphoid indicate non-union. An MRI is performed to assess the vascularity of the proximal pole. Which imaging features are consistent with a diagnosis of avascular necrosis?",
-      "options": [
-        "A Bone marrow enhancement following administration of gadolinium",
-        "B High signal surrounding the fracture on T2w images",
-        "C High signal within the proximal pole on T1w images",
-        "D High signal within the proximal pole on STIR images",
-        "E Low signal within the proximal pole on T1w images"
-      ],
-      "answer": "E",
-      "explanation": "Low signal on T1 reflects death of the adipocytes. The combination of low signal on T1w images and low or intermediate signal on T2w images accurately predicts avascular necrosis.",
-      "reference": "Grainger & Allison's 5e, p 1150."
-    },
-    {
-      "questionNumber": "59",
-      "stem": "An 80-year-old diabetic man is admitted from the Emergency Department with clinical and radiographic features consistent with septic arthritis of the right hip. There is no history of trauma or previous surgery. Initial blood cultures indicate a systemic bacteremia. What is the most likely organism to be cultured?",
-      "options": [
-        "A Clostridium difficile",
-        "B Haemophilus influenzae",
-        "C Pseudomonas aeruginosa",
-        "D Staphylococcus aureus",
-        "E Streptococcus pneumoniae"
-      ],
-      "answer": "D",
-      "explanation": "",
-      "reference": "Grainger dr Allison's 5e, p 1133-1134."
-    },
-    {
-      "questionNumber": "60",
-      "stem": "A 35-year-old man is brought to the Emergency Department following a fall from a motorcycle. The lateral cervical radiograph shows a well-marginated triangular area of bone at the anterosuperior margin of C5. The cortical margin of the adjacent vertebral body is smooth. The rest of the spine is normal. What is the most likely diagnosis?",
-      "options": [
-        "A Avulsion of the anterior longitudinal ligament",
-        "B Limbus vertebra",
-        "C Schmorl's node",
-        "D Teardrop fracture of C5",
-        "E Unfused ring epiphysis"
-      ],
-      "answer": "B",
-      "explanation": "",
-      "reference": "Grainger dr Allison's 5e, p 1024,"
-    },
-    {
-      "questionNumber": "61",
-      "stem": "A 55-year-old lady, complaining of recent flattening of the longitudinal arch of the foot, is referred for an ultrasound examination of the left ankle. Which tendon should be the subject of particular scrutiny?",
-      "options": [
-        "A Achilles tendon",
-        "B Flexor hallucis longus",
-        "C Peroneus longus",
-        "D Tibialis anterior",
-        "E Tibialis posterior"
-      ],
-      "answer": "E",
-      "explanation": "",
-      "reference": "Grainger & Allison's 5e, p 1144."
-    },
-    {
-      "questionNumber": "62",
-      "stem": "A 13-year-old boy is referred for radiographs of his hips following three weeks of right hip pain. What imaging features would support the diagnosis of slipped upper femoral epiphysis?",
-      "options": [
-        "A Disruption of Klein's line",
-        "B Fragmentation of the femoral epiphysis",
-        "C Increased epiphyseal height",
-        "D Radiolucent subchondral fissure",
-        "E Sclerosis of the femoral head"
-      ],
-      "answer": "A",
-      "explanation": "Klein's line is drawn along the lateral border of the femoral neck and normally intersects roughly a sixth of the femoral epiphysis. Subchondral Assuring (crescent sign), epiphyseal collapse, fragmentation and sclerosis are all features of Perthes' disease.",
-      "reference": "Grainger dr Allison's 5e, pp 1592-1593."
-    },
-    {
-      "questionNumber": "63",
-      "stem": "A 55-year-old woman undergoes arthrography to investigate a 3-month history of pain and stiffness in her left shoulder, with particular limitation of external rotation. Only a few milliliters of contrast medium could be injected into the joint before provoking discomfort. What other finding would be supportive of the diagnosis of adhesive capsulitis?",
-      "options": [
-        "A Contrast medium opacifies the subacromial/subdeltoid bursa",
-        "B Decreased resistance to contrast injection",
-        "C Distended axillary recess",
-        "D Lymphatic filling",
-        "E Venous filling"
-      ],
-      "answer": "D",
-      "explanation": "",
-      "reference": "Grainger dr Allison's 5e, pp 1133-1134."
-    },
-    {
-      "questionNumber": "64",
-      "stem": "The radiograph of a 40-year-old man with a painful knee shows multiple calcified loose bodies, each of similar size, within the joint. The joint space is preserved. What diagnosis is most likely?",
-      "options": [
-        "A Calcium pyrophosphate arthropathy",
-        "B Gout",
-        "C Pigmented villonodular synovitis",
-        "D Rheumatoid arthritis",
-        "E Synovial osteochondromatosis"
-      ],
-      "answer": "E",
-      "explanation": "",
-      "reference": "Grainger & Allison's 5e, p 1133."
-    },
-    {
-      "questionNumber": "65",
-      "stem": "A 50-year-old man presents to the Emergency Department following an injury to his right hand. No fracture is detected on plain radiographs, but the second and third MCPJs appear abnormal, with joint space narrowing, subarticular cysts, hook-like osteophytes, and flattening of the metacarpal heads. What is the most likely diagnosis?",
-      "options": [
-        "A Alkaptonuria",
-        "B Gout",
-        "C Haemochromatosis",
-        "D Osteoarthritis",
-        "E Psoriatic arthritis"
-      ],
-      "answer": "C",
-      "explanation": "",
-      "reference": "Grainger dr Allison's 5e, p 1130."
-    },
-    {
-      "questionNumber": "66",
-      "stem": "A 34-year-old man with chronic back pain is referred by his GP for thoracic and lumbar spine radiographs. The GP is concerned about the possibility of ankylosing spondylitis. Which radiological feature is atypical for ankylosing spondylitis and might suggest an alternative diagnosis?",
-      "options": [
-        "A Ankylosis of the apophyseal joints",
-        "B Anterior longitudinal ligament calcification",
-        "C Osteophyte formation",
-        "D Sclerosis of the anterior corners of the vertebrae",
-        "E Vertebral body squaring"
-      ],
-      "answer": "C",
-      "explanation": "Syndesmophytes, rather than osteophytes, are characteristic features of ankylosing spondylitis. They are differentiated from osteophytes by their vertical orientation, as they represent ossification of the outer border of the annulus fibrosus. Progression and maturation of the syndesmophytes result in a ‘bamboo spine’.",
-      "reference": "Grainger & Allison's 5e, pp 1125-1126."
-    },
-    {
-      "questionNumber": "67",
-      "stem": "A 70-year-old patient undergoes a staging CT for renal cell carcinoma, which shows ligamentous ossification extending from the fifth to ninth thoracic vertebrae. There is relative sparing of the left side of the vertebrae, and disc space height is preserved. The apophyseal and sacroiliac joints appear normal. What is the most likely diagnosis?",
-      "options": [
-        "A Ankylosing spondylitis",
-        "B Degenerative disc disease",
-        "C Diffuse idiopathic skeletal hyperostosis",
-        "D Metastatic disease",
-        "E Ossification of the posterior longitudinal ligament"
-      ],
-      "answer": "C",
-      "explanation": "",
-      "reference": "Grainger & Allison's 5e, p 1118."
-    },
-    {
-      "questionNumber": "68",
-      "stem": "A 50-year-old woman complains of painful swelling of the joints of the hands and wrists. Radiographs show evidence of an erosive arthropathy. Which radiological feature would favor a diagnosis of rheumatoid rather than psoriatic arthritis?",
-      "options": [
-        "A Early reduction in bone mineralization",
-        "B Erosions of the terminal tufts of the distal phalanges",
-        "C Joint ankylosis",
-        "D Pencil-in-cup deformities of the middle phalanges",
-        "E Periosteal reaction"
-      ],
-      "answer": "A",
-      "explanation": "Juxta-articular osteopenia is one of the earliest radiographic abnormalities in rheumatoid arthritis, distinguishing it from psoriatic arthropathy, in which bone mineral density is preserved until late in the disease process.",
-      "reference": "Grainger & Allison's 5e, pp 1120-1123 (Table 50.7 (pp 1135-1136) provides a useful summary)."
-    },
-    {
-      "questionNumber": "69",
-      "stem": "A 40-year-old tennis player undergoes an MRI following a 3-month history of left ankle pain. The Achilles tendon has a convex anterior margin and exhibits a small linear area of increased signal within the tendon on T2- and T2*-weighted images. What is the most likely diagnosis?",
-      "options": [
-        "A Achilles paratendonitis",
-        "B Achilles tendinosis",
-        "C Achilles tendinosis with complete tear",
-        "D Achilles tendinosis with cystic degeneration",
-        "E Achilles tendinosis with partial tear"
-      ],
-      "answer": "E",
-      "explanation": "",
-      "reference": "Grainger & Allison's 5e, pp 1142-1143."
-    },
-    {
-      "questionNumber": "70",
-      "stem": "A 30-year-old man undergoes an MRI examination of his left ankle, which shows a rounded mass within the pre-Achilles fat pad, with signal characteristics identical to adjacent muscle. Which anatomical variant could best account for these appearances?",
-      "options": [
-        "A Accessory popliteus muscle",
-        "B Accessory soleus muscle",
-        "C Anomalous insertion of the gastrocnemius tendon",
-        "D Anomalous insertion of plantaris tendon",
-        "E Presence of peroneus quartus"
-      ],
-      "answer": "B",
-      "explanation": "",
-      "reference": "Grainger & Allison's 5e, p 1144."
-    },
-    {
-      "questionNumber": "71",
-      "stem": "A 9-year-old boy injures his right wrist playing football. The radiograph reveals a fracture extending through the epiphysis and into the metaphysis. How would this injury be classified in the Salter-Harris classification?",
-      "options": [
-        "A Type I",
-        "B Type II",
-        "C Type III",
-        "D Type IV",
-        "E Type V"
-      ],
-      "answer": "D",
-      "explanation": "",
-      "reference": "Grainger & Allison's 5e, p 1613 (Figure 68.5 provides a concise summary)."
-    },
-    {
-      "questionNumber": "72",
-      "stem": "An 18-year-old man attends his general practitioner with a painful right knee. His radiograph shows a well-defined, lobular, lytic lesion within the proximal tibial epiphysis, extending into the metaphysis. There is a faintly sclerotic margin and no matrix calcification. What is the most likely diagnosis?",
-      "options": [
-        "A Chondroblastoma",
-        "B Chondromyxoid fibroma",
-        "C Enchondroma",
-        "D Giant cell tumor",
-        "E Osteoid osteoma"
-      ],
-      "answer": "A",
-      "explanation": "",
-      "reference": "Grainger & Allison's 5e, pp 1035-1055."
-    },
-    {
-      "questionNumber": "73",
-      "stem": "A 50-year-old man has an MRI of his right shoulder for chronic shoulder pain. The distal supraspinatus tendon displays intermediate signal intensity on T1w images and low signal intensity on T2w images. What is a possible explanation for these appearances?",
-      "options": [
-        "A Chemical shift artifact",
-        "B Magic angle phenomenon",
-        "C Movement artifact in the frequency-encoding direction",
-        "D Movement artifact in the phase-encoding direction",
-        "E Susceptibility artifact from calcification"
-      ],
-      "answer": "B",
-      "explanation": "The magic angle phenomenon refers to the increased signal observed on sequences with a short echo time (eg T1w, proton density (PD)) within tissues containing parallel unidirectional collagen fibres, when such fibres are at an angle of 55° to the main magnetic field. It is of particular relevance in shoulder MR, where it may mimic supraspinatus tendinosis.",
-      "reference": "Grainger & Allison's 5e, p 1145."
-    },
-    {
-      "questionNumber": "74",
-      "stem": "A series of neonatal radiographs reveal a narrow thorax with short ribs, square iliac wings with horizontal acetabular roofs, short sacrosciatic notches, progressive narrowing of the interpedicular distance, and posterior scalloping of the vertebral bodies. What is the most likely diagnosis?",
-      "options": [
-        "A Achondroplasia",
-        "B Campomelic dysplasia",
-        "C Cleidocranial dysplasia",
-        "D Ellis-van Creveld syndrome",
-        "E Morquio's syndrome"
-      ],
-      "answer": "A",
-      "explanation": "The iliac wings in Morquio's syndrome are characteristically flared rather than square.",
-      "reference": "Grainger & Allison's 5e, pp 1567-1588 (Table 67.4 provides a useful summary)."
-    },
-    {
-      "questionNumber": "75",
-      "stem": "A 15-month-old boy is referred from his GP with a limp. Which radiological finding would be consistent with DDH?",
-      "options": [
-        "A Accelerated epiphyseal ossification",
-        "B Decreased distance between the medial portion of the proximal femoral metaphysis and the pelvis",
-        "C Increased acetabular angle",
-        "D Inferolateral displacement of the femoral head in relation to Perkin's line",
-        "E Preservation of Shenton's line"
-      ],
-      "answer": "C",
-      "explanation": "Figure 67.29 illustrates the imaging features of DDH.",
-      "reference": "Grainger & Allison's 5e, pp 1588-1592"
-    },
-    {
-      "questionNumber": "76",
-      "stem": "A 35-year-old woman with back pain has radiographs taken of her lumbosacral spine. The frontal radiograph reveals narrowing of the right sacroiliac joint with significant periarticular sclerosis. The contralateral sacroiliac joint is normal. The lumbar spine is within normal limits for age. What is the most likely diagnosis?",
-      "options": [
-        "A Ankylosing spondylitis",
-        "B Infection",
-        "C Osteitis condensans ilii",
-        "D Psoriatic arthropathy",
-        "E Reiter's syndrome"
-      ],
-      "answer": "B",
-      "explanation": "Infection is the commonest cause of unilateral sacroiliitis, and TB should be considered as a possible organism. Ankylosing spondylitis and osteitis condensans ilii have symmetrical appearances, whilst Reiter's syndrome is bilateral (but asymmetric). Psoriatic arthropathy produces bilateral disease, which is symmetrical in most cases.",
-      "reference": "Grainger & Allison’s 5e, pp 1122-1128, 1161; Chapman S, Nakielny R. Aids to Radiological Differential Diagnosis, 5th edition (Edinburgh: Saunders, 2003), p 58."
-    },
-    {
-      "questionNumber": "77",
-      "stem": "The skull radiograph of a 75-year-old man reveals a well-defined lytic area involving the frontal bone. A radiograph of the femur in the same patient shows a well-defined lucency extending from the articular surface to the diaphysis. The transition between lytic and normal bone is well defined and appears flame-shaped. What is the most likely diagnosis?",
-      "options": [
-        "A Acromegaly",
-        "B Fibrous dysplasia",
-        "C Myeloma",
-        "D Paget's disease",
-        "E Skeletal metastases"
-      ],
-      "answer": "D",
-      "explanation": "Paget's disease is a condition of uncertain aetiology characterised by increased turnover and excessive remodelling of bone. Osteoporosis circumscripta and advancing flame-shaped lucencies within long bones are features characteristic of active osteolytic disease. Inactive disease is characterised by widespread sclerosis: cotton wool sclerosis in the skull, enlarged ivory vertebrae with cortical thickening and coarsened thick trabeculae within the long bones. Paget's disease may be complicated by fractures, accelerated osteoarthritis.",
-      "reference": "Chapman & Nakielny R, Aids to Radiological Differential Diagnosis, pp 459-460."
-    },
-    {
-      "questionNumber": "78",
-      "stem": "A 30-year-old man is admitted to hospital with chest pain. A chest radiograph demonstrates sclerosis of both humeral heads, pulmonary infiltrates and an elevated position of the splenic flexure immediately inferior to the left hemidiaphragm. What other associated imaging feature may be detected on the chest radiograph?",
-      "options": [
-        "A A rib within a rib appearance",
-        "B Expansion of the head and neck of the ribs",
-        "C H-shaped vertebrae",
-        "D Paraspinal mass",
-        "E Posterior mediastinal mass"
-      ],
-      "answer": "C",
-      "explanation": "In sickle cell disease, infarction of the central endplates of the vertebrae results in H-shaped or codfish vertebrae. Rib changes, paraspinal and posterior mediastinal masses are manifestations of extramedullary haematopoiesis in thalassaemia.",
-      "reference": "Grainger & Allison’s 5e, pp 1603-1604."
-    },
-    {
-      "questionNumber": "79",
-      "stem": "A young girl is brought to the Emergency Department with a painful right elbow following a fall. The radiograph reveals that the radial head is ossified. Which other structure should be visible?",
-      "options": [
-        "A Capitellum",
-        "B Internal epicondyle",
-        "C Olecranon",
-        "D Lateral epicondyle",
-        "E Trochlea"
-      ],
-      "answer": "A",
-      "explanation": "Reference: Grainger & Alihan's 5 e, pp 1613-1614."
-    },
-    {
-      "questionNumber": "80",
-      "stem": "A radiograph of the left knee of a 35-year-old man reveals a 3-cm lytic lesion sited eccentrically in the proximal tibia. It has a well-defined non-sclerotic margin, and extends to the tibial articular surface. What is the most likely diagnosis?",
-      "options": [
-        "A Aneurysmal bone cyst",
-        "B Chondroblastoma",
-        "C Giant cell tumour",
-        "D Non-ossifying fibroma",
-        "E Osteoid osteoma"
-      ],
-      "answer": "C",
-      "explanation": "Reference: Grainger dr Allison's 5e, pp 1046-1047."
+      "questionNumber": 41,
+      "stem": "A medio-lateral oblique mammogram is adequately positioned when",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pectoralis major muscle can be visualized down to the level of the inferomedial surface of the breast",
+          "answer": "False"
+        },
+        {
+          "label": "B",
+          "text": "The nipple is seen in profile",
+          "answer": "True"
+        },
+        {
+          "label": "C",
+          "text": "The axillary tail is included",
+          "answer": "True"
+        },
+        {
+          "label": "D",
+          "text": "Compression is applied along the direction of the pectoralis muscle",
+          "answer": "False"
+        },
+        {
+          "label": "E",
+          "text": "The infra-mammary fold is not visualized",
+          "answer": "False"
+        }
+      ],
+      "explanation": "The pectoralis muscle should be visualized down to the level of the nipple. Compression is applied perpendicular to the long axis of the pectoralis muscle. The infra-mammary fold should always be visualized,",
+      "reference": "Grainger & Allison. Diagnostic Radiology. 3rd Edition. Churchill Livingstone"
+    },
+    {
+      "questionNumber": 42,
+      "stem": "When imaging the thyroid gland",
+      "options": [
+        {
+          "label": "A",
+          "text": "99mTc-pertechnetate can be used to assess thyroid function",
+          "answer": "False"
+        },
+        {
+          "label": "B",
+          "text": "123I-sodium iodide is organified in the thyroid",
+          "answer": "True"
+        },
+        {
+          "label": "C",
+          "text": "Uptake of 99mTc-pertechnetate is reduced if the patient has recently received intravenous contrast",
+          "answer": "True"
+        },
+        {
+          "label": "D",
+          "text": "It is not essential to mark the sternal notch",
+          "answer": "False"
+        },
+        {
+          "label": "E",
+          "text": "160 MBq of 99mTc-pertechnetate is routinely administered",
+          "answer": "False"
+        }
+      ],
+      "explanation": "123 -sodium iodide is used to assess thyroid function. It is essential to use a sternal marker to demonstrate retrosternal goitres, 60 MBq of 99mTc-pertechnatate is routinely used",
+      "reference": "Grainger & Allison. Diagnostic Radiology. 3rd Edition. Churchill Livingstone"
+    },
+    {
+      "questionNumber": 43,
+      "stem": "When performing sialogram",
+      "options": [
+        {
+          "label": "A",
+          "text": "Following extravasation, lipiodol can remain in the soft tissues for years",
+          "answer": "True"
+        },
+        {
+          "label": "B",
+          "text": "Side effects other than pain are more common and more severe with lipiodol than water-soluble contrast media",
+          "answer": "True"
+        },
+        {
+          "label": "C",
+          "text": "Pain is more common with lipiodol than with water-soluble contrast media",
+          "answer": "False"
+        },
+        {
+          "label": "D",
+          "text": "It is easier to over-distend a chronically diseased gland than a healthy one",
+          "answer": "False"
+        },
+        {
+          "label": "E",
+          "text": "Acetic acid is an appropriate sialagogue",
+          "answer": "False"
+        }
+      ],
+      "explanation": "Pain is more common with water soluble contrast media. Chronically diseased glands arc desen- desensitized to pain. Ascorbic acid is used as a sialogogue",
+      "reference": "Whitehouse & Worthington. Techniques in Diagnostic Imaging. 3rd Edition. Blackwell Science Led"
+    },
+    {
+      "questionNumber": 44,
+      "stem": "The following statements are true when imaging the peripheral venous system",
+      "options": [
+        {
+          "label": "A",
+          "text": "123Iodine-Libelled fibrinogen is taken up into developing thrombus",
+          "answer": "True"
+        },
+        {
+          "label": "B",
+          "text": "A deep vein thrombosis is present in 20% of patients with a negative D-dimer assay",
+          "answer": "False"
+        },
+        {
+          "label": "C",
+          "text": "The superficial femoral vein is duplicate in 5% of patients",
+          "answer": "False"
+        },
+        {
+          "label": "D",
+          "text": "Reverse flow in the long saphenous vein during a valsalva maneuver is normal",
+          "answer": "False"
+        },
+        {
+          "label": "E",
+          "text": "Several sequential 2-d time-of-flight MRI images can be obtained in a single breathhold",
+          "answer": "True"
+        }
+      ],
+      "explanation": "Less than 5% of patients with a negative D-dimer have a DVT. 15% of the population have duplex superficial femoral veins. Reverse flow in the long saphenous vein during valsalva maneuvers indicate reflux at the sapheno-femoral junction",
+      "reference": "Grainger & Allison. Diagnostic Radiology, 3rd Edition. Churchill Livingstone"
+    },
+    {
+      "questionNumber": 45,
+      "stem": "Regarding the intravenous pyelogram",
+      "options": [
+        {
+          "label": "A",
+          "text": "The prostatic urethra should be included on the preliminary full-length film",
+          "answer": "True"
+        },
+        {
+          "label": "B",
+          "text": "The patient should be nil by mouth for five hours prior to the study",
+          "answer": "False"
+        },
+        {
+          "label": "C",
+          "text": "The dose of contrast media is 5 mgs per kilogram in a 6-year-old child",
+          "answer": "False"
+        },
+        {
+          "label": "D",
+          "text": "The nephrogram is due to contrast in the renal glomeruli",
+          "answer": "False"
+        },
+        {
+          "label": "E",
+          "text": "Shoulder pain can be relieved by adducting the arm",
+          "answer": "False"
+        }
+      ],
+      "explanation": "Dehydration is no longer considered applicable and should be avoided especially if there is evidence of renal impairment, multiple myeloma, or diabetis melitis. Food however should be avoided for five hours prior to the study: The correct dose for a 6 year old child is 1-2 mgs per kilogram, but more required in a neonates relatively poor concentrating ability of the nephron, The nephrogram is due to contrast in the proximal convoluted tubules, Abduction helps empty the contrast media from the veins of the arm",
+      "reference": "Chapman & Nakielny. A Guide to Radiological Procedures. 3rd Edition. W B Saunders Co Ltd"
+    },
+    {
+      "questionNumber": 46,
+      "stem": "The following are true of dynamic renal scintigraphy",
+      "options": [
+        {
+          "label": "A",
+          "text": "The acquisition of data during the blood flow phase allows the estimation of renal blood flow as a percentage of cardiac output",
+          "answer": "True"
+        },
+        {
+          "label": "B",
+          "text": "The uptake phase of 99mTc-DTPA reflects effective renal plasma flow",
+          "answer": "False"
+        },
+        {
+          "label": "C",
+          "text": "99mTc-MAG-3 allows estimation of the glomerular-filtration rate",
+          "answer": "False"
+        },
+        {
+          "label": "D",
+          "text": "Following injection of furosemide, a fall in renal activity to less than 75% of its maximum value at 20 minutes indicates normal drainage",
+          "answer": "False"
+        },
+        {
+          "label": "E",
+          "text": "123I-Hippuran is the agent of choice",
+          "answer": "True"
+        }
+      ],
+      "explanation": "The uptake phase of 99mTc-DTPA reflects the glomerulo-filtration rate.\n80% of 99mTc-MAG3 is secreted by the proximal convuluted tubules, allowing the detection of scarring, and the estimation of differential function and effective renal plasma flow. Following injection of frusemide, normal drainage is indicated by a reduction to less than 75% at 10 minutes and 50% at 20 minutes. Unfortunately 123I-Hippuran is prohibitively expensive and therefore rarely used",
+      "reference": "Grainger & Allison. Diagnostic Radiology. 3rd Edition. Churchill Livingstone"
+    },
+    {
+      "questionNumber": 47,
+      "stem": "Regarding carotid doppler examinations",
+      "options": [
+        {
+          "label": "A",
+          "text": "Diastolic flow reversal is normal in the external carotid artery",
+          "answer": "True"
+        },
+        {
+          "label": "B",
+          "text": "The maximum peak systolic velocity of the common carotid artery should not exceed 0.5 m/second",
+          "answer": "False"
+        },
+        {
+          "label": "C",
+          "text": "For spectral doppler studies, an interrogation angle of 90% is most accurate",
+          "answer": "False"
+        },
+        {
+          "label": "D",
+          "text": "The orbit provides an acoustic window to the carotid syphon",
+          "answer": "True"
+        },
+        {
+          "label": "E",
+          "text": "Velocity curves are lower in the ophthalmic artery than the internal carotid artery",
+          "answer": "True"
+        }
+      ],
+      "explanation": "The maximum peak systolic velocity of the common carotid is 1 - 1.2 m/s, 60-70 degrees is the most accurate angle of interrogation",
+      "reference": "Grainger & Allison. Diagnostic Radiology. 3rd Edition. Churchill Livingstone,"
+    },
+    {
+      "questionNumber": 48,
+      "stem": "Regarding cerebral angiography",
+      "options": [
+        {
+          "label": "A",
+          "text": "The risk of death or permanent neurological deficit in the hands of an experienced neuroradiologist is 0.2%",
+          "answer": "False"
+        },
+        {
+          "label": "B",
+          "text": "Meglumine salt contrast media is more neurotoxic than sodium salt contrast media",
+          "answer": "False"
+        },
+        {
+          "label": "C",
+          "text": "Transient conical blindness is a recognized complication",
+          "answer": "True"
+        },
+        {
+          "label": "D",
+          "text": "Compression of the contra-lateral carotid artery allows settlement of the patency of the anterior cerebral artery",
+          "answer": "False"
+        },
+        {
+          "label": "E",
+          "text": "The common carotid artery arises from the brachiocephalic trunk in 2%",
+          "answer": "False"
+        }
+      ],
+      "explanation": "Two recent studies quote a 1.2% and 5.2% risk of death or permanent neurological deficit.\nSodium sale ionic contrast media is more neurotoxic than meglumine salt contrast, The anterior communicating artery is patent if contra-lateral flow 1s demonstrated. The common carotid artery arises from the brachiocephalic trunk in 25-30%",
+      "reference": "Grainger & Allison. Diagnostic Radiology. 3rd Edition. Churchill Livingstone"
+    },
+    {
+      "questionNumber": 49,
+      "stem": "When imaging the pituitary gland",
+      "options": [
+        {
+          "label": "A",
+          "text": "The anterior lobe is high signal on T1W MRI sequences in adults",
+          "answer": "False"
+        },
+        {
+          "label": "B",
+          "text": "The pituitary gland typically enhances poorly with gadolinium",
+          "answer": "False"
+        },
+        {
+          "label": "C",
+          "text": "The pituitary stalk lies anterior to the optic chiasm",
+          "answer": "False"
+        },
+        {
+          "label": "D",
+          "text": "The superior border of the pituitary is upwardly convex during pregnancy and puberty",
+          "answer": "True"
+        },
+        {
+          "label": "E",
+          "text": "The anterior pituitary is often high signal on T1W MRI sequences in neonates",
+          "answer": "True"
+        }
+      ],
+      "explanation": "The posterior lobe is high signal on TIW MRI sequences. The pituitary gland avidly enhances due to Ihe lack of blood brain barrier",
+      "reference": "Grainger & Allison. Diagnostic Radiology. 3rd Edition. Churchill Livingstone"
+    },
+    {
+      "questionNumber": 50,
+      "stem": "The following statements are true regarding CT of the kidneys",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increasing the table feed by 50% reduces the radiation dose by 50%",
+          "answer": "True"
+        },
+        {
+          "label": "B",
+          "text": "Reducing the mA increases image noise",
+          "answer": "False"
+        },
+        {
+          "label": "C",
+          "text": "Intravenous contrast can induce a hypertensive crisis in phaeochromocytoma",
+          "answer": "True"
+        },
+        {
+          "label": "D",
+          "text": "Gd-DTPA can be used as intravenous contrast",
+          "answer": "True"
+        },
+        {
+          "label": "E",
+          "text": "A contrast-enhanced CT is less sensitive at demonstrating a renal tract calcification than a plain film",
+          "answer": "False"
+        }
+      ],
+      "explanation": "Increasing the table feed by 50% reduces the radiation dose by 23%. Gd-DTPA has an enhancement density of approximately 35% that of non-ionic contrast media and is used in patients scheduled for radio-iodine therapy",
+      "reference": "Grainger & Allison, Diagnostic Radiology. 3rd Edition, Churchill Livingstone"
+    },
+    {
+      "questionNumber": 51,
+      "stem": "Regarding excretion urography in the normal patient",
+      "options": [
+        {
+          "label": "A",
+          "text": "10% of injected contrast media is excreted by non-renal routes",
+          "answer": "False"
+        },
+        {
+          "label": "B",
+          "text": "Contrast media may be seen in the gallbladder on CT up to 48 hours following injection",
+          "answer": "True"
+        },
+        {
+          "label": "C",
+          "text": "A dromedary hump is often seen on the right kidney",
+          "answer": "False"
+        },
+        {
+          "label": "D",
+          "text": "The right renal artery is shorter than the left",
+          "answer": "False"
+        },
+        {
+          "label": "E",
+          "text": "Linear impressions across the infundibula are often caused by segmental arteries and veins",
+          "answer": "True"
+        }
+      ],
+      "explanation": "1% of contrast is excreted by small bowel and into the biliary system. Dromedery humps are more common on the left, due to moulding by the spleen. The left renal artery is shorter than the right. Increased flow to the left kidney is often suggested as a reason for the left kidney being longer than the right",
+      "reference": "Grainger & Allison. Diagnostic Radiology, 3rd Edition. Churchill Livingstone"
+    },
+    {
+      "questionNumber": 52,
+      "stem": "Regarding portal venous flow",
+      "options": [
+        {
+          "label": "A",
+          "text": "Flow rates increase with exercise",
+          "answer": "False"
+        },
+        {
+          "label": "B",
+          "text": "Flow rates increase postprandially",
+          "answer": "True"
+        },
+        {
+          "label": "C",
+          "text": "Flow rates increase with inspiration",
+          "answer": "False"
+        },
+        {
+          "label": "D",
+          "text": "Flow rates decrease in the erect position",
+          "answer": "True"
+        },
+        {
+          "label": "E",
+          "text": "Normal portal flow is biphasic",
+          "answer": "False"
+        }
+      ],
+      "explanation": "Portal flow decreased with exercise and inspiration and is gently undulating",
+      "reference": "Grainger & Allison, Diagnostic Radiology. 3rd Edition. Churchill Livingstone"
+    },
+    {
+      "questionNumber": 53,
+      "stem": "Regarding percutaneous transhepatic cholangiography",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cannulation of the left lobe biliary tree causes more pneumothoraces than the right",
+          "answer": "False"
+        },
+        {
+          "label": "B",
+          "text": "Cannulation of dilated ducts in the left lobe is usually performed under fluoroscopic guidance",
+          "answer": "False"
+        },
+        {
+          "label": "C",
+          "text": "Contrast in the hepatic veins flows in the cephalad direction",
+          "answer": "True"
+        },
+        {
+          "label": "D",
+          "text": "Contrast in the portal veins flows to the periphery of the liver",
+          "answer": "True"
+        },
+        {
+          "label": "E",
+          "text": "Hemorrhage is the most common serious complication",
+          "answer": "False"
+        }
+      ],
+      "explanation": "The rate of all complications is lower with this approach than using the right sided approach.\nUltrasound guidance is used to cannulate the dilated ducts. This avoids irradiating the operators hands. The incidence of haemorrhage is 0.35% whilst sepsis and biliary peritonitis occur in 1.4% of cases",
+      "reference": "Grainger & Allison. Diagnostic Radiology. 3rd Edition. Churchill Livingstone"
+    },
+    {
+      "questionNumber": 54,
+      "stem": "Oesophageal studies",
+      "options": [
+        {
+          "label": "A",
+          "text": "Endoscopic ultrasound is more sensitive at detecting local lymph node involvement than CT",
+          "answer": "True"
+        },
+        {
+          "label": "B",
+          "text": "Radionuclide imaging is done with pertechnetate",
+          "answer": "False"
+        },
+        {
+          "label": "C",
+          "text": "Radionuclide imaging is helpful in assessing esophageal transit",
+          "answer": "True"
+        },
+        {
+          "label": "D",
+          "text": "Radionuclide imaging is useful for assessing transient reflux",
+          "answer": "True"
+        },
+        {
+          "label": "E",
+          "text": "Bread barium is useful to assess strictures",
+          "answer": "True"
+        }
+      ],
+      "explanation": "At present endoscopic ultrasound is the most sensitive test for lymph node involvement. 99mTc sulphur colloid is mixed with food. Bread is useful at assessing distensibility",
+      "reference": "Whitehouse & Worthington. Techniques in Diagnostic Imaging, 3rd Edition. Blackwell Science Ltd"
+    },
+    {
+      "questionNumber": 55,
+      "stem": "Barium Meal",
+      "options": [
+        {
+          "label": "A",
+          "text": "Suspension should be of high density",
+          "answer": "False"
+        },
+        {
+          "label": "B",
+          "text": "Suspension should be of high viscosity",
+          "answer": "False"
+        },
+        {
+          "label": "C",
+          "text": "High-density suspensions always give better coating",
+          "answer": "False"
+        },
+        {
+          "label": "D",
+          "text": "Barium sulfate 250 mg w/v comes as a suspension",
+          "answer": "False"
+        },
+        {
+          "label": "E",
+          "text": "It is indicated in upper GI bleeding",
+          "answer": "False"
+        }
+      ],
+      "explanation": "Fora Ba meal the suspension can be medium e.g 100% w/v but should be low viscosity. Dilution of a medium or high density suspension with local water may affect performance. Barium sulphate 250 mg w/v comes as a powder. A barium meal is not indicated in upper GI bleeding and one should consider angiography and possibly even CT first",
+      "reference": "Whitehouse & Worthington. Techniques in Diagnostic Imaging. 3rd Edition. Blackwell Science Ltd"
+    },
+    {
+      "questionNumber": 56,
+      "stem": "Plain Abdominal x-ray",
+      "options": [
+        {
+          "label": "A",
+          "text": "Erect AXR should be performed for suspected perforation",
+          "answer": "False"
+        },
+        {
+          "label": "B",
+          "text": "Are performed in inspiration",
+          "answer": "True"
+        },
+        {
+          "label": "C",
+          "text": "Use 35 x 40 cm film",
+          "answer": "False"
+        },
+        {
+          "label": "D",
+          "text": "Gonadal protection should always be used",
+          "answer": "False"
+        },
+        {
+          "label": "E",
+          "text": "Center midway between lower costal margin and iliac crest",
+          "answer": "True"
+        }
+      ],
+      "explanation": "A erect CXR and supine AXR are appropriate for excluding a perforation. Abdominal films are performed in inspiration so that more of the abdomen can be seen. A 35 x 43 cm film is used. Only men receive gonadal protection,",
+      "reference": "Whitehouse & Worthington. Techniques in Diagnostic Imaging. 3rd Edition. Blackwell Science Ltd"
+    },
+    {
+      "questionNumber": 57,
+      "stem": "Silk tubes",
+      "options": [
+        {
+          "label": "A",
+          "text": "Can be used for small bowel enemas",
+          "answer": "True"
+        },
+        {
+          "label": "B",
+          "text": "Shorten intubation time",
+          "answer": "True"
+        },
+        {
+          "label": "C",
+          "text": "Have a hydrophilic coating on the outside",
+          "answer": "False"
+        },
+        {
+          "label": "D",
+          "text": "Are 8F catheters",
+          "answer": "False"
+        },
+        {
+          "label": "E",
+          "text": "Are 100 cm in length",
+          "answer": "False"
+        }
+      ],
+      "explanation": "Silk tubes are the catheter of choice for small bowel enemas. They are polyurethane 10F catheters, 140 cm in length",
+      "reference": "Whitehouse E Worthington. Techniques in Diagnostic Imaging. 3rd Edition. Blackwell Science Ltd"
+    },
+    {
+      "questionNumber": 58,
+      "stem": "Meckel's Diverticulum Radionuclide scan - imaging",
+      "options": [
+        {
+          "label": "A",
+          "text": "Must include the stomach",
+          "answer": "True"
+        },
+        {
+          "label": "B",
+          "text": "The abdomen and pelvis should be imaged",
+          "answer": "True"
+        },
+        {
+          "label": "C",
+          "text": "A lateral view should be obtained",
+          "answer": "True"
+        },
+        {
+          "label": "D",
+          "text": "An erect view is helpful",
+          "answer": "False"
+        },
+        {
+          "label": "E",
+          "text": "A post-micturition lateral view is the final view",
+          "answer": "True"
+        }
+      ],
+      "explanation": "Views are taken supine. A post-micturation view will help separate urinary tract and diverticular activity",
+      "reference": "Chapman & Nakielny. A Guide to Radiological Procedures. 3rd Edition. W B Saunders Co Ltd"
+    },
+    {
+      "questionNumber": 59,
+      "stem": "Vascular guide wires may be coated with",
+      "options": [
+        {
+          "label": "A",
+          "text": "Teflon",
+          "answer": "True"
+        },
+        {
+          "label": "B",
+          "text": "Benzylkonium Heparin",
+          "answer": "True"
+        },
+        {
+          "label": "C",
+          "text": "Titanium",
+          "answer": "False"
+        },
+        {
+          "label": "D",
+          "text": "Hydrophilic coating",
+          "answer": "False"
+        },
+        {
+          "label": "E",
+          "text": "Hydrophilic coating",
+          "answer": "True"
+        }
+      ],
+      "explanation": "Sensitivity and specificity for angiography are 97% and 95%. There is no evidence to suggest that there is any contraindication to using iodine contrast media, but a preoperative IVU should be avoided in patients with renal failure. Severe renal impairment is defined as a creatinine clearance of less than 30mls/min",
+      "reference": "Grainger & Allison. Diagnostic Radiology, 3rd Edition. Churchill Livingstone"
+    },
+    {
+      "questionNumber": 60,
+      "stem": "In saphenography",
+      "options": [
+        {
+          "label": "A",
+          "text": "The long saphenous vein is punctured",
+          "answer": "False"
+        },
+        {
+          "label": "B",
+          "text": "The patient lies semi-erect",
+          "answer": "False"
+        },
+        {
+          "label": "C",
+          "text": "An ankle tourniquet is necessary",
+          "answer": "False"
+        },
+        {
+          "label": "D",
+          "text": "The use of a ruler is required",
+          "answer": "False"
+        },
+        {
+          "label": "E",
+          "text": "50 - 100 ml contrast are required",
+          "answer": "False"
+        }
+      ],
+      "explanation": "Any vein on the medial aspect of the foot can be punctured. The patient lies supine or head down. No tourniquet necessary. Rulers are usually for varicography or occasionally for ascending venography. Usually only 20-30 mls of contrast media is necessary",
+      "reference": "Chapman & Nakielny. A Guide to Radiological Procedures. 3rd Edition. WB Saunders Co Ltd"
     }
   ]
+}

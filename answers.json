@@ -1,480 +1,497 @@
 [
   {
-    "questionNumber": "1",
-    "answer": "E",
-    "explanation": "Avulsion injuries occur at characteristic sites and are particularly common in children and adolescents.",
-    "reference": "Grainger & Allison's 5e, p 981."
+    "questionNumber": 21,
+    "options": [
+      {
+        "label": "A",
+        "answer": "FALSE"
+      },
+      {
+        "label": "B",
+        "answer": "TRUE"
+      },
+      {
+        "label": "C",
+        "answer": "TRUE"
+      },
+      {
+        "label": "D",
+        "answer": "TRUE"
+      },
+      {
+        "label": "E",
+        "answer": "FALSE"
+      }
+    ],
+    "explanation": "MRI has the advantage in imaging the vessels at the thoracic inlet without any degradation from bony artefact. The right subclavian artery may arise at the last branch of the arch in approximately 0.5% of people.",
+    "reference": "Anatomy for Diagnostic Imaging. Ryan & McNicholas, W B  Saunder Co Ltd\nEssential Anatomy by Lumley, Craven & Aikens 3rd Edition Churchill Livingstone\nClinical Anatomy by Harold Ellis, 8th Edition. Chuchill Livington"
   },
   {
-    "questionNumber": "2",
-    "answer": "B",
-    "explanation": "Sclerosis of the margins of the epiphysis (Wimberger sign), metaphyseal (Pelcan) spurs, dense metaphyseal lines (white lines of Frankel) and exuberant periosteal reactions (secondary to recurrent subperiosteal bleeding) are features of scurvy. Expansion of the costochondral junctions results in the characteristic appearance of a rachitic rosary.",
-    "reference": "Grainger & Allison's 5e, pp 1104—1105; 1601."
+    "questionNumber": 22,
+    "options": [
+      {"label": "A", "answer": "FALSE"},
+      {"label": "B", "answer": "FALSE"},
+      {"label": "C", "answer": "TRUE"},
+      {"label": "D", "answer": "FALSE"},
+      {"label": "E", "answer": "TRUE"}
+    ],
+    "explanation": "Occipital horns are well developed in only 12%. There is usually no choroid plexus in the occipital horn. The width of the 3rd ventricle increases with age: normally 2-10 mm. The nuclei of the 3rd, 4th, and 5th cranial nerves surround the cerebral aqueduct.",
+    "reference": "Anatomy for Diagnostic Imaging. Ryan & McNicholas. W B Saunders Co Ltd. Essential Anatomy by Lumley, Craven & Aitken. 3rd Edition. Churchill Livingstone. Clinical Anatomy by Harold Ellis. 8th Edition. Churchill Livingstone."
   },
   {
-    "questionNumber": "3",
-    "answer": "E",
-    "explanation": "Although eponymous classification of injuries is often criticised, many eponyms endure as succinct descriptions of fracture patterns, forcing the radiologist to remain aware of the more common eponymous injuries.",
-    "reference": "Grainger & Allison's 5e, pp 996-997."
+    "questionNumber": 23,
+    "options": [
+      {"label": "A", "answer": "TRUE"},
+      {"label": "B", "answer": "FALSE"},
+      {"label": "C", "answer": "FALSE"},
+      {"label": "D", "answer": "TRUE"},
+      {"label": "E", "answer": "TRUE"}
+    ],
+    "explanation": "The ligamentum teres is attached to the fovea of the femoral head. The acetabular epiphysis closes in adult life (18-25).",
+    "reference": "Last’s Anatomy, McMinn. 9th Edition. Churchill Livingstone"
   },
   {
-    "questionNumber": "4",
-    "answer": "B",
+    "questionNumber": 24,
+    "options": [
+      {"label": "A", "answer": "TRUE"},
+      {"label": "B", "answer": "TRUE"},
+      {"label": "C", "answer": "TRUE"},
+      {"label": "D", "answer": "FALSE"},
+      {"label": "E", "answer": "FALSE"}
+    ],
+    "explanation": "The dorsalis pedis is a continuation of the anterior tibial artery. Tibialis anterior inverts the foot.",
+    "reference": "Last’s Anatomy. McMinn, 9th Edition. Churchill Livingstone, Anatomy for Diagnostic Imaging. Ryan & McNicholas. W B Saunders Co Ltd."
+  },
+  {
+    "questionNumber": 25,
+    "options": [
+      {"label": "A", "answer": "TRUE"},
+      {"label": "B", "answer": "TRUE"},
+      {"label": "C", "answer": "FALSE"},
+      {"label": "D", "answer": "FALSE"},
+      {"label": "E", "answer": "FALSE"}
+    ],
+    "explanation": "The hamate is the second carpal bone to ossify. The triangular fibrocartilage is attached to the ulnar styloid process. The radiocarpal joint does not normally communicate with the midcarpal joint.",
+    "reference": "Last's Anatomy. McMinn. 9th Edition. Churchill Livingstone. Anatomy for Diagnostic Imaging. Ryan & McNicholas, W B Saunders Co Ltd."
+  },
+  {
+    "questionNumber": 26,
+    "options": [
+      {"label": "A", "answer": "FALSE"},
+      {"label": "B", "answer": "TRUE"},
+      {"label": "C", "answer": "FALSE"},
+      {"label": "D", "answer": "TRUE"},
+      {"label": "E", "answer": "FALSE"}
+    ],
+    "explanation": "Os styloideum is an ossicle seen overlying the capitate and bases of the 2nd and 3rd metacarpals. A supracondylar process is seen in 1% of Europeans. The lower humeral epiphysis lies at an angle of 25 degrees to the shaft.",
+    "reference": "Last’s Anatomy. McMinn. 9th Edition, Churchill Livingstone, Anatomy for Diagnostic Imaging. Ryan & McNicholas. W B Saunders Co Ltd. Atlas of Normal Roentgen Variants. Keats. 6th Edition, Mosby."
+  },
+  {
+    "questionNumber": 27,
+    "options": [
+      {"label": "A", "answer": "TRUE"},
+      {"label": "B", "answer": "TRUE"},
+      {"label": "C", "answer": "TRUE"},
+      {"label": "D", "answer": "TRUE"},
+      {"label": "E", "answer": "TRUE"}
+    ],
     "explanation": "",
-    "reference": "Grainger & Allison's 5e, pp 1059-1060, Table 48.2 (p 1060) provides a useful"
+    "reference": "Last’s Anatomy. McMinn, 9th Edition, Churchill Livingstone. Anatomy for Diagnostic Imaging. Ryan & McNicholas. W B Saunders Co Ltd."
   },
   {
-    "questionNumber": "5",
-    "answer": "E",
+    "questionNumber": 28,
+    "options": [
+      {"label": "A", "answer": "FALSE"},
+      {"label": "B", "answer": "FALSE"},
+      {"label": "C", "answer": "FALSE"},
+      {"label": "D", "answer": "TRUE"},
+      {"label": "E", "answer": "TRUE"}
+    ],
+    "explanation": "The uterus is usually anteverted. The majority of the uterus is covered in peritoneum. The uterine artery is a branch of the internal iliac artery.",
+    "reference": "Last’s Anatomy. McMinn. 9th Edition, Churchill Livingstone. Atlas for Diagnostic Imaging, Ryan & McNicholas. W B Saunders Co Ltd."
+  },
+  {
+    "questionNumber": 29,
+    "options": [
+      {"label": "A", "answer": "FALSE"},
+      {"label": "B", "answer": "TRUE"},
+      {"label": "C", "answer": "TRUE"},
+      {"label": "D", "answer": "TRUE"},
+      {"label": "E", "answer": "FALSE"}
+    ],
+    "explanation": "The splenic vein is posterior to the pancreas. Lymphatic drainage from the pancreas is to the superior mesenteric and coeliac nodes.",
+    "reference": "Last’s Anatomy. McMinn 9th Edition. Churchill Livingstone, Anatomy for Diagnostic Imaging. Ryan & McNicholas. W B Saunders Co Ltd."
+  },
+  {
+    "questionNumber": 30,
+    "options": [
+      {"label": "A", "answer": "TRUE"},
+      {"label": "B", "answer": "FALSE"},
+      {"label": "C", "answer": "TRUE"},
+      {"label": "D", "answer": "TRUE"},
+      {"label": "E", "answer": "FALSE"}
+    ],
+    "explanation": "The adrenal glands lie within Gerota's fascia but outside of the capsule. The posterior pararenal space is limited medially by the psoas fascia.",
+    "reference": "Last's Anatomy. McMinn. 9th Edition. Churchill Livingstone. Anatomy for Diagnostic Imaging. Ryan & McNicholas. W B Saunders Co Ltd"
+  },
+  {
+    "questionNumber": 31,
+    "options": [
+      {"label": "A", "answer": "TRUE"},
+      {"label": "B", "answer": "TRUE"},
+      {"label": "C", "answer": "TRUE"},
+      {"label": "D", "answer": "FALSE"},
+      {"label": "E", "answer": "FALSE"}
+    ],
+    "explanation": "A Phrygian cap is the appearance of the gallbladder fundus folded over on itself. Cystic veins are uncommon but when they occur they run into the right branch of the portal vein.",
+    "reference": "Lasts Anatomy. McMinn, 9th Edition, Churchill Livingstone. Gray's Anatomy. 38th Edition, Churchill Livingstone."
+  },
+  {
+    "questionNumber": 32,
+    "options": [
+      {"label": "A", "answer": "FALSE"},
+      {"label": "B", "answer": "FALSE"},
+      {"label": "C", "answer": "FALSE"},
+      {"label": "D", "answer": "TRUE"},
+      {"label": "E", "answer": "FALSE"}
+    ],
+    "explanation": "The spleen develops from dorsal mesogastrum. The blood supply to the spleen is normally from the coeliac artery. The anterior border of the spleen is notched. The spleen is related to the tail of the pancreas at the hilum.",
+    "reference": "Last's Anatomy, McMinn. 9th Edition, Churchill Livingstone."
+  },
+  {
+    "questionNumber": 33,
+    "options": [
+      {"label": "A", "answer": "TRUE"},
+      {"label": "B", "answer": "FALSE"},
+      {"label": "C", "answer": "TRUE"},
+      {"label": "D", "answer": "TRUE"},
+      {"label": "E", "answer": "FALSE"}
+    ],
+    "explanation": "Cervical ribs are seen in only 1-2% of subjects.\nLeft paraspinal line is 10mm and right is 3mm.\nRhomboid fossa is seen in 0.5% of cases. They are well seen on AP views.",
+    "reference": "Anatomy for Diagnostic Imaging. Ryan & McNicholas. 1994 Edition. W B Saunders Co Ltd. Essential Anatomy by Lumley, Craven & Aitken. 3rd Edition, Churchill Livingstone Clinical Anatomy by Harold Ellis, 8th Edition. Churchill Livingstone."
+  },
+  {
+    "questionNumber": 34,
+    "options": [
+      {"label": "A", "answer": "FALSE"},
+      {"label": "B", "answer": "TRUE"},
+      {"label": "C", "answer": "FALSE"},
+      {"label": "D", "answer": "TRUE"},
+      {"label": "E", "answer": "TRUE"}
+    ],
+    "explanation": "‘The right ventricular chamber is flattened from front to back due to the bulging left ventricle.\nThe right ventricle has a smooth outflow tract and a muscular inflow tract",
+    "reference": "Anatomy for Diagnostic Imaging. Ryan & McNicholas. WB Saunders Co Lid. Essential Anatomy by Lumley, Craven & Aitken. 3rd Edition. Churchill Livingstone. Clinical Anatomy by Harold Ellis, 8th Edition. Churchill Livingstone."
+  },
+  {
+    "questionNumber": 35,
+    "options": [
+      {"label": "A", "answer": "TRUE"},
+      {"label": "B", "answer": "TRUE"},
+      {"label": "C", "answer": "TRUE"},
+      {"label": "D", "answer": "FALSE"},
+      {"label": "E", "answer": "FALSE"}
+    ],
+    "explanation": "Thyroid cartilage articulates with arytenoid and cricoid by synovial joints.\nThe thyroid cartilage lies at level C3-C6",
+    "reference": "Anatomy for Diagnostic Imaging. Ryan & McNicholas. 1994 Edition. WB Saunders Co Ltd. Essential Anatomy by Lumley, Craven & Aitken. 3rd Edition. Churchill Livingstone. Clinical Anatomy by Harold Ellis. 8th Edition. Churchill Livingstone."
+  },
+  {
+    "questionNumber": 36,
+    "options": [
+      {"label": "A", "answer": "FALSE"},
+      {"label": "B", "answer": "FALSE"},
+      {"label": "C", "answer": "TRUE"},
+      {"label": "D", "answer": "FALSE"},
+      {"label": "E", "answer": "FALSE"}
+    ],
+    "explanation": "The nasolacrimal duct drams into the inferior meatus\nThe lacrimal gland is supplied by ophthalmic artery\nThe lower permanent dentition erupts before the upper\nLacrimal gland is innervated by facial nerve",
+    "reference": "Anatomy for Diagnostic Imaging. Ryan & McNicholas. WB Saunders Co Ltd. Essential Anatomy by Lumley, Craven & Aitken, 3rd Edition, Churchill Livingstone. Clinical Anatomy by Harold Ellis. 8th Edition, Churchill Livingstone."
+  },
+  {
+    "questionNumber": 37,
+    "options": [
+      {"label": "A", "answer": "TRUE"},
+      {"label": "B", "answer": "TRUE"},
+      {"label": "C", "answer": "TRUE"},
+      {"label": "D", "answer": "TRUE"},
+      {"label": "E", "answer": "TRUE"}
+    ],
     "explanation": "",
-    "reference": "Grainger & Allison's 5e, pp 980-981."
-  },
-  {
-    "questionNumber": "6",
-    "answer": "D",
-    "explanation": "",
-    "reference": "Grainger & Allison's 5e, pp 1063-1066."
-  },
-  {
-    "questionNumber": "7",
-    "answer": "A",
-    "explanation": "Figure 46.104 (p 1016) gives a helpful summary of the pathomechanics of spinal injury.",
-    "reference": "Grainger & Allison's 5e, pp 1014-1023."
-  },
-  {
-    "questionNumber": "8",
-    "answer": "C",
-    "explanation": "",
-    "reference": "Grainger & Allison's 5e, pp 974."
-  },
-  {
-    "questionNumber": "9",
-    "answer": "C",
-    "explanation": "Skeletal metastases tend to involve the axial rather than appendicular skeleton, reflecting their predilection for bones containing red marrow. Metastases from bronchial carcinoma account for half of all peripheral metastases.",
-    "reference": "Grainger & Allison's 5e. pp 1060-1061."
-  },
-  {
-    "questionNumber": "10",
-    "answer": "D",
-    "explanation": "Triplane fractures are injuries of adolescence, occurring around the time of epiphyseal fusion. Partial fusion of the growth plate results in complex fracture geometry following injury; typically, this includes a coronal metaphyseal fracture, a horizontal fracture through the physis and a sagittal epiphyseal fracture (eg Salter-Harris IV injury).\nTillaux fractures occur at a similar age, and are characterised by a horizontal fracture through the growth plate and a vertical epiphyseal fracture (Salter-Harris III injury).",
-    "reference": "Grainger & Allison's 5e, p 1618."
-  },
-  {
-    "questionNumber": "11",
-    "answer": "B",
-    "explanation": "",
-    "reference": "Grainger & Allison's 5c, p 1063 (Table 48.3 provides a concise summary)."
-  },
-  {
-    "questionNumber": "12",
-    "answer": "C",
-    "explanation": "Looser's zones represent areas of unmineralised osteoid and are pathognomonic of osteomalacia. The medial aspects of the proximal femora are typical sites for Looser's zones; other common sites include the pubic rami, ribs and the lateral border of the scapula.",
-    "reference": "Grainger & Allison's 5e, pp 1104—1105."
-  },
-  {
-    "questionNumber": "13",
-    "answer": "D",
-    "explanation": "",
-    "reference": "Grainger & Allison's 5e, pp 994-995."
-  },
-  {
-    "questionNumber": "14",
-    "answer": "A",
-    "explanation": "Metaphyseal, rib, sternal and scapular fractures have a high specificity for non-accidental injury.",
-    "reference": "Grainger & Allison's 5e, p 1623."
-  },
-  {
-    "questionNumber": "15",
-    "answer": "B",
-    "explanation": "",
-    "reference": "Grainger & Allison's 5e, p 1141."
-  },
-  {
-    "questionNumber": "16",
-    "answer": "C",
-    "explanation": "On a lateral radiograph, the length of the patellar tendon should equal the height of the patella, plus or minus 20%. Patella baja is associated with polio, juvenile chronic arthritis and achondroplasia.",
-    "reference": "Grainger & Allison's 5e, p 1140."
-  },
-  {
-    "questionNumber": "17",
-    "answer": "C",
-    "explanation": "",
-    "reference": "Grainger & Allison's 5e, p 1087."
-  },
-  {
-    "questionNumber": "18",
-    "answer": "E",
-    "explanation": "The appearances are highly aggressive, and characteristic of osteosarcoma. The tumour matrix indicates a tumour of osseous rather than cartilaginous origin, making chondrosarcoma highly unlikely.",
-    "reference": "Grainger & Allison's 5e, pp 1066-1074, 1076."
-  },
-  {
-    "questionNumber": "19",
-    "answer": "C",
-    "explanation": "The ‘signet ring’ appearance is clue to rotatory subluxation of the scaphoid as a result of disruption of the scapholunate ligament.",
-    "reference": "Grainger dr Allison's 5e, pp 998-999."
-  },
-  {
-    "questionNumber": "20",
-    "answer": "C",
-    "explanation": "",
-    "reference": "Grainger dr Allison's 5e, pp 1148—1149."
-  },
-  {
-    "questionNumber": "21",
-    "answer": "B",
-    "explanation": "",
-    "reference": "Grainger dr Allison's 5e, p 1100."
-  },
-  {
-    "questionNumber": "22",
-    "answer": "A",
-    "explanation": "",
-    "reference": "Grainger & Allison's 5e, p 1590 (Table 67.7 provides a concise summary)."
-  },
-  {
-    "questionNumber": "23",
-    "answer": "E",
-    "explanation": "An isolated lesser trochanter fracture is also highly suspicious for a pathological fracture.",
-    "reference": "Grainger dr Allison's 5e, pp 1003-1004."
-  },
-  {
-    "questionNumber": "24",
-    "answer": "D",
-    "explanation": "",
-    "reference": "Grainger & Allison's 5e, p 1145."
-  },
-  {
-    "questionNumber": "25",
-    "answer": "E",
-    "explanation": "",
-    "reference": "Grainger & Allison's 5e, p 1147."
-  },
-  {
-    "questionNumber": "26",
-    "answer": "B",
-    "explanation": "Kienboeck's disease describes lunate collapse as a result of vascular insufficiency and avascular necrosis. Avascular necrosis of the navicular is Kohler's disease whilst Freiberg's disease describes avascular necrosis of the second metatarsal head. Sever's disease relates to calcaneal apophysitis whilst Sinding-Larsen's disease is a cause of anterior knee pain in adolescents.",
-    "reference": "Grainger & Allison's 5e, p 1149."
-  },
-  {
-    "questionNumber": "27",
-    "answer": "E",
-    "explanation": "",
-    "reference": "Grainger & Allison's 5e, pp 1120-1130 (Table 50.7 on pp 1135-1136 provides a useful summary)."
-  },
-  {
-    "questionNumber": "28",
-    "answer": "B",
-    "explanation": "The detection, or exclusion, of osteomyelitis in the context of Charcot arthropathy is difficult. Bone marrow oedema is a feature of both infection and Charcot changes, but enhancement following gadolinium is suspicious for coexistent infection.",
-    "reference": "Grainger & Allison's 5c. p 1162."
-  },
-  {
-    "questionNumber": "29",
-    "answer": "D",
-    "explanation": "Juxta-articular osteoporosis is a typical feature of haemophilic arthropathy, as a result of the periarticular hyperaemia associated with recurrent haemorrhage.",
-    "reference": "Grainger & Allison's 5e, pp 1118-1119."
-  },
-  {
-    "questionNumber": "30",
-    "answer": "B",
-    "explanation": "Bone density can be measured in relation to an age and sex-matched population (Z score) or in relation to a population of young adults of the same sex (T score). The WHO defines osteoporosis as a T score less than —2.5, therefore relating bone mineral density to sex-matched peak bone mass.",
-    "reference": "Grainger dr Allison's 5e, pp 1097-1099."
-  },
-  {
-    "questionNumber": "31",
-    "answer": "C",
-    "explanation": "",
-    "reference": "Grainger & Allison's 5e, p 1142."
-  },
-  {
-    "questionNumber": "32",
-    "answer": "D",
-    "explanation": "",
-    "reference": "Grainger & Allison's 5e, p 1134."
-  },
-  {
-    "questionNumber": "33",
-    "answer": "D",
-    "explanation": "Infection and Langerhans cell histiocytosis (LCH) should be considered in the differential diagnosis of a permeative bone lesion in a child. Askin tumour is a rare primitive neuroectodermal tumour of the chest wall in children.",
-    "reference": "Grainger & Allison's 5e, pp 1074-1076."
-  },
-  {
-    "questionNumber": "34",
-    "answer": "D",
-    "explanation": "McCune-Albright syndrome is characterised by polyostotic fibrous dysplasia, cafe-au-lait spots and endocrine disturbance (most commonly precocious puberty in girls). The rare association of polyostotic fibrous dysplasia and soft tissue myxomas is Mazabraud’s syndrome.",
-    "reference": "Grainger & Allison's 5e, pp 1037; 1041; 1054."
-  },
-  {
-    "questionNumber": "35",
-    "answer": "A",
-    "explanation": "",
-    "reference": "Grainger & Allisons 5e, pp 959-960."
-  },
-  {
-    "questionNumber": "36",
-    "answer": "E",
-    "explanation": "",
-    "reference": "Grainger & Allison’s 5c. pp 1060-1061."
-  },
-  {
-    "questionNumber": "37",
-    "answer": "A",
-    "explanation": "",
-    "reference": "Grainger & Allison’s 5e. p 1016 (Figure 46.104)."
-  },
-  {
-    "questionNumber": "38",
-    "answer": "C",
-    "explanation": "",
-    "reference": "Grainger & Allison's 5e, pp 1035-1042."
-  },
-  {
-    "questionNumber": "39",
-    "answer": "D",
-    "explanation": "",
-    "reference": "Grainger & Allison’s 5e. p 1012."
-  },
-  {
-    "questionNumber": "40",
-    "answer": "B",
-    "explanation": "",
-    "reference": "Grainger & Allison’s 5e, pp 1015-1018."
-  },
-  {
-    "questionNumber": "41",
-    "answer": "A",
-    "explanation": "",
-    "reference": "Grainger & Allison’s 5e, pp 1035-1055."
-  },
-  {
-    "questionNumber": "42",
-    "answer": "B",
-    "explanation": "",
-    "reference": "Grainger & Allisons 5e, p 1134."
-  },
-  {
-    "questionNumber": "43",
-    "answer": "A",
-    "explanation": "",
-    "reference": "Grainger & Allison's 5e, p 1105."
-  },
-  {
-    "questionNumber": "44",
-    "answer": "D",
-    "explanation": "",
-    "reference": "Grainger dr Allison's 5e, p 1007."
-  },
-  {
-    "questionNumber": "45",
-    "answer": "B",
-    "explanation": "Vertebral fractures are not only the most common fragility fracture, but also serve as powerful predictors of subsequent fracture. A vertebral fracture increases the likelihood of a further vertebral fracture fivefold, and doubles the risk of subsequent femoral neck fracture.",
-    "reference": "Grainger & Allison's 5e, pp 1088-1090 (Figure 49.4 (p 1089) provides a useful"
-  },
-  {
-    "questionNumber": "46",
-    "answer": "B",
-    "explanation": "",
-    "reference": "Grainger & Allison's 5e, pp 1145-1146."
-  },
-  {
-    "questionNumber": "47",
-    "answer": "A",
-    "explanation": "",
-    "reference": "Grainger & Allison's 5e, p 1139"
-  },
-  {
-    "questionNumber": "48",
-    "answer": "C",
-    "explanation": "",
-    "reference": "Grainger & Allison's 5e, pp 1132-1133."
-  },
-  {
-    "questionNumber": "49",
-    "answer": "B",
-    "explanation": "Monosodium urate crystals are needle-shaped and strongly negatively birefringent under polarising light. Weakly positively birefringent rhomboid crystals are characteristic of calcium pyrophosphate dihydrate deposition.",
-    "reference": "Grainger & Allison's 5e, p 1127."
-  },
-  {
-    "questionNumber": "50",
-    "answer": "A",
-    "explanation": "",
-    "reference": "Grainger dr Allison's 5e, p 1164."
-  },
-  {
-    "questionNumber": "51",
-    "answer": "E",
-    "explanation": "Although an indium-labelled white cell study is more specific, a bone scintigram using Tc-99m monodiphosphonate is a more sensitive test to exclude osteomyelitis.",
-    "reference": "Grainger dr Allison's 5e, p 1159."
-  },
-  {
-    "questionNumber": "52",
-    "answer": "B",
-    "explanation": "",
-    "reference": "Grainger & Allison's 5e, pp 1005, 1139."
-  },
-  {
-    "questionNumber": "53",
-    "answer": "A",
-    "explanation": "",
-    "reference": "Grainger & Allison's 5e, pp 1147-1148."
-  },
-  {
-    "questionNumber": "54",
-    "answer": "B",
-    "explanation": "",
-    "reference": "Grainger & Allison's 5c, p 1084."
-  },
-  {
-    "questionNumber": "55",
-    "answer": "C",
-    "explanation": "Outside the hands and feet, chondrosarcoma is five times more common than enchondroma.",
-    "reference": "Grainger & Allison's 5e, pp 1035-1040."
-  },
-  {
-    "questionNumber": "56",
-    "answer": "E",
-    "explanation": "",
-    "reference": "Grainger & Allison's 5e, pp 1016-1017."
-  },
-  {
-    "questionNumber": "57",
-    "answer": "D",
-    "explanation": "Streptococcus pneumoniae and Haemophilus influenzae are potential causes of primary bacteraemia and haematogenous infection of joints, but substantially less common than Staphylococcus aureus.",
-    "reference": "Grainger & Allison's 5e, pp 1035-1055, particularly pp 1041-1042."
-  },
-  {
-    "questionNumber": "58",
-    "answer": "E",
-    "explanation": "Low signal on T1 reflects death of the adipocytes. The combination of low signal on T1w images and low or intermediate signal on T2w images accurately predicts avascular necrosis.",
-    "reference": "Grainger & Allison's 5e, p 1150."
-  },
-  {
-    "questionNumber": "59",
-    "answer": "D",
-    "explanation": "",
-    "reference": "Grainger dr Allison's 5e, p 1133-1134."
-  },
-  {
-    "questionNumber": "60",
-    "answer": "B",
-    "explanation": "",
-    "reference": "Grainger dr Allison's 5e, p 1024,"
-  },
-  {
-    "questionNumber": "61",
-    "answer": "E",
-    "explanation": "",
-    "reference": "Grainger & Allison's 5e, p 1144."
-  },
-  {
-    "questionNumber": "62",
-    "answer": "A",
-    "explanation": "Klein's line is drawn along the lateral border of the femoral neck and normally intersects roughly a sixth of the femoral epiphysis. Subchondral Assuring (crescent sign), epiphyseal collapse, fragmentation and sclerosis are all features of Perthes' disease.",
-    "reference": "Grainger dr Allison's 5e, pp 1592-1593."
-  },
-  {
-    "questionNumber": "63",
-    "answer": "D",
-    "explanation": "",
-    "reference": "Grainger dr Allison's 5e, pp 1133-1134."
-  },
-  {
-    "questionNumber": "64",
-    "answer": "E",
-    "explanation": "",
-    "reference": "Grainger & Allison's 5e, p 1133."
-  },
-  {
-    "questionNumber": "65",
-    "answer": "C",
-    "explanation": "",
-    "reference": "Grainger dr Allison's 5e, p 1130."
-  },
-  {
-    "questionNumber": "66",
-    "answer": "C",
-    "explanation": "Syndesmophytes, rather than osteophytes, are characteristic features of ankylosing spondylitis. They are differentiated from osteophytes by their vertical orientation, as they represent ossification of the outer border of the annulus fibrosus. Progression and maturation of the syndesmophytes result in a ‘bamboo spine’.",
-    "reference": "Grainger & Allison's 5e, pp 1125-1126."
-  },
-  {
-    "questionNumber": "67",
-    "answer": "C",
-    "explanation": "",
-    "reference": "Grainger & Allison's 5e, p 1118."
-  },
-  {
-    "questionNumber": "68",
-    "answer": "A",
-    "explanation": "Juxta-articular osteopenia is one of the earliest radiographic abnormalities in rheumatoid arthritis, distinguishing it from psoriatic arthropathy, in which bone mineral density is preserved until late in the disease process.",
-    "reference": "Grainger & Allison's 5e, pp 1120-1123 (Table 50.7 (pp 1135-1136) provides a useful summary)."
-  },
-  {
-    "questionNumber": "69",
-    "answer": "E",
-    "explanation": "",
-    "reference": "Grainger & Allison's 5e, pp 1142-1143."
-  },
-  {
-    "questionNumber": "70",
-    "answer": "B",
-    "explanation": "",
-    "reference": "Grainger & Allison's 5e, p 1144."
-  },
-  {
-    "questionNumber": "71",
-    "answer": "D",
-    "explanation": "",
-    "reference": "Grainger & Allison's 5e, p 1613 (Figure 68.5 provides a concise summary)."
-  },
-  {
-    "questionNumber": "72",
-    "answer": "A",
-    "explanation": "",
-    "reference": "Grainger & Allison's 5e, pp 1035-1055."
-  },
-  {
-    "questionNumber": "73",
-    "answer": "B",
-    "explanation": "The magic angle phenomenon refers to the increased signal observed on sequences with a short echo time (eg T1w, proton density (PD)) within tissues containing parallel unidirectional collagen fibres, when such fibres are at an angle of 55° to the main magnetic field. It is of particular relevance in shoulder MR, where it may mimic supraspinatus tendinosis.",
-    "reference": "Grainger & Allison's 5e, p 1145."
-  },
-  {
-    "questionNumber": "74",
-    "answer": "A",
-    "explanation": "The iliac wings in Morquio's syndrome are characteristically flared rather than square.",
-    "reference": "Grainger & Allison's 5e, pp 1567-1588 (Table 67.4 provides a useful summary)."
-  },
-  {
-    "questionNumber": "75",
-    "answer": "C",
-    "explanation": "Figure 67.29 illustrates the imaging features of DDH.",
-    "reference": "Grainger & Allison's 5e, pp 1588-1592"
-  },
-  {
-    "questionNumber": "76",
-    "answer": "B",
-    "explanation": "Infection is the commonest cause of unilateral sacroiliitis, and TB should be considered as a possible organism. Ankylosing spondylitis and osteitis condensans ilii have symmetrical appearances, whilst Reiter's syndrome is bilateral (but asymmetric). Psoriatic arthropathy produces bilateral disease, which is symmetrical in most cases.",
-    "reference": "Grainger & Allison’s 5e, pp 1122-1128, 1161; Chapman S, Nakielny R. Aids to Radiological Differential Diagnosis, 5th edition (Edinburgh: Saunders, 2003), p 58."
-  },
-  {
-    "questionNumber": "77",
-    "answer": "D",
-    "explanation": "Paget's disease is a condition of uncertain aetiology characterised by increased turnover and excessive remodelling of bone. Osteoporosis circumscripta and advancing flame-shaped lucencies within long bones are features characteristic of active osteolytic disease. Inactive disease is characterised by widespread sclerosis: cotton wool sclerosis in the skull, enlarged ivory vertebrae with cortical thickening and coarsened thick trabeculae within the long bones. Paget's disease may be complicated by fractures, accelerated osteoarthritis.",
-    "reference": "Chapman & Nakielny R, Aids to Radiological Differential Diagnosis, pp 459-460."
-  },
-  {
-    "questionNumber": "78",
-    "answer": "C",
-    "explanation": "In sickle cell disease, infarction of the central endplates of the vertebrae results in H-shaped or codfish vertebrae. Rib changes, paraspinal and posterior mediastinal masses are manifestations of extramedullary haematopoiesis in thalassaemia.",
-    "reference": "Grainger & Allison’s 5e, pp 1603-1604."
-  },
-  {
-    "questionNumber": "79",
-    "answer": "A",
-    "explanation": "Reference: Grainger & Alihan's 5 e, pp 1613-1614."
-  },
-  {
-    "questionNumber": "80",
-    "answer": "C",
-    "explanation": "Reference: Grainger dr Allison's 5e, pp 1046-1047."
+    "reference": "Anatomy for Diagnostic Imaging. Ryan & McNicholas. W B Saunders Co Ltd. Essential Anatomy by Lumley, Craven & Aitken, 3rd Edition. Churchill Livingstone Clinical Anatomy by Harold Ellis, 8th Edition. Churchill Livingstone"
+  },
+  {
+    "questionNumber": 38,
+    "options": [
+      {"label": "A", "answer": "FALSE"},
+      {"label": "B", "answer": "TRUE"},
+      {"label": "C", "answer": "TRUE"},
+      {"label": "D", "answer": "FALSE"},
+      {"label": "E", "answer": "TRUE"}
+    ],
+    "explanation": "There are only two accessory ligaments which are the sphenomandibular and stylomandibular ligaments\nThe medial pterygoid is attached to the medial surface of ramus and angle of mandible",
+    "reference": "Anatomy for Diagnostic Imaging. Ryan & McNicholas. WB Saunders Co Ltd. Essential Anatomy by Lumley, Craven & Aitken, 3rd Edition. Churchill Livingstone. Clinical Anatomy by Harold Ellis, 8th Edition. Churchill Livingstone."
+  },
+  {
+    "questionNumber": 39,
+    "options": [
+      {"label": "A", "answer": "TRUE"},
+      {"label": "B", "answer": "TRUE"},
+      {"label": "C", "answer": "TRUE"},
+      {"label": "D", "answer": "TRUE"},
+      {"label": "E", "answer": "FALSE"}
+    ],
+    "explanation": "Accessory hemiazygous vein drains into the azygous vein",
+    "reference": "Anatomy for Diagnostic Imaging. Ryan & McNicholas. W B Saunders Co Ltd. Essential Anatomy by Lumley, Craven & Aitken, 3rd Edition. Churchill Livingstone. Clinical Anatomy by Harold Ellis. 8th Edition. Churchill Livingstone."
+  },
+  {
+    "questionNumber": 40,
+    "options": [
+      {"label": "A", "answer": "TRUE"},
+      {"label": "B", "answer": "FALSE"},
+      {"label": "C", "answer": "TRUE"},
+      {"label": "D", "answer": "TRUE"},
+      {"label": "E", "answer": "FALSE"}
+    ],
+    "explanation": "Olfactory epithelium arises from the ectoderm\nUreter arises from the mesoderm",
+    "reference": "Anatomy for Diagnostic Imaging. Ryan & McNicholas. W B Saunders Co Led Essential Anatomy by Lumley, Craven & Aitken. 3rd Edition. Churchill Livingstone. Clinical Anatomy by Harold Ellis, 8th Edition. Churchill Livingstone"
+  },
+  {
+    "questionNumber": 41,
+    "options": [
+      {"label": "A", "answer": "FALSE"},
+      {"label": "B", "answer": "TRUE"},
+      {"label": "C", "answer": "TRUE"},
+      {"label": "D", "answer": "FALSE"},
+      {"label": "E", "answer": "FALSE"}
+    ],
+    "explanation": "The pectoralis muscle should be visualized down to the level of the nipple. Compression is applied perpendicular to the long axis of the pectoralis muscle. The infra-mammary fold should always be visualized,",
+    "reference": "Grainger & Allison. Diagnostic Radiology. 3rd Edition. Churchill Livingstone."
+  },
+  {
+    "questionNumber": 42,
+    "options": [
+      {"label": "A", "answer": "FALSE"},
+      {"label": "B", "answer": "TRUE"},
+      {"label": "C", "answer": "TRUE"},
+      {"label": "D", "answer": "FALSE"},
+      {"label": "E", "answer": "FALSE"}
+    ],
+    "explanation": "123 -sodium iodide is used to assess thyroid function. It is essential to use a sternal marker to demonstrate retrosternal goitres, 60 MBq of 99mTc-pertechnatate is routinely used.",
+    "reference": "Grainger & Allison. Diagnostic Radiology. 3rd Edition. Churchill Livingstone."
+  },
+  {
+    "questionNumber": 43,
+    "options": [
+      {"label": "A", "answer": "TRUE"},
+      {"label": "B", "answer": "TRUE"},
+      {"label": "C", "answer": "FALSE"},
+      {"label": "D", "answer": "FALSE"},
+      {"label": "E", "answer": "FALSE"}
+    ],
+    "explanation": "Pain is more common with water soluble contrast media. Chronically diseased glands arc desen- desensitized to pain. Ascorbic acid is used as a sialogogue",
+    "reference": "Whitehouse & Worthington. Techniques in Diagnostic Imaging. 3rd Edition. Blackwell Science Led."
+  },
+  {
+    "questionNumber": 44,
+    "options": [
+      {"label": "A", "answer": "TRUE"},
+      {"label": "B", "answer": "FALSE"},
+      {"label": "C", "answer": "FALSE"},
+      {"label": "D", "answer": "FALSE"},
+      {"label": "E", "answer": "TRUE"}
+    ],
+    "explanation": "Less than 5% of patients with a negative D-dimer have a DVT. 15% of the population have duplex superficial femoral veins. Reverse flow in the long saphenous vein during valsalva maneuvers indicate reflux at the sapheno-femoral junction.",
+    "reference": "Grainger & Allison. Diagnostic Radiology, 3rd Edition. Churchill Livingstone"
+  },
+  {
+    "questionNumber": 45,
+    "options": [
+      {"label": "A", "answer": "TRUE"},
+      {"label": "B", "answer": "FALSE"},
+      {"label": "C", "answer": "FALSE"},
+      {"label": "D", "answer": "FALSE"},
+      {"label": "E", "answer": "FALSE"}
+    ],
+    "explanation": "Dehydration is no longer considered applicable and should be avoided especially if there is evidence of renal impairment, multiple myeloma, or diabetis melitis. Food however should be avoided for five hours prior to the study: The correct dose for a 6 year old child is 1-2 mgs per kilogram, but more required in a neonates relatively poor concentrating ability of the nephron, The nephrogram is due to contrast in the proximal convoluted tubules, Abduction helps empty the contrast media from the veins of the arm.",
+    "reference": "Chapman & Nakielny. A Guide to Radiological Procedures. 3rd Edition. W B Saunders Co Ltd."
+  },
+  {
+    "questionNumber": 46,
+    "options": [
+      {"label": "A", "answer": "TRUE"},
+      {"label": "B", "answer": "FALSE"},
+      {"label": "C", "answer": "FALSE"},
+      {"label": "D", "answer": "FALSE"},
+      {"label": "E", "answer": "TRUE"}
+    ],
+    "explanation": "The uptake phase of 99mTc-DTPA reflects the glomerulo-filtration rate.\n80% of 99mTc-MAG3 is secreted by the proximal convuluted tubules, allowing the detection of scarring, and the estimation of differential function and effective renal plasma flow. Following injection of frusemide, normal drainage is indicated by a reduction to less than 75% at 10 minutes and 50% at 20 minutes. Unfortunately 123I-Hippuran is prohibitively expensive and therefore rarely used.",
+    "reference": "Grainger & Allison. Diagnostic Radiology. 3rd Edition. Churchill Livingstone."
+  },
+  {
+    "questionNumber": 47,
+    "options": [
+      {"label": "A", "answer": "TRUE"},
+      {"label": "B", "answer": "FALSE"},
+      {"label": "C", "answer": "FALSE"},
+      {"label": "D", "answer": "TRUE"},
+      {"label": "E", "answer": "TRUE"}
+    ],
+    "explanation": "The maximum peak systolic velocity of the common carotid is 1 - 1.2 m/s, 60-70 degrees is the most accurate angle of interrogation.",
+    "reference": "Grainger & Allison. Diagnostic Radiology. 3rd Edition. Churchill Livingstone,"
+  },
+  {
+    "questionNumber": 48,
+    "options": [
+      {"label": "A", "answer": "FALSE"},
+      {"label": "B", "answer": "FALSE"},
+      {"label": "C", "answer": "TRUE"},
+      {"label": "D", "answer": "FALSE"},
+      {"label": "E", "answer": "FALSE"}
+    ],
+    "explanation": "Two recent studies quote a 1.2% and 5.2% risk of death or permanent neurological deficit.\nSodium sale ionic contrast media is more neurotoxic than meglumine salt contrast, The anterior communicating artery is patent if contra-lateral flow 1s demonstrated. The common carotid artery arises from the brachiocephalic trunk in 25-30%.",
+    "reference": "Grainger & Allison. Diagnostic Radiology. 3rd Edition. Churchill Livingstone."
+  },
+  {
+    "questionNumber": 49,
+    "options": [
+      {"label": "A", "answer": "FALSE"},
+      {"label": "B", "answer": "FALSE"},
+      {"label": "C", "answer": "FALSE"},
+      {"label": "D", "answer": "TRUE"},
+      {"label": "E", "answer": "TRUE"}
+    ],
+    "explanation": "The posterior lobe is high signal on TIW MRI sequences. The pituitary gland avidly enhances due to Ihe lack of blood brain barrier.",
+    "reference": "Grainger & Allison. Diagnostic Radiology. 3rd Edition. Churchill Livingstone"
+  },
+  {
+    "questionNumber": 50,
+    "options": [
+      {"label": "A", "answer": "TRUE"},
+      {"label": "B", "answer": "FALSE"},
+      {"label": "C", "answer": "TRUE"},
+      {"label": "D", "answer": "TRUE"},
+      {"label": "E", "answer": "FALSE"}
+    ],
+    "explanation": "Increasing the table feed by 50% reduces the radiation dose by 23%. Gd-DTPA has an enhancement density of approximately 35% that of non-ionic contrast media and is used in patients scheduled for radio-iodine therapy.",
+    "reference": "Grainger & Allison, Diagnostic Radiology. 3rd Edition, Churchill Livingstone"
+  },
+  {
+    "questionNumber": 51,
+    "options": [
+      {"label": "A", "answer": "FALSE"},
+      {"label": "B", "answer": "TRUE"},
+      {"label": "C", "answer": "FALSE"},
+      {"label": "D", "answer": "FALSE"},
+      {"label": "E", "answer": "TRUE"}
+    ],
+    "explanation": "1% of contrast is excreted by small bowel and into the biliary system. Dromedery humps are more common on the left, due to moulding by the spleen. The left renal artery is shorter than the right. Increased flow to the left kidney is often suggested as a reason for the left kidney being longer than the right.",
+    "reference": "Grainger & Allison. Diagnostic Radiology, 3rd Edition. Churchill Livingstone."
+  },
+  {
+    "questionNumber": 52,
+    "options": [
+      {"label": "A", "answer": "FALSE"},
+      {"label": "B", "answer": "TRUE"},
+      {"label": "C", "answer": "FALSE"},
+      {"label": "D", "answer": "TRUE"},
+      {"label": "E", "answer": "FALSE"}
+    ],
+    "explanation": "Portal flow decreased with exercise and inspiration and is gently undulating.",
+    "reference": "Grainger & Allison, Diagnostic Radiology. 3rd Edition. Churchill Livingstone."
+  },
+  {
+    "questionNumber": 53,
+    "options": [
+      {"label": "A", "answer": "FALSE"},
+      {"label": "B", "answer": "FALSE"},
+      {"label": "C", "answer": "TRUE"},
+      {"label": "D", "answer": "TRUE"},
+      {"label": "E", "answer": "FALSE"}
+    ],
+    "explanation": "The rate of all complications is lower with this approach than using the right sided approach.\nUltrasound guidance is used to cannulate the dilated ducts. This avoids irradiating the operators hands. The incidence of haemorrhage is 0.35% whilst sepsis and biliary peritonitis occur in 1.4% of cases.",
+    "reference": "Grainger & Allison. Diagnostic Radiology. 3rd Edition. Churchill Livingstone."
+  },
+  {
+    "questionNumber": 54,
+    "options": [
+      {"label": "A", "answer": "TRUE"},
+      {"label": "B", "answer": "FALSE"},
+      {"label": "C", "answer": "TRUE"},
+      {"label": "D", "answer": "TRUE"},
+      {"label": "E", "answer": "TRUE"}
+    ],
+    "explanation": "At present endoscopic ultrasound is the most sensitive test for lymph node involvement. 99mTc sulphur colloid is mixed with food. Bread is useful at assessing distensibility.",
+    "reference": "Whitehouse & Worthington. Techniques in Diagnostic Imaging, 3rd Edition. Blackwell Science Ltd"
+  },
+  {
+    "questionNumber": 55,
+    "options": [
+      {"label": "A", "answer": "FALSE"},
+      {"label": "B", "answer": "FALSE"},
+      {"label": "C", "answer": "FALSE"},
+      {"label": "D", "answer": "FALSE"},
+      {"label": "E", "answer": "FALSE"}
+    ],
+    "explanation": "Fora Ba meal the suspension can be medium e.g 100% w/v but should be low viscosity. Dilution of a medium or high density suspension with local water may affect performance. Barium sulphate 250 mg w/v comes as a powder. A barium meal is not indicated in upper GI bleeding and one should consider angiography and possibly even CT first.",
+    "reference": "Whitehouse & Worthington. Techniques in Diagnostic Imaging. 3rd Edition. Blackwell Science Ltd."
+  },
+  {
+    "questionNumber": 56,
+    "options": [
+      {"label": "A", "answer": "FALSE"},
+      {"label": "B", "answer": "TRUE"},
+      {"label": "C", "answer": "FALSE"},
+      {"label": "D", "answer": "FALSE"},
+      {"label": "E", "answer": "TRUE"}
+    ],
+    "explanation": "A erect CXR and supine AXR are appropriate for excluding a perforation. Abdominal films are performed in inspiration so that more of the abdomen can be seen. A 35 x 43 cm film is used. Only men receive gonadal protection,",
+    "reference": "Whitehouse & Worthington. Techniques in Diagnostic Imaging. 3rd Edition. Blackwell Science Ltd."
+  },
+  {
+    "questionNumber": 57,
+    "options": [
+      {"label": "A", "answer": "TRUE"},
+      {"label": "B", "answer": "TRUE"},
+      {"label": "C", "answer": "FALSE"},
+      {"label": "D", "answer": "FALSE"},
+      {"label": "E", "answer": "FALSE"}
+    ],
+    "explanation": "Silk tubes are the catheter of choice for small bowel enemas. They are polyurethane 10F catheters, 140 cm in length.",
+    "reference": "Whitehouse E Worthington. Techniques in Diagnostic Imaging. 3rd Edition. Blackwell Science Ltd."
+  },
+  {
+    "questionNumber": 58,
+    "options": [
+      {"label": "A", "answer": "TRUE"},
+      {"label": "B", "answer": "TRUE"},
+      {"label": "C", "answer": "TRUE"},
+      {"label": "D", "answer": "FALSE"},
+      {"label": "E", "answer": "TRUE"}
+    ],
+    "explanation": "Views are taken supine. A post-micturation view will help separate urinary tract and diverticular activity.",
+    "reference": "Chapman & Nakielny. A Guide to Radiological Procedures. 3rd Edition. W B Saunders Co Ltd."
+  },
+  {
+    "questionNumber": 59,
+    "options": [
+      {"label": "A", "answer": "TRUE"},
+      {"label": "B", "answer": "TRUE"},
+      {"label": "C", "answer": "FALSE"},
+      {"label": "D", "answer": "FALSE"},
+      {"label": "E", "answer": "TRUE"}
+    ],
+    "explanation": "Sensitivity and specificity for angiography are 97% and 95%. There is no evidence to suggest that there is any contraindication to using iodine contrast media, but a preoperative IVU should be avoided in patients with renal failure. Severe renal impairment is defined as a creatinine clearance of less than 30mls/min",
+    "reference": "Grainger & Allison. Diagnostic Radiology, 3rd Edition. Churchill Livingstone"
+  },
+  {
+    "questionNumber": 60,
+    "options": [
+      {"label": "A", "answer": "FALSE"},
+      {"label": "B", "answer": "FALSE"},
+      {"label": "C", "answer": "FALSE"},
+      {"label": "D", "answer": "FALSE"},
+      {"label": "E", "answer": "FALSE"}
+    ],
+    "explanation": "Any vein on the medial aspect of the foot can be punctured. The patient lies supine or head down. No tourniquet necessary. Rulers are usually for varicography or occasionally for ascending venography. Usually only 20-30 mls of contrast media is necessary.",
+    "reference": "Chapman & Nakielny. A Guide to Radiological Procedures. 3rd Edition. WB Saunders Co Ltd."
   }
 ]
