@@ -1,5 +1,1525 @@
 {
   name: "Exam 3",
   slug: "exam-3",
-  questions: [],
+  questions: [
+        {
+          "questionNumber": 21,
+          "stem": "Regarding the structure of the larynx",
+          "options": [
+            {
+              "label": "A",
+              "text": "Cricoid cartilage has a flat wide lamina anteriorly",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "B",
+              "text": "The arytenoid cartilages sit on the supero-lateral margin of the signet posteriorly",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "C",
+              "text": "Angle of the thyroid lamina is greater in females",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "D",
+              "text": "The vocal ligaments are attached to the inner surface of the cricoid cartilage",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "E",
+              "text": "The cuneiform cartilage lies in the free edge of aryepiglottic fold",
+              response: "",
+              "answer": "True"
+            }
+          ],
+          "explanation": "The cricoid lamina is situated posteriorly\nThe vocal ligaments are attached to the inner surface of the thyroid cartilage near its lower margin",
+          "reference": "Anatomy for Diagnostic Imaging. Ryan & McNicholas, WB Saunders Co Ltd. Essential Anatomy by Lumley, Craven & Aitken. 3rd Edition. Churchill Livingstone. Clinical Anatomy by Harold Ellis. 8th Edition. Churchill Livingstone"
+        },
+        {
+          "questionNumber": 22,
+          "stem": "Regarding the internal carotid artery",
+          "options": [
+            {
+              "label": "A",
+              "text": "The carotid artery has six bends from the carotid canal to its terminal branches",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "B",
+              "text": "The internal carotid artery enters the subarachnoid space medial to the anterior clinoid process",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "C",
+              "text": "The cervical portion has one branch on each side",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "D",
+              "text": "The first branch after emerging from the cavernous sinus is the ophthalmic artery",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "E",
+              "text": "The uppermost point of the vessels on an AP carotid angiogram is called the sylvian point",
+              response: "",
+              "answer": "True"
+            }
+          ],
+          "explanation": "There are no cervical branches of the internal carotid artery",
+          "reference": "Anatomy for Diagnostic Imaging. Ryan & McNicholas. 1994 Edition. WB Saunders Co Ltd. Essential Anatomy by Lumley, Craven & Aitken. 3rd Edition. Churchill Livingstone. Clinical Anatomy by Harold Ellis. 8th Edition. Churchill Livingstone"
+        },
+        {
+          "questionNumber": 23,
+          "stem": "In a CT scan at mid-thigh level",
+          "options": [
+            {
+              "label": "A",
+              "text": "The tendon of psoas major is behind the femur",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "B",
+              "text": "The lateral head of gastrocnemius is seen",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "C",
+              "text": "Sartorius is anterior to the femoral artery",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "D",
+              "text": "The belly of the semimembranosus muscle is seen",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "E",
+              "text": "Rectus femoris is anterior to vastus medialis",
+              response: "",
+              "answer": "True"
+            }
+          ],
+          "explanation": "The tendon of psoas major inserts into the lesser trochanter much higher than this level\nThe lateral head of gastrocnemius inserts into the lateral femoral condyle much lower than this level",
+          "reference": "Last's Anatomy. McMinn. 9th Edition. Churchill Livingstone. Anatomy for Diagnostic Imaging. Ryan & McNicholas. W B Saunders Co Ltd"
+        },
+        {
+          "questionNumber": 24,
+          "stem": "The following are attached to the calcaneus",
+          "options": [
+            {
+              "label": "A",
+              "text": "Deltoid ligament",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "B",
+              "text": "Tibialis posterior",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "C",
+              "text": "Superior and inferior extensor retinacula",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "D",
+              "text": "Extensor digitorum brevis",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "E",
+              "text": "Short plantar ligament",
+              response: "",
+              "answer": "True"
+            }
+          ],
+          "explanation": "The superior extensor retinaculum is attached to lower ends of tibia and fibula\nOnly the inferior extensor retinaculum is attached to the calcaneus",
+          "reference": "Last's Anatomy. McMinn. 9th Edition. Churchill Livingstone. Anatomy for Diagnostic Imaging. Ryan & McNicholas. W B Saunders Co Ltd"
+        },
+        {
+          "questionNumber": 25,
+          "stem": "Regarding blood supply of the arm",
+          "options": [
+            {
+              "label": "A",
+              "text": "The superficial palmar arch is proximal to the deep palmar arch",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "B",
+              "text": "The common interosseous artery is a branch of the radial artery",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "C",
+              "text": "The ulnar artery lies medial to the ulnar nerve in the mid-forearm",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "D",
+              "text": "The profunda brachii artery runs in the radial groove of the humerus",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "E",
+              "text": "Radius and ulna are supplied by the anterior interosseous artery",
+              response: "",
+              "answer": "True"
+            }
+          ],
+          "explanation": "The deep palmar arch is proximal to the superficial palmar arch\nThe common interosseous artery is a branch of the ulnar artery\nThe ulnar artery lies lateral to the ulna nerve in the mid forearm",
+          "reference": "Last's Anatomy. McMinn. 9th Edition. Churchill Livingstone. Anatomy for Diagnostic Imaging. Ryan & McNicholas. W B Saunders Co Ltd"
+        },
+        {
+          "questionNumber": 26,
+          "stem": "Regarding the hand",
+          "options": [
+            {
+              "label": "A",
+              "text": "The distal phalanges ossify before the middle and proximal phalanges",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "B",
+              "text": "Secondary ossification centers appear at the heads of the proximal phalanges",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "C",
+              "text": "The distal phalanges have roughened tuberosities on the palmar aspect of their distal ends",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "D",
+              "text": "The thumb is not supplied by the superficial palmar arch",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "E",
+              "text": "The palmar digital arteries are branches of the deep palmar arch",
+              response: "",
+              "answer": "False"
+            }
+          ],
+          "explanation": "Secondary ossification centres appear at the bases of the proximal phalanges\nPalmar digital arteries are branches of the superficial palmar arch",
+          "reference": "Last's Anatomy. McMinn. 9th Edition. Churchill Livingstone. Anatomy for Diagnostic Imaging. Ryan & McNicholas. WB Saunders Co Ltd"
+        },
+        {
+          "questionNumber": 27,
+          "stem": "In a CT scan taken at mid-sacral level",
+          "options": [
+            {
+              "label": "A",
+              "text": "Piriformis is seen on the posterior surface of the iliac wing",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "B",
+              "text": "External iliac vessels are seen lying on iliopsoas",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "C",
+              "text": "All three gluteal muscles can be seen",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "D",
+              "text": "The rectum is seen close to its junction with the anal canal",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "E",
+              "text": "Seminal vesicles are seen posterior to the bladder",
+              response: "",
+              "answer": "False"
+            }
+          ],
+          "explanation": "Piriformis is anterior on the sacrum\nThe sigmoid colon and upper rectum may be seen at this level\nSeminal vesicles are seen at a lower level",
+          "reference": "Anatomy for Diagnostic Imaging. Ryan & McNicholas. W B Saunders Co Ltd. Last's Anatomy. McMinn. 9th Edition. Churchill Livingstone"
+        },
+        {
+          "questionNumber": 28,
+          "stem": "Regarding the testis",
+          "options": [
+            {
+              "label": "A",
+              "text": "A rete testis lies within the mediastinum testis",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "B",
+              "text": "The tunica vaginalis is developmentally continuous with the peritoneum",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "C",
+              "text": "The testicular artery is a branch of the aorta arising at the level of the renal arteries",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "D",
+              "text": "Venous drainage is via a pair of veins draining into their respective renal veins",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "E",
+              "text": "A complete septum separates the testes within the scrotum",
+              response: "",
+              "answer": "False"
+            }
+          ],
+          "explanation": "The left testicular vein drains into the left renal vein but the right testicular vein usually drains directly into the inferior vena cava\nAn incomplete septum separates the testes within the scrotum",
+          "reference": "Last's Anatomy. McMinn. 9th Edition. Churchill Livingstone. Anatomy for Diagnostic Imaging. Ryan & McNicholas. W B Saunders Co Ltd"
+        },
+        {
+          "questionNumber": 29,
+          "stem": "Regarding the peritoneal compartments",
+          "options": [
+            {
+              "label": "A",
+              "text": "The hepatorenal pouch (of Morison) is the most dependent part of the abdominal peritoneal cavity in the supine position",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "B",
+              "text": "The left paracolic gutter communicates with the left subphrenic space",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "C",
+              "text": "The right paracolic gutter communicates with the pelvis",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "D",
+              "text": "The right subphrenic space is bordered posteriorly by the coronary ligament",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "E",
+              "text": "The right and left subphrenic spaces are divided by the coronary ligament",
+              response: "",
+              "answer": "False"
+            }
+          ],
+          "explanation": "The phrenicocolic ligament separates the left subphrenic space from the left paracolic gutter\nThe falciform ligament separates the right and left subphrenic spaces",
+          "reference": "Last's Anatomy. McMinn 9th Edition. Churchill Livingstone. Anatomy for Diagnostic Imaging. Ryan & McNicholas. W B Saunders Co Ltd"
+        },
+        {
+          "questionNumber": 30,
+          "stem": "The small intestine (SI)",
+          "options": [
+            {
+              "label": "A",
+              "text": "Has a maximum normal diameter of 5 cm on small bowel enema examination",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "B",
+              "text": "Has valvulae conniventes which are most prominent in the ileum",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "C",
+              "text": "May be up to 10m long",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "D",
+              "text": "Its mesentery starts just to the left of the L2 vertebra",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "E",
+              "text": "Has valvulae conniventes up to 1 mm thick in the jejunum",
+              response: "",
+              "answer": "False"
+            }
+          ],
+          "explanation": "The SI has a maximum normal diameter is 4 cm in the jejunum and 3cm in the ileum on small bowel enema examination\nThe valvulae conniventes are most prominent proximally in the jejunum",
+          "reference": "Last's Anatomy, McMinn. 9th Edition. Churchill Livingstone. Gray's Anatomy. 38th Edition. Churchill Livingstone. Anatomy for Diagnostic Imaging. Ryan & McNicholas. W B Saunders Co Ltd"
+        },
+        {
+          "questionNumber": 31,
+          "stem": "Regarding the stomach",
+          "options": [
+            {
+              "label": "A",
+              "text": "The fundus is the area above the gastroesophageal opening",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "B",
+              "text": "The 'magenstrasse' is a line of gastric rugae running along the greater curve",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "C",
+              "text": "Areae gastricae are approximately 5 mm nodules seen in the stomach body on barium meal examination",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "D",
+              "text": "The gastric antrum is the area between the incisura and the pylorus",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "E",
+              "text": "The splenic flexure of the colon forms part of the stomach bed",
+              response: "",
+              "answer": "True"
+            }
+          ],
+          "explanation": "The 'magenstrasse' is seen on the lesser curve\nAreac gastricae are 2-3 mm nodules in the gastric antrum",
+          "reference": "Last's Anatomy. McMinn. 9th Edition. Churchill Livingstone. Gray's Anatomy 38th Edition. Churchill Livingstone Anatomy for Diagnostic Imaging. Ryan & McNicholas. W B Saunders Co Ltd"
+        },
+        {
+          "questionNumber": 32,
+          "stem": "The inferior mesenteric artery (IMA)",
+          "options": [
+            {
+              "label": "A",
+              "text": "Arises from the aorta at L2",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "B",
+              "text": "Supplies the anal canal",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "C",
+              "text": "Crosses the left common iliac artery medial to the left ureter",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "D",
+              "text": "Has the middle colic artery as a branch",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "E",
+              "text": "Has the inferior mesenteric vein on its right",
+              response: "",
+              "answer": "False"
+            }
+          ],
+          "explanation": "The IMA arises at L3\nThe middle colic artery is a branch of the superior mesenteric artery\nThe IMA has the inferior mesenteric vein is to its left",
+          "reference": "Last's Anatomy, McMinn. 9th Edition. Pub. Churchill Livingstone. Anatomy for Diagnostic Imaging. Ryan & McNicholas. W B Saunders Co Ltd"
+        },
+        {
+          "questionNumber": 33,
+          "stem": "The following are true with regard to diaphragmatic opening",
+          "options": [
+            {
+              "label": "A",
+              "text": "The aorta, thoracic duct, and azygous vein pass through at level T10",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "B",
+              "text": "The esophageal hiatus is mainly to the left but surrounded by fibers of the right crus",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "C",
+              "text": "The left phrenic nerve accompanies the IVC at the caval opening",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "D",
+              "text": "The splanchnic nerves pierce the crus on each side",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "E",
+              "text": "The subcostal nerves and vessels pass behind the lateral arcuate ligament",
+              response: "",
+              "answer": "True"
+            }
+          ],
+          "explanation": "These structures pierce the diaphragm at T12. It is the right phrenic nerve which accompanies the IVC",
+          "reference": "Anatomy for Diagnostic Imaging. Ryan & McNicholas. W B Saunders Co Ltd. Essential Anatomy by Lumley, Craven & Aitken. 3rd Edition. Churchill Livingstone. Clinical Anatomy by Harold Ellis. 8th Edition. Churchill Livingstone"
+        },
+        {
+          "questionNumber": 34,
+          "stem": "The following statements are true",
+          "options": [
+            {
+              "label": "A",
+              "text": "The right coronary artery arises from the posterior sinus",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "B",
+              "text": "The right coronary artery lies in the right atrioventricular groove as the marginal artery",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "C",
+              "text": "The right coronary artery anastomoses with the left in the anterior interventricular groove",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "D",
+              "text": "The conus artery to the pulmonary trunk is a branch of the right ventricular artery",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "E",
+              "text": "The SA node and AV node are both supplied by the right coronary artery",
+              response: "",
+              "answer": "True"
+            }
+          ],
+          "explanation": "The right coronary artery arises from the single anterior sinus also called the right coronary sinus.\nThe anastomosis lies at the posterior interventricular groove",
+          "reference": "Anatomy for Diagnostic Imaging. Ryan & McNicholas. W B Saunders Co Ltd. Essential Anatomy by Lumley, Craven & Aitken. 3rd Edition. Churchill Livingstone. Clinical Anatomy by Harold Ellis. 8th Edition. Churchill Livingstone"
+        },
+        {
+          "questionNumber": 35,
+          "stem": "Branches of the internal carotid artery are",
+          "options": [
+            {
+              "label": "A",
+              "text": "Caroticotympanic artery to the eardrum",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "B",
+              "text": "The pterygoid artery",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "C",
+              "text": "The cavernous artery",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "D",
+              "text": "The meningohypophyseal artery",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "E",
+              "text": "Posterior choroidal artery",
+              response: "",
+              "answer": "False"
+            }
+          ],
+          "explanation": "The internal carotid artery gives off the anterior coroidal artery",
+          "reference": "Anatomy for Diagnostic Imaging. Ryan & McNicholas. 1994 Edition. WB Saunders Co Ltd. Essential Anatomy by Lumley, Craven & Aitken. 3rd Edition. Churchill Livingstone. Clinical Anatomy by Harold Ellis. 8th Edition. Churchill Livingstone"
+        },
+        {
+          "questionNumber": 36,
+          "stem": "Structures of the limbic system are",
+          "options": [
+            {
+              "label": "A",
+              "text": "The piriform cortex",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "B",
+              "text": "Inferior frontal lobe",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "C",
+              "text": "Amygdaloid body",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "D",
+              "text": "Hippocampus",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "E",
+              "text": "Thalamus",
+              response: "",
+              "answer": "False"
+            }
+          ],
+          "explanation": "The other structures of the limbic system are paraterminal gyrus, septal nuclei, fornix, hypothalamus, parahippocampal gyrus, and cingulate gyrus",
+          "reference": "Anatomy for Diagnostic Imaging. Ryan & McNicholas. WB Saunders Co Ltd. Essential Anatomy by Lumley, Craven & Aitken. 3rd Edition. Churchill Livingstone. Clinical Anatomy by Harold Ellis. 8th Edition. Churchill Livingstone"
+        },
+        {
+          "questionNumber": 37,
+          "stem": "The following are true",
+          "options": [
+            {
+              "label": "A",
+              "text": "The thyroid gland lies anterior to the pre-tracheal fascia",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "B",
+              "text": "The superior parathyroid glands lie outside the thyroid capsule",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "C",
+              "text": "The normal diameter of the trachea is 4 cm",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "D",
+              "text": "The upper end of the esophagus is about 15 cm from the incisor teeth",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "E",
+              "text": "The mucosal lining of the esophagus is of stratified squamous epithelium",
+              response: "",
+              "answer": "True"
+            }
+          ],
+          "explanation": "The thyroid gland is enclosed within the pre-tracheal fascia\nAll four para-thyroid glands lie within the thyroid capsule\nThe normal diameter of trachea is 2cm",
+          "reference": "Anatomy for Diagnostic Imaging. Ryan & McNicholas. WB Saunders Co Ltd. Essential Anatomy by Lumley, Craven & Aitken. 3rd Edition. Churchill Livingstone. Clinical Anatomy by Harold Ellis. 8th Edition. Churchill Livingstone"
+        },
+        {
+          "questionNumber": 38,
+          "stem": "Regarding the larynx",
+          "options": [
+            {
+              "label": "A",
+              "text": "It is situated anterior to the laryngopharynx opposite the third to sixth cervical vertebra",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "B",
+              "text": "The thyroid cartilage laminae are united anteriorly at an angle of 120 degrees in females",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "C",
+              "text": "Only the inferior horn of the thyroid cartilage articulates with the cricoid cartilage",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "D",
+              "text": "The conus elasticus is attached to the lower border of the cricoid cartilage",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "E",
+              "text": "The gap between the FALSE and true vocal cords is called the rima glottidis",
+              response: "",
+              "answer": "True"
+            }
+          ],
+          "explanation": "The conus elasticus is attached to the upper border of the cricoid cartilage",
+          "reference": "Anatomy for Diagnostic Imaging. Ryan & McNicholas, WB Saunders Co Ltd. Essential Anatomy by Lumley. Craven & Aitken. 3rd Edition Churchill Livingstone.\nClinical Anatomy by Harold Ellis. 8th Edition. Churchill Livingstone"
+        },
+        {
+          "questionNumber": 39,
+          "stem": "The following statements are true",
+          "options": [
+            {
+              "label": "A",
+              "text": "The right phrenic nerve enters the thorax medial to the right brachiocephalic vein",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "B",
+              "text": "The left phrenic nerve enters the thorax in front of the subclavian artery",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "C",
+              "text": "The right vagus nerve enters the thorax posterolateral to the right brachiocephalic artery",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "D",
+              "text": "The left vagus nerve enters the thorax between the left common carotid and subclavian artery",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "E",
+              "text": "The esophageal plexus of nerves is formed by both phrenic and vagus nerves",
+              response: "",
+              "answer": "False"
+            }
+          ],
+          "explanation": "The right phrenic nerve enters the thorax lateral to the right brachiocephalic vein\nThe oesophageal plexus of nerves is formed only by the vagus nerve",
+          "reference": "Anatomy for Diagnostic Imaging Ryan & McNicholas. W B Saunders Co Ltd.\nEssential Anatomy by Lumley, Craven & Aitken. 3rd Edition. Churchill Livingstone.\nClinical Anatomy by Harold Ellis. 8th Edition. Churchill Livingstone"
+        },
+        {
+          "questionNumber": 40,
+          "stem": "The following structures belong to the second pharyngeal arch",
+          "options": [
+            {
+              "label": "A",
+              "text": "Stylopharyngeus muscle",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "B",
+              "text": "Cartilages of the larynx",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "C",
+              "text": "Facial nerve",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "D",
+              "text": "Styloid process",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "E",
+              "text": "Stapedius muscle",
+              response: "",
+              "answer": "True"
+            }
+          ],
+          "explanation": "Stylopharyngeus muscle arises from the third arch\nCartilages of larynx arise from fourth to sixth arch",
+          "reference": "Anatomy for Diagnostic Imaging. Ryan & McNicholas. WB Saunders Co Ltd.\nEssential Anatomy by Lumley, Craven & Aitken. 3rd Edition. Churchill Livingstone.\nClinical Anatomy by Harold Ellis. 8th Edition. Churchill Livingstone"
+        },
+        {
+          "questionNumber": 41,
+          "stem": "Regarding ultrasound of the thyroid",
+          "options": [
+            {
+              "label": "A",
+              "text": "The thyroid is of lower echogenicity than the strap muscles",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "B",
+              "text": "7-10 MHz linear array probe is appropriate",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "C",
+              "text": "Normal parathyroid glands are usually 0.5-1 cm in size",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "D",
+              "text": "Normal parathyroid glands are hypoechoic compared to the thyroid",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "E",
+              "text": "The lateral lobes tend to be shorter in thin people",
+              response: "",
+              "answer": "False"
+            }
+          ],
+          "explanation": "The thyroid is hyper-echoic compared with the strap muscles. Normal parathyroid glands are less than 5 mms. Normal parathyroid glands are isoechoic with the thyroid. The lateral lobes tend to be longer in thin people",
+          "reference": "Grainger & Allison. Diagnostic Radiology. 3rd edition. Churchill Livingstone"
+        },
+        {
+          "questionNumber": 42,
+          "stem": "In dacrocystography",
+          "options": [
+            {
+              "label": "A",
+              "text": "The cannula should be inserted no more than 3-4 mm into the inferior cannuliculus",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "B",
+              "text": "The upper cannuliculus is normally not demonstrated by injection into the inferior cannuliculus",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "C",
+              "text": "The inferior cannuliculus is functionally more important",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "D",
+              "text": "The topical anesthesia amethocaine is contraindicated",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "E",
+              "text": "Nasopharyngeal drainage is best demonstrated on the erect lateral view",
+              response: "",
+              "answer": "True"
+            }
+          ],
+          "explanation": "The upper cannaliculus is normally demonstrated by refluxation of contrast",
+          "reference": "Whitehouse & Worthington. Techniques in Diagnostic Imaging, 3rd Edition. Blackwell Science Ltd"
+        },
+        {
+          "questionNumber": 43,
+          "stem": "When performing thyroid scintigraphy, the following are causes of an absent gland",
+          "options": [
+            {
+              "label": "A",
+              "text": "Extravasation",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "B",
+              "text": "Lipiodol lymphangiogram in the previous year",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "C",
+              "text": "Ectopic thyroid",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "D",
+              "text": "Amiodarone therapy",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "E",
+              "text": "Injection of contrast media 6 weeks previously",
+              response: "",
+              "answer": "False"
+            }
+          ],
+          "explanation": "Retrosternal or sublingual thyroids can both be obscured\nA contrast injection within 2 weeks will suppress the thyroid",
+          "reference": "Whitehouse & Worthington. Techniques in Diagnostic Imaging. 3rd Edition. Blackwell Science Ltd"
+        },
+        {
+          "questionNumber": 44,
+          "stem": "The following are true of pelvic imaging",
+          "options": [
+            {
+              "label": "A",
+              "text": "The uterine body has four distinct zones on T2-W MRI",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "B",
+              "text": "The endometrium and myometrium both enhance with Gadolinium",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "C",
+              "text": "CT is more accurate than plain film radiographic pelvimetry",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "D",
+              "text": "A post-menopausal ovary should not exceed 4 mls in volume",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "E",
+              "text": "Normal ovaries do not enhance with Gadolinium",
+              response: "",
+              "answer": "False"
+            }
+          ],
+          "explanation": "The normal uterine body has three distinct zones of T2-W MRI: high signal endometrium, low signal transitional zone due to compressed myometrium, and intermediate signal myometrium.\nThe post menopausal ovary should not exceed 6 mils in volume. Ovaries enhance with Gadolinium",
+          "reference": "Grainger & Allison. Diagnostic Radiology, 3rd Edition. Churchill Livingstone"
+        },
+        {
+          "questionNumber": 45,
+          "stem": "The following are true of percutaneous nephrostomy insertion",
+          "options": [
+            {
+              "label": "A",
+              "text": "Insertion into the upper pole calyx is preferable",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "B",
+              "text": "Direct pelvic puncture should be avoided",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "C",
+              "text": "Prophylactic antibiotics are routinely given",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "D",
+              "text": "Arterio-venous malformations occur in 0.5%",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "E",
+              "text": "A 5F catheter will pass through a 5F dilator",
+              response: "",
+              "answer": "False"
+            }
+          ],
+          "explanation": "The lower pole calyx is preferably punctured unless the patient is likely to require ureteric stenting in which case a middle pole calyx is preferred. A 5F catheter and a 5F dilator have the same external diameter. A 5F catheter will pass through a 5F sheath however",
+          "reference": "Chapman & Nakielny. A Guide to Radiological Procedures. 3rd Edition. W B Saunders Co Ltd"
+        },
+        {
+          "questionNumber": 46,
+          "stem": "The following are true of a retrograde pyelogram",
+          "options": [
+            {
+              "label": "A",
+              "text": "A 4 French ureteric catheter is passed under general anaesthetic in theatre",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "B",
+              "text": "Urografin 300 mg/ml is appropriate contrast media",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "C",
+              "text": "10 mls of contrast media is required to effectively opacify the pelvicalyceal system",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "D",
+              "text": "Chemical pyelitis is a recognized complication",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "E",
+              "text": "Extravasation is usually a significant complication",
+              response: "",
+              "answer": "False"
+            }
+          ],
+          "explanation": "Urografin 150 mg/ml is appropriate. A non-dilated pelvicalyceal system only requires 3-5 mls to opacify. Extravasation interferes with the image only",
+          "reference": "Whitehouse & Worthington. Techniques in Diagnostic Imaging. 3rd Edition. Blackwell Science Ltd"
+        },
+        {
+          "questionNumber": 47,
+          "stem": "The zygomatic arches are clearly seen in",
+          "options": [
+            {
+              "label": "A",
+              "text": "A lateral skull",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "B",
+              "text": "A submento-vertical projection",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "C",
+              "text": "An occipito-mental projection with 30 degrees of caudal angulation",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "D",
+              "text": "A fronto-occipital projection with 30 degrees of caudal angulation (Towne's view)",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "E",
+              "text": "An occipito-frontal projection with 20 degrees of caudal angulation",
+              response: "",
+              "answer": "False"
+            }
+          ],
+          "explanation": "It is not possible to measure the pressure during injection because the pressure monitoring is actually done through the coronary catheter",
+          "reference": "Chapman & Nakielny. A Guide to Radiological Procedures. 3rd Edition. WB Saunders Co Ltd"
+        },
+        {
+          "questionNumber": 48,
+          "stem": "The following are diagnostic criteria for a hypertrophied column of Bertin",
+          "options": [
+            {
+              "label": "A",
+              "text": "Lies at the junction of the lower and middle thirds of the kidney",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "B",
+              "text": "Contains no pyramids",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "C",
+              "text": "Measures 3.5 cm in maximum diameter",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "D",
+              "text": "Indents the renal sinus",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "E",
+              "text": "Is bordered by a junctional parenchymal line",
+              response: "",
+              "answer": "True"
+            }
+          ],
+          "explanation": "A hypertrophied column of Bertin lies between the upper and middle thirds of the kidney. The largest maximum diameter of a column of Bertin should be less than 3 cm",
+          "reference": "Grainger & Allison. Diagnostic Radiology. 3rd Edition. Churchill Livingstone"
+        },
+        {
+          "questionNumber": 49,
+          "stem": "Regarding Gallium citrate scans",
+          "options": [
+            {
+              "label": "A",
+              "text": "Gallium is taken up by epiphyseal plates in children",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "B",
+              "text": "Gallium binds to iron-binding sites of various proteins",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "C",
+              "text": "Breastfeeding should be stopped for two days",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "D",
+              "text": "Gallium is taken up by the thymus",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "E",
+              "text": "Gallium is taken up by the testis",
+              response: "",
+              "answer": "False"
+            }
+          ],
+          "explanation": "Breast feeding should be stopped for two weeks",
+          "reference": "Grainger and Allison. Diagnostic Radiology. 3rd Edition. Churchill Livingstone"
+        },
+        {
+          "questionNumber": 50,
+          "stem": "Oral biliary contrast media",
+          "options": [
+            {
+              "label": "A",
+              "text": "Binds to albumin",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "B",
+              "text": "Is excreted and altered into bile by hepatocytes",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "C",
+              "text": "Is absorbed from the gut by an active process",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "D",
+              "text": "Is made of iodinated benzene rings",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "E",
+              "text": "Induce mild gastrointestinal side effects in 50% of patients",
+              response: "",
+              "answer": "True"
+            }
+          ],
+          "explanation": "Oral biliary contrast media is conjugated by the liver. It is lipophilic and therefore diffuses passively across gastric mucosa",
+          "reference": "Chapman & Nakielny, A Guide to Radiological Procedures. 3rd Edition. WB Saunders Co Ltd"
+        },
+        {
+          "questionNumber": 51,
+          "stem": "Regarding C.T of the abdomen",
+          "options": [
+            {
+              "label": "A",
+              "text": "The normal density of the liver is 60 +/- 5 HU",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "B",
+              "text": "The spleen commonly enhances heterogeneously",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "C",
+              "text": "Hepatic parenchyma enhances by around 40 HU during arterial portography",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "D",
+              "text": "Peak hepatic enhancement is at 50-70 seconds after contrast injection into a peripheral vein",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "E",
+              "text": "Peak hepatic enhancement starts 40 seconds after injection into the superior mesenteric artery",
+              response: "",
+              "answer": "True"
+            }
+          ],
+          "explanation": "The liver enhances by 150-190 HU during arterial portography. Enhancement following intravenous contrast is around 40 HU",
+          "reference": "Grainger & Allison. Diagnostic Radiology. 3rd Edition. Churchill Livingstone"
+        },
+        {
+          "questionNumber": 52,
+          "stem": "Regarding MR cholangiopancreatography",
+          "options": [
+            {
+              "label": "A",
+              "text": "Cannot demonstrate ductal anatomy proximal to an occlusion",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "B",
+              "text": "Uses heavily T2W sequences",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "C",
+              "text": "Can be used to assess metallic biliary stent patency",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "D",
+              "text": "Is useful in patients with a Roux-en-Y procedure",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "E",
+              "text": "Spatial resolution is less than at ERCP",
+              response: "",
+              "answer": "True"
+            }
+          ],
+          "explanation": "Metallic artefact makes assessment of patency impossible",
+          "reference": "Grainger & Allison. Diagnostic Radiology. 3rd Edition. Churchill Livingstone"
+        },
+        {
+          "questionNumber": 53,
+          "stem": "Buscopan is contraindicated in",
+          "options": [
+            {
+              "label": "A",
+              "text": "Diabetes Mellitus",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "B",
+              "text": "Angina Pectoris",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "C",
+              "text": "Glaucoma",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "D",
+              "text": "Hypertension",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "E",
+              "text": "Renal failure",
+              response: "",
+              "answer": "False"
+            }
+          ],
+          "explanation": "Ref: Whitehouse & Worthington. Techniques in Diagnostic Imaging. 3rd Edition. Blackwell Science Ltd"
+        },
+        {
+          "questionNumber": 54,
+          "stem": "Small bowel enema",
+          "options": [
+            {
+              "label": "A",
+              "text": "Pass the tube through the nasopharynx with the head flexed",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "B",
+              "text": "Pass the tube into the esophagus with the head flexed",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "C",
+              "text": "Keep the patient prone",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "D",
+              "text": "Keep the guidewire proximal to the pyloric sphincter",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "E",
+              "text": "Pass the catheter beyond the duodeno-jejunal flexure on the right of midline",
+              response: "",
+              "answer": "False"
+            }
+          ],
+          "explanation": "It should be easier to pass an NG tube with the head extended. Ask patient to swallow it with a mouthful of water and hence the throat is not anaesthetised. The patient should be supine. It is much safer to keep the guidewire proximal to the sphincter as it is less likely to cause perforation of bowel. The DJ flexure lies to the left of midline",
+          "reference": "Whitehouse & Worthington. Techniques in Diagnostic Imaging. 3rd Edition. Blackwell Science Ltd"
+        },
+        {
+          "questionNumber": 55,
+          "stem": "SMA angiography technique",
+          "options": [
+            {
+              "label": "A",
+              "text": "A total volume of 20 mls of contrast is injected",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "B",
+              "text": "Infusion rate = 8 mls/s",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "C",
+              "text": "A sidewinder catheter may be used",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "D",
+              "text": "A hand injection of contrast is appropriate",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "E",
+              "text": "Buscopan 10 mg IV is administered",
+              response: "",
+              "answer": "True"
+            }
+          ],
+          "explanation": "30-45 mls of contrast media is required for an SMA angiongram. Femoro-visceral catheters such as a Sidewinder, Cobra or femoro-renal catheter can be used. Injection is with a pump. Buscopan is used to stop the bowel movement and therefore stops formation of subtraction artefact",
+          "reference": "Chapman & Nakielny. A Guide to Radiological Procedures. 3rd Edition. WB Saunders Co Ltd"
+        },
+        {
+          "questionNumber": 56,
+          "stem": "Standard diagnostic vascular catheters",
+          "options": [
+            {
+              "label": "A",
+              "text": "Are usually 4-5F in size",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "B",
+              "text": "Are 60-100 cms long",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "C",
+              "text": "Super selective catheters have no side holes",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "D",
+              "text": "Selective catheters have side holes",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "E",
+              "text": "7F catheters need 0.035\" guidewires",
+              response: "",
+              "answer": "False"
+            }
+          ],
+          "explanation": "7F catheters need a 0.038\" guidewire",
+          "reference": "Whitehouse & Worthington. Techniques in Diagnostic Imaging. 3rd Edition. Blackwell Science Ltd"
+        },
+        {
+          "questionNumber": 57,
+          "stem": "In Coronary Angiography",
+          "options": [
+            {
+              "label": "A",
+              "text": "The catheters are continuously flushed with saline",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "B",
+              "text": "There is continuous pressure monitoring",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "C",
+              "text": "Always check pressure before an injection",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "D",
+              "text": "Always check pressure during an injection",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "E",
+              "text": "Always check pressure after an injection",
+              response: "",
+              "answer": "True"
+            }
+          ],
+          "explanation": "It is not possible to measure the pressure during injection because the pressure monitoring is actually done through the coronary catheter",
+          "reference": "Chapman & Nakielny. A Guide to Radiological Procedures. 3rd Edition. WB Saunders Co Ltd"
+        },
+        {
+          "questionNumber": 58,
+          "stem": "Regarding radionuclide bone scans",
+          "options": [
+            {
+              "label": "A",
+              "text": "The gamma camera must be able to image the whole body",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "B",
+              "text": "Must have a high-resolution collimator",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "C",
+              "text": "Tomographic capability is essential",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "D",
+              "text": "The patient must be in position for imaging when the injection is given",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "E",
+              "text": "A three-phase study is routine",
+              response: "",
+              "answer": "False"
+            }
+          ],
+          "explanation": "A low energy general purpose collimator can be used. For three-phase bone scan imaging the injection must be performed on the table. A three-phase study is only performed if infection or primary bone tumour is suspected",
+          "reference": "Chapman & Nakielny. A Guide to Radiological Procedures. 3rd Edition. WB Saunders Co Ltd"
+        },
+        {
+          "questionNumber": 59,
+          "stem": "Regarding centering points",
+          "options": [
+            {
+              "label": "A",
+              "text": "Lateral skull - 2.5 cm superior to EAM",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "B",
+              "text": "Pituitary fossa - 2.5 cms superior and anterior to EAM",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "C",
+              "text": "PA skull - nasion",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "D",
+              "text": "PA 20 skull - infra-orbital margin",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "E",
+              "text": "OM 20 - nasion",
+              response: "",
+              "answer": "False"
+            }
+          ],
+          "explanation": "A PA 20 Skull x-ray is centered on the nasion, and an OM 20 view is centered mid-way between the infra orbital margins",
+          "reference": "Bell & Finlay. Basic Radiographic Positioning & Anatomy. 1st Edition, Bailliere Tindall"
+        },
+        {
+          "questionNumber": 60,
+          "stem": "Patient preparation for bronchography should include",
+          "options": [
+            {
+              "label": "A",
+              "text": "Chest physiotherapy",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "B",
+              "text": "Atropine 6 mg IV",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "C",
+              "text": "Buscopan 10 mg IV",
+              response: "",
+              "answer": "False"
+            },
+            {
+              "label": "D",
+              "text": "Diazemul 10 mg IV",
+              response: "",
+              "answer": "True"
+            },
+            {
+              "label": "E",
+              "text": "Morphine 10 mg",
+              response: "",
+              "answer": "True"
+            }
+          ],
+          "explanation": "0.6-1.2 mg atropine IV is appropriate",
+          "reference": "Chapman & Nakielny. A Guide to Radiological Procedures. 3rd Edition. W B Saunders Co Ltd"
+        }
+      ]
 }
