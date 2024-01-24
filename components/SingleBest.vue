@@ -14,7 +14,7 @@ const isGraingerOrSbas = computed(
     params.bookSlug === "sbas-for-the-frcr-part-2a"
 );
 
-const optionLabels = ["A", "B", "C", "D", "E", "F"];
+const optionLabels = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J"];
 </script>
 
 <template>

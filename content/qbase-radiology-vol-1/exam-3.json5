@@ -379,7 +379,7 @@
               "answer": "False"
             }
           ],
-          "explanation": "The SI has a maximum normal diameter is 4 cm in the jejunum and 3cm in the ileum on small bowel enema examination\nThe valvulae conniventes are most prominent proximally in the jejunum",
+          "explanation": "The SI has a maximum normal diameter is 4 cm in the jejunum and 3cm in the ileum on small bowel enema examination\nThe valvulae conniventes are most prominent proximally in the jejunum. \nThe valvular conniventes are up to 2 mm thick in the jejunum. 1 mm thick in the ileum",
           "reference": "Last's Anatomy, McMinn. 9th Edition. Churchill Livingstone. Gray's Anatomy. 38th Edition. Churchill Livingstone. Anatomy for Diagnostic Imaging. Ryan & McNicholas. W B Saunders Co Ltd"
         },
         {
@@ -1025,8 +1025,8 @@
               "answer": "False"
             }
           ],
-          "explanation": "It is not possible to measure the pressure during injection because the pressure monitoring is actually done through the coronary catheter",
-          "reference": "Chapman & Nakielny. A Guide to Radiological Procedures. 3rd Edition. WB Saunders Co Ltd"
+          "explanation": "",
+          "reference": "Bell and Finlay. Basic Radiographic Positioning and Anatomy 1st Edition. Bailleire Tindall."
         },
         {
           "questionNumber": 48,

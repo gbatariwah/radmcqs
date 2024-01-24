@@ -200,7 +200,7 @@
     {
       questionNumber: 14,
       stem: "A 74-year-old man presents with an 8-week history of altered bowel habit and rectal bleeding. A flexible sigmoidoscopy demonstrates a malignant stricture in the rectum, and biopsies confirm rectal adenocarcinoma. An MRI is performed and shows an annular neoplasm at 12 cm. The mass invades 4 mm beyond the rectal wall into the perirectal fat and infiltrates the peritoneal reflection anteriorly. There is a small volume of free peritoneal fluid. What is the radiological T stage?",
-      options: ["TX", "T1", "C T2", "D T3", "T4"],
+      options: ["TX", "T1", "T2", "T3", "T4"],
       response: "",
       answer: "T4",
       explanation: "Evidence of peritoneal invasion indicates stage T4 rectal cancer",
@@ -367,7 +367,7 @@
     },
     {
       questionNumber: 26,
-      stem: "A 31-year-old woman develops mild acute pancreatitis and is managed conservatively. It is her third episode of pancreatitis but there is no history of excess alcohol consumption and an abdominal ultrasound is normal. Magnetic resonance cholangiopancreatography (MRCP) is performed and is reported as showing evidence of pancreas 4bdw,rn- Which one of the following findings is likely to have been present on MRGP?",
+      stem: "A 31-year-old woman develops mild acute pancreatitis and is managed conservatively. It is her third episode of pancreatitis but there is no history of excess alcohol consumption and an abdominal ultrasound is normal. Magnetic resonance cholangiopancreatography (MRCP) is performed and is reported as showing evidence of pancreas divisum. Which one of the following findings is likely to have been present on MRGP?",
       options: [
         "A 3-cm cystic structure in the head of the pancreas",
         "An accessory pancreatic duct passing around the duodenum",
