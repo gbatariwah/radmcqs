@@ -3,10 +3,11 @@ const props = defineProps({
   question: Object,
   questionId: Number,
   showAnswers: Boolean,
-  checkAnswer: Boolean,
 });
 
 const { params } = useRoute();
+
+const checkAnswer = ref(false)
 
 const isGraingerOrSbas = computed(
   () =>

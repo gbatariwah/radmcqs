@@ -23,7 +23,6 @@
     "typescript": "latest"
   },
   "dependencies": {
-    "animate.css": "^4.1.1",
-    "nuxt-umami": "^2.5.4"
+    "animate.css": "^4.1.1"
   }
 }

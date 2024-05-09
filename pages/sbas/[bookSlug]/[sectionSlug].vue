@@ -41,6 +41,8 @@ const {
   }
 );
 
+console.log(section)
+
 const bookSlug = computed(() => path.split("/")[2]);
 const shuffleQuestions = () => {
   questionsShuffled.value = true;
@@ -58,7 +60,6 @@ const isAnswering = computed(() =>
 
 const totalQuestions = computed(() => section.value.questions?.length);
 const showAnswers = ref(false);
-const checkAnswer = ref(false);
 
 const stats = ref();
 
@@ -91,7 +92,6 @@ const handleSubmit = () => {
 
 const handleReset = () => {
   showAnswers.value = false;
-  checkAnswer.value = false;
   refresh();
 };
 
@@ -231,7 +231,6 @@ const covers = Object.fromEntries(
             :question="question"
             :questionId="questionId"
             :showAnswers="showAnswers"
-            :checkAnswer="checkAnswer"
           />
         </div>
 

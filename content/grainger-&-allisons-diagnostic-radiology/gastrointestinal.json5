@@ -594,7 +594,7 @@
       questionNumber: 41,
       stem: "A 68-year-old man presents to his GP with weight loss and jaundice. Liver function tests demonstrate obstructive jaundice and an abdominal ultrasound shows mild intrahepatic biliary dilatation with a common bile duct measuring 12 mm in diameter. In the pancreatic head, a 3-cm hypoechoic mass is present. An ERCP is performed with insertion of a plastic stent and  brushings confirm a pancreatic ductal adenocarcinoma. A triple-phase (precontrast, arterial and portal venous) multidetector CT of the pancreas is performed. Which finding would indicate a nonresectable pancreatic tumour?",
       options: [
-        "Enhancing pancreatic parenchyma between the tumour and superior",
+        "Enhancing pancreatic parenchyma between the tumour and superior mesenteric vein",
         "The pancreatic duct dilated to 6 mm",
         "The presence of a 5-mm coeliac axis lymph node",
         "The tumour has invaded the duodenum",
@@ -699,7 +699,7 @@
       questionNumber: 48,
       stem: "A 42-year-old man has a history of alcohol excess and a previous duodenal ulcer. He presents to the Emergency Department with a 1-day history of epigastric pain and vomiting. Initial laboratory investigations are remarkable for a grossly elevated serum amylase and the patient is treated with  intravenous fluids and analgesia. Six days later, his condition deteriorates and he develops a temperature of 39° C. A contrast-enhanced CT of the pancreas is performed. Which one of the following findings would be most indicative of infected pancreatic necrosis?",
       options: [
-        "An area of nonenhancement in the pancreatic body containing a locule of",
+        "An area of nonenhancement in the pancreatic body containing a locule of gas",
         "Diffuse enlargement of the pancreas with peripancreatic fat stranding",
         "Focal enlargement of the pancreatic head with reduced enhancement",
         "Splenic artery pseudoaneurysm formation adjacent to the pancreatic tail",
@@ -772,7 +772,7 @@
     },
     {
       questionNumber: 53,
-      stem: "Ail 80-year-old man is referred to the gastroenterology outpatient clinic with a 1-year history of dysphagia. He describes worsening difficulty swallowing solids and liquids with associated loss of 3 kg in weight. The past medical history includes Parkinson's disease and right lower lobe pneumonia 6 months ago. An upper gastrointestinal endoscopy is normal and the patient is referred for a contrast swallow examination for suspected oesophageal dysmotility. Which statement is true regarding this examination?",
+      stem: "An 80-year-old man is referred to the gastroenterology outpatient clinic with a 1-year history of dysphagia. He describes worsening difficulty swallowing solids and liquids with associated loss of 3 kg in weight. The past medical history includes Parkinson's disease and right lower lobe pneumonia 6 months ago. An upper gastrointestinal endoscopy is normal and the patient is referred for a contrast swallow examination for suspected oesophageal dysmotility. Which statement is true regarding this examination?",
       options: [
         "If aspiration is suspected, water-soluble meglumine diatrizoate (Gastrografin) should be used initially",
         "In suspected oesophageal dysmotility, an antispasmodic (eg Buscopan) should be administered prior to prone swallow",
@@ -1421,7 +1421,7 @@
       options: [
         "Colonic carcinoma",
         "Gallstone ileus",
-        "tussusception",
+        "Intussusception",
         "Psoas abscess",
         "Strangulated femoral hernia",
       ],

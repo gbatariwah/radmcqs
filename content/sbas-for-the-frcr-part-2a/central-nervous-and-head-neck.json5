@@ -435,7 +435,7 @@
         "Diffuse axonal injury",
       ],
       response: "",
-      answer: "Diffuse axonal injury (DAI)",
+      answer: "Diffuse axonal injury",
       explanation: "CT is initially often normal (up to 80% of cases) in DAI. If positive, it may reveal small low attenuation foci (oedema) or high attenuation foci of petechial hemorrhage. The gray/white matter interface of the frontotemporal lobes, corpus callosum (especially the splenium), and brainstem are the most commonly involved sites in DAI. MRI is much more sensitive and is the investigation of choice. The signal on MRI depends on the age of the lesion and whether hemorrhage is present, but classically hyperintense foci on T2WI sequences are seen acutely. In the more chronic phase, the lesions may only be detected as hypointense foci at characteristic locations on GE sequences: this appearance may remain for years. DWI reveals hyperintense foci of restricted diffusion on B1000 images, with corresponding low signal on the ADC map. The findings on DWI are easily distinguishable from extradural hematoma/subarachnoid hemorrhage/subdural hematoma/generalized edema, which are discussed in other questions in this chapter",
       reference: "Osborn AG, Blaser SI, Salzman KL, Katzman GL, Provenzale J, Hedlund GL et al. Diagnostic Imaging: Brain, Amirsys, 2004, I-2: 30–33",
     },

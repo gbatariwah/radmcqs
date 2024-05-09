@@ -63,6 +63,13 @@ const books = [
     color: "primary",
     type: "sbas",
   },
+  {
+    title: "Final FRCR 2A:SBAs",
+    slug: "final-frcr-2a",
+    edition: 1,
+    color: "sky",
+    type: "sbas",
+  }
 ];
 </script>
 

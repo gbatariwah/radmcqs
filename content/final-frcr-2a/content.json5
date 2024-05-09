@@ -1,0 +1,37 @@
+{
+  title: "Final FRCR 2A:SBAs",
+  slug: "final-frcr-2ar",
+  author: "Teck Yew Chin, Susan Cheng Shelmerdine, Akash Ganguly, Chinedum Anosike",
+  edition: 1,
+  sections: [
+  {
+    "name": "Chapter 1 - Test Paper 1",
+    "slug": "test-paper-1"
+  },
+  {
+    "name": "Chapter 2 - Test Paper 2",
+    "slug": "test-paper-2"
+  },
+  {
+    "name": "Chapter 3 - Test Paper 3",
+    "slug": "test-paper-3"
+  },
+  {
+    "name": "Chapter 4 - Test Paper 4",
+    "slug": "test-paper-4"
+  },
+  {
+    "name": "Chapter 5 - Test Paper 5",
+    "slug": "test-paper-5"
+  },
+  {
+    "name": "Chapter 6 - Test Paper 6",
+    "slug": "test-paper-6"
+  },
+  {
+    "name": "Chapter 7 - Test Paper 7",
+    "slug": "test-paper-7"
+  }
+]
+
+}
