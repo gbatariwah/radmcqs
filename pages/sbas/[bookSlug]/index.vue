@@ -32,7 +32,7 @@ const covers = Object.fromEntries(
       <img
         :src="`${covers[book.slug]}`"
         :alt="book.slug"
-        class="w-40 self-start"
+        class="w-40 self-start rounded-lg"
       />
 
       <div class="px-4">

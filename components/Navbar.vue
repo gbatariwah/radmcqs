@@ -1,6 +1,6 @@
 <template>
   <nav class="flex justify-between items-center">
-    <nuxt-link to="/" class="font-bold flex gap-1 items-center">
+    <nuxt-link to="/" class="font-bold flex gap-1 items-center" v-motion-roll-visible-once-left>
       <span class="font-[Kablammo] text-2xl tracking-wide">RAD MCQS </span
       ><img src="/img/light-bulb.png" alt="logo-img" />
     </nuxt-link>

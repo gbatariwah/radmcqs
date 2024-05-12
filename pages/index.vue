@@ -1,5 +1,26 @@
 <script setup lang="ts">
 const books = [
+{
+    title: "Grainger & Allison’s Diagnostic Radiology: Single Best Answer MCQs",
+    slug: "grainger-and-allisons-diagnostic-radiology",
+    edition: 5,
+    color: "green",
+    type: "sbas",
+  },
+  {
+    title: "SBAs for the FRCR Part 2A",
+    slug: "sbas-for-the-frcr-part-2a",
+    edition: "Illustrated Edition",
+    color: "primary",
+    type: "sbas",
+  },
+  {
+    title: "Final FRCR 2A:SBAs",
+    slug: "final-frcr-2a",
+    edition: 1,
+    color: "sky",
+    type: "sbas",
+  },
   {
     title: "MCQ Companion",
     slug: "mcq-companion",
@@ -47,27 +68,6 @@ const books = [
     slug: "engineering-interview-questions",
     edition: 0,
     color: "primary",
-    type: "sbas",
-  },
-  {
-    title: "Grainger & Allison’s Diagnostic Radiology: Single Best Answer MCQs",
-    slug: "grainger-and-allisons-diagnostic-radiology",
-    edition: 5,
-    color: "green",
-    type: "sbas",
-  },
-  {
-    title: "SBAs for the FRCR Part 2A",
-    slug: "sbas-for-the-frcr-part-2a",
-    edition: "Illustrated Edition",
-    color: "primary",
-    type: "sbas",
-  },
-  {
-    title: "Final FRCR 2A:SBAs",
-    slug: "final-frcr-2a",
-    edition: 1,
-    color: "sky",
     type: "sbas",
   }
 ];

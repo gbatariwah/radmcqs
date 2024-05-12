@@ -33,7 +33,7 @@ const formatedEdition = computed(() =>
       <img
         :src="covers[params.bookSlug]"
         :alt="params.bookSlug"
-        class="w-40 self-start"
+        class="w-40 self-start rounded-lg"
       />
 
       <div class="px-4">

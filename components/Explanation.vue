@@ -8,7 +8,12 @@ const props = defineProps({
 </script>
 
 <template>
-  <div>
+  <div 
+  v-motion
+    :initial="{ opacity: 0, y: -100 }"
+    :enter="{ opacity: 1, y: 0}"
+   
+  >
     <UBadge
       color="green"
       v-if="response === answer"
@@ -23,7 +28,7 @@ const props = defineProps({
       </div>
     </UBadge>
     <UBadge
-      color="red"
+      color="pink"
       v-else
       class="text-sm p-2 font-light rounded-lg mt-1 flex pr-6"
     >

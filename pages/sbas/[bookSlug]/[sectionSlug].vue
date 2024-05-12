@@ -41,8 +41,6 @@ const {
   }
 );
 
-console.log(section)
-
 const bookSlug = computed(() => path.split("/")[2]);
 const shuffleQuestions = () => {
   questionsShuffled.value = true;
@@ -106,7 +104,7 @@ const covers = Object.fromEntries(
     <Loader v-if="pending" />
     <div v-else>
       <div class="flex flex-col sm:flex-row items-center sm:items-start">
-        <img :src="`${covers[bookSlug]}`" alt="mcq-companion" class="w-40" />
+        <img :src="`${covers[bookSlug]}`" alt="mcq-companion" class="w-40 rounded-lg" />
         <div class="p-4 flex flex-col justify-between">
           <div>
             <h1
@@ -127,7 +125,7 @@ const covers = Object.fromEntries(
                 <UButton
                   icon="i-ic-outline-restart-alt"
                   label="Restart"
-                  variant="outline"
+                  variant="soft"
                   size="xs"
                   @click="handleReset"
                 />
@@ -136,6 +134,7 @@ const covers = Object.fromEntries(
                 <UButton
                   label="Shuffle"
                   class="flex gap-2"
+                  variant="soft"
                   size="xs"
                   @click="shuffleQuestions"
                   icon="i-ic-baseline-shuffle"

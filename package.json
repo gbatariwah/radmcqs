@@ -23,6 +23,7 @@
     "typescript": "latest"
   },
   "dependencies": {
+    "@vueuse/motion": "^2.1.0",
     "animate.css": "^4.1.1"
   }
 }

@@ -1,7 +1,6 @@
 <script setup lang="ts">
 const props = defineProps({
   option: Object,
-  showAnswers: Boolean,
   optionId: Number,
   checkAnswers: Boolean,
 });
@@ -15,7 +14,7 @@ const optionLabels = ["a", "b", "c", "d", "e"];
       class="border-b dark:border-zinc-900"
       :class="{ 'border-b-0': optionId === 4 }"
     >
-      <div v-if="checkAnswers || showAnswers">
+      <div v-if="checkAnswers">
         <div class="flex gap-4 py-2 items-center">
           <p class="flex gap-2 items-center text-lg font-medium font-[oswald]">
             {{ option.response[0] }}
@@ -41,7 +40,7 @@ const optionLabels = ["a", "b", "c", "d", "e"];
                 <UBadge color="cyan" size="sm" :label="option.answer" />
               </span>
             </p>
-            <div v-if="option.explanation">
+            <div v-if="option.explanation" v-motion-pop>
               <UBadge
                 color="green"
                 v-if="option.response === option.answer"
@@ -54,7 +53,7 @@ const optionLabels = ["a", "b", "c", "d", "e"];
               </UBadge>
               <UBadge
                 v-else
-                color="red"
+                color="pink"
                 class="text-sm p-2 font-light rounded-lg mt-1 flex pr-6"
               >
                 <p class="p-4">

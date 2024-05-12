@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div v-motion-slide-visible-once-bottom>
     <h2 class="font-[oswald] text-lg tracking-wide font-bold">
       <span class="text-orange-400">{{ questionId + 1 }}</span
       >. {{ question.stem }}:
@@ -7,12 +7,11 @@
     <Choice
       v-for="(option, optionId) in question.options"
       :key="optionId"
-      :option="option"
-      :showAnswers="showAnswers"
+      :option
       :optionId="Number(optionId)"
-      :checkAnswers="checkAnswers"
+      :checkAnswers
     />
-    <div v-if="isMCQsInAnatomyOrQbase1 && (showAnswers || checkAnswers)">
+    <div v-if="isMCQsInAnatomyOrQbase1 && checkAnswers">
       <div v-if="question.explanation">
         <UBadge
           color="emerald"
@@ -30,14 +29,15 @@
         </UBadge>
       </div>
     </div>
-    <div class="py-2 text-right" v-if="questionsAnswered && !showAnswers">
+    <div class="py-2 text-right">
       <UButton
+      v-if="questionsAnswered"
         @click="checkAnswers = !checkAnswers"
         :label="checkAnswers ? 'Hide Answers' : 'Show Answers'"
-        class="animate__animated animate__bounceIn animate__faster"
+        v-motion-pop
         size="xs"
         color="sky"
-        variant="outline"
+        variant="soft"
         :icon="
           checkAnswers
             ? 'i-ic-baseline-visibility-off'
@@ -50,11 +50,10 @@
 
 <script setup>
 const { path } = useRoute();
+const checkAnswers = ref(false)
 
 const props = defineProps({
   question: Object,
-  showAnswers: Boolean,
-  checkAnswers: Boolean,
   questionId: Number,
 });
 
@@ -64,7 +63,6 @@ const isMCQsInAnatomyOrQbase1 = computed(
     path.split("/")[2] === "qbase-radiology-vol-1"
 );
 
-const optionLabels = ["a", "b", "c", "d", "e"];
 
 const questionsAnswered = computed(() =>
   props.question.options.every((option) => option.response !== "")

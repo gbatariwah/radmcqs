@@ -1,1308 +1,1316 @@
 [
   {
     "questionNumber": 1,
-    "stem": "A 30-year-old man has been involved in an Road Traﬃc Accident (RTA). Aortic injury is suspected. CT angiogram shows a fusiform dilatation at the anteromedial aspect of the aortic isthmus with a steep contour superiorly, gently merging with the proximal descending thoracic aorta inferiorly. What is the likely diagnosis?",
+    "stem": "A middle-aged patient who sustained RTC 6 months ago presents with progressive visual loss and exophthalmos on the right. MRI demonstrated a dilated superior ophthalmic vein with flow voids in the cavernous sinus. What is the likely diagnosis?",
     "options": [
-      "A. Pseudoaneurysm",
-      "B. Coarctation of the aorta",
-      "C. Ductus diverticulum",
-      "D. Aortic nipple",
-      "E. Avulsed left subclavian artery"
+      "A. Buphthalmos",
+      "B. Carotid-cavernous fistula",
+      "C. Orbital pseudotumour",
+      "D. Arteriovenous malformation",
+      "E. Dural fistula"
     ]
   },
   {
     "questionNumber": 2,
-    "stem": "A 40-year-old man on the third cycle of chemotherapy for non-Hodgkin’s lymphoma presents with dysphagia and odynophagia. A recent blood count revealed neutropenia. He is referred for a barium swallow, which shows several linear ulcers with ‘shaggy borders’ in the upper oesophagus. What is the most likely diagnosis?",
+    "stem": "A preterm neonate on the intensive care unit develops gross abdominal distension and bleeding per rectum. A supine abdominal radiograph is performed demonstrating multiple loops of dilated bowel loops. Given the likely diagnosis, all of the following would be expected findings on the supine radiograph, except:",
     "options": [
-      "A. Candida oesophagitis",
-      "B. CMV oesophagitis",
-      "C. Post-radiotherapy stricture",
-      "D. TB oesophagitis",
-      "E. Pharyngeal pouch"
+      "A. Mottled gas shadows within the bowel wall",
+      "B. Branching gas pattern overlying the liver shadow",
+      "C. Foci of calcification projected over the renal angles",
+      "D. Generalised lucency overlying the liver shadow",
+      "E. Rounded area of lucency within the central abdomen"
     ]
   },
   {
     "questionNumber": 3,
-    "stem": "A contrast CT scan shows an incidental renal cyst that is hyperdense with thick septations and a mural nodule. What is the Bosniak classiﬁcation?",
+    "stem": "Which of the following is a recognised cause of a ‘bone within bone’ appearance?",
     "options": [
-      "A. Type 1",
-      "B. Type 2",
-      "C. Type 2F",
-      "D. Type 3",
-      "E. Type 4"
+      "A. Renal osteodystrophy",
+      "B. Paget’s disease",
+      "C. Hyperparathyroidism",
+      "D. Melorheostosis",
+      "E. Osteopathia striata"
     ]
   },
   {
     "questionNumber": 4,
-    "stem": "A 33-year-old man with short stature and normal intelligence is being investigated for lower back pain. MRI of the thoracolumbar spine shows marked central stenosis with short pedicles. A comment of bullet-shaped vertebra with progressive narrowing of the lumbar interpedicular distance was noted on the report. Which of the following conditions is most likely?",
+    "stem": "A 25-year-old woman with recurrent urinary tract infections and post-void dribbling attends the urology clinic. The urologist suspects a urethral diverticulum. What is the most appropriate first-line test?",
     "options": [
-      "A. Hurler’s syndrome",
-      "B. Congenital pituitary dwarﬁsm",
-      "C. Achondroplasia",
-      "D. Thanatophoric dysplasia",
-      "E. Hunter’s syndrome"
+      "A. Micturating cystourethrogram",
+      "B. Urodynamics",
+      "C. Transvaginal ultrasound",
+      "D. Double-balloon catheter positive pressure urethrography",
+      "E. Pre- and post-void magnetic resonance imaging of urethra"
     ]
   },
   {
     "questionNumber": 5,
-    "stem": "A 75-year-old woman is admitted under the physicians with confusion and dementia. She has a history of spontaneous intracranial haemorrhage and has been diagnosed with amyloid angiopathy. The most speciﬁc MR sequence for diagnosis of multifocal intracranial cortical–subcortical microhaemorrhages in cerebral amyloid angiopathy is:",
+    "stem": "A 40-year-old male and intravenous drug user, is on your barium list. The history on the card says ‘c/o dysphagia. Exclude pouch!’. During the barium swallow, you notice no oesophageal pouch but there are at least three giant 3- to 4-cm flat ulcers noted within the oesophagus near the gastro-oesophageal junction. The intervening oesophagus appears normal. Which of the following is the most likely diagnosis?",
     "options": [
-      "A. T1W spin echo",
-      "B. STIR",
-      "C. T2W spin echo",
-      "D. Gradient echo",
-      "E. FLAIR"
+      "A. Cytomegalovirus oesophagitis",
+      "B. Caustic oesophagitis",
+      "C. Candida oesophagitis",
+      "D. Behçet’s disease",
+      "E. Crohn’s disease"
     ]
   },
   {
     "questionNumber": 6,
-    "stem": "Regarding sporting injuries involving the upper limbs, all of the following statements are correct, except:",
+    "stem": "A 16-year-old girl with a history of recurrent bronchitis undergoes chest X-ray. The lungs are clear but there is tracheal deviation to the left, with a focal indentation of the right wall of the trachea. Underlying vascular anomaly is suspected, and the patient undergoes a magnetic resonance imaging scan for further evaluation. All of the following will explain the above Chest X-ray appearance, except:",
     "options": [
-      "A. Anomalous anconeus epitrochlearis muscle results in Posterior Interosseous Nerve (PIN) entrapment.",
-      "B. Atrophy of extensor muscles can be seen in chronic PIN neuropathy.",
-      "C. Partial thickness tears of the biceps can involve either the long or short heads.",
-      "D. Cubital tunnel syndrome is the most common elbow neuropathy.",
-      "E. Oedema of ﬂexor carpi ulnaris and ulnar nerve thickening suggests cubital tunnel nerve entrapment."
+      "A. Double aortic arch",
+      "B. Right aortic arch with aberrant left subclavian artery and patent ductus arteriosus",
+      "C. Aberrant left pulmonary artery",
+      "D. Left aortic arch with aberrant right subclavian artery and patent ductus arteriosus",
+      "E. Common origin of innominate and left common carotid artery"
     ]
   },
   {
     "questionNumber": 7,
-    "stem": "An obese 25-year-old man presents with atypical chest pain. Cardiac MR demonstrates asymmetrical hypertrophy of the interventricular septum, primarily aﬀecting the anteroinferior portion. What is the most likely diagnosis?",
+    "stem": "A 50-year-old man was recently diagnosed with a thyroid cancer following an ultrasound-guided FNA of a thyroid lesion. Regarding malignant thyroid nodules, which of the following statements is true?",
     "options": [
-      "A. Hypertrophic obstructive cardiomyopathy",
-      "B. Restrictive cardiomyopathy",
-      "C. Myocardial infarction",
-      "D. Dilated cardiomyopathy",
-      "E. Constrictive pericarditis"
+      "A. Punctate calcification is a feature of papillary carcinoma.",
+      "B. Anaplastic carcinoma is associated with MEN syndrome.",
+      "C. Echogenic foci seen in medullary carcinoma are due to calcitonin deposits.",
+      "D. Characteristic lymphadenopathy in medullary carcinoma is hypoechoic to muscle.",
+      "E. Follicular carcinoma can be differentiated from follicular adenoma on US."
     ]
   },
   {
     "questionNumber": 8,
-    "stem": "A 65-year-old diabetic with a history of alcohol excess is referred for a barium swallow following a history of dysphagia. The study shows several small, thin, ﬂask-shaped structures along the cervical oesophagus oriented parallel to the long axis of the oesophagus. What is the most likely diagnosis?",
+    "stem": "A 6-year-old boy presents with a 1-month history of progressive left-sided proptosis. An orbital MRI reveals a large, lobulated, retro-orbital mass without any intracranial or globe invasion. The mass is isointense to muscle on T1 and hyperintense on T2 with uniform enhancement post-contrast. The patient is afebrile, and inflammatory markers are not significantly raised. What is the most likely diagnosis?",
     "options": [
-      "A. Feline oesophagus",
-      "B. Pseudodiverticulosis",
-      "C. Glycogenic acanthosis",
-      "D. Traction diverticulum",
-      "E. Idiopathic eosinophilic oesophagitis"
+      "A. Dermoid cyst",
+      "B. Orbital cellulitis with abscess formation",
+      "C. Lymphangioma",
+      "D. Capillary haemangioma",
+      "E. Rhabdomyosarcoma"
     ]
   },
   {
     "questionNumber": 9,
-    "stem": "A 21-year-old woman with infertility undergoes US that shows a 2-cm right adnexal mass with posterior acoustic enhancement. Another multilocular cyst is seen in the left ovary. Further evaluation with MR shows multiple small lesions in both the ovaries and pouch of Douglas, which were hyperintense on fat-suppressed T1W images with shading sign on T2W images. What is the likely diagnosis?",
+    "stem": "A 30-year-old woman was involved in a severe road traffic accident and sustained direct high-energy trauma to her pelvis. Among other injuries, she was found to have a fracture on her left sacroiliac joint and left ischiopubic ramus. What type of fracture has she sustained?",
     "options": [
-      "A. Dermoid",
-      "B. Endometrioid carcinoma of the ovary",
-      "C. Endometriosis",
-      "D. PCOS (polycystic ovarian syndrome)",
-      "E. Pelvic inﬂammatory disease"
+      "A. Open book",
+      "B. Straddle",
+      "C. Bucket handle",
+      "D. Duverney",
+      "E. Malgaigne"
     ]
   },
   {
     "questionNumber": 10,
-    "stem": "A young man presents to the ENT clinic with deepening of the voice. Going through his history and clinical notes, the consultant reviews a recent plain radiograph report of his hands, which describes cystic changes in the carpal bones along with enlarged phalangeal tufts and metacarpals. What is the next appropriate imaging investigation?",
+    "stem": "A patient undergoes a routine abdominal ultrasound for generalised abdominal pain. Unfortunately, the spleen cannot be detected. Which of the following is the least likely cause for this?",
     "options": [
-      "A. CT brain pre- and post-contrast",
-      "B. MRI brain",
-      "C. MRI pituitary pre- and post-contrast",
-      "D. Chest X-ray",
-      "E. Lateral view of the skull"
+      "A. Myelofibrosis",
+      "B. Sickle cell anaemia",
+      "C. Polysplenia syndrome",
+      "D. Traumatic fragmentation of the spleen",
+      "E. Wandering spleen"
     ]
   },
   {
     "questionNumber": 11,
-    "stem": "A 77-year-old man with gradual onset dementia shows multifocal abnormalities on cranial CT and MRI. He has been recently diagnosed with amyloidosis. All of the following conditions may be present in central nervous system amyloidosis, except:",
+    "stem": "A 6-year-old boy presents with adrenal insufficiency and developmental delay. Magnetic resonance imaging demonstrates diffuse T2 hyperintensity in the deep white matter, most predominant in the posterior parieto-occipital region and splenium of the corpus callosum. Which of the following is the most likely cause for this finding?",
     "options": [
-      "A. Occurrence in elderly patients",
-      "B. Multifocal subcortical intracranial haemorrhages",
-      "C. Cerebral and cerebellar atrophy",
-      "D. Non-communicating hydrocephalus",
-      "E. Typical occurrence in normotensive patients"
+      "A. Metachromatic leukodystrophy",
+      "B. Acute disseminated encephalomyelitis",
+      "C. X-linked adrenoleukodystrophy",
+      "D. Alexander disease",
+      "E. Canavan disease"
     ]
   },
   {
     "questionNumber": 12,
-    "stem": "An 11-year-old boy with left shoulder pain has a shoulder X-ray, which shows a lucent lesion in the metaphysis. This has distinct borders and lies in the intramedullary compartment. It is orientated along the long axis of the humerus. What is the most likely diagnosis?",
+    "stem": "A 26-year-old woman who had an intrauterine contraceptive device (IUCD) coil inserted 6 years ago presents to her general practitioner complaining of right iliac fossa pain, constipation, night sweats and fevers. The practitioner refers her for a transvaginal ultrasound, which shows a right-sided convoluted cobra-shaped structure containing fluid echogenicity and some polypoidal outgrowths from the wall. Adjacent to this is a cystic left adnexal mass containing internal echoes. Which of the following is the likely diagnosis?",
     "options": [
-      "A. Aneurysmal bone cyst",
-      "B. GCT",
-      "C. Simple bone cyst",
-      "D. Chondroblastoma",
-      "E. Non-ossifying fibroma"
+      "A. Actinomycosis",
+      "B. Appendix abscess",
+      "C. Diverticulitis with pericolic abscess",
+      "D. Migrated IUCD causing hydroureter",
+      "E. Salpingitis secondary to tuberculosis"
     ]
   },
   {
     "questionNumber": 13,
-    "stem": "A 50-year-old secretary presents with epigastric pain, nausea and weight loss. She also complains of bilateral swollen ankles. She is referred for a barium meal as she is unable to tolerate an oesophago-gastroduodenoscopy (OGD). The examination shows thickened folds in the fundus and body of the stomach; the antrum was not involved. What is the most likely diagnosis?",
+    "stem": "A 75-year-old man had a history of dyspnoea associated with haemoptysis and weight loss. Computed tomography (CT) showed a 1.5 cm spiculated mass in the anterior segment of the right upper lobe, 5 cm deep to the pleural surface on a background of widespread emphysematous change. The case was referred for discussion at multidisciplinary team meeting to consider safety of undergoing a CT-guided lung biopsy. In this patient’s case, which of the following statements concerning CT-guided lung biopsy is correct?",
     "options": [
-      "A. Nephrotic syndrome",
-      "B. Lymphoma",
-      "C. Eosinophilic gastroenteritis",
-      "D. Leiomyoma",
-      "E. Ménétrier’s disease"
+      "A. The patient carries a 10%–15% risk of developing pneumothorax.",
+      "B. As the lesion is not contiguous with the pleural surface, there is a lower risk of pneumothorax.",
+      "C. The patient carries an increased risk of developing pulmonary haemorrhage post-procedure.",
+      "D. If a pneumothorax were to develop as a complication, he is less likely to require subsequent intercostal drain insertion.",
+      "E. The procedure is relatively contraindicated because pulmonary function tests revealed a forced expiratory volume in 1 second (FEV1) of 45% predicted."
     ]
   },
   {
     "questionNumber": 14,
-    "stem": "A 58-year-old woman undergoes an echocardiogram followed by cardiac MRI for investigation of exertional dyspnoea. The cardiac MRI was reviewed at the X-ray meeting, and the radiologist diagnosed concentric hypertrophic cardiomyopathy. Which of the following did the radiologist see?",
+    "stem": "A 58-year-old man, who underwent coronary artery bypass grafting 8 years ago, presents to the cardiology clinic with symptoms of progressive shortness of breath on exertion, associated with increase in abdominal girth and peripheral oedema. Clinical examination elicits raised jugular venous pressure, with bibasal fine inspiratory crackles, shifting dullness and bilateral ankle pitting oedema. Elective ecg-gated spin-echo cardiac MRI demonstrates limited ability of the right ventricle to distend during filling (diastole), assuming a tubular shape, with limited change in cavity size during the end-systolic phase. Pericardial thickening of 6 mm and calcification is evident, with a moderate pericardial effusion and dilated superior vena cava and azygos vein. Which of the following is the most likely diagnosis?",
     "options": [
-      "A. Thickening of the interatrial septum at 7 mm",
-      "B. Thickening of the entire LV wall measuring 17 mm at end diastole",
-      "C. Nodular high signal in the interventricular septum on T2",
-      "D. Thickening of the LV wall measuring 14 mm with normal systolic function",
-      "E. Thickened LV with delayed hyperenhancement of midwall"
+      "A. Cardiac tamponade",
+      "B. Restrictive cardiomyopathy",
+      "C. Constrictive pericarditis",
+      "D. Dressler syndrome",
+      "E. Hypertrophic cardiomyopathy"
     ]
   },
   {
     "questionNumber": 15,
-    "stem": "A 50-year-old builder is involved in a high-speed RTA. CT is performed according to trauma protocol, demonstrating extra-peritoneal rupture of the bladder. Which of the following best describes this?",
+    "stem": "An 8-month-old boy presents with a right upper quadrant mass. Blood results reveal a raised alpha-fetoprotein (AFP). Ultrasound of the abdomen demonstrates a large 7-cm, hypervascular, heterogeneous hyperechoic mass in the liver with a few cystic regions. There is no vascular invasion. No renal or suprarenal lesions are present. Which of the following differential diagnoses is most likely?",
     "options": [
-      "A. Contrast pooling in the paracolic gutters.",
-      "B. Contrast outlining small bowel loops.",
-      "C. Flame-shaped contrast seen in the perivesical fat.",
-      "D. CT cystogram is usually normal.",
-      "E. Intramural contrast on CT cystogram."
+      "A. Hepatoblastoma",
+      "B. Infantile haemangioendothelioma",
+      "C. Hepatic haemangioma",
+      "D. Mesenchymal hamartoma of the liver",
+      "E. Fibrolamellar hepatocellular carcinoma"
     ]
   },
   {
     "questionNumber": 16,
-    "stem": "An elderly patient on long-term dialysis presents to the orthopaedic clinic with right shoulder pain. Plain films show juxta-articular swelling and erosions of the humerus, but the joint space is preserved. MRI shows a small joint effusion and the presence of low- to intermediate-signal soft tissue on all sequences covering the synovial membrane extending into the periarticular tissue. What is the likely diagnosis?",
+    "stem": "What is the purpose of the heel–toe manoeuvre in ultrasound examination of the shoulder?",
     "options": [
-      "A. Amyloid arthropathy",
-      "B. Gout",
-      "C. Calcium pyrophosphate deposition disease (CPPD)",
-      "D. Pigmented villonodular synovitis (PVNS)",
-      "E. Reticuloendotheliosis"
+      "A. To decrease the beam angle incidence",
+      "B. To minimise anisotropy",
+      "C. To increase the field of view",
+      "D. To minimise posterior reverberation artefact",
+      "E. To minimise beam width artefact"
     ]
   },
   {
     "questionNumber": 17,
-    "stem": "A 33-year-old woman with recurrent episodes of optic neuritis with waxing and waning upper limb weakness is referred for an MRI brain with high suspicion of demyelination. All of the following are MR features of acute multiple sclerosis (MS) lesions of the brain, except:",
+    "stem": "A 23-year-old woman presents with left iliac fossa pain. The uterus and both ovaries are within normal limits. There is an anechoic left adnexal cyst adjacent to the uterus that appears separate from the ovary. You note that the patient has had a previous ultrasound for left adnexal pain, and that a left adnexal cyst with similar dimensions was noted then. Which of the following is the most likely diagnosis?",
     "options": [
-      "A. High signal intensity on FLAIR",
-      "B. ‘Black hole’ appearance",
-      "C. Incomplete ring-like contrast enhancement",
-      "D. Increase in size of lesion",
-      "E. Mass effect"
+      "A. Theca lutein cyst",
+      "B. Paraovarian cyst",
+      "C. Endometrioma",
+      "D. Adenomyosis",
+      "E. Dermoid cyst"
     ]
   },
   {
     "questionNumber": 18,
-    "stem": "A 14-year-old boy complains of left knee pain and limp. He also has medial thigh pain. On examination, he has full range of movement with some discomfort on internal rotation. AP and lateral X-rays of the knee and femur are normal. What is the next investigation?",
+    "stem": "A patient undergoes pancreatic transplantation. Which of the following statements is least likely?",
     "options": [
-      "A. CT",
-      "B. Bone scan",
-      "C. MRI",
-      "D. Frog leg lateral of the hips",
-      "E. US"
+      "A. The transplanted pancreatic duct is normally dilated.",
+      "B. Indistinct pancreatic margins on ultrasound may indicate graft rejection.",
+      "C. Most patients have a simultaneous renal transplant.",
+      "D. The donor pancreas is normally grafted onto the external iliac vessels.",
+      "E. Most patients achieve insulin independence."
     ]
   },
   {
     "questionNumber": 19,
-    "stem": "A 30-year-old woman presents with shortness of breath and fatigue. CT shows enlargement of the right atrium, right ventricle and pulmonary artery and normal appearance of the left atrium. What is the most likely diagnosis?",
+    "stem": "A 30-year-old woman presents with bilateral foot drop 2 days post-partum. What finding on MRI would explain this?",
     "options": [
-      "A. VSD – Ventricular Septal Defect",
-      "B. ASD – Atrial Septal Defect",
-      "C. Bicuspid aortic valve",
-      "D. Coarctation of the aorta",
-      "E. Mitral valve disease"
+      "A. Posterior disc protrusion at L3/L4",
+      "B. Bilateral common peroneal nerve entrapment",
+      "C. Bilateral sciatic nerve compression",
+      "D. Paracentral disc protrusion at L3/L4",
+      "E. Spinal canal stenosis at L3/L4"
     ]
   },
   {
     "questionNumber": 20,
-    "stem": "A 50-year-old man is referred to a gastroenterologist with a 6-month history of intermittent epigastric pain and nausea. He is referred for a barium meal test due to a failed OGD – oesophago-gastroduodenoscopy. The study shows an ulcer along the lesser curve of the stomach. Which of the following is a malignant feature of a gastric ulcer?",
+    "stem": "On an antenatal ultrasound, a foetus is found to have an intracranial anomaly. At birth, the cranial ultrasound reveals a large cystic mass in the posterior fossa communicating with the fourth ventricle with hypoplasia of the cerebellar vermis.\nWhat other associated abnormality would you not expect to be associated with the underlying condition?",
     "options": [
-      "A. The margin of the ulcer crater extends beyond the projected luminal surface.",
-      "B. Carman meniscus sign.",
-      "C. Hampton’s line.",
-      "D. Central ulcer within mound of oedema.",
-      "E. The ulcer depth is greater than the width."
+      "A. Subependymal calcification",
+      "B. Corpus callosum agenesis",
+      "C. Grey matter heterotopia",
+      "D. Schizencephaly",
+      "E. Occipital encephalocele"
     ]
   },
   {
     "questionNumber": 21,
-    "stem": "Which of the following characteristics is typical of prostate cancer?",
+    "stem": "A 13-year-old boy presents with symptoms and radiographic evidence of a slipped capital femoral epiphysis (SCFE). It is noted on his radiographs that the physes are generally wide with flaring of the metaphyses. Which of the following is the most likely diagnosis?",
     "options": [
-      "A. Low on T1 High on T2",
-      "B. Low on T1 Low on T2",
-      "C. Isointense on T1 High on T2",
-      "D. High on T1 High on T2",
-      "E. Isointense on T1 Isointense on T2"
+      "A. Rickets",
+      "B. Hypophosphatasia",
+      "C. Blount’s disease",
+      "D. Achondroplasia",
+      "E. Renal osteodystrophy"
     ]
   },
   {
     "questionNumber": 22,
-    "stem": "An eccentric expansile lesion in the metaphysis of the humerus is noted incidentally following a routine plain radiograph investigation in a young patient following a rugby tackle. MRI performed for further characterisation shows multiple cystic spaces, some with blood fluid level, with an intact low-signal periosteal rim. What is the diagnosis?",
+    "stem": "A 76-year-old woman is having a pelvic magnetic resonance imaging (MRI) scan to assess for a possible hernia. She is noted to have a 6 cm very low intensity lesion within the right ovary on both T1 and T2. Some fluid is also noted within the pelvis. Which of the following is the most likely diagnosis?",
     "options": [
-      "A. Unicameral bone cyst",
-      "B. Aneurysmal bone cyst",
-      "C. Eosinophilic granuloma",
-      "D. Enchondroma",
-      "E. Fibrous dysplasia"
+      "A. Ovarian mucinous cystadenoma",
+      "B. Krukenberg tumour",
+      "C. Ovarian fibroma",
+      "D. Dermoid cyst",
+      "E. Clear cell carcinoma of the ovary"
     ]
   },
   {
     "questionNumber": 23,
-    "stem": "A 34-year-old woman with previous history of upper limb weakness that resolved spontaneously and optic neuritis was referred for an MRI brain. MRI confirms the presence of bilateral periventricular hyperintensities on FLAIR with abnormal signal in the corpus callosum and middle cerebellar peduncles. MRI also shows signal abnormality in the right optic nerve. Which portion of the optic nerve does Multiple sclerosis (MS) most commonly affect?",
+    "stem": "You are reviewing the X-rays of a 44-year-old male patient who has complained of mild breathlessness and a cough but otherwise well. Several chest radiographs performed over an 18-month period demonstrate diffuse ground glass shadowing with several scattered confluent areas of air-space consolidation. The lung changes do not appear to have any zonal predilection, and no mediastinal, hilar or cardiac abnormality is evident. HRCT also showed fairly extensive smooth interlobular septal thickening. The intervening lung appears normal, and there is sharp demarcation between the abnormal and normal lung parenchyma. Which of the following is most likely given the radiological findings described?",
     "options": [
-      "A. Intra-orbital.",
-      "B. Intracanalicular.",
-      "C. Intracranial.",
-      "D. Chiasmatic.",
-      "E. All portions are equally susceptible."
+      "A. Pulmonary vasculitis",
+      "B. Pulmonary oedema",
+      "C. Primary tuberculosis",
+      "D. Alveolar proteinosis",
+      "E. Extrinsic allergic alveolitis"
     ]
   },
   {
     "questionNumber": 24,
-    "stem": "A newborn baby has US of the spine. At which level is the conus expected to be?",
+    "stem": "An otherwise healthy 44-year-old patient presents acutely unwell with new-onset epigastric pain and is found to have a significantly raised amylase level. Which of the following clinical scenarios is least likely?",
     "options": [
-      "A. Above L1",
-      "B. Above T12",
-      "C. L2 to L3",
-      "D. L3 to L4",
-      "E. S2"
+      "A. Alcoholic patient, recent 48-h binge",
+      "B. Previous bouts of right upper quadrant abdominal pain",
+      "C. Recent flu-like symptoms",
+      "D. Computed tomography report describing a 6 cm pseudocyst",
+      "E. Fulminant haemolytic–uraemic syndrome"
     ]
   },
   {
     "questionNumber": 25,
-    "stem": "A middle-aged woman presents with cough and haemoptysis. Her chest X-ray reveals a large ovoid mass in the right lower lobe. She has a known history of Osler–Weber–Rendu syndrome. What is the most appropriate next imaging investigation that you will organise?",
+    "stem": "A 73-year-old woman with weight loss, previous history of endometriosis and a CA-125 of 983 µg/mL, attends for an magnetic resonance imaging (MRI) scan of the pelvis after a cystic mass with nodules was noted in the left adnexa on ultrasound. There is a 6 cm predominately unilocular cystic mass in the left adnexa, which is bright on T1W & T1W fat-saturated images with enhancing solid mural nodules along its wall. It remains high signal on fat-saturated imaging. Which of the following is the most likely diagnosis?",
     "options": [
-      "A. MRA of the pulmonary artery",
-      "B. CTPA",
-      "C. CTPA with portal phase images covering the liver",
-      "D. Chest HRCT",
-      "E. Conventional pulmonary angiography"
+      "A. Dysgerminoma",
+      "B. Brenner tumour of the ovary",
+      "C. Endometrioma",
+      "D. Ovarian dermoid",
+      "E. Clear cell carcinoma of the ovary"
     ]
   },
   {
     "questionNumber": 26,
-    "stem": "A nursing home resident is found to have a lung tumour and undergoes CT staging of the chest and abdomen. This reveals a discrete lesion medial to the second part of the duodenum with a fluid–fluid level. What is the most likely diagnosis?",
+    "stem": "A 32-year-old lady presents with acute sudden onset headache to the A&E department. CT shows haemorrhage within the fourth ventricle. Which vessel is most likely to be involved?",
     "options": [
-      "A. Duplication cyst",
-      "B. Duodenal diverticulum",
-      "C. Duodenal web",
-      "D. Annular pancreas",
-      "E. Adenocarcinoma of the duodenum"
+      "A. Anterior cerebral communicating artery",
+      "B. Anterior cerebral artery",
+      "C. Posterior cerebral artery",
+      "D. Posterior cerebral communicating artery",
+      "E. Posterior inferior cerebellar artery"
     ]
   },
   {
     "questionNumber": 27,
-    "stem": "Which of the following is false?",
+    "stem": "A 4-year-old child undergoes a CXR for suspicion of chest infection. The request mentions that the child has a congenital cardiac anomaly, which is, as yet, untreated. No further information regarding the type of anomaly is provided. The only abnormalities you can detect on the CXR include mild generalised cardiomegaly and increased pulmonary arterial flow. You note from the A&E department notes that the child is not cyanosed. What is the most likely diagnosis?",
     "options": [
-      "A. Skene cyst Lateral to external urethral meatus",
-      "B. Nabothian cyst Lateral to the endocervical canal",
-      "C. Gartner’s dust cyst Posterolateral aspect of the upper vagina",
-      "D. Bartholin’s cyst Posterolateral aspect of the vagina",
-      "E. Urethral diverticulum Posterolateral aspect of mid-urethra"
+      "A. Ebstein anomaly",
+      "B. Ventricular septal defect",
+      "C. Tetralogy of Fallot",
+      "D. Atrial septal defect",
+      "E. Truncus arteriosus"
     ]
   },
   {
     "questionNumber": 28,
-    "stem": "A 31-year-old man who is known to the gastroenterologist and rheumatologist presents to the ophthalmology department with visual disturbances. A pelvic radiograph done a year ago in the emergency department showed whiskering of the ischial tuberosities and greater trochanters, with symmetrical sclerosis of both sacroiliac joints. What is the most likely diagnosis?",
+    "stem": "An elderly patient presents to the orthopaedic clinic with progressive hip pain. He has a history of a hip replacement performed 5 years ago. A radionuclide bone scan is ordered and demonstrates increased uptake around the proximal aspect of the prosthesis. This finding is sensitive and specific for which of the following conditions?",
     "options": [
-      "A. Reiter syndrome",
-      "B. Behcet’s syndrome",
-      "C. Ankylosing spondylitis (AS)",
-      "D. Rheumatoid arthritis",
-      "E. Systemic lupus erythematosus (SLE)"
+      "A. Prosthetic fracture",
+      "B. Mechanical loosening",
+      "C. Periprosthetic fracture",
+      "D. Particle disease",
+      "E. None of the above"
     ]
   },
   {
     "questionNumber": 29,
-    "stem": "A 36-year-old woman with resolving limb weakness and previous history of optic neuritis is diagnosed as having relapsing remitting multiple sclerosis (RRMS). Which of the following statements concerning MS imaging is incorrect?",
+    "stem": "A 68-year-old male patient presents with painless jaundice. Abdominal ultrasound reveals both intrahepatic and extrahepatic biliary dilatation. The gallbladder is thin-walled and there are no gallstones. No other significant abnormality is detected, but the report mentions that ‘… the pancreas was not visualized due to overlying bowel gas …’. What is the most likely underlying diagnosis?",
     "options": [
-      "A. Black holes correlate well with clinical outcome.",
-      "B. Brain atrophy is higher in MS than normal ageing.",
-      "C. The pattern of brain atrophy can mimic Alzheimer’s disease.",
-      "D. Diffusion tensor imaging demonstrates structural damage to the white matter.",
-      "E. MS lesions have low MTR (Magnetisation Transfer Ratio) representing myelin loss."
+      "A. Pancreas divisum",
+      "B. Pancreatic acinar cell carcinoma",
+      "C. Pancreatic adenocarcinoma",
+      "D. Pancreatic islet cell tumour",
+      "E. Pancreatic pseudocyst"
     ]
   },
   {
     "questionNumber": 30,
-    "stem": "A 3-year-old presents as acutely unwell with a maculopapular rash, lymphadenopathy and erythema of her palms. Her white cell count is normal, and a specific cause for her symptoms is not found. She improves on immunoglobulins and supportive treatment. A follow-up echocardiogram shows cardiomegaly and a coronary artery aneurysm. What is the likely diagnosis?",
+    "stem": "A 55-year-old man presents with a several-week history of worsening stridor. He has had several chest infections over recent months, with repeated courses of antibiotics providing little relief of symptoms. Mediastinal lymphadenopathy is evident on chest radiograph, with a few intrapulmonary nodules in the periphery of both lungs. Computed tomography confirms the presence of multiple nodules, most numerous in the subpleural region of the right lower lobe. Also of note is a mucosal polypoid lesion in the upper trachea and a further endobronchial lesion just distal to the carina in the right main bronchus. Which condition encompasses these clinical and radiographic findings?",
     "options": [
-      "A. Takayasu arteritis",
-      "B. Kawasaki arteritis",
-      "C. Moyamoya syndrome",
-      "D. Henoch–Schonlein purpura",
-      "E. Churg–Strauss syndrome"
+      "A. Amyloidosis",
+      "B. Alveolar proteinosis",
+      "C. Pulmonary vasculitis",
+      "D. Histoplasmosis",
+      "E. Hydatid disease"
     ]
   },
   {
     "questionNumber": 31,
-    "stem": "A 76-year-old male patient with chronic inflammatory disease and known history of secondary generalised multisystem amyloidosis showed an abnormal appearance of the heart on echocardiography. Dynamic enhanced cardiac MR imaging was advised for further characterisation. All of the following are imaging findings seen with cardiac amyloidosis, except",
+    "stem": "A neonate is noted to be markedly cyanosed, worsening when she cries. A CXR performed on day 1 is normal. Which of the following types of congenital cardiac anomaly is most likely?",
     "options": [
-      "A. Left ventricular wall hypertrophy",
-      "B. Subendocardial delayed myocardial hyperenhancement",
-      "C. Systolic dysfunction",
-      "D. Granular echogenic myocardium",
-      "E. Interatrial septal thickening"
+      "A. Patent ductus arteriosus",
+      "B. Ebstein anomaly",
+      "C. Coarctation of the aorta",
+      "D. Tricuspid atresia",
+      "E. Tetralogy of Fallot"
     ]
   },
   {
     "questionNumber": 32,
-    "stem": "A taxi driver has had recurrent episodes of abdominal pain. On CT, a lesion is seen within the head of the pancreas. Pancreatic duct dilatation is noted with a normal CBD and atrophy of the body and tail of the pancreas. ERCP demonstrates thick mucous material discharging from the bulging papilla. What is the most likely diagnosis?",
+    "stem": "Pick’s disease affects which of the following?",
     "options": [
-      "A. Mucinous cystadenocarcinoma",
-      "B. Serous cystadenocarcinoma",
-      "C. Main duct IPMN (Intraductal Papillary Mucinous Neoplasm)",
-      "D. Pancreatic pseudocyst",
-      "E. Pancreatic adenocarcinoma"
+      "A. Fronto-parietal lobe",
+      "B. Temporo-parietal",
+      "C. Temporo-frontal",
+      "D. Parieto-occipital",
+      "E. Frontal"
     ]
   },
   {
     "questionNumber": 33,
-    "stem": "A 55-year-old man with several episodes of epididymo-orchitis in the past has an ultrasound of the scrotum. The radiologist performing the scan notices several hypoechoic structures within the mediastinum testis and incidental epididymal cysts. There was no Doppler flow. What is the most likely diagnosis?",
+    "stem": "A 36-year-old woman is being investigated for possible renal stones with CT KUB. An incidental “polka-dot” appearance to the T12 vertebral body is noted on the axial CT images. MRI at the same level shows characteristic high signal in the vertebral body on T1 and T2W images. All of the following statements regarding this entity are true, except",
     "options": [
-      "A. Lymphoma of the testes",
-      "B. Cystic dysplasia of the testis",
-      "C. Seminoma",
-      "D. Abscess",
-      "E. Cystic transformation of rete testis"
+      "A. They may extend to involve the posterior element.",
+      "B. They are commonly multiple.",
+      "C. Compressive lesions are common in the lumbar spine.",
+      "D. Low T1W lesions are more likely to be active.",
+      "E. Most are asymptomatic."
     ]
   },
   {
     "questionNumber": 34,
-    "stem": "An elderly woman presents with progressive atraumatic pain within her right knee over the course of the last month, particularly on the medial aspect, associated with functional impairment. Her clinical history includes a meniscal tear, which was treated arthroscopically 10 years ago with a good outcome. An MRI reveals florid marrow oedema within the medial femoral condyle associated with mild flattening of the weight-bearing surface. What is the diagnosis?",
+    "stem": "An alcoholic patient is referred for an ultrasound from the A&E department of your hospital. The request states that the patient has deranged liver function tests and raises the possibility of underlying liver cirrhosis. Which of the following findings would not help you to confirm this diagnosis?",
     "options": [
-      "A. Perthe’s disease",
-      "B. Sinding–Larsen’s disease",
-      "C. Blount’s disease",
-      "D. Spontaneous osteonecrosis of the knee",
-      "E. Osteochondral defect"
+      "A. Caudate lobe hypertrophy",
+      "B. Increased echogenicity of the liver parenchyma",
+      "C. Coarse echotexture to the liver",
+      "D. Decreased resistive index in hepatic artery",
+      "E. Hepatofugal flow within the portal vein"
     ]
   },
   {
     "questionNumber": 35,
-    "stem": "A known MS patient has presented to the neurologist with clinical features of involvement of the spinal cord. An MRI of the whole spine has been requested with a view towards assessment of the cord for possible multiple sclerosis (MS) plaques. MS lesions in the spinal cord occur most commonly in the",
+    "stem": "A 53-year-old man is assessed by the receiving surgeon, having presented with severe chest pain, vomiting and sepsis. Mediastinal emphysema is evident on chest radiograph and computed tomography confirms oesophageal perforation. Which of the following statements is incorrect with regard to this condition?",
     "options": [
-      "A. Cervical segment.",
-      "B. Thoracic segment.",
-      "C. Lumbar segment.",
-      "D. Sacral segment.",
-      "E. All segments are equally affected."
+      "A. Plain chest radiography is normal in approximately 10% of cases.",
+      "B. Iatrogenic injury is the most common single cause of oesophageal perforation.",
+      "C. Upper oesophageal perforations typically result in right-sided pleural collection.",
+      "D. In blunt chest trauma, the perforation usually occurs in the lower third of the oesophagus.",
+      "E. Water-soluble contrast agents should be used for fluoroscopic assessment."
     ]
   },
   {
     "questionNumber": 36,
-    "stem": "A neonate presents with non-bilious vomiting with a palpable upper abdominal lump. Which of the following US findings would not be in keeping with pyloric stenosis?",
+    "stem": "A normally well 8-year-old child presents to the A&E department short of breath and pyrexial complaining of joint pain. Chest X-ray shows an enlarged heart with upper lobe venous blood diversion and small bilateral pleural effusions. No focal collapse/consolidation is evident, but there are patchy interstitial infiltrates in a perihilar distribution. Further questioning reveals that the child recently had a sore throat. What is the most likely underlying diagnosis?",
     "options": [
-      "A. Pyloric muscle thickness 3.5 mm",
-      "B. Target sign",
-      "C. Pyloric canal length 14 mm",
-      "D. Antral nipple sign",
-      "E. Cervix sign"
+      "A. Toxic synovitis",
+      "B. Juvenile rheumatoid arthritis",
+      "C. Reiter’s disease",
+      "D. Rheumatic fever",
+      "E. Septicaemia"
     ]
   },
   {
     "questionNumber": 37,
-    "stem": "A child with exertional dyspnoea and abnormal chest X-ray showing a boot-shaped heart and oligaemic lungs is diagnosed as suffering from tetralogy of Fallot. The pulmonary oligaemia is secondary to right ventricular outflow tract (RVOT) obstruction. Which of the following is the most common implicated cause for obstruction of RVOT?",
+    "stem": "All the following cause basal ganglia calcification except?",
     "options": [
-      "A. Hypoplastic pulmonary annulus",
-      "B. Pulmonary valvular stenosis",
-      "C. Infundibular stenosis",
-      "D. Combined infundibular and pulmonary valvular stenosis",
-      "E. Overriding ventricular septum"
+      "A. Pseudohypoparathyroidism",
+      "B. Lead poisoning",
+      "C. Ageing",
+      "D. Hypothyroidism",
+      "E. Wilson’s disease"
     ]
   },
   {
     "questionNumber": 38,
-    "stem": "A 50-year-old man presents with recurrent episodes of abdominal pain. Blood amylase is normal. Chronic pancreatitis is suspected. All of the following statements regarding MRI imaging in chronic pancreatitis are true, except",
+    "stem": "An 82-year-old woman presents with postmenopausal bleeding. Transvaginal ultrasound shows a thickened endometrium and a left adnexal lobulated multicystic lesion, which has some solid elements. Some of the cysts contain fluid–fluid levels and have thick septa. Which of the following is the most likely diagnosis?",
     "options": [
-      "A. MRI has a poor sensitivity for detecting parenchymal calcification in chronic pancreatitis.",
-      "B. MRI allows evaluation of the ductal system for strictures and stones, debris within pseudocysts and fistula.",
-      "C. MRI shows good sensitivity for the differential diagnosis of focal chronic pancreatitis from pancreatic carcinoma.",
-      "D. Both focal chronic pancreatitis and pancreatic carcinoma demonstrate abnormal post-contrast enhancement on MRI.",
-      "E. Both focal chronic pancreatitis and pancreatic carcinoma demonstrate low signal intensity of the pancreas on T1W fat-saturated images."
+      "A. Endometriosis",
+      "B. Granulosa cell tumour",
+      "C. Endometrial hyperplasia and haemorrhagic corpus luteal cyst",
+      "D. Serous cystadenocarcinoma",
+      "E. Fibrothecoma"
     ]
   },
   {
     "questionNumber": 39,
-    "stem": "A 60-year-old heavy smoker presents with haematuria. US KUB shows a midline fluid-filled cavity with mixed echogenicity and calcification adjacent to the bladder wall. CT shows a focal low-attenuation enhancing mass along a cord-like structure extending from the bladder to the umbilicus. What is the most likely diagnosis?",
+    "stem": "A 33-year-old woman with progressive increase in back pain and perineal pain was sent for further evaluation to the spinal surgeons. Axial and coronal reformatted CT image showed a well-defined lytic lesion of the right upper part of the sacrum with extension through the right sacroiliac joint and absence of a sclerotic rim. All the following are features of this lesion except?",
     "options": [
-      "A. Complex urachal cyst",
-      "B. Vesico urachal diverticulum",
-      "C. Urachal adenocarcinoma",
-      "D. Transitional cell carcinoma",
-      "E. Urachal rhabdomyosarcoma"
+      "A. Most commonly affected bone is sacrum.",
+      "B. Extension into intervertebral disc helps to differentiate GCT from ABC.",
+      "C. Septa show intense enhancement post-contrast injection.",
+      "D. Doughnut sign on scintigraphy usually suggests an alternate diagnosis.",
+      "E. Fluid–fluid level is not specific for this lesion."
     ]
   },
   {
     "questionNumber": 40,
-    "stem": "A 10 × 7 mm dense ossified focal lesion is noted in the neck of the right femur of a young man incidentally on a pelvic radiograph performed for an unrelated reason. The lesion has benign features and is consistent with a bone island (enostosis). No follow-up is suggested. All of the following are true of bone islands, except",
+    "stem": "A 38-year-old woman is undergoing investigations for infertility. She is otherwise asymptomatic. On hysterosalpingography, there is a large filling defect within the uterine fundus with a linear defect that extends into the filling defect. She subsequently has an MRI scan, which demonstrates a myometrial mass with indistinct margins, which abuts the junctional zone and has lower signal on T2 when compared with the adjacent myometrium. There are a few focal high T2 signal intensity areas within, some which appear more linear. It demonstrates less enhancement than its adjacent myometrium. Which of the following is the most likely diagnosis?",
     "options": [
-      "A. If more than 2 cm, they are classified as a ‘giant’ bone island.",
-      "B. They have a sclerotic appearance on imaging.",
-      "C. They show a characteristic brush border on plain films.",
-      "D. They can be positive on a bone scan.",
-      "E. Giant bone islands can be locally aggressive."
+      "A. Leiomyosarcoma",
+      "B. Leiomyoma",
+      "C. Endometrial carcinoma",
+      "D. Adenomyosis",
+      "E. Hydatidiform mole"
     ]
   },
   {
     "questionNumber": 41,
-    "stem": "A patient recently diagnosed with MS has been sent for an MRI of the whole spine to detect possible spinal plaques. All of the following are MR features of spinal cord lesions in MS, except",
+    "stem": "Before being referred for a CT colonography, a patient asks to speak with a radiologist to clear up a few points regarding colon cancer; Of the following statements, which is most correct?",
     "options": [
-      "A. The sole site of involvement (in some cases).",
-      "B. Imaging features similar to those of MS lesions in the brain.",
-      "C. Most lesions are centrally located.",
-      "D. The length rarely exceeds two vertebral segments.",
-      "E. Dorsal column involvement."
+      "A. Smaller polyps are more likely to be malignant than larger ones.",
+      "B. Most colonic polyps are malignant.",
+      "C. Gardener syndrome carries an increased risk of cancer but Peutz–Jeghers syndrome does not.",
+      "D. Most colon cancers start as an adenomatous polyp.",
+      "E. Inflammatory bowel disease carries no increased risk of cancer."
     ]
   },
   {
     "questionNumber": 42,
-    "stem": "Barium enema of a neonate shows an inverted cone shape at the rectosigmoid colon. There is marked retention of the barium on delayed post-evacuation films after 24 hours. The cause for this is",
+    "stem": "A 75-year-old man presents with abdominal pain after eating and mesenteric angina is suspected. You decide to perform a celiac axis angiogram using a mechanical contrast pump. What is an appropriate volume and flow rate of contrast to use?",
     "options": [
-      "A. Meconium ileus",
-      "B. Meconium plug syndrome",
-      "C. Hirschsprung’s disease",
-      "D. Imperforate anus",
-      "E. Hyperplastic polyp of colon"
+      "A. 32 mL @ 8 mL/s",
+      "B. 20 mL @ 20 mL/s",
+      "C. 40 mL @ 20 mL/s",
+      "D. 30 mL @ 20 mL/s",
+      "E. 20 mL @ 6 mL/s"
     ]
   },
   {
     "questionNumber": 43,
-    "stem": "A 3-year-old child with shortness of breath is diagnosed with tetralogy of Fallot. All of the following abnormalities may be associated with this condition, except",
+    "stem": "A 62-year-old postmenopausal woman has a magnetic resonance imaging (MRI) scan to look for a hernia. In the right ovary is a 1 cm sharply demarcated low T1 and T2 signal solid mass with adjacent calcification. There is also a multilocular cystic lesion within the same ovary, containing multiple thin-walled septa. Which of the following is the most likely cause of the well-demarcated low-signal lesion?",
     "options": [
-      "A. Transposition of great vessels (TGA)",
-      "B. Patent ductus arteriosus (PDA)",
-      "C. Anomalous origin of coronary arteries",
-      "D. DiGeorge syndrome",
-      "E. Right-sided aortic arch"
+      "A. Ovarian fibroma",
+      "B. Ovarian Brenner tumour",
+      "C. Ovarian dermoid cyst",
+      "D. Endometrioma",
+      "E. Corpus luteal cyst"
     ]
   },
   {
     "questionNumber": 44,
-    "stem": "A 40-year-old woman presents to her GP with right upper quadrant pain and is referred for an ultrasound of the abdomen. The scan demonstrates a thickened gall bladder wall with several intramural small echogenic foci showing ‘comet tail artefacts’. A few gallstones are also noted. What is the most common diagnosis?",
+    "stem": "Which of the following is specific for osteomalacia?",
     "options": [
-      "A. Xanthogranulomatous cholecystitis",
-      "B. Strawberry gallbladder",
-      "C. Porcelain gallbladder",
-      "D. Gallbladder adenomyomatosis",
-      "E. Acute cholecystitis"
+      "A. Brown tumour",
+      "B. Looser zones",
+      "C. Cloaca",
+      "D. Cyclops lesion",
+      "E. Wimberger’s sign"
     ]
   },
   {
     "questionNumber": 45,
-    "stem": "A woman presents with infertility and undergoes a hysterosalpingogram. This demonstrates a uterus with two converging horns. A wide angle is seen at the roof of the uterus. Which uterine anomaly does the patient have?",
+    "stem": "AP radiograph of the leg of a 3-year-old girl shows periosteal reaction in the mid-fibula. Exuberant periosteal reaction was worrisome for malignancy, and MRI was performed. Coronal STIR images showed a low signal intensity fracture line surrounded by extensive soft-tissue and bone marrow oedema. No mass was depicted. Other sites commonly affected in toddlers fracture include all the following, except:",
     "options": [
-      "A. Uterine didelphys",
-      "B. Septate uterus",
-      "C. Arcuate uterus",
-      "D. Bicornuate uterus",
-      "E. Unicornuate uterus"
+      "A. Tibia",
+      "B. Humerus",
+      "C. Talus",
+      "D. Calcaneum",
+      "E. Cuboid"
     ]
   },
   {
     "questionNumber": 46,
-    "stem": "A 53-year-old woman presents to the A&E department with acute knee pain. She has had two previous similar episodes in the past, which settled with analgesics and anti-inflammatory medications. Plain films show extensive degenerative change, which is worst at the patellofemoral joint with large subchondral cystic change and chondrocalcinosis of the knee menisci. She informs the attending doctor that she is under review with the endocrinologist. What is the likely diagnosis?",
+    "stem": "A 63-year-old man presents with progressive vertical gaze abnormality and cognitive symptoms. MRI of the brain demonstrates volume loss of the mid brain, which was described by the reporting radiologist as Hummingbird sign. What is the diagnosis?",
     "options": [
-      "A. Calcium pyrophosphate deposition disease (CPPD)",
-      "B. Gout",
-      "C. Rheumatoid arthritis",
-      "D. Ochronosis",
-      "E. Psoriasis"
+      "A. Multisystem atrophy",
+      "B. Progressive supranuclear palsy",
+      "C. Parkinson’s disease",
+      "D. Shy–Drager syndrome",
+      "E. Amyotrophic lateral sclerosis"
     ]
   },
   {
     "questionNumber": 47,
-    "stem": "A 54-year-old man who developed brain metastases almost 9 years after resection of an acral lentiginous melanoma of the distal thumb shows two peripheral nodules in the right frontal lobe. All of the following are features of CNS metastatic melanoma, except",
+    "stem": "A patient is diagnosed with Helicobacter pylori infection. Which of the following findings would you not expect?",
     "options": [
-      "A. Moderate to intense enhancement post-contrast administration",
-      "B. Cystic components",
-      "C. Subependymal nodules",
-      "D. Multiple lesions at the gray–white matter junction",
-      "E. Miliary pattern"
+      "A. Gastric ulcer",
+      "B. Duodenal ulcer",
+      "C. Linitis plastica",
+      "D. Polypoid gastritis",
+      "E. Thickened gastric folds"
     ]
   },
   {
     "questionNumber": 48,
-    "stem": "A child presents with vomiting and sudden onset abdominal pain. Plain X-rays show a target sign in the right upper quadrant. US shows a pseudo kidney sign in keeping with intussusception. Which of the following is false regarding hydrostatic reduction?",
+    "stem": "You performed a catheter angiogram and angioplasty for right popliteal stenosis on a patient in the vascular ward and are there to review him the following day. The nurse asks you to prescribe him some analgesia because, overnight, his limb has become painful and pale with loss of power and intolerable tingling. Which of the following is your next step?",
     "options": [
-      "A. Free intraperitoneal air is a contraindication.",
-      "B. A maximum of two attempts can be made.",
-      "C. Air is preferred to Gastrografin water solution in some institutions.",
-      "D. The perforation rate is 0.4%–3%.",
-      "E. Air enema is associated with a higher perforation rate."
+      "A. Review the puncture site (you find no significant haematoma) and prescribe analgesics",
+      "B. Arrange for the patient to be taken back to the suite for further angiography",
+      "C. You immediately page the vascular surgeon on call",
+      "D. Organise urgent CTPA to exclude pulmonary embolism",
+      "E. You start the patient on low molecular weight heparin and organise US leg veins"
     ]
   },
   {
     "questionNumber": 49,
-    "stem": "Plain X-ray of a newborn shows a large tubular air shadow behind the trachea. The lungs are clear. The bowels are grossly distended with air. What is the likely type of tracheo-oesophageal fistula?",
-    "options": ["A. Type A", "B. Type B", "C. Type C", "D. Type D", "E. Type E"]
+    "stem": "A 72-year-old poorly controlled diabetic gentleman with multiple foot ulcers undergoes an MRI examination to exclude osteomyelitis. All of the following are MR features of osteomyelitis of bones of the forefoot, except",
+    "options": [
+      "A. Low signal intensity in infected bone marrow on T1W images",
+      "B. Contrast enhancement of bone marrow",
+      "C. Decreased signal intensity of bone marrow on STIR images",
+      "D. Increased signal intensity of bone marrow on T2W images",
+      "E. Contrast enhancement of adjacent soft tissues"
+    ]
   },
   {
     "questionNumber": 50,
-    "stem": "A 46-year-old American man who has come to the UK on a holiday trip arrives at the AED with worsening shortness of breath. Chest X-ray shows bilateral asymmetrical calcified mediastinal and hilar nodes, and chronic pulmonary histoplasmosis is provisionally diagnosed. The worsening symptoms are attributed to fibrosing mediastinitis. All the following conditions can occur as complications of fibrosing mediastinitis, except",
+    "stem": "A malformation is defined as a congenital morphologic anomaly of a single organ or body part due to an alteration of the primary developmental program caused by a genetic defect. All of the following are examples of posterior fossa cystic malformation, except",
     "options": [
-      "A. SVC syndrome",
-      "B. Pulmonary arterial hypertension",
-      "C. Pulmonary venous stenosis",
-      "D. Tracheal stenosis",
-      "E. Aortic stenosis"
+      "A. Blake’s pouch cyst",
+      "B. Dandy–Walker malformation",
+      "C. Arachnoid cyst",
+      "D. Rhombencephalosynapsis",
+      "E. Giant cisterna magna"
     ]
   },
   {
     "questionNumber": 51,
-    "stem": "A 70-year-old pensioner has been referred for an abdominal ultrasound as part of a routine medical examination. He is fit and well with no significant past medical history. The scan demonstrates a small focal well-defined hyperechoic area in the right lobe of the liver showing posterior acoustic enhancement. The most likely differential diagnosis is",
+    "stem": "Which of the following combination of MRI signal is characteristic for cerebral abscess?\nDWI ADC",
     "options": [
-      "A. Metastasis",
-      "B. Fatty infiltration",
-      "C. Liver cyst",
-      "D. FNH (Focal nodular hyperplasia)",
-      "E. Capillary haemangioma"
+      "A. Low High",
+      "B. High High",
+      "C. High Low",
+      "D. Low Low",
+      "E. Isointense High"
     ]
   },
   {
     "questionNumber": 52,
-    "stem": "The causes of medullary nephrocalcinosis include all, except",
+    "stem": "A 37-year-old woman, with a previous history of cervical carcinoma and radiotherapy, presents with abdominal pain. On magnetic resonance imaging, there is a large cystic midline structure, which has high T1 signal and some internal debris, extending anteriorly and superiorly from the cervix. Coincidentally, in the cervical region, there is high/intermediate T2 signal surrounding the endocervical canal and disruption of the low-intensity cervical stromal ring. Which of the following is the most likely diagnosis?",
     "options": [
-      "A. Hyperparathyroidism",
-      "B. Renal tubular acidosis",
-      "C. Medullary sponge kidney",
-      "D. Hypervitaminosis D",
-      "E. Alport’s syndrome"
+      "A. Cervical carcinoma recurrence causing haematometra",
+      "B. Cervical carcinoma with invasion of the uterus",
+      "C. Radiotherapy-induced cervical stenosis causing haematometra",
+      "D. Cervical carcinoma recurrence with metastasis to ovary",
+      "E. Imperforate hymen"
     ]
   },
   {
     "questionNumber": 53,
-    "stem": "A 56-year-old woman known to the endocrinologist has been going to her family doctor with a funny sensation in her right hand and fingers for the last few months. An MRI was organised along with nerve conduction studies by her family doctor. MRI revealed fusiform swelling of the median nerve in the distal forearm just before the entrance into the carpal tunnel with increased signal on T2. What is the likely diagnosis?",
+    "stem": "Which of the following statements is most accurate regarding the use of endoscopic ultrasound?",
     "options": [
-      "A. Cervical spondylosis",
-      "B. Ulnar tunnel syndrome",
-      "C. Carpal tunnel syndrome",
-      "D. Cervical rib with brachial plexus impingement",
-      "E. Neurofibroma of the median nerve"
+      "A. It is superior to cross-sectional imaging for local staging of oesophageal cancer.",
+      "B. It is superior to cross-sectional imaging in the assessment of liver metastases.",
+      "C. It is less effective than cross-sectional imaging for local staging of rectal cancer.",
+      "D. It is less effective than traditional endoscopy for assessing submucosal masses.",
+      "E. It is not useful in the assessment of a primary pancreatic mass."
     ]
   },
   {
     "questionNumber": 54,
-    "stem": "A 7-year-old boy with a history of a penetrating injury from a tree branch was sent for CT orbits for further assessment. Which of the following statements regarding the CT detection of intra-orbital foreign bodies is false?",
+    "stem": "You are called to perform a catheter angiogram on a 26-year-old biker who was involved in a road traffic accident. You are told that he has suffered a dislocated knee. The clinician informs you that his foot is perfused but has sluggish capillary refill. He has a palpable dorsalis pedis pulse but no posterior tibial pulse. Which of the following would you expect to find on the angiogram?",
     "options": [
-      "A. Size, type and location of glass foreign body (FB) affects detection.",
-      "B. Wooden FB is hyperattenuating.",
-      "C. Old wood can be mistaken for air.",
-      "D. Attenuation of wood changes with water content.",
-      "E. CT can demonstrate metal FB less than a millimetre."
+      "A. Severed anterior tibial artery",
+      "B. Severed tibioperoneal trunk",
+      "C. Traumatic popliteal artery dissection",
+      "D. Atheromatous plaque at the peroneal origin",
+      "E. Normal anatomy"
     ]
   },
   {
     "questionNumber": 55,
-    "stem": "A 56-year-old woman with an increase in shortness of breath comes to the A&E department and is assessed by the physicians. The ECG is low in voltage and a chest X-ray is organised. The chest X-ray shows a very large heart with sharply defined borders and a narrow pedicle, suggesting pericardial effusion. All of the following are associated, except",
+    "stem": "A 13-year-old post-pubescent girl presents to the emergency department with acute abdominal pain sited predominantly within the right iliac fossa. An ultrasound scan is performed. This reveals an echogenic mass within the right side of pelvis measuring approximately 4 cm. The sonographer thinks it is adjacent to and inseparable from the right ovary. What is the most likely diagnosis?",
     "options": [
-      "A. Tuberculosis pericarditis",
-      "B. Blunt trauma to the sternum",
-      "C. Hyperthyroidism",
-      "D. Radiation pericarditis",
-      "E. Pericardial lymphoma"
+      "A. Acute appendicitis",
+      "B. Ovarian dermoid",
+      "C. Ovarian torsion",
+      "D. Ectopic pregnancy",
+      "E. Haemorrhagic ovarian cyst"
     ]
   },
   {
     "questionNumber": 56,
-    "stem": "A 66-year-old joiner presents to his GP with jaundice and abdominal discomfort. He was subsequently referred to a gastroenterologist who requests a liver biopsy due to deranged liver function tests. Which of the following options is not a contraindication for percutaneous liver biopsy?",
+    "stem": "A young adult presented with complex partial seizures and amnesia. His MRI scan demonstrated T2 hyperintensity within the medial right temporal lobe, loss of hippocampal head digitations and dilatation of the ipsilateral temporal horn of lateral ventricle. Which of the following is the most likely diagnosis?",
     "options": [
-      "A. INR above 1.6",
-      "B. Platelets less than 60,000/mm3",
-      "C. Tense ascites",
-      "D. Extra-hepatic biliary obstruction",
-      "E. Suspected haemangioma"
+      "A. Herpes simplex encephalitis",
+      "B. Choroidal fissure cyst",
+      "C. Mesial temporal sclerosis",
+      "D. Early-onset Alzheimer’s disease",
+      "E. Post-seizure appearance"
     ]
   },
   {
     "questionNumber": 57,
-    "stem": "A 40-year-old man who is a known hypothyroid patient, presents with weight loss and dull pain in the flank and back. He undergoes an abdominal CT. Regarding retroperitoneal fibrosis, all of the following is seen on imaging, except",
-    "options": [
-      "A. Medial deviation of the ureters in the middle third, typically bilateral.",
-      "B. CT shows soft-tissue mass displacing the aorta anteriorly.",
-      "C. T2W MRI shows variable signal.",
-      "D. PET CT has high sensitivity.",
-      "E. Hydronephrosis is evident on CT urogram."
-    ]
+    "stem": "A 32-year-old man presented to the A&E department after injuring his great toe. No fracture was demonstrated on plain X-ray performed, but incidental note was made of a flattened and sclerotic metatarsal head with subchondral collapse compatible with chronic changes of avascular necrosis (AVN). Which metatarsal is the most common site of Freiberg disease?",
+    "options": ["A. First", "B. Second", "C. Third", "D. Fourth", "E. Fifth"]
   },
   {
     "questionNumber": 58,
-    "stem": "A 17-year-old teenager is under investigation for vague pain in the knee associated with a limp. A plain film radiograph shows an oval lucent lesion in the epiphysis of the distal femur. The pain was noticed following an injury sustained during a football match. What would be the next investigation of choice?",
+    "stem": "A 39-year-old woman taking human menopausal gonadotrophins presents with pelvic pain, bloating and weight gain. On transvaginal ultrasound, both ovaries are enlarged and contain multiple bilateral cysts, some of which are 8 cm. There is also free fluid within the pouch of Douglas and surrounding the uterus. Which of the following is the most likely diagnosis?",
     "options": [
-      "A. CT",
-      "B. MRI",
-      "C. Bone biopsy",
-      "D. Tc-99m bone scan",
-      "E. No imaging necessary since it looks benign"
+      "A. Large corpus luteal cysts",
+      "B. Endometriomas",
+      "C. Polycystic ovarian syndrome",
+      "D. Ovarian hyperstimulation syndrome",
+      "E. Ovarian torsion"
     ]
   },
   {
     "questionNumber": 59,
-    "stem": "Abnormal high density is noted in the vitreous on CT orbits, suggesting the presence of blood in the posterior chamber. All of the following conditions are potential causes of vitreous haemorrhage, except",
+    "stem": "You are asked to perform an ultrasound scan on an asymptomatic 30-year-old pregnant woman 4 weeks after the obstetrician incidentally notes a 3 cm hyperechoic lesion in the right lobe of the liver. On today’s scan, you notice a 7 cm hyperechoic lesion involving segments VI & VII of the liver and subcapsular fluid. What is the most likely diagnosis for this lesion?",
     "options": [
-      "A. Intra-ocular tumour",
-      "B. Abnormal vascularisation of the retina",
-      "C. Terson syndrome",
-      "D. Corneal abrasion",
-      "E. Trauma"
+      "A. Focal nodular hyperplasia",
+      "B. Liver haemangioma",
+      "C. Metastasis",
+      "D. Hepatic adenoma",
+      "E. Hepatic abscess"
     ]
   },
   {
     "questionNumber": 60,
-    "stem": "A 1-month-old baby presents with difficulty in feeding and shortness of breath. Chest X-ray shows cardiomegaly. She has an episode of seizure and undergoes cranial US, which shows a median tubular cystic space with high-velocity turbulent flow on Doppler. The ventricles are also mildly dilated. These findings are consistent with",
+    "stem": "A 72-year-old man presents with recurrent episodes of flash pulmonary oedema. Magnetic resonance angiography shows bilateral renal artery stenosis with atherosclerotic disease at both renal artery ostia. Which of the following do you advise?",
     "options": [
-      "A. Pineal tumour",
-      "B. Arachnoid cyst",
-      "C. Colloid cyst",
-      "D. Vein of Galen aneurysm",
-      "E. Ventriculitis"
+      "A. No endovascular option",
+      "B. Bilateral renal artery radiofrequency (RF) denervation",
+      "C. Bilateral renal artery angioplasty and stenting",
+      "D. Continue with best medical management",
+      "E. Refer to vascular surgeons for bilateral renal artery endarterectomy"
     ]
   },
   {
     "questionNumber": 61,
-    "stem": "A 66-year-old man with progressive shortness of breath and low-volume ECG shows an enlarged heart on chest X-ray. Echocardiogram confirms the presence of a moderately large pericardial effusion. The pericardial fluid is aspirated for symptomatic relief and sent off for cytology and culture. Cytology comes back as positive for malignant cells. Which of the following is the most common type of primary pericardial malignancy?",
+    "stem": "A 7-year-old boy who is otherwise well is being investigated for chronic right-sided hip pain. Which of the following diagnoses is most likely?",
     "options": [
-      "A. Fibrosarcoma",
-      "B. Pericardial angiosarcoma",
-      "C. Fibromyxoid sarcoma",
-      "D. Mesothelioma",
-      "E. Epithelioid endothelioma"
+      "A. Septic arthritis",
+      "B. Perthes disease",
+      "C. Slipped upper femoral epiphysis",
+      "D. Juvenile rheumatoid arthritis",
+      "E. Developmental dysplasia of the hip"
     ]
   },
   {
     "questionNumber": 62,
-    "stem": "A 40-year-old man undergoes a CT KUB for renal colic, which shows an incidental finding of an 8-mm lesion in Segment VIII of the liver. Further characterisation of this lesion with MRI shows it to be low signal on T1W and high signal on T2W. On the dynamic phase, it shows peripheral nodular enhancement with centripetal filling. What is the most likely diagnosis?",
+    "stem": "Which one of the following is the incorrect association?",
     "options": [
-      "A. FNH",
-      "B. Adenoma",
-      "C. Haemangioma",
-      "D. Early appearance of Hepatocellular Carcinoma (HCC)",
-      "E. Cholangiocarcinoma"
+      "A. Astrocytoma Intramedullary",
+      "B. Abscess Extradural",
+      "C. Nerve sheath tumour Intradural extramedullary",
+      "D. Dermoid Extradural",
+      "E. Meningioma Intramedullary"
     ]
   },
   {
     "questionNumber": 63,
-    "stem": "Of the normal uterus signal on MR, which is correct?",
+    "stem": "A 10-year-old girl of Jewish descent presents with pain in her left thigh. A radiograph revealed diffuse medullary osteoporosis, a ‘flask-shaped’ distal femur, a serpentine area of sclerosis within the femoral metaphysis, and a sharply circumscribed endosteal lytic lesion in the distal femur with a pathological fracture. Clinical examination reveals splenomegaly. Which of the following is the most likely diagnosis?",
     "options": [
-      "Endometrium: High on T2",
-      "Myometrium: High on T2",
-      "Junctional zone: Isointense on T1",
-      "Endometrium: Low on T2",
-      "Myometrium: High on T1"
+      "A. Thalassemia",
+      "B. Osteopetrosis",
+      "C. Diaphyseal aclasis",
+      "D. Gaucher disease",
+      "E. Rickets"
     ]
   },
   {
     "questionNumber": 64,
-    "stem": "A plain lumbar spine radiograph of a 45-year-old woman shows marked posterior scalloping of the vertebral bodies extending over several vertebral lengths. All of the following are diseases associated with this finding, except",
+    "stem": "A 29-year-old woman attends for a transvaginal ultrasound for dyspareunia. While passing the probe, you notice an anechoic cystic lesion in the lower vagina within the posterolateral wall. Which of the following is the most likely diagnosis?",
     "options": [
-      "Marfan",
-      "Neurofibromatosis",
-      "Ependymoma",
-      "Achondroplasia",
-      "Hypothyroidism"
+      "A. Lipoma",
+      "B. Nabothian cyst",
+      "C. Gartner duct cyst",
+      "D. Bartholin’s cyst",
+      "E. Squamous cell carcinoma"
     ]
   },
   {
     "questionNumber": 65,
-    "stem": "A 58-year-old man with facial fractures shows deformity of the globe on unenhanced axial CT, but it is unclear if there is an open-globe injury. All of the following CT findings suggest an open-globe injury, except",
+    "stem": "A previously healthy 36-year-old woman presents with acute hepatic failure of unknown cause. Her international normalized ratio (INR) is 2.6 and fails to normalise despite treatment. An ultrasound scan shows ascites. The liver team asks you to consider a liver biopsy. Which of the following is the most appropriate reply?",
     "options": [
-      "Intra-ocular air",
-      "Lens dislocation",
-      "Scleral discontinuity",
-      "Flat tire sign",
-      "Deep anterior chamber"
+      "A. Unable to perform because of INR and ascites",
+      "B. Advise the patient of the increased risk of bleeding and go ahead with liver biopsy",
+      "C. Drain the ascites and the perform the biopsy",
+      "D. Perform transjugular liver biopsy",
+      "E. Perform transarterial liver biopsy"
     ]
   },
   {
     "questionNumber": 66,
-    "stem": "An 18-month-old child is brought in by her mother with complaints of visual problems; on examination, the left eye is of normal size with a whitish mass behind the lens. US shows a heterogeneous hyperechoic solid intra-ocular mass with retinal detachment. There are fine focal calcifications with acoustic shadowing. The appearances suggest",
+    "stem": "A 79-year-old diabetic patient presents with right short-distance calf claudication. Magnetic resonance angiography shows focal stenosis of the right popliteal segment, and a decision is made to proceed to angiography and endovascular treatment. Which of the following is the best approach for catheter angiography?",
     "options": [
-      "Persistent hyperplastic primary vitreous",
-      "Coats disease",
-      "Retinoblastoma",
-      "Toxocara endophthalmitis",
-      "Retrolental fibroplasia"
+      "A. Right common femoral artery (CFA), retrograde",
+      "B. Left CFA, retrograde",
+      "C. Right CFA, antegrade",
+      "D. Right popliteal puncture under ultrasound scan",
+      "E. Left CFA, retrograde"
     ]
   },
   {
     "questionNumber": 67,
-    "stem": "A 35-year-old woman undergoes an X-ray in the A&E department with suspicion of chest infection. The X-ray reveals an abnormal mediastinal opacity but no evidence of chest infection. Review of two old films done 2 and 6 years ago shows the same abnormal mediastinal opacities with no significant interval change in size, shape, appearance, or location. Judging by its location, the radiologist reports it as a simple pericardial cyst or spring water cyst. Which of the following statements concerning congenital simple pericardial cysts is false?",
+    "stem": "A 2-year-old boy is referred for a painless lump in the right supraorbital region. The lesion is fluctuant on clinical examination. On ultrasound, it demonstrates low internal echoes and scalloping of underlying bone. What is the most likely diagnosis?",
     "options": [
-      "They are homogenous and well defined on frontal chest X-ray.",
-      "They are most commonly left-sided.",
-      "On MRI, they are low on T1W and high on T2W images.",
-      "Pericardial cysts can contain proteinaceous material.",
-      "Pericardial cysts can occasionally calcify."
+      "A. Angular dermoid",
+      "B. Haemangioma",
+      "C. Neurofibroma",
+      "D. Lymphangioma",
+      "E. Aneurysmal bone cyst"
     ]
   },
   {
     "questionNumber": 68,
-    "stem": "A 90-year-old man is admitted following intermittent episodes of bright red rectal bleeding. He is haemodynamically stable on initial assessment. OGD and flexible colonoscopy are normal. He subsequently has another bleed on the surgical ward and is then referred for a CT mesenteric angiogram. Which of the following statements is false regarding CT mesenteric angiography?",
+    "stem": "Which of the following is an absolute contraindication to vertebroplasty?",
     "options": [
-      "Severe bleeding episodes, such as those manifesting with hemodynamic instability, decrease the pretest probability of a positive result for active bleeding at CT angiography.",
-      "Active bleeding must be present during the time contrast is injected into the vascular system in order to demonstrate the site of bleeding.",
-      "Portal venous phase imaging depicts extravascular blushes with higher sensitivity than arterial phase imaging does.",
-      "Retention of previously administered barium in colonic diverticula may be mistaken for, or may obscure, acute extravasation of contrast material.",
-      "Hyperattenuating material within the bowel lumen on the unenhanced scan without additional findings in the contrast-enhanced phases indicates recent haemorrhage."
+      "A. Symptomatic vertebral haemangioma",
+      "B. Metastasis",
+      "C. Multiple myeloma",
+      "D. Infection",
+      "E. Severely painful osteoporosis"
     ]
   },
   {
     "questionNumber": 69,
-    "stem": "A 25-year-old man undergoing abdominal CT shows the presence of bridging renal tissue across the midline at the level of the lower poles, consistent with a horseshoe kidney. All the following are recognised associations, except",
+    "stem": "An elderly man presents to his GP with pain in his left middle finger in the region of the nail bed. This has worsened over the past 2 months. Plain film reveals a destructive lytic lesion within the distal phalanx of his left middle finger. What is the likely diagnosis?",
     "options": [
-      "Bicornuate uterus",
-      "Cardiac anomaly",
-      "Undescended testis",
-      "Tracheo-oesophageal fistula",
-      "Anorectal malformation"
+      "A. Breast cancer metastasis",
+      "B. Renal cancer metastasis",
+      "C. Lung cancer metastasis",
+      "D. Gastric cancer metastasis",
+      "E. Pancreatic cancer metastasis"
     ]
   },
   {
     "questionNumber": 70,
-    "stem": "A young patient is followed up for a fractured tibia at the outpatient clinic. A repeat radiograph is acquired, which shows abnormal healing and callus formation at the fracture site. All the following are possible causes, except",
+    "stem": "A 34-year-old pregnant woman with severe abdominal pain attends for an MRI scan after an ultrasound showing a uterine mass. As well as the normal gestational sac, on T1W imaging there is a low-signal mass noted within the posterior myometrial wall, which displaces the uterine cavity anteriorly. This mass has a high T1 signal intensity rim. On T2W images, this lesion is intermediate to low signal and has a low-signal rim. Which of the following is the most likely diagnosis?",
     "options": [
-      "Cushing’s syndrome",
-      "Osteogenesis imperfecta",
-      "Osteopoikilosis",
-      "Paralytic state",
-      "Asthmatic on steroids"
+      "A. Non-degenerated leiomyoma",
+      "B. Hyaline degeneration within a leiomyoma",
+      "C. Red degeneration within a leiomyoma",
+      "D. Myxoid degeneration within a leiomyoma",
+      "E. Cystic degeneration within a leiomyoma"
     ]
   },
   {
     "questionNumber": 71,
-    "stem": "A 67-year-old man has been rushed to the stroke unit with features of acute stroke. All of the following are true about acute stroke imaging, except",
+    "stem": "You are performing a tunnelled dual lumen dialysis line via a right jugular approach on a 50-year-old with chronic renal failure. As you are peeling the sheath, you hear a hushing sound and the patient suddenly becomes agitated, with an acute decrease in his partial oxygen saturation pressure. Which of the following is the most appropriate immediate management?",
     "options": [
-      "CT source images correlate with infarct volume.",
-      "Matched CBV (Cerebral blood volume) and CBF (Cerebral blood flow) represent salvageable brain.",
-      "Diffusion-weighted MR imaging assesses the infarct core.",
-      "Mismatch between PWI (Perfusion weighted imaging) and DWI (Diffusion weighted imaging) volumes represents salvageable brain.",
-      "T2 shine through is seen as bright on DWI."
+      "A. Perform needle decompression in the right mid-clavicular line, 2nd interspace",
+      "B. Obtain a chest X-ray",
+      "C. Inject 10 mL of contrast down the sheath and look for extravasation",
+      "D. Put the patient head down and give fast intravenous crystalloid",
+      "E. Administer high-flow oxygen and put the patient in the left lateral position."
     ]
   },
   {
     "questionNumber": 72,
-    "stem": "Neck US of a previously well 2-year-old girl shows a 3-cm thin-walled cystic structure with multiple septae of variable thickness in the left posterior triangle with extension into the mediastinum. The diagnosis is:",
+    "stem": "The surgeons want you to review the CT of a young man at an X-ray meeting. A young patient had been admitted with acute abdominal pain and intussusception was diagnosed on pre-operative CT scan. Regarding this condition, which one of the following statements is incorrect?",
     "options": [
-      "Third branchial cleft cyst",
-      "Cervical meningocoele",
-      "Cystic teratoma",
-      "Lymphangioma",
-      "Second branchial cleft cyst"
+      "A. A lead point is rarely the underlying cause in adult cases.",
+      "B. The intussusceptum is the entering limb of bowel.",
+      "C. Ileocolic intussusception is the most common type in children.",
+      "D. The CT appearance is of multiple concentric rings.",
+      "E. Intussusception is the leading cause of acquired bowel obstruction in childhood."
     ]
   },
   {
     "questionNumber": 73,
-    "stem": "A 34-year-old woman with chest pain, shortness of breath and collapse is brought to the A&E department. Initial chest X-ray is abnormal. Subject to the abnormal appearance of the cardiac contour, an MRI is obtained in the local cardiac centre on the following day, which confirms a large congenital pericardial defect. All of the following are imaging features, except:",
+    "stem": "A 10-year-old girl of African origin presents with colicky right upper quadrant pain and deranged liver function tests. Ultrasound of the abdomen demonstrates acute calculus cholecystitis. What is the most likely diagnosis?",
     "options": [
-      "Abnormal cardiac contour on plain chest X-ray.",
-      "Failure to identify pericardium on CT or MR is diagnostic.",
-      "Most commonly, a left-sided location.",
-      "Shift of cardiac axis to the left.",
-      "Association with ASD."
+      "A. Sickle cell anaemia",
+      "B. Familial hypercholesterolaemia",
+      "C. Inflammatory bowel disease",
+      "D. Choledochal cyst",
+      "E. Thalassaemia minor"
     ]
   },
   {
     "questionNumber": 74,
-    "stem": "A 5-year-old boy involved in an RTA is referred for a trauma CT scan. The reporting radiologist does not find any acute abnormality. However, there are other incidental findings on the scan suggestive of malrotation. Which of the following options is the most specific feature of gut malrotation on CT?",
+    "stem": "A 60-year-old non-smoker presents with a history of increasing headaches and loss of consciousness. An unenhanced CT of the brain is performed which demonstrates high attenuation lesions within the cerebellum. All of the following may appear hyperdense on non-contrast CT, except",
     "options": [
-      "SMV (superior mesenteric vein) anterior to the SMA (superior mesenteric artery)",
-      "SMV to the right of the SMA",
-      "Whirl sign around the SMA",
-      "DJ (duodenojejunal) flexure to the right of the midline",
-      "SMV to the left of the SMA"
+      "A. Bronchogenic metastases",
+      "B. Melanoma metastases",
+      "C. Renal cell metastases",
+      "D. Prostate metastases",
+      "E. Thyroid carcinoma metastases"
     ]
   },
   {
     "questionNumber": 75,
-    "stem": "A 17-year-old girl is brought to the emergency department with sudden onset abdominal pain. She is known to have a cardiac tumour. On examination, she is hypotensive, peritonitic, and undergoes an urgent CT abdomen and pelvis. This shows bilateral large renal masses; the largest on the right measures 12 cm with multiple low-attenuation areas of −20 HU with large tortuous vessels and contrast extravasation into the retroperitoneum. These features are associated with",
+    "stem": "On an AP skull radiograph, there are fractures of the pterygoid plate, maxilla and nasal septum. What is the best classification for this type of injury?",
     "options": [
-      "Von Hippel–Lindau",
-      "Neurofibromatosis type 1",
-      "Sturge–Weber syndrome",
-      "Tuberous sclerosis",
-      "Amyloidosis"
+      "A. Le Fort I facial fracture",
+      "B. Le Fort II",
+      "C. Le Fort III",
+      "D. Depressed skull fracture",
+      "E. Pyramidal fracture"
     ]
   },
   {
     "questionNumber": 76,
-    "stem": "A young woman presents to the AED following a scuffle on a night out. On examination, there is a suspected fifth metacarpal fracture of her right hand. A plain radiograph is subsequently organized. This does not demonstrate a fracture, but it is noted that the patient has relatively short fourth metacarpal bones. Old chest films show bilateral inferior rib notching involving the third to sixth ribs bilaterally. What is the likely diagnosis?",
+    "stem": "A 56-year-old woman with known pancreatic cancer is brought from home by ambulance with haematemesis and melaena. After stabilisation, she undergoes endoscopy, which reveals isolated gastric fundus varices with a normal oesophagus. She also undergoes abdominal computed tomography, which shows echogenic material in one of the splanchnic veins, consistent with thrombosis. Which of the splanchnic veins is most likely to be associated with isolated gastric fundus varices rather than gastro-oesophageal varices?",
     "options": [
-      "Noonan syndrome",
-      "Turner syndrome",
-      "Pseudohypoparathyroidism",
-      "Marfan syndrome",
-      "Achondroplasia"
+      "A. Superior mesenteric vein",
+      "B. Inferior mesenteric vein",
+      "C. Portal vein",
+      "D. Splenic vein",
+      "E. Hepatic veins"
     ]
   },
   {
     "questionNumber": 77,
-    "stem": "A 66-year-old man with acute onset of right upper limb weakness was brought to A&E within an hour of the onset of symptoms. All of the following are recognised features of early ischaemic change, except",
+    "stem": "A 40-year old with recurrent pulmonary emboli is due to have a hip replacement and it is decided to deploy a temporary inferior vena cava (IVC) filter. What is the preferred site of deployment of an IVC filter?",
     "options": [
-      "Insular ribbon sign",
-      "Dense MCA sign",
-      "Sulcal effacement",
-      "Obscuration of the lentiform nucleus",
-      "Dilatation of ventricle"
+      "A. Suprarenal IVC",
+      "B. Infrarenal IVC",
+      "C. Proximal to the clot load, no matter the level",
+      "D. At the confluence of common iliac vessels",
+      "E. At the junction of IVC and right atrium"
     ]
   },
   {
     "questionNumber": 78,
-    "stem": "In order of frequency, the most common location of congenital lobar emphysema is as follows:",
+    "stem": "Which of the following is an appropriate puncture site for a percutaneous nephrostomy in a patient with normal sonographic anatomy? (You anticipate no need for further intervention.)",
     "options": [
-      "LUL, LLL, RUL",
-      "LUL, RML, RUL",
-      "RUL, RML, LLL",
-      "LUL, RUL, RLL",
-      "LUL, RML, RLL"
+      "A. Posterior calyx, middle/lower pole",
+      "B. Posterior calyx, upper pole",
+      "C. Direct puncture of the renal pelvis",
+      "D. Anterior, middle pole calyx",
+      "E. Anterior calyx, upper pole"
     ]
   },
   {
     "questionNumber": 79,
-    "stem": "A 66-year-old woman with progressive shortness of breath, reduced exercise tolerance and occasional chest pain shows engorged neck veins and hepatomegaly on clinical examination. She is clinically thought to have constrictive pericarditis. All of the following are imaging features of constrictive pericarditis, except",
+    "stem": "An 18-month-old toddler with a history of prematurity presents with an acutely distended abdomen and vomiting. He has not passed flatus for 24 hours. On examination, the referring accident and emergency registrar is concerned that the patient may have a torted testis, which he believes is causing the abdominal pain. An ultrasound demonstrates mixed echogenicity in the right scrotum. The testis could not be identified. What is the most likely diagnosis?",
     "options": [
-      "Pericardial thickness of more than 4 mm.",
-      "Pericardial thickening may be limited to the right side of the heart.",
-      "MR is better at demonstrating pericardial calcification.",
-      "Sigmoid-shaped ventricular septum.",
-      "Increased diameter of the IVC."
+      "A. Acute testicular torsion",
+      "B. Testicular carcinoma",
+      "C. Inguinal hernia",
+      "D. Femoral hernia",
+      "E. Sacro-coccygeal teratoma"
     ]
   },
   {
     "questionNumber": 80,
-    "stem": "A 60-year-old woman presents with abdominal cramps and watery diarrhea associated with flushing of the face. A CT colonography study is performed, as the patient is unable to tolerate optical colonoscopy. The colon and rectum are normal, but there is ileal thickening and a 2-cm partly calcified mass in the small bowel mesentery with surrounding desmoplasia. Carcinoid is suspected. Which of the following statements is true about small bowel carcinoid tumors?",
+    "stem": "A 31-year-old presented with a 3-month history of progressive leg weakness, sensory disturbance, urinary hesitancy, urgency and erectile dysfunction. He had treatment for sputum positive pulmonary TB 1 year ago. MRI of the spine shows clumping of nerve roots within the thecal sac and empty thecal sac sign. Intradural cysts are also seen. What is the most likely diagnosis?",
     "options": [
-      "Carcinoid syndrome has higher morbidity and mortality than the tumor itself.",
-      "Over 60% have carcinoid syndrome.",
-      "Carcinoid tumors are associated with neurofibromatosis type II.",
-      "They most commonly occur in the colon.",
-      "They commonly cause osteolytic metastasis to bone."
+      "A. Discitis",
+      "B. Cauda equina",
+      "C. Arachnoiditis",
+      "D. Diastomatomyelia",
+      "E. Arachnoid cyst"
     ]
   },
   {
     "questionNumber": 81,
-    "stem": "The following are signs of a normal gestational sac, except",
+    "stem": "A healthy 12-year-old boy presents with painful ankles (no history of trauma). A plain radiograph of his ankles demonstrates bilateral symmetrical periosteal reaction of his tibia and fibula. His father reports similar symptoms in adolescence but never had it investigated. No treatment is given. The boy had a further plain film performed after a football injury to his ankle at the age of 15 years. No periosteal reaction was seen at this time. Which of the following is the most likely diagnosis?",
     "options": [
-      "Intradecidual sign.",
-      "Cardiac activity seen with a CRL (crown-rump length) of 6 mm.",
-      "Double decidual sign.",
-      "Mean sac diameter increases by 1 mm/day.",
-      "Embryo seen with a mean sac diameter of 10 mm."
+      "A. Thyroid acropathy",
+      "B. Pachydermoperiostosis",
+      "C. Hypertrophic pulmonary osteoarthropathy",
+      "D. Hypervitaminosis A",
+      "E. Venous insufficiency"
     ]
   },
   {
     "questionNumber": 82,
-    "stem": "A 17-year-old girl presents with a history of acute-on-chronic burning neck pain radiating into the right shoulder and arm. There is associated palmar paraesthesia, easy fatigability and loss of power, exacerbated by elevating the arm to the shoulder level. Sagittal T1W MRI obtained with the arm in the neutral position shows ample fat surrounding the subclavian vessels and brachial plexus. With the arm in abduction, there is compression of the subclavian vessels. What is the diagnosis?",
+    "stem": "A 40-year-old man presents with postprandial abdominal pain and 10 kg weight loss. A computed tomography scan with arterial phase imaging shows an indentation at the proximal coeliac axis caused by the low insertion of the median arcuate ligament. Which of the following is the most appropriate treatment option?",
     "options": [
-      "Subclavian artery stenosis",
-      "Parsonage–Turner syndrome",
-      "Median nerve entrapment",
-      "Thoracic outlet syndrome",
-      "Subclavian steal syndrome"
+      "A. Catheter angiography and stenting",
+      "B. Open surgical management",
+      "C. Refer for laparoscopic division of the ligament",
+      "D. Catheter angiography and stenting",
+      "E. No indication for treatment"
     ]
   },
   {
     "questionNumber": 83,
-    "stem": "A 67-year-old woman is imaged 3 hours after a witnessed sudden onset of a right hemiparesis. Transverse DWI (b = 1,000 sec/mm2) demonstrates signal change in the subcortical region, including in the lenticular nucleus and corona radiate. Which of the following statements concerning diffusion-weighted MR imaging in cerebral infarction is false?",
+    "stem": "Which one of the following is not an indication for upper urinary tract drainage (nephrostomy or stent) in the presence of renal failure and hydronephrosis?",
     "options": [
-      "It measures redistribution of water to intracellular space.",
-      "DWI can remain positive for up to 3 weeks post-infarction.",
-      "DWI is positive as early as 30 minutes post-infarction.",
-      "Acute infarcts show hyperintense signal on ADC.",
-      "Acute infarcts show hyperintense signal on DWI."
+      "A. Retroperitoneal fibrosis",
+      "B. Mid-ureteric calculus",
+      "C. High-pressure chronic retention",
+      "D. Mid-ureteric stricture",
+      "E. Advanced pelvic malignancy"
     ]
   },
   {
     "questionNumber": 84,
-    "stem": "The most common structure to herniate in Bochdalek hernia is",
+    "stem": "A 65-year-old female patient with known disseminated renal cell cancer presents with increasing abdominal pain and distension. A computed tomography (CT) scan is performed which reveals moderate ascites and mild hepatomegaly. Portal venous phase images show geographic liver and hyperenhancement of a normal-size caudate lobe. On delayed images, a characteristic ‘flip-flop’ pattern of enhancement is observed. Which of the following is the most likely underlying diagnosis?",
     "options": [
-      "Stomach",
-      "Spleen",
-      "Omentum",
-      "Left lobe of liver",
-      "Pancreas"
+      "A. Portal vein thrombosis",
+      "B. Acute Budd–Chiari syndrome",
+      "C. Liver congestion secondary to fluid overload",
+      "D. Peliosis hepatis secondary to chemotherapy",
+      "E. Chronic Budd–Chiari syndrome"
     ]
   },
   {
     "questionNumber": 85,
-    "stem": "Which of the following statements regarding the normal pericardium is false?",
+    "stem": "A 47-year-old obese male patient with long-standing fatty liver infiltration and a strong family history of hepatic cirrhosis underwent liver biopsy, which confirmed the diagnosis of non-alcoholic steatohepatitis (NASH). He is to be followed up with imaging to exclude progression to cirrhosis. Which radiological feature is not typical for NASH?",
     "options": [
-      "It consists of two inner serous layers of tissue and one outer fibrous layer.",
-      "It is visualized on lateral chest X-ray as a fat pad sign.",
-      "It is 1–2 mm thick on CT and may contain up to 30 ml of fluid.",
-      "It is low in signal on T1W MRI.",
-      "On frontal chest X-ray, it is visualized as a 2-mm stripe outlined by fat."
+      "A. Low attenuation of the liver on computed tomography",
+      "B. High signal of liver on T1W magnetic resonance imaging",
+      "C. Irregular liver contour",
+      "D. Hepatomegaly",
+      "E. High echogenicity of the liver parenchyma on ultrasound"
     ]
   },
   {
     "questionNumber": 86,
-    "stem": "A 50-year-old woman with long-standing abdominal pain, weight loss and poor appetite undergoes a CT abdomen and pelvis. This shows mesenteric thickening with a fine stellate pattern extending to the bowel border. The mesenteric mass does not displace the mesenteric vessels masses and shows a fat ring sign. The most likely diagnosis is",
+    "stem": "A 70-year-old woman has a computed tomography scan for diverticulitis. An incidental 18 mm aneurysm in the mid-portion of the splenic artery is identified on the scan. Which of the following is the most appropriate treatment for this patient?",
     "options": [
-      "Retroperitoneal fibrosis",
-      "Carcinoid",
-      "Sclerosing mesenteritis",
-      "Epiploic appendagitis",
-      "Lymphoma"
+      "A. Catheter angiography",
+      "B. Catheter angiography and coil embolisation",
+      "C. Catheter angiography and stenting",
+      "D. Percutaneous thrombin injection",
+      "E. Conservative management and repeat scan in 6 months"
     ]
   },
   {
     "questionNumber": 87,
-    "stem": "A 56-year-old man undergoing CT urogram displays an incidental lesion in his right adrenal gland. He is asymptomatic apart from pain in the left loin, which is currently being investigated. All these features suggest that adrenal carcinoma is more likely than a benign adenoma, except",
+    "stem": "Which of the following is not a feature of holoprosencephaly?",
     "options": [
-      "Size more than 5 cm",
-      "Delayed washout",
-      "HU value of <37 on delayed contrast enhanced CT",
-      "Involvement of right kidney",
-      "Peripheral nodular enhancement"
+      "A. Single ventricle",
+      "B. Fused thalami",
+      "C. Absent corpus callosum",
+      "D. Tectal beaking",
+      "E. Hypoplasia of the optic nerves"
     ]
   },
   {
     "questionNumber": 88,
-    "stem": "What type of labral injury is not associated with an anterior shoulder dislocation?",
+    "stem": "A 69-year-old man with a chronic headache underwent an MRI brain and MR cerebral venogram, which showed a chronic thrombosis of the left transverse and sigmoid sinuses with evidence of recanalisation. As far as diagnosis of cerebral venous sinus thrombosis is concerned, which of the following statement is false?",
     "options": [
-      "Bony Bankart lesion",
-      "Perthes lesion",
-      "Glenolabral articular disruption injury (GLAD)",
-      "Superior labral anterior–posterior tear (SLAP)",
-      "Anterior labroligamentous periosteal sleeve avulsion injury (ALPSA)"
+      "A. Polycythemia can cause positive delta sign.",
+      "B. Unenhanced MRI is more sensitive than unenhanced CT.",
+      "C. Slow flow mimics sinus thrombosis on contrast-enhanced MRV.",
+      "D. Turbulent flow is more of a pitfall on TOF MRV.",
+      "E. Irregular sinus and intrasinus channels suggest recanalisation."
     ]
   },
   {
     "questionNumber": 89,
-    "stem": "A 36-year-old woman with non-remitting headache is sent for an MRI brain by the neurologist to investigate the cause of her headache. The MRI brain is mostly unremarkable apart from showing areas of hyperintensity on FLAIR in subarachnoid spaces. All of the following conditions should be included in the differential diagnosis, except",
+    "stem": "Which of the following statements is incorrect as regards the anatomy and imaging findings of the seminal vesicles and vasa deferens?",
     "options": [
-      "Pacchionian granulations",
-      "Slow arterial flow due to vascular stenosis",
-      "Subarachnoid haemorrhage",
-      "Infectious meningitis",
-      "Leptomeningeal melanosis"
+      "A. The seminal vesicles are located posterior to the bladder and distal ureters.",
+      "B. Normal seminal vesicles appear hypointense and hyperintense on T1W imaging and T2W imaging respectively.",
+      "C. The seminal vesicle joins the distal portion of the vas deferens, becoming the ejaculatory duct, and then drains into the prostatic urethra.",
+      "D. The distal portions of the seminal vesicles and vas deferens are intraperitoneal.",
+      "E. The seminal vesicles initially increase in volume with age, but then steadily reduce in size with advancing age."
     ]
   },
   {
     "questionNumber": 90,
-    "stem": "Which of the following is false regarding bronchopulmonary sequestration?",
+    "stem": "A 65-year-old smoker presents with an achy pain around both his ankles. The GP orders ankle radiographs to look for degenerative change. The report comes back describing ‘smooth, lamellar periosteal reaction with new bone formation in the distal diametaphyses of both tibiae’. Which of the following is the most likely cause?",
     "options": [
-      "Pleural involvement Venous drainage Associated anomalies Symptomatic Arterial supply Intralobar Extralobar Visceral pleura Pulmonary veins Less common First 6 months Aorta Own pleura Systemic veins More common Adulthood Aorta"
+      "A. Systemic lupus erythematosus",
+      "B. Low-grade chronic osteomyelitis",
+      "C. Rheumatoid arthritis",
+      "D. Hypertrophic osteoarthropathy",
+      "E. Reiter syndrome"
     ]
   },
   {
     "questionNumber": 91,
-    "stem": "A 66-year-old man undergoing a routine staging contrast-enhanced CT chest shows a focal non-enhancing smoothly marginated homogeneous dumbbell-shaped mass of fat attenuation confined to the interatrial septum. All of the following features may be associated with lipomatous hypertrophy of the interatrial septum of the heart, except",
+    "stem": "You are performing a varicocele embolisation. The patient suddenly develops left loin pain. He remains haemodynamically stable, but you notice contrast extravasation proximal to the coils. Which of the following is the most appropriate management?",
     "options": [
-      "Fatty atrial septum exceeding 2 cm in transverse diameter.",
-      "Related to chronic corticosteroid use.",
-      "It is bright on T1 and dark on fat-suppressed images.",
-      "It is a recognised cause of SVC syndrome.",
-      "Enhances avidly post-contrast."
+      "A. Inject polyvinyl alcohol (PVA) at the extravasation site",
+      "B. Stent grafting to exclude the extravasation site",
+      "C. Alert the surgical team – need to proceed to laparotomy",
+      "D. Take the patient for a computed tomography scan of the abdomen/pelvis",
+      "E. Conservative management"
     ]
   },
   {
     "questionNumber": 92,
-    "stem": "A 25-year-old music teacher has recently been diagnosed with inflammatory bowel disease. She has an MRI small bowel study for evaluation of her disease status. Regarding features of Crohn’s versus ulcerative colitis on cross-sectional imaging, which of the following options is false?",
+    "stem": "Chest radiograph of a 12-year-old boy shows a cystic lesion with air–fluid level in the right upper lobe. CT scan confirms the presence of a thin-walled cystic lesion. Rest of the lungs are clear. There is no lymphadenopathy in the chest. Quantiferon test was negative, and there are no features of infection or signs of inflammation. What is the diagnosis?",
     "options": [
-      "Crohn’s Ulcerative colitis A. B. C. D. E. Comb’s sign Full thickness enhancement Fibro-fatty proliferation Enlarged lymph nodes Skip lesions Yes Yes Yes Yes Yes Yes Yes No No Yes Yes"
+      "A. TB",
+      "B. Intrapulmonary bronchogenic cyst",
+      "C. Hydatid cyst",
+      "D. Infected bulla",
+      "E. Congenital lobar emphysema"
     ]
   },
   {
     "questionNumber": 93,
-    "stem": "According to Standards of Intravascular Contrast Agent Administration to Adult Patients, second edition (RCR 2015), all are true regarding patients on metformin, except",
+    "stem": "A 40-year-old man presents with acute onset of III cranial nerve palsy. The unenhanced CT shows subarachnoid blood. Where is the aneurysm likely to be?",
     "options": [
-      "Metformin need not be stopped prior to contrast enhanced CT if serum creatinine is normal.",
-      "Metformin need not be stopped prior to contrast examination if eGFR is >60.",
-      "If serum creatinine is above normal range, metformin should be withheld for 24 hours.",
-      "If eGFR is <60, the decision to withhold metformin should be made in consultation with the clinical team.",
-      "There is lack of evidence about whether lactic acidosis is really an issue post-iodinated contrast in metformin users."
+      "A. Anterior communicating cerebral artery",
+      "B. Anterior cerebral artery",
+      "C. Middle cerebral artery",
+      "D. Posterior cerebral artery",
+      "E. Posterior communicating cerebral artery"
     ]
   },
   {
     "questionNumber": 94,
-    "stem": "A motorcyclist is brought into the A&E department with limb fractures and neck pain. Preliminary cervical spine radiographs review mild anterolisthesis (~10%) at C4/5 with slight overlap of the facet joints. CT shows a right ‘naked facet’ sign at this level. What statement is false in regard to this injury?",
+    "stem": "A 7-year-old girl presents with abdominal pain, which has come on and off over the past year, and failure to thrive. An X-ray performed revealed dense metasphyseal bands in both lower limbs. The blood profile was unremarkable. What is the most likely diagnosis?",
     "options": [
-      "It is an unstable injury.",
-      "Anterolisthesis is a common finding.",
-      "It is a stable injury.",
-      "There is widening of the interspinous space.",
-      "It is often associated with a neurological deficit."
+      "A. Leukaemia",
+      "B. Lead poisoning",
+      "C. Congenital rubella",
+      "D. Osteopetrosis",
+      "E. Osteopathia striata"
     ]
   },
   {
     "questionNumber": 95,
-    "stem": "A 76-year-old woman has been rushed to the stroke unit with features of acute stroke. A CT brain obtained in the A&E department on arrival is normal. A conventional MRI brain is performed. Which of the following statements regarding the imaging evaluation of an acute cerebral infarction by MR is false?",
+    "stem": "A 63-year-old man is diagnosed with sigmoid adenocarcinoma with no metastatic spread identified on initial staging computed tomography (CT) scan. After a course of neoadjuvant chemotherapy, he is considered for tumour resection and undergoes a repeat CT scan. New hepatic lesions suspicious for metastases are identified. All of the following are criteria for resectability, except:",
     "options": [
-      "It may demonstrate parenchymal microhaemorrhages on SWI (susceptibility weighted imaging).",
-      "SWI shows intraparenchymal haemorrhage within hours.",
-      "SWI is based on homogeneity of magnetic field.",
-      "Deoxyhaemoglobin produces a non-uniform magnetic field.",
-      "Microbleeds on SWI are a risk factor for intracranial haemorrhage after stroke."
+      "A. Less than three hepatic lesions",
+      "B. At least three segments spared from metastatic involvement",
+      "C. No visible nodal involvement",
+      "D. At least one main portal vein branch must be spared",
+      "E. At least one hepatic vein must be spare"
     ]
   },
   {
     "questionNumber": 96,
-    "stem": "A 10-year-old boy presents with fever and eosinophilia. MRI of the head shows thickening of the infundibular stalk and a markedly enhancing mass in the superior aspect of the stalk. There is also enhancement in the sella extending along the left petrous temporal bone with poorly defined borders. The features are consistent with",
+    "stem": "A taxi driver is brought to the accident and emergency department after a high-speed road traffic accident. The fire brigade needed 2 hours to extricate him from his wrecked car. On arrival, he is hypothermic but stable, complaining of severe abdominal pain. An urgent contrast enhanced CT scan is performed and the radiologist on call issues a report describing features suggestive of mesenteric injury with segmental small bowel ischaemia. Which finding is the most specific for a mesenteric injury with associated bowel wall ischaemia?",
     "options": [
-      "Meningioma",
-      "Petrous apicitis",
-      "Histiocytosis X",
-      "Craniopharyngioma",
-      "Neuroblastoma metastasis"
+      "A. Generalised increased bowel wall enhancement",
+      "B. Patchy and irregular Localised bowel wall enhancement",
+      "C. Localised bowel wall thickening",
+      "D. Decreased or absent bowel wall enhancement",
+      "E. segmental bowel dilatation"
     ]
   },
   {
     "questionNumber": 97,
-    "stem": "Follow-up CT chest done on a 71-year-old man with previous history of malignancy shows a mass lesion in the heart. It is new compared to previous CT scans and is determined to represent a metastatic deposit. Which of the following types of malignancy is most likely to be the primary in this case?",
+    "stem": "A 4-week-old neonate is being investigated for neonatal jaundice. Post-feed ultrasound of the abdomen demonstrates a normal looking distended gallbladder and no focal hepatic abnormality. A cholescintigraphy scan, also known as hepatobiliary iminodiacetic acid (HIDA) or mebrofenin scan, demonstrates isotope in the urinary bladder at 24 hours. What is the most likely diagnosis?",
     "options": [
-      "Colonic",
-      "Oesophageal",
-      "Bronchogenic",
-      "Renal cell",
-      "Astrocytoma"
+      "A. Choledochal cyst",
+      "B. Transient neonatal hyperbilirubinaemia",
+      "C. Biliary atresia",
+      "D. Idiopathic hepatitis",
+      "E. Cystic fibrosis"
     ]
   },
   {
     "questionNumber": 98,
-    "stem": "A 30-year-old weightlifter presents with swelling in the right groin. Which of the following is false?",
+    "stem": "Which of the following is not an angiographic sign of active bleeding?",
     "options": [
-      "Direct inguinal hernia The hernial sac lies lateral to the inferior epigastric artery and above the pubic tubercle.",
-      "Femoral hernia The hernial sac lies medial and adjacent to the femoral vessels.",
-      "Indirect inguinal hernia The hernial sac lies lateral to the inferior epigastric artery and superior to the inguinal ligament.",
-      "Obturator hernia The hernial sac lies between the obturator externus and internus.",
-      "Spigelian hernia The hernial sac lies between the rectus abdominis medially and the semilunar line laterally."
+      "A. Contrast extravasation",
+      "B. Vessel spasm",
+      "C. Vessel cut-off",
+      "D. Early venous filling",
+      "E. Vessel dilatation"
     ]
   },
   {
     "questionNumber": 99,
-    "stem": "A 43-year-old man has recently had a renal transplantation. All of the following are true regarding investigation of transplanted kidney, except",
+    "stem": "A 5-year-old girl presents with left-sided abdominal pain. On examination, there is a palpable mass in the left flank. Computed tomography demonstrates a well-circumscribed multiseptated cystic renal mass, which is replacing the lower pole of the left kidney. The intervening septa are thick and enhance post-contrast, and the cysts appear to be herniating into the renal pelvis. Which of the following is the most likely diagnosis?",
     "options": [
-      "ATN (acute tubular necrosis) is depicted by normal perfusion and reduced excretion.",
-      "Normal perfusion and reduced excretion is non-specific.",
-      "Reduced diastolic flow is specific for acute rejection.",
-      "During acute rejection, T1W of renal cortex increases.",
-      "Renal vein thrombosis causes characteristic waveform changes."
+      "A. Multicystic dysplastic kidney",
+      "B. Multilocular cystic nephroma",
+      "C. Nephroblastomatosis",
+      "D. Polycystic kidney disease",
+      "E. Mesoblastic nephroma"
     ]
   },
   {
     "questionNumber": 100,
-    "stem": "What is a role of ultrasound in the evaluation of a skier’s thumb injury?",
+    "stem": "A 54-year-old woman is having an MRI for suspected cerebral venous sinus thrombosis. With regard to parenchymal abnormalities associated with venous thrombosis, all are true, except",
     "options": [
-      "To evaluate for the presence of a joint effusion",
-      "To assess joint mobility on dynamic ultrasound",
-      "To look for an Andersson lesion",
-      "To look for a Stener lesion",
-      "To look for associated extensor pollicis tenosynovitis"
+      "A. Parenchymal changes are better depicted on MRI.",
+      "B. DWI helps distinguish between types of cerebral oedema.",
+      "C. Parenchymal changes may not correlate with location of venous occlusion.",
+      "D. Parenchymal abnormalities secondary to venous occlusion are irreversible.",
+      "E. Brain swelling with normal parenchymal signal is well recognised."
     ]
   },
   {
     "questionNumber": 101,
-    "stem": "A 76-year-old woman with a recent episode of right-arm weakness is being followed up with an MRI a week after her presentation to the A&E department. The current MRI shows changes on T1W images, which were identified as cortical laminar necrosis at the stroke meeting. Which of the following statements regarding cortical laminar necrosis is false?",
+    "stem": "A 24-year-old man sustained an injury to his wrist following a fall while skiing. There is tenderness in the anatomical snuffbox, particularly on ulnar deviation. Plain radiograph performed in casualty revels a scaphoid fracture. Which one of the following statements regarding fractures of the scaphoid bone is true?",
     "options": [
-      "Laminar necrosis is seen as serpiginous high signal on T1W MRI.",
-      "It is thought to be due to lipid-laden macrophages.",
-      "It can be seen 3–5 days after stroke.",
-      "It is never seen beyond 2 weeks.",
-      "SWI helps differentiate from haemorrhagic transformation."
+      "A. The distal fragment is at risk for avascular necrosis when the waist of the scaphoid is fractured.",
+      "B. They usually are the result of a direct blow to the wrist.",
+      "C. Fractures of the distal pole are less common than fractures of the proximal pole.",
+      "D. Fractures involving the proximal pole invariably lead to avascular necrosis of the proximal fragment.",
+      "E. Fractures through the waist of the scaphoid do not displace because of the strong supporting intercarpal ligaments."
     ]
   },
   {
     "questionNumber": 102,
-    "stem": "Regarding Chiari II malformations, which of the following is true?",
+    "stem": "A 71-year-old man with biopsy-proven Gleason grade 8 adenocarcinoma and a PSA level of 5.65 ng/mL is sent for an MRI prostate for local staging. T2W axial MR image shows that the dominant tumour is within the left peripheral zone extending from the apex to the base with features indicative of extracapsular extension. All the following suggest extracapsular extension, except",
     "options": [
-      "Supratentorial abnormalities are uncommon.",
-      "The tentorial attachment is usually normal.",
-      "It is nearly always associated with failure of neural tube closure.",
-      "The severity of hydrocephalus nearly always improves after repair of the meningocoele.",
-      "Batwing appearance of the occipital horns."
+      "A. Broad contact (>12 mm) of tumour with capsule",
+      "B. Obliteration of rectoprostatic angle",
+      "C. Asymmetry of the neurovascular bundle",
+      "D. Nodes in the perivescical fat",
+      "E. Irregular capsular bulge"
     ]
   },
   {
     "questionNumber": 103,
-    "stem": "A 42-year-old man presents with a high-grade fever, splenomegaly and abdominal pain. CT chest and abdomen done to look for a source of sepsis show multiple small cavitating lesions in both lungs with areas of hypo-attenuation in the spleen and kidneys. Which of the following is the most likely diagnosis?",
+    "stem": "An 8-month-old child is investigated for a 5-month history of respiratory symptoms. Chest X-ray shows a right upper zone mass. MRI confirms the presence of a low T1, high T2 signal, well-defined mass displacing the trachea to the left. There is homogeneous internal signal; the lesion is separate from the spinal canal. There is no associated vertebral anomaly and no widening of the neural foramina. The patient is afebrile. What is the most likely diagnosis?",
     "options": [
-      "Sarcoidosis",
-      "Carcinoid heart disease",
-      "Amyloidosis",
-      "Infective endocarditis",
-      "Rheumatic heart disease"
+      "A. Neurofibromatosis",
+      "B. Lateral meningocele",
+      "C. Neuroenteric cyst",
+      "D. Lung abscess",
+      "E. Foregut duplication cyst"
     ]
   },
   {
     "questionNumber": 104,
-    "stem": "A 50-year-old woman has a CT abdomen and pelvis for non-specific abdominal pain. The scan shows a 7-cm low-density lesion in segment VII of the liver with heterogeneous enhancement in arterial and portal venous phase. An MRI liver is performed for further characterisation and shows a large lobulated mass with low signal on T1W and intermediate to high signal on T2W. On the dynamic post-contrast T1 scans, it shows enhancement in the arterial phase with a non-enhancing central scar, which later enhances in the delayed phase. What is the most likely diagnosis?",
+    "stem": "A 10-year-old boy has a 48-hour history of drowsiness and decreasing GCS. In the previous week, he was unwell with a chest infection. The MRI demonstrates multiple areas of hyperintensity on T2 and FLAIR within the white matter. Contrast enhancement demonstrates ‘open ring sign’. What is the most likely diagnosis?",
     "options": [
-      "Focal nodular hyperplasia",
-      "Fibrolamellar HCC",
-      "Adenoma",
-      "Haemangioma",
-      "Hepatocellular carcinoma"
+      "A. Multiple sclerosis",
+      "B. Acute disseminated encephalomyelitis",
+      "C. Multiple cerebral abscesses",
+      "D. Herpes encephalitis",
+      "E. CMV encephalitis"
     ]
   },
   {
     "questionNumber": 105,
-    "stem": "A 42-year-old woman is referred to the breast clinic and is due an ultrasound scan to evaluate a suspected lump in the breast. All of the following are ultrasonographic features of a benign breast mass, except",
+    "stem": "You notice an area of focal dissection at the site of angioplasty of a left common iliac lesion during your completion run. Which of the following is the next step?",
     "options": [
-      "Feeding central vessel on Doppler imaging",
-      "Well-defined smooth margins",
-      "Three or fewer lobulations",
-      "Circumferential blood flow pattern on Doppler imaging",
-      "Uniform hyperechogenicity"
+      "A. Reinflate the angioplasty balloon",
+      "B. Deploy a stent",
+      "C. Measure the pressure gradient",
+      "D. Deploy a covered stent",
+      "E. Report the finding and finish the procedure"
     ]
   },
   {
     "questionNumber": 106,
-    "stem": "A 6-year-old girl presents to her family doctor with fever and pain in the lower left leg. Blood tests reveal leucocytosis and anaemia. Plain X-ray of the leg shows a destructive lesion involving the fibular shaft with lamellated onion skin periosteal reaction, cortical destruction and large soft-tissue mass. What is the likely diagnosis?",
+    "stem": "A 32-year-old man who fell of his bike in mid-air during a motor cross championship was brought into casualty with weakness of all four limbs and GCS of 10 out of 15. Initial CT showed a fracture dislocation at C7/T1. An MRI was organised given that there were clinical features of acute spinal cord injury. All of the following findings are expected on the MRI, except",
     "options": [
-      "A. Osteosarcoma",
-      "B. Ewing’s sarcoma",
-      "C. Chondroblastoma",
-      "D. Chondromyxoid fibroma",
-      "E. Osteoid osteoma"
+      "A. Hyperintensity on T2W images",
+      "B. Swelling of the spinal cord",
+      "C. Hypo intensity on T2W images suggesting haemorrhage",
+      "D. Occasional contrast enhancement",
+      "E. Atrophy of the spinal cord"
     ]
   },
   {
     "questionNumber": 107,
-    "stem": "A 67-year-old man with a history of head and neck cancer presents with acute stroke symptoms, and MRI is performed. SWI images show several tiny microbleeds in the basal ganglia at 48 hours. All of the following are true regarding haemorrhagic transformation in stroke, except",
+    "stem": "A 21-year-old man, who presented with a growing mass in the left testis of 2–3 months duration with a palpable, non-tender, firm nodule on the surface of the left testicle, on physical examination showed a well-circumscribed hypoechoic mass with a concentric lamellar pattern of alternating hyper-and hypoechoic rings on US. What is the diagnosis?",
     "options": [
-      "A. Microbleeds have worse prognosis than haematoma.",
-      "B. Fewer than five microbleeds does not contraindicate thrombolysis.",
-      "C. Parenchymal haemorrhage is common in the basal ganglia.",
-      "D. Haemorrhagic transformation is rare in the first 6 hours.",
-      "E. Parenchymal haemorrhages are rarer than microbleeds."
+      "A. Tunica albuginea cysts",
+      "B. Simple cyst of testis",
+      "C. Epidermoid cyst",
+      "D. Intratesticular varicocele",
+      "E. Intratesticular spermaocele"
     ]
   },
   {
     "questionNumber": 108,
-    "stem": "The following are diagnosed prenatally on ultrasound examination or MRI, except",
+    "stem": "A 2-year-old toddler is brought to the accident and emergency department by his mother with constant vomiting. During clinical examination the toddler is restless, dehydrated and shows the signs of peritonitis. The examining doctor also notices multiple bruises of different ages, skin lacerations and scars. Visceral trauma on a background of non-accidental injury (NAI) is suspected. Which of the following is not a common bowel injury associated with non-accidental trauma?",
     "options": [
-      "A. Pulmonary interstitial emphysema",
-      "B. Bronchial atresia",
-      "C. Pulmonary sequestration",
-      "D. Congenital pulmonary airway obstruction",
-      "E. Congenital diaphragmatic hernia"
+      "A. Small bowel rupture",
+      "B. Shocked bowel syndrome",
+      "C. Intramural mesenteric haematoma",
+      "D. Boerhaave syndrome",
+      "E. Duodenal contusions"
     ]
   },
   {
     "questionNumber": 109,
-    "stem": "All of the following are causes of a right-sided cardiac thrombus, except",
+    "stem": "You are asked to review the chest X-ray of a postoperative patient, now in intensive treatment unit. The patient has a number of lines and tubes. Which of the following positions suggests incorrect placement?",
     "options": [
-      "A. DVT",
-      "B. Behcet’s syndrome",
-      "C. Loffler syndrome",
-      "D. Infective endocarditis",
-      "E. Sarcoidosis"
+      "A. Endotracheal tube with the tip 2 cm above the carina",
+      "B. Central venous catheter with the tip in the junction of the superior vena cava/right atrium",
+      "C. Nasogastric tube with the tip below the diaphragm overlying the stomach",
+      "D. Peripherally inserted tunnelled central venous catheter with the tip in the superior vena cava",
+      "E. Intra-aortic counter pulsation balloon pump in the descending aorta distal to the origin of the left subclavian artery"
     ]
   },
   {
     "questionNumber": 110,
-    "stem": "A 40-year-old woman with a known history of connective tissue disease presents to her gastroenterologist with non-specific upper abdominal pain and weight loss. She is referred for a barium follow-through, which shows that the small bowel folds are of normal morphology but distended and closely spaced together with delayed emptying of barium into the large bowel. There are also a number of jejunal diverticula. She had an X-ray of her left hand a few weeks earlier, which showed resorption of the distal tufts of her phalanges. What is the most likely unifying diagnosis?",
+    "stem": "A 2-year-boy presents with a 2-week history of melena culminating in an acute episode of bright red blood per rectum. Ultrasound was unremarkable. Upper gastrointestinal endoscopy was negative. Technetium pertechnetate demonstrates increased uptake in the left upper and right lower quadrants. What is the most likely diagnosis?",
     "options": [
-      "A. Hyperparathyroidism",
-      "B. Whipple’s disease",
-      "C. Scleroderma",
-      "D. Amyloidosis",
-      "E. Coeliac disease"
+      "A. Acute appendicitis",
+      "B. Intussusception",
+      "C. Meckel’s diverticulum",
+      "D. Gastrinoma",
+      "E. Non-specific inflammatory bowel disease"
     ]
   },
   {
     "questionNumber": 111,
-    "stem": "A 42-year-old woman is referred to the breast clinic and is due an ultrasound scan to evaluate a suspected lump in the breast. All of the following are ultrasonographic characteristics of breast malignancy, except",
+    "stem": "The following are appropriate MR spectroscopy findings, except",
     "options": [
-      "A. Perpendicular radiating spiculations",
-      "B. Anechoic mass",
-      "C. Irregular margins of a mass",
-      "D. Mass that is taller than it is wide",
-      "E. Posterior acoustic shadow from a solid mass"
+      "A. Canavan disease characteristically demonstrates reduced NAA.",
+      "B. Decreased NAA and higher Cho/Cr ratio signifies high-grade malignancy.",
+      "C. Lipid peaks suggest infracted brain.",
+      "D. Absent choline can distinguish toxoplasmosis from lymphoma.",
+      "E. PML may demonstrate elevated myo-inositol."
     ]
   },
   {
     "questionNumber": 112,
-    "stem": "A 70-year-old man with a history of a scaphoid fracture several years ago is referred to the orthopaedic clinic for increasing wrist pain. A plain X-ray is ordered to check for developing OA and assess the mid-carpal joints. Measurements based on the true lateral view reveal the capitolunate angle is >30° and the scapholunate angle is >80°. What is your diagnosis?",
+    "stem": "A 44-year-old man with chronic back pain underwent a spinal X-ray, which showed extensive marginal osteophytes with flowing ossification along the anterior aspect of more than four vertebrae with no significant facet joint arthropathy. Intervening disc spaces were maintained with no loss of disc height. In the extremities, generally symmetric enthesophytes are seen most commonly in the",
     "options": [
-      "A. Volar intercalated segment instability (VISI)",
-      "B. Dorsal intercalated segment instability (DISI)",
-      "C. Refracture of scaphoid",
-      "D. Perilunate dislocation",
-      "E. Scapholunate advanced collapse (SLAC) deformity"
+      "A. Metacarpals, metatarsals and terminal tufts",
+      "B. Calcaneus, patella and olecranon",
+      "C. Lesser trochanter and acetabulum",
+      "D. Medial and lateral epicondyle of humerus",
+      "E. Glenohumeral joint and greater tuberosity"
     ]
   },
   {
     "questionNumber": 113,
-    "stem": "A 49-year-old woman with right lower extremity weakness and rigidity undergoes MRI with DWI, ADC map, FLAIR, T2W and T1W pre- and post-gadolinium images. Early hyperacute stroke is diagnosed. All of the following are true about the timing of stroke and MRI, except",
+    "stem": "A 69-year-old man with a history of non-muscle invasive urothelial carcinoma of bladder treated with transurethral resection and intravesical BCG therapy presented with a firm palpable nodule on PR examination. MRI showed a low T2 signal lesion with high signal on DW MR, low signal on ADC map and non-enhancement on subtracted contrast-enhanced images in the peripheral gland at 4 ‘o’ clock. The findings were stable on an MR repeated at 9 months.",
     "options": [
-      "A. Low ADC signal suggests that the stroke is less than a week old.",
-      "B. FLAIR hyperintensities are seen in 6–12 hours.",
-      "C. High signal on T2W MRI is seen >8 hours.",
-      "D. Low signal on T1W MRI is seen >8 hours.",
-      "E. Parenchymal enhancement generally doesn’t persist beyond 8–12 weeks."
+      "A. Prostatic carcinoma",
+      "B. Post-inflammatory scar",
+      "C. Post biopsy haemorrhage",
+      "D. Granulomatous prostatitis",
+      "E. Post-radiotherapy change"
     ]
   },
   {
     "questionNumber": 114,
-    "stem": "A neonate has an umbilical venous catheter inserted. On an abdominal X-ray, it has advanced up to the level of T10 at the midline. In which structure is the tip of the catheter?",
+    "stem": "A 14-year-old boy who accidentally fell from a second floor window underwent an urgent computed tomography scan. It revealed diffuse small bowel wall thickening with increased enhancement of bowel wall following intravenous contrast. A flattened inferior vena cava and retroperitoneal oedema were also noted in the radiological report. What is the most likely diagnosis?",
     "options": [
-      "A. Left portal vein",
-      "B. Right portal vein",
-      "C. Ductus venosus",
-      "D. Superior mesenteric vein",
-      "E. Splenic vein"
+      "A. Small bowel wall contusion",
+      "B. Isolated mesenteric haematoma",
+      "C. Incomplete jejunal wall tear",
+      "D. Complete ileal wall tear",
+      "E. Shocked bowel syndrome"
     ]
   },
   {
     "questionNumber": 115,
-    "stem": "Which of the following statements concerning malignant cardiac masses is false?",
+    "stem": "A 65-year-old man with recurrent bouts of acute red hot swollen 1st MTPJ of the right foot showed classic features of gout on plain radiograph. Which one of the following statements regarding the radiographic appearance of gouty tophi is false?",
     "options": [
-      "A. Cardiac metastasis outnumbers primary cardiac malignancy.",
-      "B. Angiosarcomas have a high T1 signal due to methaemoglobin.",
-      "C. Undifferentiated sarcomas mostly affect the left atrium.",
-      "D. Primary cardiac lymphomas mostly affect the left side of the heart.",
-      "E. Rhabdomyosarcoma commonly affects the valve."
+      "A. They can contain some degree of calcification.",
+      "B. They are asymmetric soft-tissue masses.",
+      "C. They may form in bursae.",
+      "D. Tophaceous deposits in tendons may result in tendon rupture.",
+      "E. They classically are intra-articular in location."
     ]
   },
   {
     "questionNumber": 116,
-    "stem": "A 30-year-old cab driver presents to his GP with malaise, jaundice and abdominal distension. Blood tests performed show deranged liver function tests. A provisional diagnosis of Budd–Chiari syndrome was made. All of the following are imaging features of Budd–Chiari syndrome, except",
+    "stem": "A 9-month-old boy with recurrent urinary tract infections and renal pelvis dilatation is referred for a micturating cystourethrogram (MCUG). The patient is currently taking a prophylactic dose of trimethoprim. With regard to performing an MCUG in this patient, which of the following instructions would you give his mother?",
     "options": [
-      "A. Ultrasound demonstrates portal vein enlargement and change in flow dynamics.",
-      "B. In acute Budd–Chiari, the liver is globally enlarged, with lower attenuation on CT.",
-      "C. There is caudate lobe atrophy in chronic Budd–Chiari.",
-      "D. CT shows non-homogenous liver enhancement with a predominantly central area of enhancement and delayed enhancement of the periphery.",
-      "E. On MRI, the liver is low signal on unenhanced T1 and T2 and delayed enhancement post-contrast."
+      "A. The patient should continue on his current regime of antibiotics until his physicians advise him to stop.",
+      "B. The patient should stop taking their antibiotics the day before the procedure and restart the medication the day after the procedure.",
+      "C. The patient should take a course of treatment dose trimethoprim, starting on the day of the procedure for 3 subsequent days.",
+      "D. The patient should take a 5-day course of treatment dose trimethoprim, starting on the day before the procedure.",
+      "E. The patient should stop their antibiotics the day before the procedure and take a 3-day course of treatment dose gentamicin."
     ]
   },
   {
     "questionNumber": 117,
-    "stem": "All of the following are major indications for ultrasound of the breast, except",
+    "stem": "Which of the following is incorrect? Supratentorial tumour Features",
     "options": [
-      "A. Delineation of cystic from solid breast masses",
-      "B. Evaluation of a palpable breast mass in a mammographically dense breast",
-      "C. Evaluation of nipple discharge in a mammographically dense breast",
-      "D. Evaluation of breast lesions not well seen on mammography",
-      "E. Routine breast screening"
+      "A. Astrocytoma Solid with a necrotic centre or cystic with a mural nodule. Associated with NF1",
+      "B. Craniopharyngioma Cystic or solid tumour with a partially calcified suprasellar mass presenting with endocrine abnormalities",
+      "C. PNET Heterogeneous hemispheric mass. Necrosis, haemorrhage and enhancement are common",
+      "D. Choroid plexus papilloma Poorly circumscribed and poorly enhancing tumours",
+      "E. Ganglioglioma Well-circumscribed peripheral tumour that often presents with seizures"
     ]
   },
   {
     "questionNumber": 118,
-    "stem": "A 19-year-old man is reviewed at a clinic for a persistent ache in his lower back that has not improved for over 3 months. He is an avid mountain biker, but there is no history of significant trauma and there are no neurological deficits. The patient is found to have mild increase in thoracic kyphosis with mild wedging of the T4, T5 and T6 vertebrae. MRI reveals the presence of small scattered vertebral end plate lesions with signal characteristics identical to the adjacent intervertebral discs in several thoracic and lumbar vertebrae. What is the diagnosis?",
+    "stem": "A chest X-ray is performed on a patient 1 week following a left pneumonectomy for bronchogenic carcinoma. Which of the following would you not normally expect to see?",
     "options": [
-      "A. Spondylodiscitis with developing vertebral collapse",
-      "B. Congenital kyphosis",
-      "C. Metastatic deposits with early vertebral collapse",
-      "D. Vertebral insufficiency fractures",
-      "E. Scheuermann’s disease"
+      "A. Loss of volume of the left hemithorax",
+      "B. Mediastinal shift to the left",
+      "C. Tracheal shift to the right",
+      "D. An enlarging left-sided hydrothorax",
+      "E. Elevation of the left hemidiaphragm"
     ]
   },
   {
     "questionNumber": 119,
-    "stem": "A 76-year-old man with known cerebral atrophy and dementia has been unsteady on his feet for the last 2–3 weeks following a fall down a flight of three steps. There is a small external cut in the parietal region of the scalp, but he was never brought to the A&E department. A CT brain has been performed to investigate his unsteady gait. It shows a large isodense subdural haemorrhage. All of the following are expected findings on the CT, except",
+    "stem": "A 74-year-old man with painless haematuria and weightloss with irregular thickening of the bladder wall on US underwent an MRI for staging. MRI revealed focal plaque-like thickening in the bladder wall and areas of thin calcification on plain film. All of the following are recognised findings in squamous cell carcinoma of the bladder, except",
     "options": [
-      "A. Fourth ventricle enlargement",
-      "B. Lateral ventricle compression",
-      "C. Effacement of the cortical sulci",
-      "D. Midline shift",
-      "E. White matter buckling"
+      "A. Single enhancing bladder mass",
+      "B. Papillary tumour with pure intraluminal growth",
+      "C. Sessile enhancing tumour mass",
+      "D. Calcification related to tumour",
+      "E. Mass in a diverticula"
     ]
   },
   {
     "questionNumber": 120,
-    "stem": "A 1-year-old boy is brought to the A&E department by his parents with head injury after falling off a sofa. The on-call paediatrician strongly suspects non-accidental injury. Which of the following features on unenhanced CT is most consistent with this?",
+    "stem": "A restrained driver of a car involved in a high-speed road traffic accident is brought to the emergency department. He is hypovolaemic, tachycardic and has a very tender abdomen. After stabilisation, an urgent intravenous contrast-enhanced CT scan is performed which show features of significant mesenteric injury and the patient is immediately taken to theatre. Which CT sign is not specific for significant mesenteric injury?",
     "options": [
-      "A. Bilateral occipital extradural haemorrhage",
-      "B. Bilateral occipital subdural haemorrhage",
-      "C. Subarachnoid haemorrhage",
-      "D. Parietal skull fracture",
-      "E. Bilateral frontal subdural haemorrhage"
+      "A. Mesenteric contrast extravasation",
+      "B. Mesenteric fat infiltration",
+      "C. Mesenteric vascular beading",
+      "D. Termination of mesenteric vessels",
+      "E. Bowel ischaemia"
     ]
   }
 ]

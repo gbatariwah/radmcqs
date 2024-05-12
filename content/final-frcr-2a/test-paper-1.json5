@@ -284,7 +284,8 @@
     ],
     "response": "",
     "answer": "ASD – Atrial Septal Defect",
-    "explanation": "VSD Uncomplicated ASD ASD with shunt reversal (Eisenmenger syndrome) Mitral valve disease Tricuspid valve disease Pulmonary hypertension PDA"
+    "explanation": "",
+    "reference" :"'Adam A, et al. Grainger & Allison’s Diagnostic Radiology: A Textbook of Medical Imaging, 5th edn. New York: Churchill Livingstone, 2008:427–9."
   },
   {
     "questionNumber": 20,
@@ -298,7 +299,7 @@
     ],
     "response": "",
     "answer": "Carman meniscus sign",
-    "explanation": "The Carman meniscus sign is a curvilinear lens-shaped intraluminal form of crater with convexity of crescent towards the gastric wall and concavity towards the gastric lumen. Gastric ulcer Sign Crater Radiating folds Areae gastricae Projection Ulcer mound Benign Round, ovoid Symmetric Preserved Outside lumen Smooth Malignant Irregular Nodular, clubbed, fused Destroyed Inside lumen Rolled edge",
+    "explanation": "The Carman meniscus sign is a curvilinear lens-shaped intraluminal form of crater with convexity of crescent towards the gastric wall and concavity towards the gastric lumen",
     "reference": "Dahnert W. Radiology Review Manual. 5th edn. Philadelphia, PA: Lippincott Williams & Wilkins, 2003: 826–7"
   },
   {
@@ -1344,7 +1345,7 @@
     ],
     "response": "",
     "answer": "Symptomatic First 6 months Adulthood",
-    "explanation": "Bronchopulmonary sequestration Intralobar Extralobar Prevalence 75% 25% Pleural involvement Visceral pleura Own pleura Venous drainage Pulmonary veins Systemic veins Associated anomalies Less common (15%) More common (50%) Symptomatic Adulthood First 6 months Arterial supply Thoracic aorta Thoracic aorta Aetiology Acquired Developmental",
+    "explanation": "",
     "reference": "Dähnert W. Radiology Review Manual, 7th edn. Philadelphia, PA: Lippincott Williams & Wilkins, 2011"
   },
   {
