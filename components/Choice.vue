@@ -3,6 +3,7 @@ const props = defineProps({
   option: Object,
   optionId: Number,
   checkAnswers: Boolean,
+  rev: String,
 });
 
 const optionLabels = ["a", "b", "c", "d", "e"];
@@ -10,13 +11,13 @@ const optionLabels = ["a", "b", "c", "d", "e"];
 
 <template>
   <div class="px-2">
-    <div
-      class="border-b dark:border-zinc-900"
-      :class="{ 'border-b-0': optionId === 4 }"
-    >
+    <div class="border-b dark:border-zinc-900">
       <div v-if="checkAnswers">
         <div class="flex gap-4 py-2 items-center">
-          <p class="flex gap-2 items-center text-lg font-medium font-[oswald]">
+          <p
+            class="flex gap-2 items-center text-lg font-medium font-[oswald]"
+            :class="{ hidden: rev === 'revision' }"
+          >
             {{ option.response[0] }}
             <UIcon
               class="text-lg"
@@ -43,7 +44,7 @@ const optionLabels = ["a", "b", "c", "d", "e"];
             <div v-if="option.explanation" v-motion-pop>
               <UBadge
                 color="green"
-                v-if="option.response === option.answer"
+                v-if="rev === 'revision' || option.response === option.answer"
                 class="text-sm p-2 font-light rounded-lg mt-1 flex pr-6"
               >
                 <p class="p-4">

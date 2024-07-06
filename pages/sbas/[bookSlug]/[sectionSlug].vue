@@ -60,6 +60,7 @@ const totalQuestions = computed(() => section.value.questions?.length);
 const showAnswers = ref(false);
 
 const stats = ref();
+const revisionMode = ref(false);
 
 const handleSubmit = () => {
   showAnswers.value = true;
@@ -104,7 +105,11 @@ const covers = Object.fromEntries(
     <Loader v-if="pending" />
     <div v-else>
       <div class="flex flex-col sm:flex-row items-center sm:items-start">
-        <img :src="`${covers[bookSlug]}`" alt="mcq-companion" class="w-40 rounded-lg" />
+        <img
+          :src="`${covers[bookSlug]}`"
+          alt="mcq-companion"
+          class="w-40 rounded-lg"
+        />
         <div class="p-4 flex flex-col justify-between">
           <div>
             <h1
@@ -130,15 +135,25 @@ const covers = Object.fromEntries(
                   @click="handleReset"
                 />
               </div>
-              <div v-else>
-                <UButton
-                  label="Shuffle"
-                  class="flex gap-2"
-                  variant="soft"
-                  size="xs"
-                  @click="shuffleQuestions"
-                  icon="i-ic-baseline-shuffle"
-                />
+              <div v-else class="space-y-3">
+                <div>
+                  <UButton
+                    v-if="!revisionMode"
+                    label="Shuffle"
+                    variant="soft"
+                    size="xs"
+                    @click="shuffleQuestions"
+                    icon="i-ic-baseline-shuffle"
+                  />
+                </div>
+
+                <div class="inline-flex flex-col gap-1">
+                  <h1 class="font-[oswald] tracking-wider">Quick Revision</h1>
+                  <UToggle
+                    v-model="revisionMode"
+                    icon="i-ic-baseline-menu-book"
+                  />
+                </div>
               </div>
             </div>
           </div>
@@ -228,8 +243,9 @@ const covers = Object.fromEntries(
             v-for="(question, questionId) in section.questions"
             :key="questionId"
             :question="question"
-            :questionId="questionId"
-            :showAnswers="showAnswers"
+            :questionId
+            :showAnswers
+            :revisionMode
           />
         </div>
 

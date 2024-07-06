@@ -3,11 +3,12 @@ const props = defineProps({
   question: Object,
   questionId: Number,
   showAnswers: Boolean,
+  revisionMode: Boolean,
 });
 
 const { params } = useRoute();
-
 const checkAnswer = ref(false);
+const revision = computed(() => props.revisionMode);
 
 const isGraingerOrSbas = computed(
   () =>
@@ -17,6 +18,10 @@ const isGraingerOrSbas = computed(
 );
 
 const optionLabels = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J"];
+
+watch(revision, (newVal) => {
+  checkAnswer.value = newVal;
+});
 </script>
 
 <template>
@@ -60,7 +65,7 @@ const optionLabels = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J"];
           >
             <UBadge color="green">{{ option }}</UBadge>
             <UIcon
-              v-if="question.response === question.answer"
+              v-if="revision || question.response === question.answer"
               class="' text-green-600 text-lg"
               name="i-ic-baseline-check-circle"
             />
@@ -109,6 +114,7 @@ const optionLabels = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J"];
           :reference="question.reference"
           :answer="question.answer"
           :response="question.response"
+          :revision
         />
       </div>
     </template>

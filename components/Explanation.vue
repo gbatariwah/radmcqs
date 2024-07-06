@@ -4,19 +4,19 @@ const props = defineProps({
   reference: String,
   response: String,
   answer: String,
+  revision: Boolean,
 });
 </script>
 
 <template>
-  <div 
-  v-motion
+  <div
+    v-motion
     :initial="{ opacity: 0, y: -100 }"
-    :enter="{ opacity: 1, y: 0}"
-   
+    :enter="{ opacity: 1, y: 0 }"
   >
     <UBadge
       color="green"
-      v-if="response === answer"
+      v-if="revision || response === answer"
       class="text-sm p-2 font-light rounded-lg mt-1 flex pr-6"
     >
       <p class="p-4 self-start text-lg">

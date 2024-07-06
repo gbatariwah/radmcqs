@@ -65,7 +65,7 @@
     {
       questionNumber: "5",
       stem: "You are reviewing a contrast-enhanced CT chest for a suspected central bronchogenic carcinoma of the lung. You determine that the tumour is greater than 3 cm in its longest dimension, invades the mediastinal pleura but does not invade any mediastinal structures. There is an associated pleural effusion but you are informed by the clinical team that multiple cytopathological examinations reveal no tumour cells. What would be your proposed T staging?",
-      options: ["A TX", "B T1", "C T2", "D T3", "E T4"],
+      options: ["TX", "T1", "T2", "T3", "T4"],
       response: "",
       answer: "T3",
       explanation: "T3 and T4 tumours can be of any size. However, if the tumour extends into the chest wall, diaphragm or the mediastinal pleura or pericardium (without involving the heart or mediastinal structures) it is a T3 tumour",

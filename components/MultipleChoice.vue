@@ -10,6 +10,7 @@
       :option
       :optionId="Number(optionId)"
       :checkAnswers
+      :rev
     />
     <div v-if="isMCQsInAnatomyOrQbase1 && checkAnswers">
       <div v-if="question.explanation">
@@ -31,7 +32,7 @@
     </div>
     <div class="py-2 text-right">
       <UButton
-      v-if="questionsAnswered"
+        v-if="questionsAnswered"
         @click="checkAnswers = !checkAnswers"
         :label="checkAnswers ? 'Hide Answers' : 'Show Answers'"
         v-motion-pop
@@ -50,11 +51,21 @@
 
 <script setup>
 const { path } = useRoute();
-const checkAnswers = ref(false)
+const checkAnswers = ref(false);
+const revision = computed(() => props.revisionMode);
+const rev = ref("");
 
 const props = defineProps({
   question: Object,
   questionId: Number,
+  revisionMode: Boolean,
+});
+
+watch(revision, (newVal) => {
+  checkAnswers.value = newVal;
+  if (newVal) {
+    rev.value = "revision";
+  } else rev.value = "";
 });
 
 const isMCQsInAnatomyOrQbase1 = computed(
@@ -62,7 +73,6 @@ const isMCQsInAnatomyOrQbase1 = computed(
     path.split("/")[2] === "mcqs-in-anatomy" ||
     path.split("/")[2] === "qbase-radiology-vol-1"
 );
-
 
 const questionsAnswered = computed(() =>
   props.question.options.every((option) => option.response !== "")
