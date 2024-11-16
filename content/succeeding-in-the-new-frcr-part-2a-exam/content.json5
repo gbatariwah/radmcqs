@@ -1,0 +1,32 @@
+{
+  title: "Succeeding in the new FRCR Part 2a Exam",
+  slug: "succeeding-in-the-new-frcr-part-2a-exam",
+  author: "Asim Ahmed Afaq & Edward Leen",
+  edition: 1,
+  sections: [
+    {
+      name: "Cardiothoracic and Vascular",
+      slug: "cardiothoracic-and-vascular",
+    },
+    {
+      name: "Musculoskeletal and Trauma",
+      slug: "musculoskeletal-and-trauma",
+    },
+    {
+      name: "Gastrointestinal",
+      slug: "gastrointestinal",
+    },
+    {
+      name: "Genitourinary, Adrenal, Obstetric & Gynaecology and Breast",
+      slug: "genitourinary-adrenal-obstetric-gynaecology-and-breast",
+    },
+    {
+      name: "Paediatrics",
+      slug: "paediatrics",
+    },
+    {
+      name: "Central Nervous and Head & Neck",
+      slug: "central-nervous-and-head-neck",
+    },
+  ],
+}

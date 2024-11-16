@@ -3,7 +3,7 @@
     <header class="p-4 border-b dark:border-zinc-800">
       <Navbar />
     </header>
-    <main class="p-4 min-h-[500px]">
+    <main class="px-4 sm:px-0 min-h-[500px]">
       <slot />
       <ScrollToTop />
     </main>

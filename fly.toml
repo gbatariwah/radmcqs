@@ -1,4 +1,4 @@
-# fly.toml app configuration file generated for rad101 on 2024-05-03T11:59:06Z
+# fly.toml app configuration file generated for rad101 on 2024-11-15T23:59:39Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
@@ -12,8 +12,8 @@ kill_timeout = '5s'
   auto_rollback = true
 
 [build]
-builder = "paketobuildpacks/builder:base"
-buildpacks = ["gcr.io/paketo-buildpacks/nodejs"]
+  builder = 'paketobuildpacks/builder:base'
+  buildpacks = ['gcr.io/paketo-buildpacks/nodejs']
 
 [env]
   PORT = '8080'

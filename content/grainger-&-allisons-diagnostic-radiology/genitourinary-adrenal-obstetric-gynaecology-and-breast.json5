@@ -73,7 +73,7 @@
     },
     {
       questionNumber: 6,
-      stem: "A 35-year-oid man is discovered to have a right testicular mass on ultrasound. Which additional ultrasound finding would suggest a diagnosis of teratoma rather than seminoma?",
+      stem: "A 35-year-old man is discovered to have a right testicular mass on ultrasound. Which additional ultrasound finding would suggest a diagnosis of teratoma rather than seminoma?",
       options: [
         "A testicular mass that contains areas of calcification",
         "A testicular mass that demonstrates increased colour Doppler flow",
@@ -1112,7 +1112,7 @@
     },
     {
       questionNumber: 76,
-      stem: "A 65-year-old man is referred by his GP to the urologists for investigation of chronic macroscopic haematuria. The patient is a teacher and has recently returned to the UI< after 15 years working in Malawi. He suffered an episode of dysuria and haematuria several years ago, and a local doctor diagnosed schistosomiasis. You are asked to supervise and report a CT urogram for this patient. Which one of the following statements is true regarding the radiological features of schistosomiasis?",
+      stem: "A 65-year-old man is referred by his GP to the urologists for investigation of chronic macroscopic haematuria. The patient is a teacher and has recently returned to the UK after 15 years working in Malawi. He suffered an episode of dysuria and haematuria several years ago, and a local doctor diagnosed schistosomiasis. You are asked to supervise and report a CT urogram for this patient. Which one of the following statements is true regarding the radiological features of schistosomiasis?",
       options: [
         "Cortical nephrocalcinosis is characteristic",
         "In late stage disease, a 1- to 3-mm band of calcification surrounding the bladder wall is seen",

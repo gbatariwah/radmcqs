@@ -1,0 +1,752 @@
+{
+  name: "Musculoskeletal and Trauma",
+  slug: "musculoskeletal-and-trauma",
+  questions: [
+    {
+      "questionNumber": 1,
+      "stem": "An ultrasound scan of a patient’s left shoulder suggests subacromial impingement. Which is the single best answer?",
+      "options": [
+        "Type 2 concave pattern is the most common morphology",
+        "Type 2 is the most common type to be associated with rotator cuff tears",
+        "ACJ degeneration increases the supraspinatus outlet",
+        "Significant subacromial subdeltoid bursitis is diagnosed with thickness > 10mm",
+        "Is associated with the presence of bursal fluid lateral to the Acromio clavicular joint (ACJ)"
+      ],
+      "answer": "Type 2 concave pattern is the most common morphology",
+      "explanation": "Type 1-flat (12%) Type 2-concave (56%) Type 3-hooked (29%) Type 4-inferior convex (3%) Type 3 more than Type 2 is associated with increased incidence of rotator cuff tears. ACJ degeneration can narrow the supraspinatus outlet. Significant subacromial subdeltoid (SASD) bursitis include thickness > 3mm, presence of bursal fluid medial to the ACJ and presence of fluid in the anterior aspect of the bursa",
+      "reference": "Mulyadi E et al. MRI of impingement syndromes of the shoulder Clinical Radiology 2009; 64(3): 307–318",
+      "response": ""
+    },
+    {
+      "questionNumber": 2,
+      "stem": "A 32-year-old keen tennis player has had shoulder pain for 6 weeks. An MRI confirms a superior labral tear from anterior to posterior (SLAP) lesion. Regarding these lesions, which of the following is the single best answer?",
+      "options": [
+        "Are isolated tears of glenoid labrum with superior and inferior components",
+        "Tears are classically located at the biceps anchor",
+        "Occur with repetitive underarm activity",
+        "Is often diagnosed clinically alone",
+        "Begins in the anterior aspect of superior labrum and extends posteriorly"
+      ],
+      "answer": "Tears are classically located at the biceps anchor",
+      "explanation": "SLAP lesions are isolated tears of the glenoid labrum with anterior and posterior components. These lesions occur with repetitive over-arm activity, begin in the posterior aspect of the superior labrum and extend posteriorly",
+      "reference": "Robinson G. Normal anatomy and common labral lesions at MR arthrography of the shoulder. Clinical Radiology 2006; 61(10): 805–821",
+      "response": ""
+    },
+    {
+      "questionNumber": 3,
+      "stem": "A 20-year-old man sustains a knee injury after playing football. Regarding imaging of the infrapatellar tendon, which is the best answer?",
+      "options": [
+        "Normal infrapatellar tendon appears high signal on all sequences",
+        "A triangular area of high signal at the patellar enthesis when imaged on gradient echo indicates tendon rupture",
+        "In infrapatellar tendnopathy, the tendon may be swollen and contain focal areas of reduced echogenicity",
+        "The paratenon is more commonly the primary site of acute inflammation in infrapatellar tendon than the Achilles tendon",
+        "An echo-rich halo around the tendon is seen in paratenonitis on US"
+      ],
+      "answer": "In infrapatellar tendnopathy, the tendon may be swollen and contain focal areas of reduced echogenicity",
+      "explanation": "The normal infrapatellar tendon is homogenously low SI on all sequences. A triangular area of high signal at the patellar enthesis when imaged on gradient echo is of no clinical significance. The paratenon is more commonly the primary site of acute inflammation in the Achilles tendon than the infrapatellar tendon. An echo-poor halo around the tendon is seen in paratenonitis on US",
+      "reference": "Peace KA et al. Imaging the infrapatellar tendon in the elite athlete. Clinical Radiology 2006; 61(7): 570–578",
+      "response": ""
+    },
+    {
+      "questionNumber": 4,
+      "stem": "Considering the radiological features of thalassemia of the skull:",
+      "options": [
+        "Dipolic space widening occurs first in the occipital region",
+        "Thickening of the outer table and thinning of the inner table",
+        "Hair-on-end appearance is common",
+        "There is reduced pneumatisation of the air spaces within the skull",
+        "Marrow hyperplasia in the maxilla causes medial displacement of the orbits and ventral displacement of the incisors"
+      ],
+      "answer": "There is reduced pneumatisation of the air spaces within the skull",
+      "explanation": "Hair-on-end appearance is recognised but is relatively uncommon. Increased haematopoesis is associated with thinning of the outer table and thickening of the inner table. Characteristic facies are produced by lateral displacement of the orbits",
+      "reference": "Tyler PA. The radiological appearances of thalassaemia. Clinical Radiology 2006; 61(1): 40–52",
+      "response": ""
+    },
+    {
+      "questionNumber": 5,
+      "stem": "A 55-year-old woman with breast cancer and back pain undergoes investigation with MRI. Which of the following indicates a malignant rather than osteoporotic vertebral fracture?",
+      "options": [
+        "Convex posterior cortex",
+        "Normal Signal Intensity (SI) on all sequences",
+        "Retropulsion of a posterior bone fragment",
+        "Band-like low SI adjacent to the fracture",
+        "Homogenous ‘return to normal’ SI after contrast"
+      ],
+      "answer": "Convex posterior cortex",
+      "explanation": "B-E are osteoporotic features. Other malignant features include diffuse low SI on T1, high/heterogeneous SI on T2, and involvement of the posterior elements",
+      "reference": "Winterbottom AP et al. Imaging patients with myeloma. Clinical Radiology 2009; 64(1): 1–11",
+      "response": ""
+    },
+    {
+      "questionNumber": 6,
+      "stem": "A 60-year-old woman undergoing follow-up CT under the care of the oncologist develops a new expansile lytic lesion. Which of the following primary tumours usually causes an expansile lytic metastasis?",
+      "options": [
+        "Cervix",
+        "Uterus",
+        "Ovary",
+        "Thyroid",
+        "Rectum"
+      ],
+      "answer": "Thyroid",
+      "explanation": "Renal cell carcinoma also causes expansile lytic metastases",
+      "reference": "Chapman S and Nakielny R (2003) Aids to Radiological Differential Diagnosis 4th edition. London: Saunders Ltd",
+      "response": ""
+    },
+    {
+      "questionNumber": 7,
+      "stem": "Which of the following causes parallel spiculated (hair-on-end) rather than divergent speculated (sunray) periosteal reaction?",
+      "options": [
+        "Osteosarcoma",
+        "Ewing’s sarcoma",
+        "Sigmoid colon cancer metastasis",
+        "Hemangioma",
+        "Meningioma"
+      ],
+      "answer": "Ewing’s sarcoma",
+      "explanation": "Other causes include syphilis and infantile cortical hyperostosis",
+      "reference": "Chapman S and Nakielny R (2003) Aids to Radiological Differential Diagnosis 4th edition. London: Saunders Ltd",
+      "response": ""
+    },
+    {
+      "questionNumber": 8,
+      "stem": "During reporting of a series of GP plain film, a chest radiograph shows superior rib notching. Which of the following is a cause of superior rather than inferior rib notching?",
+      "options": [
+        "Aortic thrombosis",
+        "Subclavian obstruction",
+        "Pulmonary AVM",
+        "Rheumatoid arthritis",
+        "Superior Vena cava (SVC) obstruction"
+      ],
+      "answer": "Rheumatoid arthritis",
+      "explanation": "Other causes of superior rib notching include SLE, scleroderma, Sjögren’s syndrome, hyperparathyroidism, Marfan’s syndrome and osteogenesis imperfecta. NF can cause superior and inferior rib notching",
+      "reference": "Chapman S and Nakielny R (2003) Aids to Radiological Differential Diagnosis 4th edition. London: Saunders Ltd",
+      "response": ""
+    },
+    {
+      "questionNumber": 9,
+      "stem": "Which of the following is a cause of increased rather than decreased uptake on bone scan?",
+      "options": [
+        "Cysts",
+        "Haemangioma",
+        "Leukemia",
+        "Spina bifida",
+        "Recent tooth extraction"
+      ],
+      "answer": "Recent tooth extraction",
+      "explanation": "Haemangioma and leukaemia as well as myeloma can show increased uptake as well",
+      "reference": "Chapman S and Nakielny R (2003) Aids to Radiological Differential Diagnosis 4th edition. London: Saunders Ltd",
+      "response": ""
+    },
+    {
+      "questionNumber": 10,
+      "stem": "A 65-year-old Asian man with a long history of back pain is investigated with MRI. Which is a feature of tuberculosis rather than pyogenic vertebral collapse?",
+      "options": [
+        "Rapid progression",
+        "Marked osteoblastic response",
+        "Less sclerosis",
+        "Less collapse",
+        "Small or no paravertebral abscess"
+      ],
+      "answer": "Less sclerosis",
+      "explanation": "Other features of tuberculosis include slow progression, marked collapse and a large paravertebral abscess, with or without calcification",
+      "response": ""
+    },
+    {
+      "questionNumber": 11,
+      "stem": "A plain radiograph of an adult pelvis shows a widened pubic symphysis. Which of the following is a cause of widening rather than fusion of the symphysis pubis?",
+      "options": [
+        "Hyperparathyroidism",
+        "Osteoarthritis",
+        "Late ankylosing spondylitis",
+        "Alkaptonuria",
+        "Fluorosis"
+      ],
+      "answer": "Hyperparathyroidism",
+      "explanation": "Hyperparathyroidism is a cause of widening of the pubic symphysis. Other causes of widening include pregnancy, trauma, osteitis pubis, osteolytic metastases, infection, early ankylosing spondylitis, rheumatoid arthritis",
+      "response": ""
+    },
+    {
+      "questionNumber": 12,
+      "stem": "Which of the following is a cause of a mixed sclerotic/lytic lesion with a button sequestrum?",
+      "options": [
+        "TB",
+        "Ewing’s sarcoma",
+        "Eosinophilic granuloma",
+        "Metastases",
+        "Osteosarcoma"
+      ],
+      "answer": "Eosinophilic granuloma",
+      "explanation": "Eosinophilic granuloma is a cause of a mixed sclerotic/lytic lesion with a button sequestrum",
+      "reference": "Dahnert W (2007) Radiology Review Manual, 6th Edition. Philadelphia: Lippincott, Williams & Wilkins p. 9",
+      "response": ""
+    },
+    {
+      "questionNumber": 13,
+      "stem": "Which of the following is a cause of acroosteosclerosis rather than acroosteolysis?",
+      "options": [
+        "Psoriasis",
+        "Diabetes",
+        "Polyvinylchloride work",
+        "Hodgkin’s",
+        "Hyperparathyroidism"
+      ],
+      "answer": "Hodgkin’s",
+      "explanation": "Acrosteolysis is a lytic destructive process involving the distal and middle phalanges with no periosteal reaction",
+      "reference": "Dahnert W (2007) Radiology Review Manual, 6th Edition. Philadelphia: Lippincott, Williams & Wilkins p. 21",
+      "response": ""
+    },
+    {
+      "questionNumber": 14,
+      "stem": "A 40-year-old man with short stature and normal intelligence has features including a large head, and an injury to his left leg whilst playing football. On review of the plain film, no acute bony injury is demonstrated. However, he is noted to have a disproportionately large fibula, a champagne glass pelvic inlet and horizontal acetabulae. Which is the underlying diagnosis?",
+      "options": [
+        "Achondrogenesis",
+        "Homozygous achondroplasia",
+        "Heterozygous achondroplasia",
+        "Pseudoachondroplasia",
+        "Metatrophic dwarfism"
+      ],
+      "answer": "Heterozygous achondroplasia",
+      "explanation": "Patients with pseudoachondroplasia have a normal skull and medial beaking of the proximal femoral neck. Achondrogenesis is lethal in utero/neonatal period, as is homozygous achondroplasia. In metatrophic dwarfism, dumbbell shaped long bones and flattened vertebra may be found",
+      "reference": "Dahnert W (2007) Radiology Review Manual, 6th Edition. Philadelphia: Lippincott, Williams & Wilkins p. 43",
+      "response": ""
+    },
+    {
+      "questionNumber": 15,
+      "stem": "In a 50-year-old man with joint pains, involvement of which of the following indicates ochranosis rather than calcium pyrophosphate dihydrate crystal deposition disease (CPDD)?",
+      "options": [
+        "Annulus fibrosis of lumbar intervertebral discs",
+        "Nucleus pulposis of the lumbar intervertebral discs",
+        "Sacroiliac joints",
+        "Triangular fibrocartilage in the distal radioulnar joints",
+        "Glenohumeral joint"
+      ],
+      "answer": "Nucleus pulposis of the lumbar intervertebral discs",
+      "explanation": "CPDD never involves nucleus pulposis, unlike ochranosis",
+      "reference": "Dahnert W (2007) Radiology Review Manual, 6th Edition. Philadelphia: Lippincott, Williams & Wilkins p. 55",
+      "response": ""
+    },
+    {
+      "questionNumber": 16,
+      "stem": "Which of the following indicates grade 4 chondromalacia patellae on T1 MRI?",
+      "options": [
+        "Loss of sharp dark margin between articular cartilage of the patella and trochlea",
+        "Focal hypointense areas extending to the articular surface but not down to the osseous surface",
+        "Focal hypointense areas extending from subchondral bone to cartilage surface",
+        "Focal hypointense areas extending to the cartilage surface with preservation of sharp cartilage margins",
+        "Focal hypointense areas not extending to cartilage surface"
+      ],
+      "answer": "Focal hypointense areas extending from subchondral bone to cartilage surface",
+      "explanation": "Grade 1: focal hypointense areas not extending to cartilage surface Grade 2: focal hypointense areas extending to the cartilage surface with preservation of sharp cartilage margins Grade 3: loss of sharp dark margin between articular cartilage of the patella and trochlea and focal hypointense areas extending to the articular surface but not down to the osseous surface",
+      "reference": "Dahnert W (2007) Radiology Review Manual, 6th Edition. Philadelphia: Lippincott, Williams & Wilkins p. 58",
+      "response": ""
+    },
+    {
+      "questionNumber": 17,
+      "stem": "A 20-year-old man is referred for suspected malignant transformation of an osteochondroma. Which of the following is a cause for concern in an osteochondroma?",
+      "options": [
+        "New lucency",
+        "Reduced scintigraphic activity",
+        "Growth plate before physeal closure",
+        "Asymptomatic nature",
+        "Cartilagenous cap > 0.5cm"
+      ],
+      "answer": "New lucency",
+      "explanation": "Concerning features for malignant transformation include new lucency, increased scintigraphic activity, growth after skeletal maturation, pain after puberty, cortical destruction and a cartilaginous cap > 1.5cm",
+      "reference": "Dahnert W (2007) Radiology Review Manual, 6th Edition. Philadelphia: Lippincott, Williams & Wilkins p. 134",
+      "response": ""
+    },
+    {
+      "questionNumber": 18,
+      "stem": "Which is the most common location for giant cell tumour?",
+      "options": [
+        "Proximal tibia",
+        "Proximal femur",
+        "Distal femur",
+        "Proximal fibula",
+        "Patella"
+      ],
+      "answer": "Distal femur",
+      "explanation": "50-65% occur around the knee, but are rare in the patella",
+      "reference": "Dahnert W (2007) Radiology Review Manual, 6th Edition. Philadelphia: Lippincott, Williams & Wilkins p. 95",
+      "response": ""
+    },
+    {
+      "questionNumber": 19,
+      "stem": "Which is the most characteristic feature in haemachromatosis?",
+      "options": [
+        "Chondrocalcinosis",
+        "Small subchondral cysts with a fine rim of sclerosis",
+        "Symmetric joint space narrowing",
+        "Generalised osteopenia",
+        "Hook-like osteophytes on the radial aspects of the metacarpal heads"
+      ],
+      "answer": "Hook-like osteophytes on the radial aspects of the metacarpal heads",
+      "explanation": "Although all of the answers are features, hook-like osteopohytes are the most characteristic. Arthropathy is seen in 50%, and chrondrocalinosis in more than 60%, with knees being most commonly affected",
+      "response": ""
+    },
+    {
+      "questionNumber": 20,
+      "stem": "On reviewing a knee radiograph of a 17-year-old boy with knee pain, squaring of the patella, widening of the intercondylar notch, flattening of the condylar surface and medial slanting of the tibiotalar joint are noted. There is also patelalofemoral joint space narrowing and a joint effusion. Which of the following is most likely?",
+      "options": [
+        "Psoriatic arthropathy",
+        "Haemophilic arthorpathy",
+        "Juvenile idiopathic arthritis",
+        "TB arthritis",
+        "Rheumatoid arthritis"
+      ],
+      "answer": "Haemophilic arthorpathy",
+      "explanation": "Although all are causes of a widened intercondylar notch, the radiographic features are of haemophilic arthropathy. MRI shows low SI of hypertrophied synovial membrane on all pulse sequences due to haemosiderin",
+      "reference": "Chapman S and Nakielny R (2003) Aids to Radiological Differential Diagnosis 4th edition. London: Saunders Ltd. p. 107",
+      "response": ""
+    },
+    {
+      "questionNumber": 21,
+      "stem": "Which of the following is associated with anteromedial ankle impingement syndrome?",
+      "options": [
+        "Usually occurs from eversion injury only",
+        "Well-defined signal intensity on T1 and T2 in the deep deltoid ligament related to scarring",
+        "Large corticated ossicles are seen",
+        "Lateral displacement of the tibialis posterior tendon",
+        "Post-traumatic synovitis"
+      ],
+      "answer": "Post-traumatic synovitis",
+      "explanation": "Anteromedial ankle impingement syndrome was previously thought to be from eversion injury but recent studies are showing inversion is the causative injury. There is associated amporphous SI in ATTL with heterotopic bone formation and small corticated ossicles. Post-traumatic synovitis and fibrosis are recognised. The tibialis posterior tendon may be displaced medially",
+      "reference": "Chhabra A et al. MR imaging of deltoid ligament pathologic findings and associated impingement syndromes. Radiographics 2010; 30(3): 751–761",
+      "response": ""
+    },
+    {
+      "questionNumber": 22,
+      "stem": "An MRI of the ankle shows deep injury to the deltoid ligament. Which of the following belong to the deep components of the deltoid (medial collateral) ligament of the ankle?",
+      "options": [
+        "Tibiocalcaneal ligament",
+        "Tibionavicular ligament",
+        "Posterior superficial tibiotalar ligament",
+        "Anterior tibiotalar ligament (ATTL)",
+        "Tibiospring ligament"
+      ],
+      "answer": "Anterior tibiotalar ligament (ATTL)",
+      "explanation": "The other answers all belong to the superficial components. The posterior deep tibiotalar ligament is also deep. The superficial and deep components function almost synergistically and stabilise against valgus and pronation as well as rotational force against the talus",
+      "reference": "Chhabra A et al. MR imaging of deltoid ligament pathologic findings and associated impingement syndromes. Radiographics 2010; 30(3): 751–761",
+      "response": ""
+    },
+    {
+      "questionNumber": 23,
+      "stem": "An osteoid osteoma is thought to be the cause of painful scoliosis in a 20-year-old man. Which of the following is the single best answer regarding osteoid osteomas?",
+      "options": [
+        "The nidus appears sclerotic with surrounding lucency on CT",
+        "Most commonly found in long bones of the lower limbs",
+        "The nidus does not enhance on CT",
+        "Reactive sclerosis around the nidus is uncommon",
+        "The nidus demonstrates decreased activity on bone scintigraphy"
+      ],
+      "answer": "Most commonly found in long bones of the lower limbs",
+      "explanation": "Although osteoid osteomas can occur in any bone, they are most common in the metadiaphyseal femur and tibia. The nidus appears lucent on radiographs, intensely active on bone scan – with surrounding well-defined luceny (double doughnut sign), isointense to muscle on T1 and variable SI on T2",
+      "reference": "Motamedi D et al. Thermal ablation of osteoid osteoma: overview and step-by-step guide. Radiographics 2009; 29(7): 2127–2141",
+      "response": ""
+    },
+    {
+      "questionNumber": 24,
+      "stem": "Plain film, CT and MRI are performed for the investigation of suspected chordoma. Which is the best answer?",
+      "options": [
+        "Radiographic appearances show sacral osteosclerosis",
+        "Coarse calcification often present with associated soft tissue",
+        "Areas of low attenuation within a mass on CT",
+        "Intermediate SI on T2",
+        "Arise from the spinal canal"
+      ],
+      "answer": "Areas of low attenuation within a mass on CT",
+      "explanation": "Chordoma usually appears as a low attenuation mass on CT",
+      "response": ""
+    },
+    {
+      "questionNumber": 25,
+      "stem": "A 60-year-old man with several months’ history of back pain, worse when sitting, and with no bowel or bladder symptoms, undergoes evaluation with MRI. This shows a lobulated presacral mass, low SI on T1 with several areas of high SI within it, most likely to represent areas of calcification and haemorrhage. Which is the most probable diagnosis?",
+      "options": [
+        "Chordoma",
+        "Chondrosarcoma",
+        "Myxopapillary ependymoma",
+        "Metastasis",
+        "Giant cell tumour"
+      ],
+      "answer": "Chordoma",
+      "explanation": "This is the most common primary malignant tumour of the sacrum. Giant cell tumours are the second most common cause and are indistinguishable from chordomas on MRI",
+      "reference": "Farsad K et al. Sacral chordoma. Radiographics 2009; 29(5): 1525–1530",
+      "response": ""
+    },
+    {
+      "questionNumber": 26,
+      "stem": "Which of the following indicates telangiectatic osteosarcoma (TOS) rather than an aneurismal bone cyst (ABC)?",
+      "options": [
+        "Enhancing septa without nodularity on MR",
+        "Marked expansile remodelling of bone",
+        "Cortical thinning",
+        "Presence of osteoid matrix with septal regions on CT",
+        "Presence of haemorrhagic spaces"
+      ],
+      "answer": "Presence of osteoid matrix with septal regions on CT",
+      "explanation": "Thick peripheral septa with nodularity, presence of an osteoid matrix within nodular or septal regions, and aggressive growth features such as cortical destruction indicate TOS rather than ABC",
+      "reference": "Discepola F et al. Telangiectatic osteosarcoma: radiologic and pathologic findings. Radiographics 2009; 29(2): 380–383",
+      "response": ""
+    },
+    {
+      "questionNumber": 27,
+      "stem": "Considering post-radiotherapy changes of soft tissue tumours on MRI:",
+      "options": [
+        "Earliest radiation change is demonstrated by increased SI in marrow between 6-12 weeks",
+        "SI changes are due to replacement of marrow by fat",
+        "In most cases, complete replacement occurs in 12-14 weeks",
+        "Regeneration of normal marrow is common",
+        "Radiation field is usually poorly defined on MR"
+      ],
+      "answer": "SI changes are due to replacement of marrow by fat",
+      "explanation": "The earliest changes occur 1-6 weeks after therapy is initiated and is due to replacement of marrow by fat. Complete replacement occurs within 6-8 weeks. Due to high radiation doses used in soft tissue tumour treatment, regeneration of normal marrow is rare, but can occur in young patients. The radiation field is usually well-defined",
+      "reference": "Garner HW et al. Benign and malignant soft-tissue tumors: posttreatment MR imaging. Radiographics 2009; 29(1): 119–134",
+      "response": ""
+    },
+    {
+      "questionNumber": 28,
+      "stem": "Considering soft tissue response to chemotherapy:",
+      "options": [
+        "Neoadjuvant chemotherapy increases recurrence-free survival but not overall survival in high grade soft tissue sarcoma",
+        "Chemotherapy may cause a substantial increase in tumour size initially",
+        "Tumour size is the most accurate predictor of biologic response to tumour treatment",
+        "Contrast enhancement limits interpretation of intralesional necrosis",
+        "Intralesional haemorrhage post-chemotherapy is very rare"
+      ],
+      "answer": "Chemotherapy may cause a substantial increase in tumour size initially",
+      "explanation": "Treatment induced necrosis is a more accurate predictor of tumour response than size. Tumour size can indeed increase initially due to intralesional haemorrhage. The degree of necrosis is best evaluated with gadolinium enhanced T1 fat suppressed sequences. Neoadjuvant chemotherapy increases both recurrence-free and overall survival",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 29,
+      "stem": "Considering the imaging features of extraarticular Pigmented Villonodular Synovitis (PVNS):",
+      "options": [
+        "Typically manifests as a soft tissue mass in 20% of cases",
+        "Osseous abnormalities are present in the vast majority",
+        "Extrinsic erosion is the most common osseous abnormality",
+        "Radiographs are normal in 80% of cases",
+        "Extensive erosions are more common in the knee"
+      ],
+      "answer": "Extrinsic erosion is the most common osseous abnormality",
+      "explanation": "Manifests as a soft tissue mass in 50-70% of cases, with normal radiographs in 20% and osseous abnormalities in 5-25%. The most common osseous abnormality are extrinsic erosions which are more often present in the ankle and foot",
+      "reference": "Murphey MD et al. Pigmented villonodular synovitis: radiologic-pathologic correlation. Radiographics 2008; 28(5): 1493–1518",
+      "response": ""
+    },
+    {
+      "questionNumber": 30,
+      "stem": "A 16-year-old girl who has recently moved from India to the UK has back pain. Considering tuberculous spondylitis:",
+      "options": [
+        "10% of skeletal TB involves the spine",
+        "Infection usually begins in the posterior part of the vertebral body",
+        "Medial bowing of the psoas shadow on plain film may indicate an abscess",
+        "The upper thoracic spine is most commonly affected",
+        "Calcification within a psoas abscess is highly likely to represent TB"
+      ],
+      "answer": "Calcification within a psoas abscess is highly likely to represent TB",
+      "explanation": "50% of skeletal TB involves the spine, with the lower thoracic and upper lumbar regions being most commonly affected. It usually begins at the anterior vertebral body. A psoas abscess may cause lateral bowing of the psoas shadow on plain film",
+      "reference": "Burrill J et al. Tuberculosis: a radiologic review. Radiographics 2007; 27(5): 1255–1273",
+      "response": ""
+    },
+    {
+      "questionNumber": 31,
+      "stem": "A 42-year-old man with Type 1 diabetic nephropathy, neuropathy and retinopathy develops sudden onset pain in the thighs. A diagnosis of diabetic myopathy is considered. Which is the single best answer?",
+      "options": [
+        "Fever is present in most cases",
+        "Both lower limbs are affected in most cases",
+        "Low signal on unenhanced T1 indicated haemorrhagic infarction",
+        "SI is usually low on T2",
+        "A focus of central low SI surrounded by a rim of high SI on contrast enhanced T1 indicates muscle infarction and necrosis"
+      ],
+      "answer": "A focus of central low SI surrounded by a rim of high SI on contrast enhanced T1 indicates muscle infarction and necrosis",
+      "explanation": "Diabetic myopathy typically presents with sudden onset pain and swelling of the affected muscles and a palpable painful mass in 1⁄3 of cases. Fever is present in 10%. Other complications of diabetes are usually present. Myopathy affects bilateral lower limbs in 18%. It usually demonstrates diffusely high SI on T2 with areas of high SI on T1 indicating haemorrhagic infarction",
+      "reference": "Huang BK et al. Diabetic myopathy: MRI patterns and current trends. AJR Am J Roentgenol 2010; 195(1): 198–204",
+      "response": ""
+    },
+    {
+      "questionNumber": 32,
+      "stem": "Which of the following favours a diagnosis of rheumatoid arthritis rather than tuberculous arthritis?",
+      "options": [
+        "Periarticular osteopenia",
+        "Marginal erosion",
+        "Relatively late sparing of joint space",
+        "Joint effusion",
+        "Uneven and thick synovial proliferation"
+      ],
+      "answer": "Uneven and thick synovial proliferation",
+      "explanation": "The remaining answers are also seen in TB arthritis. Even and thin synovium, large bone erosions, rim enhancement around bone erosion and extra-articular cystic masses are more frequently seen in TB arthritis",
+      "reference": "Choi JA et al. Rheumatoid arthritis and tuberculous arthritis: differentiating MRI features. AJR Am J Roentgenol 2009; 193(5): 1347–1353",
+      "response": ""
+    },
+    {
+      "questionNumber": 33,
+      "stem": "A 27-year-old man presents with posterior instability of the shoulder. Transaxial ts T1 MR arthrogram shows posterioinferior labrum tear and tear of the posterior scapular periosteum. Which is the diagnosis?",
+      "options": [
+        "Reverse Bankart lesion",
+        "Bankart lesion",
+        "Bennett lesion",
+        "Posterior labrocapsular periosteal sleeve avulsion",
+        "Humeral avulsion of the posterior glenohumeral ligament"
+      ],
+      "answer": "Reverse Bankart lesion",
+      "explanation": "The posterior inferior labrum is detected from glenohumeral attachment and there is an avulsion tear of the posterior scapular periosteum",
+      "reference": "Shah N et al. Imaging signs of posterior glenohumeral instability. AJR Am J Roentgenol 2009; 192(3): 730–735",
+      "response": ""
+    },
+    {
+      "questionNumber": 34,
+      "stem": "Which of the following favours chondroma rather than chondrosarcoma?",
+      "options": [
+        "Size > 3cm",
+        "Pain",
+        "Age > 30",
+        "Location in hands and feet",
+        "Permeation into soft tissues"
+      ],
+      "answer": "Location in hands and feet",
+      "explanation": "Chondromas are usually < 3cm, painless and in younger patients in the peripheral skeleton",
+      "reference": "Chaabane S et al. Periosteal chondrosarcoma. AJR Am J Roentgenol 2009; 192(1): 1-6",
+      "response": ""
+    },
+    {
+      "questionNumber": 35,
+      "stem": "A 20-year-old long-distance runner has a several week history of right lower leg pain. A plain film was reported as normal but CT showed multiple areas of osteopenia and cavities of the anterior tibial cortex. Which is the diagnosis?",
+      "options": [
+        "Stress fracture",
+        "Chronic external compartment syndrome",
+        "Medial tibial stress syndrome",
+        "Periostitis",
+        "Interosseous membrane injury"
+      ],
+      "answer": "Medial tibial stress syndrome",
+      "explanation": "A spectrum of lesions can occur from repetitive stress. These include periostitis, cortical osteopenia, cancellous bone and cortical fractures. Injuries are most frequently in the cortex of the distal 2⁄3 of the tibia and known as medial tibial stress syndrome",
+      "reference": "Gaeta M et al. Diagnostic imaging in athletes with chronic lower leg pain. AJR Am J Roentgenol 2008; 191(5): 1412–1419",
+      "response": ""
+    },
+    {
+      "questionNumber": 36,
+      "stem": "A 27-year-old athlete develops groin pain. A pelvic radiograph suggests osteitis pubis. Which is the single best answer?",
+      "options": [
+        "Osteitis pubis usually demonstrates rapid radiographic changes",
+        "Is due to a single traumatic insult in most cases",
+        "Is associated with inflammatory mediated inappropriate osteoblsatic activity",
+        "Is associated with pubic or perineal pain with resisted hip abduction",
+        "Radiographic changes include alternating osteopenia and sclerosis"
+      ],
+      "answer": "Radiographic changes include alternating osteopenia and sclerosis",
+      "explanation": "This is a self-limiting but often protracted condition secondary to repetitive microtrauma with osteoclastic activity and osseous resorption. Radiographs show irregularity of subchondral bone plate, erosions, fragmentation and alternating osteopenia and sclerosis. It may lead to joint space widening",
+      "reference": "Koulouris G. Imaging review of groin pain in elite athletes: an anatomic approach to imaging findings. AJR Am J Roentgenol 2008; 191(4): 962–972",
+      "response": ""
+    },
+    {
+      "questionNumber": 37,
+      "stem": "A 37-year-old female with generalised bone pain and a chronic disease has plain films of the thoracic spine showing diffuse sclerosis and band-like areas of sclerosis involving the upper and lower endplates. Anterior erosions are noted in the vertebral bodies. A small lytic lesion is seen in the pedicle. Which is the diagnosis?",
+      "options": [
+        "Fluorosis",
+        "Osteopetrosis",
+        "Systemic mastocytosis",
+        "Renal osteodystrophy and secondary hyperparathyroidism",
+        "Myelofibrosis"
+      ],
+      "answer": "Renal osteodystrophy and secondary hyperparathyroidism",
+      "explanation": "A rugger-jersey spine is described with subligamentous resorption and lytic brown tumour",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 38,
+      "stem": "A 68-year-old man has a pelvic radiograph showing an enlarged right iliac bone with mixed lucency and areas of increased density. There are coarsened trabeculae and cortical thickening. There is thickening of the right ileopectineal line. Intense uptake is seen in this region on bone scan. He is known to have prostate cancer, currently on active surveillance. Prostate Specific Antigen (PSA) is stable at 1.7. Which is the diagnosis?",
+      "options": [
+        "Melorheostosis",
+        "Metastatic prostate cancer",
+        "Post-radiotherapy changes from treated bony metastases",
+        "Mixed phase Paget’s disease",
+        "Myelofibrosis"
+      ],
+      "answer": "Mixed phase Paget’s disease",
+      "explanation": "Lytic, mixed and sclerotic phases are recognised in Paget’s, in which the lytic and mixed types show increased activity, and a variable pattern in the sclerotic type",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 39,
+      "stem": "In a 19-year-old male with painful scoliosis, a well-defined 3cm geographic osteolytic lesion is seen in the right posterior seventh rib with slight expansion and sharp sclerotic margins. CT is performed and shows punctate calcification within the lesion and adjacent sclerotic bone. MRI shows low-intermediate T1 and intermediate-high T2 signal with bone marrow oedema. Which is the most likely diagnosis?",
+      "options": [
+        "Giant cell tumour",
+        "Fibrous dysplasia",
+        "Enchondroma",
+        "Osteoblastoma",
+        "Aneurysmal bone cyst"
+      ],
+      "answer": "Osteoblastoma",
+      "explanation": "Osteoblastomas share clinical and histological features with osteoid osteomas and 3-12% occur in ribs",
+      "reference": "Hughes EK et al. Benign primary tumours of the ribs. Clinical Radiology 2006; 61(4): 314–322",
+      "response": ""
+    },
+    {
+      "questionNumber": 40,
+      "stem": "A 35-year-old woman with bilateral forefoot pain is investigated for Morton’s neuromas. Which is the single best answer?",
+      "options": [
+        "Low on T1 and high on T2",
+        "Do not enhance with contrast",
+        "Associated proximal fluid-filled bursae are seen",
+        "Occur most commonly between the heads of the first and second metatarsals",
+        "Occur most commonly between the heads of the second and third metatarsals"
+      ],
+      "answer": "Associated proximal fluid-filled bursae are seen",
+      "explanation": "Most commonly between third and fourth metatarsal heads",
+      "reference": "Goodwin RW et al. MRI appearances of common benign soft-tissue tumours. Clinical Radiology 2007; 62(9): 843–853",
+      "response": ""
+    },
+    {
+      "questionNumber": 41,
+      "stem": "Regarding malignant fibrous histiocytoma:",
+      "options": [
+        "Central mineralisation is common",
+        "Occur more often in bone than in soft tissue",
+        "Is the main primary malignant tumour of fibrous origin affecting bone",
+        "Most cases arise in Paget’s disease",
+        "Reactive changes are common"
+      ],
+      "answer": "Is the main primary malignant tumour of fibrous origin affecting bone",
+      "explanation": "Occur much more commonly in soft tissue than bone. 25% occur in pre-existing conditions such as Paget’s. They usually present with insidious onset pain and swelling, and central mineralisation and reactive changes are uncommon",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 42,
+      "stem": "Considering imaging features of plasmocytomas:",
+      "options": [
+        "Are commonly sclerotic",
+        "Arise in the cortex",
+        "Usually has a poorly defined margin",
+        "Peripheral lesions are common",
+        "A soap bubble appearance is common"
+      ],
+      "answer": "A soap bubble appearance is common",
+      "explanation": "Plasmocytomas arise from the medulla in sites of persistent red marrow, frequently producing a soft tissue mass. Other imaging features of plasmocytomas include destructive lytic lesions with well-defined margins, cortical thinning with expansion and apparent trabeculae or a soap bubble appearance",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 43,
+      "stem": "A 28-year-old female with severe pain in both hips has a plain radiograph which demonstrates marked periarticular loss of cancellous bone. Considering transient regional osteoporosis, which of the following is most correct?",
+      "options": [
+        "Radiographic changes occur before bone scan changes",
+        "Slowly developing osteoporosis",
+        "Usually resolves in 4-6 weeks",
+        "Joint space narrowing occurs late",
+        "Acetabulum is usually involved"
+      ],
+      "answer": "Joint space narrowing occurs late",
+      "explanation": "MR shows marrow oedema of the femoral heads, but does not usually involve the acetabulum",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 44,
+      "stem": "Which of the following demonstrates the most uptake on PET/CT?",
+      "options": [
+        "Primary bone lymphoma",
+        "Osteosarcoma",
+        "Chondrosarcoma",
+        "Enchondroma",
+        "Osteochondroma"
+      ],
+      "answer": "Primary bone lymphoma",
+      "explanation": "Greatest FDG uptake occurs in primary bone lymphoma and Ewing’s sarcoma. Osteosarcoma demonstrates moderate uptake. Most benign bone lesions are non-FDG avid, with the exception of high giant cell containing tumours (Giant Cell Tumors (GCT), osteoblastomas, aneurysmal bone cysts) and fibrous lesions (fibrous dysplasia)",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 45,
+      "stem": "Which of the following is a characteristic of plantar fasciitis?",
+      "options": [
+        "Calibre of plantar fascia > 2mm",
+        "Increased reflectivity of ligament",
+        "Enthesal new bone formation",
+        "Low SI T1, high SI T2",
+        "Pain typically worse with progressive exercise"
+      ],
+      "answer": "Enthesal new bone formation",
+      "explanation": "Most common type of plantar fascia injury. Sharp pain, worse after rest, lessening with exercise. US shows increased calibre > 4mm, loss of reflectivity of the ligament, specifically within the central bundle. MR shows high to intermediate T1 and high T2 SI",
+      "reference": "Jeswani T et al. Getting to the heel of the problem: plantar fascia lesions. Clinical Radiology 2009; 64(9): 931–939",
+      "response": ""
+    },
+    {
+      "questionNumber": 46,
+      "stem": "Which of the following favours primary rather than secondary hyperparathyroidism?",
+      "options": [
+        "Brown tumour",
+        "Osteosclerosis",
+        "Rugger-jersey spine",
+        "Soft tissue calcification",
+        "Vascular calcification"
+      ],
+      "answer": "Brown tumour",
+      "explanation": "Brown tumours and chondrocalcinosis are features of primary hyperparathyroidism",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 47,
+      "stem": "On review of a casualty film of a patient involved in a road traffic accident, which of the following is an unstable cervical spine fracture?",
+      "options": [
+        "Unilateral facet dislocation",
+        "Clay shovellers",
+        "Jefferson",
+        "Burst",
+        "Extension tear drop"
+      ],
+      "answer": "Jefferson",
+      "explanation": "Unstable fractures include bilateral facet dislocation, flexion teardrop, hangman’s, hyperextension dislocation, Jefferson, odontoid and atlanto-occipital dislocation",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 48,
+      "stem": "In a 50-year-old woman with arthralgia, which of the following favours rheumatoid arthritis over Systemic Lupus Erythematosus (SLE)?",
+      "options": [
+        "Prominent subluxation of metacarpal phalyngeal joints (MCPJ)",
+        "Usually bilateral and symmetrical",
+        "Absence of erosion",
+        "Radiographically similar to Jaccoud’s arthropathy",
+        "Hyperextension of Distal Interphalyngeal (DIP) and flexion of Proximal Interphalyngeal (PIP) joints"
+      ],
+      "answer": "Hyperextension of Distal Interphalyngeal (DIP) and flexion of Proximal Interphalyngeal (PIP) joints",
+      "explanation": "A-D are features seen in SLE",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 49,
+      "stem": "Ivory phalanx, tuft resorption, and pencil-in-cup deformity of the middle phalynx in a patient with asymmetric arthritis are most likely to represent:",
+      "options": [
+        "Psoriatic arthritis",
+        "Haemachromatosis",
+        "Rheumatoid arthritis",
+        "Reiter syndrome",
+        "Scleroderma"
+      ],
+      "answer": "Psoriatic arthritis",
+      "explanation": "Hands are more commonly affected in psoriatic arthropathy, whereas feet are more commonly affected in Reiter’s",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 50,
+      "stem": "A patient under joint care of cardiology and nephrology has bulky soft tissue nodules, well-marginated erosion, preserved joint spaces involving the wrists, elbows, shoulder and hip joints. Which is the most likely diagnosis?",
+      "options": [
+        "Multicentric reticulohistiocytosis",
+        "Amyloidosis",
+        "Ochranosis",
+        "Wilson’s disease",
+        "Haemachromatosis"
+      ],
+      "answer": "Amyloidosis",
+      "explanation": "Multiple sites can be involved and there is characteristic preservation of joint spaces",
+      "reference": "",
+      "response": ""
+    }
+  ]
+}

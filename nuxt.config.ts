@@ -1,7 +1,15 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: true },
-  modules: ["@nuxthq/ui", "@nuxt/content", "@vueuse/nuxt", '@vueuse/motion/nuxt'],
+
+  modules: [
+    "@nuxt/content",
+    "@vueuse/nuxt",
+    "@vueuse/motion/nuxt",
+    "@nuxt/ui",
+    "@nuxt/fonts",
+  ],
+
   ui: {
     icons: ["ic"],
   },
@@ -18,4 +26,6 @@ export default defineNuxtConfig({
       ],
     },
   },
+
+  compatibilityDate: "2024-11-14",
 });

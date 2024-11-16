@@ -1,0 +1,756 @@
+{
+  name: "Paediatrics",
+  slug: "paediatrics",
+  questions: [
+    {
+      "questionNumber": 1,
+      "stem": "A 14-year-old boy with a heart murmur has an echo showing ASD. An abnormality of the SVC is suggested and investigated with CT. Which is the most common congenital abnormality of the SVC?",
+      "options": [
+        "Double SVC",
+        "Single left-sided SVC",
+        "Partial Anomolous Pulmonary Venous Return (PAPVR)",
+        "Hemiazygous continuation",
+        "Total Anomolous Pulmonary Venous Return (TAPVR)"
+      ],
+      "answer": "Double SVC",
+      "explanation": "Occurs in 0.3% of the population, but more common in patients with congenital heart disease, particularly with ASD. Persistent left SVC is much rarer and can be confused with lymphadenopathy",
+      "reference": "Burney K et al. CT appearances of congenital and acquired abnormalities of the superior vena cava. Clinical Radiology 2007; 62(9): 837-842",
+      "response": ""
+    },
+    {
+      "questionNumber": 2,
+      "stem": "In mild-moderate hypoxic brain injury in a full term neonate typically spares:",
+      "options": [
+        "Watershed areas",
+        "Parasagital cortex",
+        "Deep grey matter structure",
+        "Subcortical white matter",
+        "Frontal lobes"
+      ],
+      "answer": "Deep grey matter structure",
+      "explanation": "The brainstem, cerebellum and deep grey structures are spared in mild-moderate ischemia. Severe hypoxic injury involves the ventral and lateral thalamus, posterior putamen, perirolandic regions and corticospinal tracts",
+      "reference": "Grant PE et al. Acute injury to the immature brain with hypoxia with or without hypoperfusion. Magn Reson Imaging Clin N Am 2006; 14(2): 271-285",
+      "response": ""
+    },
+    {
+      "questionNumber": 3,
+      "stem": "A 7-year-old boy with a well mother and father develops a progressive deterioration in vision, loss of hearing, optic disc pallor and ataxia. Mental deterioration is also noted. CT shows symmetric low densities in the occipitoparietaltemporal white matter with thin curvilinear enhancing rims. MR shows hypodensity on T1 and bilateral hyperintense confluent areas. Which is the most likely diagnosis?",
+      "options": [
+        "Adrenomyloneuropathy",
+        "Adrenoleukodystrophy",
+        "Friedreich’s ataxia",
+        "Ataxia telangiectasia",
+        "Spongiform leukodystrophy"
+      ],
+      "answer": "Adrenoleukodystrophy",
+      "explanation": "Features describe adrenoleukodystrophy, an X-linked recessive condition. Patients also have adrenal gland insufficiency with increased pigmentation and raised Adrenocorticotropic Hormone (ACTH) levels",
+      "reference": "Dahnert W (2007) Radiology Review Manual. 6th edition. Philadelphia: Lippincott Williams & Wilkins. p. 264",
+      "response": ""
+    },
+    {
+      "questionNumber": 4,
+      "stem": "The absence of which of the following indicates a diagnosis of Dandy-Walker variant rather than Dandy-Walker malformation?",
+      "options": [
+        "Dysgenesis of the corpus callosum",
+        "Holoprosencephaly",
+        "Cerebellar heterotopia",
+        "Enlargement of the pituitary fossa",
+        "Cerebellar gyri malformation"
+      ],
+      "answer": "Enlargement of the pituitary fossa",
+      "explanation": "The other features are common to both",
+      "reference": "Shekdar K. Posterior fossa malformations. Semin Ultrasound CT MR 2011; 32(3): 228-241",
+      "response": ""
+    },
+    {
+      "questionNumber": 5,
+      "stem": "Which of the following is a feature of a 15-year-old boy with juvenile angiomyofibroma?",
+      "options": [
+        "Posterior bowing of the posterior antral wall",
+        "Invasion of the frontal sinuses",
+        "Widening of the superior orbital fissure",
+        "Delayed enhancement on CT",
+        "Intermediate SI on T1 with punctuate areas of hyperdensity"
+      ],
+      "answer": "Widening of the superior orbital fissure",
+      "explanation": "Widening of the pterygopalatine fossa with anterior bowing of the posterior antral wall, invasion of the sphenoid sinus (in 2⁄3), widening of the superior and inferior orbital fissures, and immediate enhancement after contrast injection are all features. On MR, punctuate hypodensities on T1 are due to the highly vascularised stroma",
+      "reference": "Dahnert W (2007) Radiology Review Manual. 6th edition. Philadelphia: Lippincott Williams & Wilkins. p. 387",
+      "response": ""
+    },
+    {
+      "questionNumber": 6,
+      "stem": "Which is the cause of wide sutures rather than craniosynostosis?",
+      "options": [
+        "Sickle cell anaemia",
+        "Cleidocranial dysostosis",
+        "Thalassemia",
+        "Hurler’s disease",
+        "Achondroplasia"
+      ],
+      "answer": "Cleidocranial dysostosis",
+      "explanation": "Other causes of wide cranial sutures include osteogenesis imperfecta, pyknodysostosis, hypoparathyroidism and raised intracranial pressure",
+      "reference": "Dahnert W (2007) Radiology Review Manual. 6th edition. Philadelphia: Lippincott Williams & Wilkins. p. 387",
+      "response": ""
+    },
+    {
+      "questionNumber": 7,
+      "stem": "Which is a cause of wormian bones?",
+      "options": [
+        "Osteomalacia",
+        "Hypoparathyroidism",
+        "Osteogenesis imperfecta",
+        "Cleidocranial dysplasia",
+        "Hypervitaminosis A"
+      ],
+      "answer": "Osteogenesis imperfecta",
+      "explanation": "Other causes include ‘PORK CHOPS’: pyknodysostosis, rickets, kinky hair syndrome, cleidocranial dysostosis, hypothyroidism/hypophosphatasia, otopalatodigital syndrome, pachydermoperiostosis, syndrome of Down’s",
+      "reference": "Dahnert W (2007) Radiology Review Manual. 6th edition. Philadelphia: Lippincott Williams & Wilkins. p. 387",
+      "response": ""
+    },
+    {
+      "questionNumber": 8,
+      "stem": "Which is a cause of hair-on-end appearance of the skull?",
+      "options": [
+        "Fibrous dysplasia",
+        "Dyke-Davidoff-Masson syndrome",
+        "Neuroblastoma",
+        "Thalassemia minor",
+        "Cerebral atrophy following shunting of hydrocephalus"
+      ],
+      "answer": "Neuroblastoma",
+      "explanation": "Other causes include hereditary spherocytosis, iron deficiency anaemia, neuroblastoma, G6PD deficiency, sickle cell anaemia and thalassemia major",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 9,
+      "stem": "A 4-year-old girl with low-grade fever and back pain has an elevated Erythrocyte Sedimentation Rate (ESR) but normal White Cell Count (WCC). Diskitis is considered. Which is the best answer regarding diskitis?",
+      "options": [
+        "Usually affects children 4-10 years old",
+        "Thoracic spine is most commonly affected",
+        "Usually involves 3 consecutive disc spaces",
+        "Decreased marrow intensity on 2 consecutive vertebrae on T1 MR is characteristic",
+        "Radiographs are usually positive before bone scan"
+      ],
+      "answer": "Decreased marrow intensity on 2 consecutive vertebrae on T1 MR is characteristic",
+      "explanation": "Diskitis is the most common paediatric spine pathology. Staphylococcus aureus is the most common causative organism. The peak ages are 6 months-4 years and 10-14 years. L3-4 and L4-5 are most commonly affected sites",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 10,
+      "stem": "An eccentric mass expands the cord on MR of a 5-year-old boy. The mass is isointense on T1 and hyperintense on T2. Which is the most common intramedullary neoplasm in children, exhibiting these features?",
+      "options": [
+        "Ependymoma",
+        "Astrocytoma",
+        "Ganglioglioma",
+        "Haemangioblastoma",
+        "Subependymoma"
+      ],
+      "answer": "Astrocytoma",
+      "explanation": "Astrocytomas appear as homogeneously ill-defined cord tumours, with poorly defined margins and patchy irregular enhancement with gad. Masses can take the form of eccentric irregular tumour cysts, polar cysts and syrinxes",
+      "reference": "Dahnert W (2007) Radiology Review Manual. 6th edition. Philadelphia: Lippincott Williams & Wilkins. p. 213",
+      "response": ""
+    },
+    {
+      "questionNumber": 11,
+      "stem": "A female newborn is found to have a sacral mass. On MR this is lobulated with well-defined margins and heterogeneous SI on T1 with high, intermediate and low SI areas. It is a predominantly eternal lesion, covered by skin with only minimal presacral component. Which is the most likely diagnosis?",
+      "options": [
+        "Myelomeningocele",
+        "Sacrococcygeal teratoma",
+        "Rectal duplication cysts",
+        "Haemangioma",
+        "Lymphoma"
+      ],
+      "answer": "Sacrococcygeal teratoma",
+      "explanation": "Fat, soft tissue and calcification cause the heterogeneous SI on T1. This is the most common solid tumour in the newborn, more common in females",
+      "reference": "Kocaoglu M et al. Pediatric presacral masses. Radiographics 2006; 26(3): 833-857",
+      "response": ""
+    },
+    {
+      "questionNumber": 12,
+      "stem": "MRI brain in a neonate shows multiple abnormalities including an anterior interhemispheric fissure adjoining a high riding third ventricle, an enlarged foramen of monro and a sunburst gyral pattern. An interhemispheric cyst is also seen. Which is the diagnosis?",
+      "options": [
+        "Arachnoid cyst",
+        "Agenesis of the corpus callosum",
+        "Prominent cavum septum pellucidi and vergae",
+        "Chiari II malformation",
+        "Dandy-Walker malformation"
+      ],
+      "answer": "Agenesis of the corpus callosum",
+      "explanation": "Absence of septum pellucidum, corpus callosum and cavum septum pellucidi, and wide separation of the lateral ventricles, are other features of agenesis of the corpus callosum",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 13,
+      "stem": "Which is the most common site of metastatic spread in medulloblastoma?",
+      "options": [
+        "Axial skeleton",
+        "Lymph nodes",
+        "Lung",
+        "Subarachnoid space",
+        "Liver"
+      ],
+      "answer": "Subarachnoid space",
+      "explanation": "Subarachnoid space is the most common, with drop metastases occurring in 40%",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 14,
+      "stem": "Ovoid areas of increased echogenicity are seen on US of a neonate. Which of the following favours choroid plexus rather than germinal mature haemorrhage?",
+      "options": [
+        "Tapering toward cardiothalamic grove",
+        "Inferolateral to floor of frontal horn",
+        "Bulbous enlargement of cardiothalamic groove",
+        "Location anterior to foramen of Monro",
+        "Low birth weight and premature neonate"
+      ],
+      "answer": "Tapering toward cardiothalamic grove",
+      "explanation": "Prematurity and low birth weight are amongst risk factors for GMH. Chord plexus is attached to inferomedial aspect of ventricular floor, tapering toward cardiothalamic groove and never anterior to the foramen of Monro",
+      "reference": "Dahnert W (2007) Radiology Review Manual. 6th edition. Philadelphia: Lippincott Williams & Wilkins. p. 312",
+      "response": ""
+    },
+    {
+      "questionNumber": 15,
+      "stem": "Regarding neuroblastomas:",
+      "options": [
+        "Produces catecholamines in all cases",
+        "Are most common in 5-10 years",
+        "Have a better prognosis in a younger child",
+        "The most common site following the adrenals is the neck",
+        "Esthesioneuroblastoma is a very malignant tumour arising from olfactory mucosa"
+      ],
+      "answer": "Esthesioneuroblastoma is a very malignant tumour arising from olfactory mucosa",
+      "explanation": "Neuroblastomas produce catecholamines in 95% of cases. The peak age of diagnosis is < 3 and there is a better prognosis in older children. The most common site is adrenals, followed by chest, followed by neck",
+      "reference": "Chu CM et al. Clinical presentations and imaging findings of neuroblastoma beyond abdominal mass and a review of imaging algorithm. Br J Radiol 2011; 84(997): 81-91",
+      "response": ""
+    },
+    {
+      "questionNumber": 16,
+      "stem": "An 8-month-old has a neuroblastoma in the right adrenal with metastatic spread to the liver, bone marrow and skin. What stage of disease does he have?",
+      "options": [
+        "Stage 2B",
+        "3",
+        "2A",
+        "4",
+        "4S"
+      ],
+      "answer": "4S",
+      "explanation": "Stage 4S applies to infants who demonstrate a tumor on one side of the body, as seen in Stages 1 and 2, but also have affected liver, skin, and/or bone marrow. Stage 4 involves distant lymph nodes and bone with or without bone marrow/liver/other organs",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 17,
+      "stem": "Which of the following is a feature of Ollier’s disease rather than Maffucci syndrome?",
+      "options": [
+        "Associated with granulosa cell tumour of the ovary",
+        "Predilection for tubular bones, hands and feet",
+        "Very large enchondromas",
+        "Growth disturbance of long bones",
+        "Absence of haemangiomas"
+      ],
+      "answer": "Absence of haemangiomas",
+      "explanation": "Both are associated with juvenile granulosa cell ovarian tumours and other malignancies. The presence of multiple enchondromas with haemangiomas indicates Ollier’s disease",
+      "reference": "Dahnert W (2007) Radiology Review Manual. 6th edition. Philadelphia: Lippincott Williams & Wilkins. p. 74",
+      "response": ""
+    },
+    {
+      "questionNumber": 18,
+      "stem": "Which is a case of alternating radiolucent and dense metaphyseal bands?",
+      "options": [
+        "Osteopetrosis",
+        "Hypervitaminosis D",
+        "Heavy metal poisoning",
+        "Congenital hypothyroidism",
+        "Normal infants"
+      ],
+      "answer": "Osteopetrosis",
+      "explanation": "Osteopetrosis, growth arrest lines, chemotherapy, rickets, chronic anaemias and treated leukaemia are causes. Solitary dense metaphyseal band may be caused by B-E",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 19,
+      "stem": "A spine radiograph for a child with short stature shows decreased interpeduncular distance, progressively smaller in lower, lumbar spine, bullet shaped vertebral bodies and short wide iliac bones. There is also increased lumbar lordosis and kyphoscoliosis. Which is the most likely diagnosis?",
+      "options": [
+        "Achondroplasia",
+        "Down’s syndrome",
+        "Metatrophic dysplasia",
+        "Hurler’s",
+        "Hunter’s"
+      ],
+      "answer": "Achondroplasia",
+      "explanation": "Other features include small skull bone with narrow foramen magnus, instability of cervical spine, horizontal acetabulum and small sacral notch",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 20,
+      "stem": "A 3-year-old male with known muccopolysaccharidosis has anterior beaking of the mid vertebral body and no neurological features. Which is the most likely diagnosis?",
+      "options": [
+        "Morquio MPS 4",
+        "Hurler’s MPSI-1+",
+        "Hunter’s MPS2",
+        "Sanfillippo MPS3",
+        "Maroteaux–Lamy syndrome. MPS decrease"
+      ],
+      "answer": "Morquio MPS 4",
+      "explanation": "Others have anterior beaking of inferior body. Other spinal features include vertebra pleura, hypoplastic dens dorsolumbar gibbus and posterior scalloping",
+      "reference": "Rasalkar DD et al. Pictorial review of mucopolysaccharidosis with emphasis on MRI features of brain and spine. Br J Radiol 2011; 84(1001): 469-477",
+      "response": ""
+    },
+    {
+      "questionNumber": 21,
+      "stem": "In Developmental Dyplasia of the Hip (DDH), ultrasound is the modality of choice in patients of:",
+      "options": [
+        "< 3 months",
+        "< 6 months",
+        "< 9 months",
+        "< 12 months",
+        "< 18 months"
+      ],
+      "answer": "< 3 months",
+      "explanation": "Once femoral epiphyses ossifies, DDH becomes more difficult",
+      "reference": "Karmazyn B. Ultrasound of pediatric musculoskeletal disease: from head to toe. Semin Ultrasound CT MR 2011; 32(2): 142-150",
+      "response": ""
+    },
+    {
+      "questionNumber": 22,
+      "stem": "A 10-year-old boy with a limp is investigated with Anterior-Posterior (AP) and frog’s legs lateral radiograph. Which patterns of disease suggest Perthes’ rather than slipped upper femoral epiphyses?",
+      "options": [
+        "Subcortical lucency and fissuring of epiphysis",
+        "Widening of proximal femoral growth plate",
+        "Medial displacement of femoral epiphysis",
+        "Loss of height of femoral epiphysis",
+        "Scalloped and irregular metaphysis"
+      ],
+      "answer": "Subcortical lucency and fissuring of epiphysis",
+      "explanation": "B-E are seen in SUCFE but some of these features are also seen in Perthes’. However, subcortical lucency and fissuring is not seen in SUFE",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 23,
+      "stem": "Which of the following are MRI characteristics of juvenile dermatomyositis?",
+      "options": [
+        "Unilateral disease in right thigh",
+        "Upper limb > lower limbs",
+        "Medial compartments > anterior and lateral compartments",
+        "Decreased fat content in affected area",
+        "Foci of low signal on all sequences"
+      ],
+      "answer": "Foci of low signal on all sequences",
+      "explanation": "Calcification which may be punctate or sheet-like can appear as low SI. Usually bilaterally symmetrical thighs > upper limbs anterior and lateral compartments > medial compartments. Atrophy and increased fatty infiltrates are secondary to steroids and disease",
+      "reference": "Ladd PE et al. Juvenile dermatomyositis: correlation of MRI at presentation with clinical outcome. AJR Am J Roentgenol 2011; 197(1): 153-158",
+      "response": ""
+    },
+    {
+      "questionNumber": 24,
+      "stem": "Regarding MR features of rhabdomyosarcoma:",
+      "options": [
+        "Hyperintense to muscle on T1",
+        "Hypointense to muscle on T2",
+        "Homogenous enhancement T1 post-contrast",
+        "Well-defined margins",
+        "High SI on Short TI Inversion Recovery (STIR)"
+      ],
+      "answer": "High SI on Short TI Inversion Recovery (STIR)",
+      "explanation": "Other features include local oedema, extension and destruction. Usually isointense to muscle on T1, similar or hyperintense to muscle on T2 and with poorly defined margins and heterogeneous contrast enhancement",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 25,
+      "stem": "A 12-year-old boy injures his ankle whilst playing football. Plain radiographs demonstrate a fracture through the epiphysis, growth plate and metaphysis of the distal tibia and associated soft tissue swelling. Which Salter-Harris fracture is this?",
+      "options": [
+        "Type I",
+        "Type II",
+        "Type III",
+        "Type IV",
+        "Type V"
+      ],
+      "answer": "Type IV",
+      "explanation": "• I: Slipped through growth plate • II: Above (metaphysis and growth plate) • III: Lower (growth plate and epiphysis) • V: Compression and damage",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 26,
+      "stem": "Which of the following has the highest specificity for Non-Accidental Injury (NAI)?",
+      "options": [
+        "Scapula fracture",
+        "Vertebral fractures",
+        "Complex skull fracture",
+        "Digital fracture",
+        "Epiphyseal separation injuries"
+      ],
+      "answer": "Scapula fracture",
+      "explanation": "B-E are moderately specific. Other high specificity signs are classic metaphyseal fractures, rib fractures, and sternal fractures",
+      "reference": "Offiah A et al. Skeletal imaging of child abuse (non-accidental injury). Pediatric Radiology 2009; 39(5): 461-470",
+      "response": ""
+    },
+    {
+      "questionNumber": 27,
+      "stem": "Which is the most common location for congenital lobar hyperinflation?",
+      "options": [
+        "Left Upper Lobe (LUL)",
+        "Right Upper Lobe (RUL)",
+        "Right Middle Lobe (RML)",
+        "Right Lower Lobe (RLL)",
+        "Left Lower Lobe (LLL)"
+      ],
+      "answer": "Left Upper Lobe (LUL)",
+      "explanation": "Congenital lobar hyperinflation occurs most commonly in the LUL (42%) followed by the RML (35%). Imaging features include a radiodense lobe that becomes radiolucent and hyperexpanded as fetal fluid is replaced with air",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 28,
+      "stem": "As part of investigations for respiratory distress in a neonate, a CT chest is performed showing variable-sized cysts in the left lower lobe which are measuring 3cm (multicystic mass of pulmonary tissue). Regarding congenital pulmonary airway malformation, which of the following is correct?",
+      "options": [
+        "Is the second most common pattern of disease",
+        "Represents Type 2 disease",
+        "Represents Type 3 disease",
+        "The location determines the category of type (1/2/3)",
+        "Represents Type 1"
+      ],
+      "answer": "Represents Type 1",
+      "explanation": "Type 2 smaller cysts are 0.5-2cm. Type 3 appears solid but contains multiple small cysts (0.3-0.5cm). Type 1 is the most common",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 29,
+      "stem": "Which of the following suggests intralobar rather than extralobar sequestration?",
+      "options": [
+        "Own pleural covering",
+        "Systemic venous drainage",
+        "Symptomatic in first six months",
+        "Infarction rare",
+        "Congenital anomalies in 15%"
+      ],
+      "answer": "Congenital anomalies in 15%",
+      "explanation": "Other features of intralobar sequestration includes visceral pleural cavity (pathological findings), and venous drainage to inferior pulmonary vein. Extralobar are associated with 50% of congenital abnormalities",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 30,
+      "stem": "Regarding congenital diaphragmatic hernias:",
+      "options": [
+        "Most commonly right-sided",
+        "Of Bochdalek type are anterior",
+        "Of Morgagni are posterior",
+        "Are associated with pulmonary hypoplasia",
+        "Are mostly diagnosed by postnatal ultrasound"
+      ],
+      "answer": "Are associated with pulmonary hypoplasia",
+      "explanation": "Most congenital diaphragmatic hernias are diagnosed by antenatal ultrasound, and are left-sided. Bochdalek hernias are posterior and common. Morgagni hernias are anterior and rare",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 31,
+      "stem": "In Scimitar syndrome, a chest radiograph would show:",
+      "options": [
+        "A curved vessel at the left medial costophrenic angle",
+        "Hypoplasia of the left lung",
+        "Prominent left atrium",
+        "Decreased pulmonary vascularity",
+        "Radiographic features similar to Atrial Septal Defect (ASD)"
+      ],
+      "answer": "Radiographic features similar to Atrial Septal Defect (ASD)",
+      "explanation": "Part or all of the hypogenetic lung, which is almost always right-sided, is drained by an anomalous vein. There is increased pulmonary vascularity",
+      "reference": "Algın O et al. Signs in chest imaging. Diagnostic and Interventional Radiology 2011; 17(1): 18-29",
+      "response": ""
+    },
+    {
+      "questionNumber": 32,
+      "stem": "In an acyanotic child with an enlarged heart and an enlarged main pulmonary artery, which is the diagnosis?",
+      "options": [
+        "Transposition of the great vessels",
+        "Ventricular Septal Defect (VSD)",
+        "Truncus arteriosus",
+        "TAPVR",
+        "Tricuspid atresia"
+      ],
+      "answer": "Ventricular Septal Defect (VSD)",
+      "explanation": "The other options are causes of an enlarged heart in a cyanotic child with a concave main pulmonary artery",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 33,
+      "stem": "Currarinos triad is a rare association of anomalies including anorectal malformations, lumbrosacral anomalies and which of the following?",
+      "options": [
+        "Meconium ileus",
+        "Presacral mass",
+        "Ileal atresia",
+        "Hirschsprung’s",
+        "Cloacal extrophy"
+      ],
+      "answer": "Presacral mass",
+      "explanation": "This may be teratoma, anterior meningocele or enteric cyst",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 34,
+      "stem": "Which of the following is most likely to be a feature of an enteric duplication cyst?",
+      "options": [
+        "Multilocular nature",
+        "Hypoechoic internal layer",
+        "Echogenic outer layer",
+        "Layered echogenic debris within cyst",
+        "Dense calcification"
+      ],
+      "answer": "Layered echogenic debris within cyst",
+      "explanation": "Often an incidental finding on antenatal/postnatal US, most present in childhood. May become symptomatic due to compression effect on adjacent structures. Complications include ulceration, bleeding, volvulus and small bowel obstruction",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 35,
+      "stem": "Which is the most common location for enteric duplication cysts?",
+      "options": [
+        "Ileum",
+        "Oesophagus",
+        "Colon",
+        "Jejunum",
+        "Stomach"
+      ],
+      "answer": "Ileum",
+      "explanation": "75% are abdominal. Synchronous lesions occur in 10-20%",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 36,
+      "stem": "Which is the most common type of transition between affected aganglionic and normal ganglionic bowel in Hirschsprung’s disease?",
+      "options": [
+        "Long segment",
+        "Short segment",
+        "Ultra short segment",
+        "Total intestinal aganglionosis",
+        "Total colonic"
+      ],
+      "answer": "Short segment",
+      "explanation": "Short segment accounts for 70-80%. Long segment accounts for 15-25%",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 37,
+      "stem": "Which of the following is the most common type of tracheoesophageal fistula (TOF)?",
+      "options": [
+        "Oesophageal atresia and proximal atretic portion and location of fistulas",
+        "Pure oesophageal atresia without TOF",
+        "Isolated TOF (H type) without oesophageal atresia",
+        "Oesophageal atresia with proximal and distal TOF",
+        "Oesophageal atresia with proximal TOF and distal atretic portion"
+      ],
+      "answer": "Oesophageal atresia and proximal atretic portion and location of fistulas",
+      "explanation": "82% are of this type",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 38,
+      "stem": "A 6-week-old boy with persistent non-bilious vomiting undergoes ultrasound of the abdomen. Which of the following is an ultrasound feature of pyloric stenosis?",
+      "options": [
+        "Elongated pyloric channel > 16mm",
+        "Elongated pyloric channel > 12mm",
+        "Thickened pyloric muscle > 2mm",
+        "Increased pyloric diameter > 6mm",
+        "Increased pyloric diameter > 10mm"
+      ],
+      "answer": "Elongated pyloric channel > 16mm",
+      "explanation": "US features include gastric hyperperistalsis, failure to open pyloric channel or dynamic study and the echogenic mucosal layer may also look hypertrophied",
+      "reference": "Hernanz-Schulman M. Pyloric stenosis: role of imaging. Pediatric Radiology 2009; 39 Suppl 2: S134-139",
+      "response": ""
+    },
+    {
+      "questionNumber": 39,
+      "stem": "Which is the most specific radiologic sign in the investigation of intussusception in a 6-month-old?",
+      "options": [
+        "Paucity of bowel gas in the right lower quadrant",
+        "Soft tissue mass in the right upper quadrant obscuring the liver",
+        "Non-visualization of the air-filled caecum",
+        "Soft tissue mass with concentric lucencies",
+        "Small bowel obstruction"
+      ],
+      "answer": "Soft tissue mass with concentric lucencies",
+      "explanation": "Target sign also seen on US as a mass with alternating rings of hyper and hypoechogenicity in TS and layered or pseudo-kidney appearance on LS",
+      "reference": "Applegate KE. Intussusception in children: evidence-based diagnosis and treatment. Pediatric Radiology 2009; Apr 39 Suppl 2:S140-143",
+      "response": ""
+    },
+    {
+      "questionNumber": 40,
+      "stem": "In biliary atresia on US:",
+      "options": [
+        "The liver is almost always of abnormal echogenicity",
+        "GB is present in 75% of cases",
+        "Extrahepatic ducts are visible",
+        "An echogenic triangular cord sign represents a fibrotic remnant of the common duct",
+        "Lack of excretion of 99mT labeled studies into small bowel by 24 hours is diagnostic"
+      ],
+      "answer": "An echogenic triangular cord sign represents a fibrotic remnant of the common duct",
+      "explanation": "E is highly suggestive but not diagnostic. The gallbladder is present in 25% of cases. The liver may be enlarged but is usually of normal echogenicity",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 41,
+      "stem": "Which of the following occurs with Caroli’s disease to form Caroli’s syndrome?",
+      "options": [
+        "Hepatosplenomegaly",
+        "Hepatic fibrosis",
+        "Portal hypertension",
+        "Cholangiocarcinoma",
+        "Renal cystic abnormalities"
+      ],
+      "answer": "Hepatic fibrosis",
+      "explanation": "Hepatosplenomegaly and portal hypertension are consequences. There is an increased risk of cholangiocarcinoma and renal cystic abnormalities",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 42,
+      "stem": "A 6-year-old girl with a large abdominal mass in the right upper quadrant and with an elevated AFP undergoes ultrasound assessment. This shows a 10cm mass in the right lobe of the liver, of heterogeneous echotexture, but predominantly solid. A spoke-wheel appearance is seen due to fibrous septa radiating from a central hub. Which is the most likely diagnosis?",
+      "options": [
+        "Haemangioendothelioma",
+        "Hepatoblastoma",
+        "Mesenchymal hamartoma",
+        "Hepatocellular carcinoma",
+        "Metastasis from neuroblastoma"
+      ],
+      "answer": "Hepatoblastoma",
+      "explanation": "Haemangioendotheliomas have normal Alpha fetoprotein (AFP). Mesenchymal hamartomas are usually more cystic",
+      "reference": "Roebuck DJ et al. Radiological staging in children with hepatoblastoma. Pediatric Radiology 2006; 36(3): 176-182",
+      "response": ""
+    },
+    {
+      "questionNumber": 43,
+      "stem": "Regarding imaging of duplicated kidneys:",
+      "options": [
+        "Micturating Cystourethrogram (MCUG) shows reflux into the upper pole",
+        "Duplicated kidneys tend to be smaller",
+        "Duplex kidneys may have more than 1 renal artery and vein",
+        "US shows dilatation of the lower pole calyx with a normal upper pole",
+        "A band of medulla crosses the cortex of the kidney on US"
+      ],
+      "answer": "Duplex kidneys may have more than 1 renal artery and vein",
+      "explanation": "In cases of duplicated kidneys, MCUG shows reflux into the lower pole. Duplicated kidneys tend to be larger and US shows dilatation of the upper pole calyx and a normal lower pole. A band of cortex can be seen to cross the medulla",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 44,
+      "stem": "Regarding posterior urethral valves:",
+      "options": [
+        "Are seen equally on males and females",
+        "Associated with antenatal polyhydramnios",
+        "Gradual change in calibre occurs in the posterior urethra",
+        "Are associated with a smooth walled urinary bladder",
+        "Are associated with vesicoureteric reflux"
+      ],
+      "answer": "Are associated with vesicoureteric reflux",
+      "explanation": "Occurs in boys. Associated with oligohydramnios, an abrupt change in calibre of the posterior urethra and a trabeculated urinary bladder wall",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 45,
+      "stem": "Neonatal ultrasound shows kidneys which are enlarged bilaterally hyperechoic with loss of normal cortico-medullary differentiation. Cysts are noted which are less than 1cm. There are focal rosettes of radially oriented dilated collecting tubules. What is the diagnosis?",
+      "options": [
+        "Autosomal Recessive Polycystic Kidney Disease (ARPKD)",
+        "Autosomal Dominant Polycystic Kidney Disease (ADPKD)",
+        "Asymmetrical large renal cysts",
+        "Tuberous sclerosis",
+        "Multicystic Dysplastic Kidney (MCDK)"
+      ],
+      "answer": "Autosomal Recessive Polycystic Kidney Disease (ARPKD)",
+      "explanation": "ADPKD have normal renal echogenicity. Small cyst may not be immediately identified on ultrasound",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 46,
+      "stem": "Which of the following are common features in mesoblastic nephroma?",
+      "options": [
+        "Cystic areas of necrosis",
+        "Areas of haemorrhage",
+        "Calcification",
+        "Invasion of vessels",
+        "Polyhydramnios in pregnancy"
+      ],
+      "answer": "Polyhydramnios in pregnancy",
+      "explanation": "Cystic areas of necrosis, areas of haemorrhage and calcification are uncommon",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 47,
+      "stem": "Nephroblastomatosis, Beckwith-Wiedemann syndrome, chromosome 11 abnormalities and trisomy 18 are all associations of which of the following?",
+      "options": [
+        "Autosomal recessive polycystic kidney disease",
+        "Neuroblastoma",
+        "Nephroblastomatosis",
+        "Wilms’ tumour",
+        "Multilocular cystic nephroma"
+      ],
+      "answer": "Wilms’ tumour",
+      "explanation": "These are all known associations of Wilm’s tumor",
+      "reference": "McHugh K. Renal and adrenal tumours in children. Cancer Imaging 2007; 5(7): 41-51",
+      "response": ""
+    },
+    {
+      "questionNumber": 48,
+      "stem": "A female infant is found to have a pelvic mass. She is systemically well. US shows a well-defined fluid-filled cavity between the bladder and rectum with some debris but no increased vascularity. There is uterine distension and echogenic debris within the vagina. Hydronephrosis is noted. Which is the diagnosis?",
+      "options": [
+        "Pelvic abscess",
+        "Hydrometocolpos",
+        "Ovarian tumour",
+        "Fallopian tube torsion",
+        "Sacrococcygeal teratoma"
+      ],
+      "answer": "Hydrometocolpos",
+      "explanation": "MR shows mixed SI on T1 and T2 due to blood products and may be associated with uterine and cervical anomalies",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 49,
+      "stem": "Which of the following is a feature of neuroblastoma?",
+      "options": [
+        "Large hypoechoic mass arising the suprarenal region",
+        "Calcification in most cases on CT",
+        "No increased vascularity",
+        "Echogenic liver lesions",
+        "Vascular invasion"
+      ],
+      "answer": "Large hypoechoic mass arising the suprarenal region",
+      "explanation": "Low attenuation metastatic liver lesion are echogenic on US. May have lytic/sclerotic or mixed bone metastases, increased vascularity and vascular encasement",
+      "reference": "Chu CM et al. Clinical presentations and imaging findings of neuroblastoma beyond abdominal mass and a review of imaging algorithm. Br J Radiol 2011; 84(997): 81-91",
+      "response": ""
+    },
+    {
+      "questionNumber": 50,
+      "stem": "A child with Wilms’ tumour has exomphalos, macroglossia, gigantism and hepatomegaly. Which is the diagnosis?",
+      "options": [
+        "Hemihypertrophy",
+        "Drash syndrome",
+        "Beckwith-Wiedemann",
+        "Trisomy 18",
+        "Trisomy 21"
+      ],
+      "answer": "Beckwith-Wiedemann",
+      "explanation": "A, B and C are all associations of Wilm’s tumour. 10-20% of patients with Beckwith-Wiedemann develop Wilm’s tumour",
+      "reference": "",
+      "response": ""
+    }
+  ]
+}

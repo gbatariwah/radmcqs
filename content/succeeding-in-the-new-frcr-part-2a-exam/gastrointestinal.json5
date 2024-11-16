@@ -1,0 +1,756 @@
+{
+  name: "Gastrointestinal",
+  slug: "gastrointestinal",
+  questions: [
+    {
+      "questionNumber": 1,
+      "stem": "Which of the following is the hallmark of sclerosing mesenteritis on CT?",
+      "options": [
+        "Increased density of mesenteric fat to 40-60 HU",
+        "Collateral vessel formation",
+        "Fatty necrotic cystic mass formation",
+        "Calcification within fat necrosis",
+        "Mesenteric lymph node enlargement > 10mm"
+      ],
+      "answer": "Increased density of mesenteric fat to 40-60 HU",
+      "explanation": "An increased attenuation of mesenteric fat (typically 40-60HU) is typical in sclerosing mesenteritis on CT",
+      "reference": "Wat SY. The CT appearances of sclerosing mesenteritis and associated diseases. Clinical Radiology 2006; 61(8): 652-658",
+      "response": ""
+    },
+    {
+      "questionNumber": 2,
+      "stem": "The CT of a 50-year-old man with abdominal pain shows a stellate enhancing mesenteric mass with a radiology pattern of linear densities emanating from the mass. Adjacent small bowel loops show tethering and thickening. Which is the most likely diagnosis?",
+      "options": [
+        "Metastatic carcinoid tumour",
+        "Primary mesenteric mesothelioma",
+        "Desmoid tumour",
+        "Non Hodgkin’s Lymphoma (NHL)",
+        "Abdominal TB"
+      ],
+      "answer": "Metastatic carcinoid tumour",
+      "explanation": "The stellate pattern is characteristic for carcinoid tumor",
+      "reference": "Wat SY. The CT appearances of sclerosing mesenteritis and associated diseases. Clinical Radiology 2006; 61(8): 652-658",
+      "response": ""
+    },
+    {
+      "questionNumber": 3,
+      "stem": "Which of the following favours appendical carcinoid over appendical adenocarcinoma?",
+      "options": [
+        "Bulbous swelling involving the distal third of the appendix",
+        "Slow growth",
+        "Direct extension into caecum",
+        "Ileocaecal lymph node enlargement",
+        "Periappendical fat standing"
+      ],
+      "answer": "Bulbous swelling involving the distal third of the appendix",
+      "explanation": "Carcinoid often appears as a bulbous swelling of the distal third of the appendix, in contrast to adenocarcinoma which tends to involve the proximal third and causes diffuse thickening of the appendiceal wall",
+      "reference": "Whitley S et al. The Appendix on CT. Clinical Radiology 2009; 64(2):190-199",
+      "response": ""
+    },
+    {
+      "questionNumber": 4,
+      "stem": "Which of the following favours pseudomyxoma peritonitis over sclerosing encapsulating peritonitis?",
+      "options": [
+        "Scalloping of the liver edge",
+        "Loculated fluid collection",
+        "Peritoneal calcification",
+        "Tethering of small bowel loops",
+        "Peritoneal enhancement"
+      ],
+      "answer": "Scalloping of the liver edge",
+      "explanation": "Pseudomyxoma peritonei is indicated by ascites and low attenuation masses. The ascites contain septae, which are the margins of mucinous nodules, typically scalloping the liver edge. Solid non-mucin-producing components cause soft tissue thickening of the peritoneal surface",
+      "reference": "George C et al. Computed tomography appearances of sclerosing encapsulating peritonitis. Clinical Radiology 2007; 62(8): 732-737",
+      "response": ""
+    },
+    {
+      "questionNumber": 5,
+      "stem": "A 60-year-old woman presents with abdominal pain and diarrhoea six weeks post-hip replacement surgery, with her recovery being complicated by a hospital-acquired pneumonia. CT is performed. When considering a diagnosis of pseudomembranous colitis (PMC) which is the most common finding?",
+      "options": [
+        "Intense mucosal enhancement",
+        "Enlarged peri-colic blood vessels",
+        "An irregular or discontinuous mucosal lining",
+        "Pericolonic fat stranding",
+        "Colonic wall thickening"
+      ],
+      "answer": "Colonic wall thickening",
+      "explanation": "Although all of the above are recognised findings in PMC, colonic wall thickening from minor to gross thickening is the most common feature. The relatively mild pericolonic stranding with marked colonic wall thickening may help to distinguish PMC from other colonic pathologies",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 6,
+      "stem": "Which of the following most favours Crohn’s versus pseudomembranous colitis?",
+      "options": [
+        "Ascites",
+        "Absence of small bowel involvement",
+        "Fibro fatty mesenteric proliferation around involved colon",
+        "Colonic wall thickening of 11mm",
+        "Low attenuation mural thickening (accordion sign)"
+      ],
+      "answer": "Fibro fatty mesenteric proliferation around involved colon",
+      "explanation": "Fibro fatty mesenteric proliferation around involved colon is more likely to indicate Crohn’s disease",
+      "reference": "Ramachandran I et al. Pseudomembranous colitis revisited: spectrum of imaging findings. Clinical Radiology 2006; 61(7): 535-544",
+      "response": ""
+    },
+    {
+      "questionNumber": 7,
+      "stem": "Which of the following frequencies would most help in the differentiation between recurrent tumour and fibrosis in a 62-year-old with prior chemoradiotherapy for low rectal cancer?",
+      "options": [
+        "Axial and coronal balanced gradient echo",
+        "Saggital T2 fat suppressed fat-spin echo (FSE)",
+        "Axial TIW fat suppressed FSE before and after gadolinium",
+        "Saggital TIW fat suppressed FSE post gadolinium",
+        "Coronal TIW fat suppressed FSE post gadolinium"
+      ],
+      "answer": "Axial TIW fat suppressed FSE before and after gadolinium",
+      "explanation": "May help differentiate tumour from fibrosis and improves detection of tumour spread to adjacent structures/vessels. Axial and coronal balanced gradient echo are rapidly acquired breath hold sequences providing anatomical overviews. Granulation tissue, haematoma and radiation-induced inflammatory change can all display SI similar to tumour. Peripheral enhancement with central necrosis is commonly seen in recurrent disease",
+      "reference": "Messiou C et al. Surgery for recurrent rectal carcinoma: the role of preoperative magnetic resonance imaging. Clinical Radiology 2006; 61(3): 250-258",
+      "response": ""
+    },
+    {
+      "questionNumber": 8,
+      "stem": "A 25-year-old male presents following blunt abdominal trauma following a motor vehicle accident. Which is the most common CT finding in the ‘shock bowel’?",
+      "options": [
+        "Increased small bowel mucosal enhancement",
+        "Small bowel luminal dilation",
+        "Fluid-filled loops of small bowel",
+        "Colonic involvement greater than small bowel",
+        "Focal involvement of the small bowel"
+      ],
+      "answer": "Increased small bowel mucosal enhancement",
+      "explanation": "Increased small bowel mucosal enhancement (HU > psoas) and mural thickening > 3mm are the most common signs. Colon involvement is infrequent and the small bowel is typically diffusely involved",
+      "reference": "Tarrant AM et al. A pictorial review of hypovolaemic shock in adults. Br J Radiol 2008; 81(963): 252-257",
+      "response": ""
+    },
+    {
+      "questionNumber": 9,
+      "stem": "A 48-year-old presents with a right upper quadrant mass. He has a history of episodes of constipation with no weight loss. CT shows a 6cm mass in the left lobe of the liver, with peripheral globular cloud-like enhancement. Delayed phase images show the mass ‘has filled in’ with contrast, with minimal low attenuation central remaining. T2 MRI shows a well-defined high signal mass in the left lobe of the liver. Which is the most likely diagnosis?",
+      "options": [
+        "Cavernous haemangioma",
+        "Hypervascular liver metastasis",
+        "Focal Nodular Hyperplasia (FNH)",
+        "Hepatocellular Carcinoma (HCC)",
+        "Metastatic colon cancer"
+      ],
+      "answer": "Cavernous haemangioma",
+      "explanation": "Peripheral nodular enhancement with central fill-in is characteristic",
+      "reference": "Provenzale, JM and Nelson, RC (1998) Duke Radiology Case Review: Imaging, Differential Diagnosis, and Discussion. 1st edition. Philadelphia: Lippincott Williams & Wilkins. p. 145",
+      "response": ""
+    },
+    {
+      "questionNumber": 10,
+      "stem": "A 40-year-old woman presents with some poorly localising abdominal pain and is investigated with CT. A non-contrast study shows a 4cm isoattenuated mass in the left lobe. Arterial phase images show the mass to enhance with a small lower attenuation focus centrally. On the PV phase, the mass is isoattenuating but the central low attenuated focus persists. What is the diagnosis?",
+      "options": [
+        "FNH",
+        "Regional nodule",
+        "HCC",
+        "Hypervascular metastasis",
+        "Cavernous haemangioma"
+      ],
+      "answer": "FNH",
+      "explanation": "Typically iso on non-contrast, hyperdense on arterial phase and isodense on portovenous phase. Presence of a central low attenuation scar can be seen in 50% but can also present in adeno and hepatocellular carcinoma",
+      "reference": "Hussain SM et al. Focal nodular hyperplasia: findings at state-of-the-art MR imaging, US, CT, and pathologic analysis. Radiographics 2004; 24(1): 3-17",
+      "response": ""
+    },
+    {
+      "questionNumber": 11,
+      "stem": "Which of the following causes of diffuse hepatic surface nodularity can be most difficult to distinguish from cirrhosis?",
+      "options": [
+        "Treated breast cancer metastases to the liver",
+        "Chronic Budd-Chiari syndrome",
+        "Chronic portal vein thrombosis",
+        "Pseudomyxoma peritonei",
+        "Miliary metastases"
+      ],
+      "answer": "Treated breast cancer metastases to the liver",
+      "explanation": "Post-chemotherapy changes to hepatic metastases from breast cancer can cause fine diffuse nodularity resembling cirrhosis known as ‘pseudocirrhosis.’ B-D cause coarse nodularity rather than fine and diffuse nodules in cirrhosis. Mets is unlikely to mimic cirrhosis",
+      "reference": "Jha P et al. Radiologic mimics of cirrhosis. AJR Am J Roentgenol 2010; 194(4): 993-999",
+      "response": ""
+    },
+    {
+      "questionNumber": 12,
+      "stem": "13 months post-Roux-en-Y bariatric gastric bypass surgery a 45-year-old woman presents with abdominal pain, vomiting and constipation. Abdominal X-ray shows small bowel obstruction (SBO) on CT. Which is the most likely cause of the SBO if the site of the obstruction is in the alimentary limb?",
+      "options": [
+        "Internal hernia",
+        "Jejenojejunostomy stricture",
+        "Intussusception of the Roux limb",
+        "Intraluminal haematoma",
+        "Mesocolic haematoma"
+      ],
+      "answer": "Internal hernia",
+      "explanation": "B-D occur < 12 months, whereas internal hernias and mesocolic constriction of the Roux limb are more chronic complications. Chronic complications with obstruction at the biliopancreatic limb, internal hernias and anastomotic strictures at the common channel are internal hernias and adhesions",
+      "reference": "Sunnapwar A et al. Taxonomy and imaging spectrum of small bowel obstruction after Roux-en-Y gastric bypass surgery. AJR Am J Roentgenol 2010; 194(1): 120-128",
+      "response": ""
+    },
+    {
+      "questionNumber": 13,
+      "stem": "A 70-year-old man with sudden onset left-sided abdominal pain underwent evaluation with CT. Fat stranding and colonic wall thickening is noted in the distal descending/proximal sigmoid colon. Diverticulae are noted. Which feature is most likely to represent a colonic tumour rather than diverticulitis?",
+      "options": [
+        "Colonic wall thickening",
+        "Pericolonic fat stranding",
+        "Fluid in the sigmoid mesentery",
+        "Engorgement of the mesenteric vessels",
+        "Increased permeability on CT perfusion"
+      ],
+      "answer": "Increased permeability on CT perfusion",
+      "explanation": "Increased blood volume, increased blood flow, decreased mean transit time and increased permeability are parameters on CT perfusion which have been shown to favour a diagnosis of cancer rather than diverticulitis. C and D have high positive predictive values in diagnosing diverticulitis and A and B occur in both",
+      "reference": "Goh V et al. Differentiation between diverticulitis and colorectal cancer: quantitative CT perfusion measurements versus morphologic criteria--initial experience. Radiology 2007; 242(2): 456-462",
+      "response": ""
+    },
+    {
+      "questionNumber": 14,
+      "stem": "A usually fit and well 30-year-old female presents with left-sided abdominal pain. Normal uterus and ovaries are identified. In the left iliac fossa there is a 4cm hyperechoic mass which is non-compressible between the colon and abdominal wall. No colonic wall changes are identified. There is no free fluid. The lesion is surrounded by a hyperechoic border with no Doppler flow. Which is the most likely diagnosis?",
+      "options": [
+        "Epiploic appendigitis",
+        "Diverticulitis",
+        "Omental infarction",
+        "Omental metastases",
+        "Mesenteric panniculitis"
+      ],
+      "answer": "Epiploic appendigitis",
+      "explanation": "Self-limiting condition with fat density mass 1-4cm between colon and abdominal wall. The absence of blood flow on Doppler due to torsion helps distinguish from acute diverticulitis. Omental infarcts are usually large, right-sided and cake-like in appearance",
+      "reference": "Almeida AT et al. Epiploic appendagitis: an entity frequently unknown to clinicians- diagnostic imaging, pitfalls, and look-alikes. AJR Am J Roentgenol 2009; 193(5): 1243-1251",
+      "response": ""
+    },
+    {
+      "questionNumber": 15,
+      "stem": "Which is the most typical finding of serous cystadenoma of the pancreas?",
+      "options": [
+        "Multiple cysts < 2cm separated by a fibrous septa coalescing into a central scar",
+        "Numerous sub centimetre cysts forming a homogenous pattern",
+        "A few large cysts > 2cm with septae in the head of the pancreas",
+        "Multicystic tumour larger than 10cm",
+        "Hypervascular solid tumour"
+      ],
+      "answer": "Multiple cysts < 2cm separated by a fibrous septa coalescing into a central scar",
+      "explanation": "In serous cystadenoma of the pancreas, the polycystic pattern with cysts < 2cm represents 70% of cases. The honeycomb pattern occurs in 20% and macro/oligocytic type in 10%. Giant subcutaneous serous cystic change with intraluminal haemorrhage and solid serous cystadenoma are atypical manifestations",
+      "reference": "Choi JY et al. Typical and atypical manifestations of serous cystadenoma of the pancreas: imaging findings with pathologic correlation. AJR Am J Roentgenol 2009; 193(1): 136-142",
+      "response": ""
+    },
+    {
+      "questionNumber": 16,
+      "stem": "Which is the most commonly affected site in systemic sclerosis after the oesophagus?",
+      "options": [
+        "Anorectal",
+        "Small bowel",
+        "Colon",
+        "Stomach",
+        "Oropharynx"
+      ],
+      "answer": "Anorectal",
+      "explanation": "Oesophagus is most frequently affected (75-90%) followed by anorectum (50-70%), small bowel (40%) and colon (10-50%). The stomach is the least affected in the GIT",
+      "reference": "Madani G et al. The role of radiology in the management of systemic sclerosis. Clinical Radiology 2008; 63(9): 959-967",
+      "response": ""
+    },
+    {
+      "questionNumber": 17,
+      "stem": "US of a 44-year-old man shows a 7cm cystic lesion in segment 8 of the liver. There is some dependent debris and an apparent cyst within cyst appearance. Which is the most likely diagnosis?",
+      "options": [
+        "Haemangioma",
+        "Abscess",
+        "Hydatid disease",
+        "Hepatic cyst",
+        "Cystic metastasis"
+      ],
+      "answer": "Hydatid disease",
+      "explanation": "The cyst within cyst appearance represents daughter cyst. Other features include wall calcification",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 18,
+      "stem": "A 40-year-old woman has an ultrasound for investigation of gallstones. She is otherwise fit and well. A large lesion is found in the left lobe of the liver. CT is performed for further characterisation pre-contrast, arterial and portovenous phases. The 8cm lesion appears isointense to liver parenchyma on the non-contrast CT uniformly avidly enhancing in the arterial phase and again isointense to liver parenchyma on the portal phase. A low attenuated central scar is noted within the lesion. Which is the most likely diagnosis?",
+      "options": [
+        "FNH",
+        "Hepatic adenoma",
+        "Atypical haemangioma",
+        "Focal fat",
+        "Fibrolamellar carcinoma (FLC)"
+      ],
+      "answer": "FNH",
+      "explanation": "FLC is usually a solidly lobulated well-defined turn, usually low attenuation on unenhanced CT and an even lower attenuation central scar, often with punctate calcification. Delayed enhancement of the scar can occur in both FNH and FLC. However, the scar does not calcify in FNH",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 19,
+      "stem": "Which of the following is most likely to deem a cholangiocarcinoma irresectible?",
+      "options": [
+        "Right portal vein invasion",
+        "Left hepatic artery invasion",
+        "PV branch to one lobe and hepatic artery to other lobe invaded",
+        "Size > 2cm",
+        "Biliary duct dilatation"
+      ],
+      "answer": "PV branch to one lobe and hepatic artery to other lobe invaded",
+      "explanation": "Irresectable tumours include those with main PV or main HA invasion, those with both right and left PV or both right and left HA involvement, or involvement of a PV branch to one lobe and a HA branch to the other lobe",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 20,
+      "stem": "Which of the following is not a feature of Mirizzi sign?",
+      "options": [
+        "Jaundice",
+        "Gall stone impacted in gall bladder neck",
+        "Dilatation of bile ducts above level of cystic duct",
+        "Smooth curved segmental stenosis of Common Hepatic Duct (CHD)",
+        "Dilated Common Bile Duct (CBD) below level of impacted stone"
+      ],
+      "answer": "Dilated Common Bile Duct (CBD) below level of impacted stone",
+      "explanation": "In Mirrizzi’s sign, the CBD below the level of the impacted gallstone is not dilated",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 21,
+      "stem": "A 40-year-old with a Multiple Endocrine Neoplasia (MEN) syndrome has parathyroid hyperplasia with hyperparathyroidism recently diagnosed. Which of the following is a feature of MEN II rather than MEN I?",
+      "options": [
+        "Phaeochromocytoma",
+        "Pancreatic islet cell tumour",
+        "Pituitary gland tumour",
+        "Adrenocortical adenoma",
+        "Carcinoid tumour"
+      ],
+      "answer": "Phaeochromocytoma",
+      "explanation": "Features of MEN2A include parathyroid hyperplasia, medullary T cell carcinoma of the thyroid, and phaeochromocytoma. MEN2A may also be associated with carcinoid and Cushing’s",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 22,
+      "stem": "Which is the most likely source of a metastatic deposit to the pancreas?",
+      "options": [
+        "Renal Cell Carcinoma (RCC)",
+        "Bronchogenic carcinoma",
+        "Breast cancer",
+        "Soft tissue sarcoma",
+        "Colon carcinoma"
+      ],
+      "answer": "Renal Cell Carcinoma (RCC)",
+      "explanation": "The most likely primary tumor leading to a metastatic deposit to the pancreas is renal cell carcinoma. These metastases are usually solitary and heterogeneously enhancing masses with increased attenuation relative to the pancreas",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 23,
+      "stem": "Which of the following favour a diagnosis of glucagonoma rather than somatostatinoma?",
+      "options": [
+        "Predilection for body/tail of pancreas",
+        "Arrange size > 4cm",
+        "Hypervascular",
+        "Duodenal obstruction",
+        "Association with Neurofibromatosis Type 1 (NFI)"
+      ],
+      "answer": "Predilection for body/tail of pancreas",
+      "explanation": "Glucagonomas are predominantly in pancreatic body/tail, mean size 6.4cm and hypervascular. Somatostatinomas are predominantly in pancreatic head/duodenum of ampulla of Vater",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 24,
+      "stem": "A 35-year-old woman presents with severe watery diarrhoea. She is hypokalaemic. A neuroendocrine tumour is diagnosed in the pancreatic body measuring 5cm. This is mildly hypervascular. Which of the following is the most likely diagnosis?",
+      "options": [
+        "VIPoma (Verner Morrison Syndrome)",
+        "Somatostatinoma",
+        "Non-functional islet cell tumour",
+        "Glucagonoma",
+        "Gastrinoma"
+      ],
+      "answer": "VIPoma (Verner Morrison Syndrome)",
+      "explanation": "VIPOMA are usually in the pancreatic body/tail (75%). Extrapancreatic locations include retroperitoneal ganglioblastoma, phaeochromocytoma, lung, neuroblastoma (in children). 50-80% of VIPOMAs undergo malignant transformation",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 25,
+      "stem": "During discussion with a patient due for Radio-frequency Ablation (RFA) treatment of HCC, she asks you about potential increased risk of tumour seeding along needle track, which she has read about on the internet. Which of the following statements is most true?",
+      "options": [
+        "0.5% risk of tumour seeding down needle track",
+        "Lesions with a subscapular location are at lower risk",
+        "Mortality rates range from 1.5-2%",
+        "Major complication rates range from 5-10%",
+        "Minor complication rates typically 10-15%"
+      ],
+      "answer": "0.5% risk of tumour seeding down needle track",
+      "explanation": "Uncommon and late complication of RFA. In patients with HCC, tumour seeding occurred in 8/1610 cases in a multicentre study and 1/187 in a single series lesions with subcapsular location. Invasive tumour pattern/poorly differentiated are at higher risk. Mortality rates are typically 0.1-0.5%, major complications 2.2-3.1%, and minor complications 5-8.9%",
+      "reference": "Lencioni R. Percutaneous image-guided radiofrequency ablation of liver tumors. Abdom Imaging 2009; 34(5): 547-556",
+      "response": ""
+    },
+    {
+      "questionNumber": 26,
+      "stem": "Which is most correct regarding internal hernia after bariatric laparoscopic Roux-en-Y gastric bypass?",
+      "options": [
+        "Incidence of SBO secondary to internal lesions 0.2-5%",
+        "Occur more frequently in open than laparoscopic procedures",
+        "The obstruction commonly occurs in the efferent limb",
+        "Physical examination detects the problem with high sensitivity",
+        "Following Roux-en-Y gastric bypass, the stomach should be relatively distended/fluid filled"
+      ],
+      "answer": "Incidence of SBO secondary to internal lesions 0.2-5%",
+      "explanation": "Hernia more common in laparoscopic approaches occur in the mesocolic, Peterson’s and mesomesenteric defects. Obstruction commonly occurs in the afferent (biliopancreatic) limb causing distension of the very proximal jejunum, duodenum and remnant stomach. Remnant stomach should be relatively decompressed",
+      "reference": "Kendrick ML. Partial small bowel obstruction: clinical issues and recent technical advances. Abdom Imaging 2009; 34(3): 329-334",
+      "response": ""
+    },
+    {
+      "questionNumber": 27,
+      "stem": "Regarding laparoscopic adjustable gastric banding:",
+      "options": [
+        "Is connected by tubing to a port anterior to the rectus sheath",
+        "On scout films, the band should be parallel to the Gastro Oesophageal Junction (GOJ)",
+        "When patient ingests contrast, position of band best assessed on lateral decubitus projection",
+        "With band slippage, the pouch is narrowed",
+        "Perforation rates are typically 1-2%"
+      ],
+      "answer": "Is connected by tubing to a port anterior to the rectus sheath",
+      "explanation": "Band should be perpendicular to GOJ on scout film. Position is best assessed straight AP or slightly RPO. Band slipping leads to eccentric pouch dilation. Perforation typically <0.5%",
+      "reference": "Trenkner SW. Imaging of morbid obesity procedures and their complications. Abdom Imaging 2009; 34(3): 335-344",
+      "response": ""
+    },
+    {
+      "questionNumber": 28,
+      "stem": "A duodenal diverticulum is noted on CT as an incidental finding. Which is the single best answer?",
+      "options": [
+        "Reported in up to 5% of upper Gastrointestinal (GI) fluoroscopic studies",
+        "Commonly symptomatic with high risk of inflammation",
+        "Mostly located on the lateral wall of the duodenum",
+        "Mostly arise from the third or fourth part of the duodenum",
+        "If perforated is easy to distinguish from a perforated duodenal ulcer"
+      ],
+      "answer": "Reported in up to 5% of upper Gastrointestinal (GI) fluoroscopic studies",
+      "explanation": "Common acquired outpouchings of the mucosa and submucosa located along the medial wall of the duodenum within 2cm of the ampulla of Vater. 25% arise from D3/4. Reported in 1-5% of upper GI fluoroscopic studies",
+      "reference": "Ames JT et al. Perforated duodenal diverticulum: clinical and imaging findings in eight patients. Abdom Imaging 2009; 34(2): 135-139",
+      "response": ""
+    },
+    {
+      "questionNumber": 29,
+      "stem": "A 40-year-old male presents with an indeterminate liver lesion. He is Hep C positive with previous history of Intravenous Drug Use (IVDU) and was successfully treated for T2N0 colorectal cancer last year. Ultrasound demonstrates a 1.5cm slightly hypoechoic lesion in segment 8. This lesion takes up contrast inhomogenously in the arterial phase and demonstrates washout in the portovenous and delayed phases, becoming hypoechoic with regards to surrounding liver parenchyma. Which is the most likely diagnosis?",
+      "options": [
+        "Metastasis",
+        "Focal fatty sparing",
+        "Capillary haemangioma",
+        "Hepatic abscess",
+        "Regenerate nodule"
+      ],
+      "answer": "Metastasis",
+      "explanation": "Rapid washout and residual hypoechoic lesions are features of metastatic deposit",
+      "reference": "Bartolotta TV et al. Focal liver lesions: contrast-enhanced ultrasound. Abdom Imaging 2009; 34(2): 193-209",
+      "response": ""
+    },
+    {
+      "questionNumber": 30,
+      "stem": "Which of the following are CT criteria for T3 rather than T2 oesophageal cancers?",
+      "options": [
+        "Depth of 11mm",
+        "Transmural enhancement",
+        "Focal wall thickening measuring 14mm",
+        "A few < 1/3 small linear strands of soft tissue extending in to fat planes",
+        "Slight stenosis"
+      ],
+      "answer": "Depth of 11mm",
+      "explanation": "T3 disease usually involves a large tumour more than 10mm in depth where > 1/3 tumour extension or a blurred fat plane around the lesion is associated with moderate/severe stenosis. Focal wall thickening of 5-15mm is still T2 disease",
+      "reference": "Ba-Ssalamah A et al. Dedicated multi-detector CT of the esophagus: spectrum of diseases. Abdom Imaging 2009; 34(1): 3-18",
+      "response": ""
+    },
+    {
+      "questionNumber": 31,
+      "stem": "Which is the most common MR feature of autoimmune hepatitis?",
+      "options": [
+        "MR is diagnostic test for AIH",
+        "Surface nodules rarely present",
+        "PV thrombosis is frequently present",
+        "Fibrosis better evaluated on CT than MR",
+        "Enlarged preportal space is a recognised finding"
+      ],
+      "answer": "Enlarged preportal space is a recognised finding",
+      "explanation": "Although AIH has a wide variability in imaging appearances, from normal to end-stage chronic liver disease, the most common feature on CT and MR in one series is surface nodularity",
+      "reference": "Sahni VA et al. Autoimmune hepatitis: CT and MR imaging features with histopathological correlation. Abdom Imaging 2010; 35(1): 75-84",
+      "response": ""
+    },
+    {
+      "questionNumber": 32,
+      "stem": "Which of the following most favours a diagnosis of an infected rather than a sterile post-necrotic fluid collection, following acute pancreatitis?",
+      "options": [
+        "Presence of gas bubbles",
+        "Size of collection > 5cm",
+        "Association with extrapancreatic necrosis",
+        "Association with organised pancreatic necrosis",
+        "Association with central gland necrosis"
+      ],
+      "answer": "Presence of gas bubbles",
+      "explanation": "The only reliable feature on imaging indicating an infected collection is the presence of gas bubbles. All three types of pancreatic necrosis, organised central gland and extrapancreatic are associated with post-necrotic fluid collection. Necrotic pancreatitis becomes infected in 40-70%, most often with gram negative enteric bacteria",
+      "reference": "Delrue LJ et al. Acute pancreatitis: radiologic scores in predicting severity and outcome. Abdom Imaging 2010; 35(3): 349-61",
+      "response": ""
+    },
+    {
+      "questionNumber": 33,
+      "stem": "Which is the most common source of false positives in cathartically prepared CT colonography by Computer aided detection (CAD)?",
+      "options": [
+        "Haustral folds",
+        "Untagged/poorly tagged stool",
+        "Ileocaecal valve",
+        "Electronic cleansing and tagging artefact",
+        "Extrinsic compression"
+      ],
+      "answer": "Haustral folds",
+      "explanation": "Most common source of FP in CAD in cathartically prepared CT colonography. Untagged/poorly tagged stool is the second most common FP in cathartically prepared and most common source of FP in non-cathartically prepared CT colonography",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 34,
+      "stem": "Regarding Wilson’s disease:",
+      "options": [
+        "Is autosomal dominant in inheritance",
+        "Hyperdense nodules on non-enhanced CT is the most common finding",
+        "Honeycomb pattern is most evident on the pre-contrast study",
+        "The honeycomb pattern is more evident on T1 than T2",
+        "Occurs due to overproduction of copper"
+      ],
+      "answer": "Hyperdense nodules on non-enhanced CT is the most common finding",
+      "explanation": "Most cases demonstrate hyperdense nodules on the non-contrast study, some of which became isodense with contrast. A honeycomb appearance is seen in portal and parenchymal phases and on T2 sequences on MR",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 35,
+      "stem": "Regarding intraductal papillary mucinous tumours (IPMT):",
+      "options": [
+        "Can range from hypoplasia to invasive carcinoma",
+        "Is more common in females than mucinous cystic tumours",
+        "Has a higher incidence of malignancy in branch than main ducts",
+        "Focal wall thickening indicates malignancy with very high sensitivity and specificity",
+        "Parietal nodules indicate malignancy with very high sensitivity and specificity"
+      ],
+      "answer": "Can range from hypoplasia to invasive carcinoma",
+      "explanation": "Parietal nodules and focal wall thickening are useful indicators in detecting malignant branch IPMT but there is a high incidence of false positive errors. IPMT has a slightly higher incidence in males",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 36,
+      "stem": "Which of the following is a cause of smooth, regular and thickened folds in non-dilated small bowel?",
+      "options": [
+        "Intraluminal haematoma",
+        "Crohn’s",
+        "Zollinger-Ellison",
+        "Tuberculosis",
+        "Carcinoid"
+      ],
+      "answer": "Intraluminal haematoma",
+      "explanation": "B-D are cases of irregular and thickened distal folds in non-dilated small bowel",
+      "reference": "Chapman S and Nakielny R (2003) Aids to Radiological Differential Diagnosis. 4th edition. London: Saunders Ltd. p. 248",
+      "response": ""
+    },
+    {
+      "questionNumber": 37,
+      "stem": "Which of the following represent a case of oesophageal pouch in the lower 1/3 of the oesophagus?",
+      "options": [
+        "Mucosal tear/Mallory-Weiss",
+        "Intraluminal diverticulosis",
+        "Defect through Killian-Jamieson space",
+        "Zenker’s diverticulosis",
+        "Traction following treatment for TB"
+      ],
+      "answer": "Mucosal tear/Mallory-Weiss",
+      "explanation": "Mucosal tears from Mallory-Weiss syndrome or post-endoscopy are typically in the lower 1/3 of the oesophagus",
+      "reference": "Chapman S and Nakielny R (2003) Aids to Radiological Differential Diagnosis. 4th edition. London: Saunders Ltd. p. 226",
+      "response": ""
+    },
+    {
+      "questionNumber": 38,
+      "stem": "Which of the following is a case of decreased/absent duodenal folds:",
+      "options": [
+        "Scleroderma",
+        "Pancreatitis",
+        "Lymphoma",
+        "Melanoma metastases",
+        "Whipples disease"
+      ],
+      "answer": "Scleroderma",
+      "explanation": "Scleroderma, strongyloides, and cystic fibrosis are causes of decreased/absent folds. Crohn’s and amyloidosis can cause decreased or increased folds",
+      "reference": "Chapman S and Nakielny R (2003) Aids to Radiological Differential Diagnosis. 4th edition. London: Saunders Ltd. p.241",
+      "response": ""
+    },
+    {
+      "questionNumber": 39,
+      "stem": "On review of a pelvic MRI of a patient who has previously received radiotherapy, high signal intensity change is noted on the lumbar spine and sacrum. On the T2 images, which of the following would also be expected to be demonstrated post-radiotherapy?",
+      "options": [
+        "Bladder wall thickened",
+        "Ovaries increased SI",
+        "Rectum decreased SI",
+        "Granulation tissue with decreased SI",
+        "Fibrous tissue with decreased SI"
+      ],
+      "answer": "Bladder wall thickened",
+      "explanation": "The urinary bladder and rectum are thickened and oedematous and can show increased T2 and SI. Post-radiotherapy, the ovaries tend to atrophy and therefore decrease in SI but bone marrow, fibrous, glandular tissue can also show increased SI",
+      "reference": "Chapman S and Nakielny R (2003) Aids to Radiological Differential Diagnosis. 4th edition. London: Saunders Ltd",
+      "response": ""
+    },
+    {
+      "questionNumber": 40,
+      "stem": "Which of the following is a cause of generalised increase in density pre-iv contrast on CT?",
+      "options": [
+        "Amiodarone treatment",
+        "Fatty infiltration",
+        "Malignant infiltration",
+        "Budd-Chiari",
+        "Amyloidosis"
+      ],
+      "answer": "Amiodarone treatment",
+      "explanation": "Fatty infiltration, malignant infiltration, Budd-Chiari and amyloidosis all demonstrate generalized low density on pre-contrast CT",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 41,
+      "stem": "Which of the following is a cause of non-visualisation of the gall bladder with trimethylbromo-im–indolacetic acid (TBIDA) and no bowel activity?",
+      "options": [
+        "Opiate usage",
+        "Acute cholecystitis",
+        "IV feeding",
+        "Biliary pancreatitis",
+        "Severe diffuse hepatocellular disease"
+      ],
+      "answer": "Opiate usage",
+      "explanation": "Opiates, severe hepatitis and CBD obstruction are causes of non-visualisation and no bowel activity. B-D cause bowel activity",
+      "reference": "Chapman S and Nakielny R (2003) Aids to Radiological Differential Diagnosis. 4th edition. London: Saunders Ltd. p. 1306",
+      "response": ""
+    },
+    {
+      "questionNumber": 42,
+      "stem": "A 37-year-old man on the intensive care unit, 3 weeks post-operatively for complicated small bowel resection for Crohn’s disease, is noted to have an oozing from a site on his anterior abdominal wall. His renal function remains normal and inflammatory markers are persistently elevated with White Cell Count (WCC) 15.9 and C-reactive Protein (CRP) 124. On a CT of the abdomen 5 days ago, no collection was demonstrated. CT fistulography is being considered. Which is the best answer with regards to CT fistulography?",
+      "options": [
+        "Conventional fistulography has a higher spatial resolution",
+        "Iodinated contrast should be used, diluted 1 in 100",
+        "Oral contrast is helpful in most cases",
+        "Intravenous (IV) contrast should be avoided",
+        "CT fistulography has a greater temporal resolution"
+      ],
+      "answer": "Conventional fistulography has a higher spatial resolution",
+      "explanation": "CTF helps to delineate fistulous tracks in critically ill patients where prolonged contrast studies are not feasible. Iodinated contrast (300mg iodine/ml) should be diluted 1 in 10, with a volume based on an estimate of the length of bowel or volume of cavity being investigated. Oral contrast can confuse the origin of intraluminal contrast and is best avoided, whereas IV contrast is helpful. Conventional fistulography has a higher spatial and temporal resolution",
+      "reference": "Davidson J et al. Adult intestinal failure. Clinical Radiology 2010; 65(5): 395-402",
+      "response": ""
+    },
+    {
+      "questionNumber": 43,
+      "stem": "A 42-year-old woman is being investigated following a new diagnosis of hepatitis C. Which of the following would have the highest accuracy in the characterization of a focal liver lesion in this patient?",
+      "options": [
+        "Ultrasound",
+        "Doppler ultrasound",
+        "Microbubble contrast enhanced ultrasound (Ceus)",
+        "Combined US and AFP",
+        "Combined US and Doppler US"
+      ],
+      "answer": "Microbubble contrast enhanced ultrasound (Ceus)",
+      "explanation": "CEUS can be used to characterise focal liver lesions with 96.6% accuracy. Small HCC (1-2cm) can be diagnosed due to arterial phase hypervascularity and washout characteristics",
+      "reference": "Goyal N et al. Non-invasive evaluation of liver cirrhosis using ultrasound. Clinical Radiology 2009; 64(11): 1056-1066",
+      "response": ""
+    },
+    {
+      "questionNumber": 44,
+      "stem": "With regards to MRI in patients being investigated for Crohn’s disease, which of the following is the least desirable characteristic of ultrafast sequences based on steady state precession?",
+      "options": [
+        "A high sensitivity to motion artefact",
+        "The time taken to acquire an image",
+        "The degree of contrast between bowel wall and lumen",
+        "Degree of soft-tissue differentiation when compared to other sequences",
+        "A black boundary effect"
+      ],
+      "answer": "A black boundary effect",
+      "explanation": "These sequences have become the main MR technique for imaging small and large bowel in Crohn's disease in recent years. Uniform luminal opacification is obtained with high contrast between bowel wall, lumen and mesentery. The sequences are relatively insensitive to motion artefact. Black boundary artefact can obscure small lesions on the bowel wall, although fat-suppression can reduce the artefact",
+      "reference": "Sinha R et al. Role of MRI in Crohn’s disease. Clinical Radiology 2009; 64(4): 341-52",
+      "response": ""
+    },
+    {
+      "questionNumber": 45,
+      "stem": "Which of the following favours gastric lymphoma rather than other gastric malignancies?",
+      "options": [
+        "Preservation of the fat plane around the stomach",
+        "Luminal narrowing",
+        "Involvement of the proximal half of the stomach",
+        "Heterogenous gastric wall thickening",
+        "A single site of disease within the stomach"
+      ],
+      "answer": "Preservation of the fat plane around the stomach",
+      "explanation": "Preservation of the fat plane around the stomach, diffuse and homogenous wall thickening, multifocal disease within the stomach, nodal disease either side of the mesenteric vessels, nodal disease extending below the level of the renal veins and a propensity for the distal half of the stomach are all features of gastric lymphoma",
+      "reference": "Hargunani R et al. Cross-sectional imaging of gastric neoplasia. Clinical Radiology 2009; 64(4): 420-429",
+      "response": ""
+    },
+    {
+      "questionNumber": 46,
+      "stem": "Which of the following is the most correct statement with regards to Gastrointestinal Stromal tumor (GIST) of the stomach?",
+      "options": [
+        "Most patients present below the age of 50",
+        "GISTS of the stomach tend to have a more aggressive histology when compared with GISTS from other sites",
+        "Mural calcification is a common feature",
+        "Larger lesions tend to be more homogenous in enhancement",
+        "Central fluid attenuation/necrosis is common"
+      ],
+      "answer": "Central fluid attenuation/necrosis is common",
+      "explanation": "Stomach GISTs tend to present in patients over 50. CT usually shows a well-defined heterogeneously enhancing, round, exophytic mass, commonly with central necrosis. Mural calcification is recognised but not common. Stomach GISTs tend to be less aggressive histologically than GISTs at other sites",
+      "reference": "Hargunani R et al. Cross-sectional imaging of gastric neoplasia. Clinical Radiology 2009; 64(4): 420-429",
+      "response": ""
+    },
+    {
+      "questionNumber": 47,
+      "stem": "A child with a subacute history of vague abdominal pain is being investigated with ultrasound. Inflammatory markers are normal and there is no clinical indication of an appendicitis. During the study, an abnormality is detected in the right iliac fossa. Which of the following sonographic features favours a duplication cyst rather than a Meckel’s diverticulum?",
+      "options": [
+        "A double layered wall",
+        "Non-compressibility",
+        "Teardrop shape",
+        "A greater degree of irregular mucosa",
+        "An elongated tubular shape"
+      ],
+      "answer": "A double layered wall",
+      "explanation": "An inflamed Meckel’s diverticulum can be difficult to distinguish from a duplication cyst in the terminal ileum. However, a characteristic double-layered wall is seen in duplication cysts, whereas the other features are more often found in an inflamed Meckel’s diverticulum",
+      "reference": "Thurley PD et al. Radiological features of Meckel’s diverticulum and its complications. Clinical Radiology 2009; 64(2): 109-118",
+      "response": ""
+    },
+    {
+      "questionNumber": 48,
+      "stem": "A 45-year-old man 3 weeks post-op for liver transplantation, develops non-specific abdominal pain with a slight rise in liver function tests. A Doppler ultrasound is requested. Which is the most common vascular complication of orthoptic liver transplantation?",
+      "options": [
+        "Hepatic artery thrombosis",
+        "Hepatic vein thrombosis",
+        "Portal vein thrombosis",
+        "IVC thrombosis",
+        "Hepatic artery stenosis"
+      ],
+      "answer": "Hepatic artery thrombosis",
+      "explanation": "Hepatic artery thrombosis occurs in 2-12% of cases, usually between 15-132 days post-operatively. The donor celiac axis is anastomosed to the recipient hepatic artery in orthotopic liver transplants. This can be either at the bifurcation of the hepatic into the right and left hepatic arteries, or at the takeoff of the gastroduodenal artery. As the hepatic artery is the only vascular supply to the bile ducts, hepatic artery thrombosis and stenosis can lead to biliary ischemia",
+      "reference": "Singh AK et al. Postoperative imaging in liver transplantation: what radiologists should know. Radiographics 2010; 30(2): 339-351",
+      "response": ""
+    },
+    {
+      "questionNumber": 49,
+      "stem": "In the MR staging of rectal tumours, which of the following is the single best answer?",
+      "options": [
+        "A distance of less than 3mm from the mesorectal fascia is most likely to reflect circumferential resection margin (CRM)",
+        "There is a prognostic difference between different types of T3 tumours depending on tumour size",
+        "Untreated mucinous and non-mucinous tumours are difficult to distinguish on T2 sequences",
+        "Untreated tumour signal is similar to muscle on T2",
+        "Nonmucinous tumour signal intensity is similar to fat"
+      ],
+      "answer": "There is a prognostic difference between different types of T3 tumours depending on tumour size",
+      "explanation": "The MERCURY Trial showed patients with T3 disease with more than 5mm of extramural spread have a markedly worse prognosis than those with less than 5mm spread beyond the outer muscle layer. A distance less than 2mm from mesorectal fascia indicated CRM involvement. Tumour signal is usually in between SI of muscle and fat. Mucinous tumour is higher signal than non-mucinous which is higher than fat on T2",
+      "reference": "Barbaro B et al. Restaging locally advanced rectal cancer with MR imaging after chemoradiation therapy. Radiographics 2010; 30(3): 699-716",
+      "response": ""
+    },
+    {
+      "questionNumber": 50,
+      "stem": "A 34-year-old male visitor to the United Kingdom under the care of the medical team has abnormal liver function tests. US reveals periportal hyperechogenicity and gallbladder wall thickening but no biliary dilatation. The patient has a liver MRI study. T2 images show high signal intensity bands along the portal tracts and note is made of splenomegaly with siderotic nodules. Gadolinium enhanced T1 images confirm enhanced periportal bands. Which of the following is the most likely causative organism?",
+      "options": [
+        "Strongyloides",
+        "Shistosomiasis",
+        "Fasciola hepatica flatworm",
+        "Ascariasis",
+        "Echinococcus"
+      ],
+      "answer": "Shistosomiasis",
+      "explanation": "Schistosomiasis is the most likely cause. Periportal fibrosis with signs of portal hypertension, splenomegaly and siderotic nodules are typical features of hepatosplenic schistosomiasis",
+      "reference": "Ortega CD et al. Helminthic diseases in the abdomen: an epidemiologic and radiologic overview. Radiographics 2010; 30(1): 253-67",
+      "response": ""
+    }
+  ]
+}

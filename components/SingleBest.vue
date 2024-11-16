@@ -14,7 +14,8 @@ const isGraingerOrSbas = computed(
   () =>
     params.bookSlug === "grainger-and-allisons-diagnostic-radiology" ||
     params.bookSlug === "sbas-for-the-frcr-part-2a" ||
-    params.bookSlug === "final-frcr-2a"
+    params.bookSlug === "final-frcr-2a" ||
+    params.bookSlug === "succeeding-in-the-new-frcr-part-2a-exam"
 );
 
 const optionLabels = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J"];

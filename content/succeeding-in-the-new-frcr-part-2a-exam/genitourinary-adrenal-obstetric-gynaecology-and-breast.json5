@@ -1,0 +1,756 @@
+{
+  name: "Genitourinary, Adrenal, Obstetric & Gynaecology and Breast",
+  slug: "genitourinary-adrenal-obstetric-gynaecology-and-breast",
+  questions: [
+    {
+      "questionNumber": 1,
+      "stem": "A 55-year-old man begins to feel unwell after RFA to his right kidney. Considering post-RFA syndrome, which is the single best answer?",
+      "options": [
+        "Flu-like symptoms and myalgia 10 days post-procedure",
+        "Haemorrhage is the most common major complication",
+        "Urinomas from urine leaks are common",
+        "Cell death occurs at temperatures higher than 40 °C with complete tumour necrosis at 50-60°C",
+        "Involves conversion of high-pressure argon gas to cold low-pressure liquid by using the Joule-Thomson effect"
+      ],
+      "answer": "Haemorrhage is the most common major complication",
+      "explanation": "Post-RFA syndrome occurs 24-48 hours post-ablation. It is a likely inflammatory response to tumour necrosis or cytokine production. Persistence of fever beyond day 10 should be evaluated for infection. Haemorrhage is most commonly seen in central tumours. Ureteral strictures and urinomas are rare",
+      "reference": "Saksena M et al. Percutaneous renal tumor ablation. Abdom Imaging 2009; 34(5): 582-587",
+      "response": ""
+    },
+    {
+      "questionNumber": 2,
+      "stem": "Which of the following favour chronic rather than acute/subacute torsion of the spermatic cord?",
+      "options": [
+        "Enlarged testis with spherical morphology",
+        "Good identification of the lobular architecture of the affected testis",
+        "Thickened mediastinum, less echogenic than contralateral",
+        "Enlarged and more spherical epididymis",
+        "Hypoechoic small and harder testis"
+      ],
+      "answer": "Hypoechoic small and harder testis",
+      "explanation": "Absence of hydrocele and normal scrotal wall/skin are other features of chronic torsion",
+      "reference": "Prando D. Torsion of the spermatic cord: the main gray-scale and doppler sonographic signs. Abdom Imaging 2009; 34(5): 648-661",
+      "response": ""
+    },
+    {
+      "questionNumber": 3,
+      "stem": "Oncocytosis is considered in a 50-year-old man with bilateral renal masses. Which is the single best answer regarding oncocytosis?",
+      "options": [
+        "Account for 2% of all renal cortical tumours",
+        "Multifocality bilateralism and metachronous tumours occur together in 4-6%",
+        "In multifocal cases co-existent RCC is present in 50% of cases",
+        "Often have preserved renal function",
+        "The final diagnosis can be made on MR above"
+      ],
+      "answer": "Multifocality bilateralism and metachronous tumours occur together in 4-6%",
+      "explanation": "Co-existent RCC in 10% of cases. Due to diffuse bilateral renal involvement patients with oncocytosis often present with abnormal renal function. Final diagnosis is by biopsy",
+      "reference": "Ariaratnam N et al. Renal oncocytosis: imaging considerations. Abdom Imaging 2009; 34(2): 261-264",
+      "response": ""
+    },
+    {
+      "questionNumber": 4,
+      "stem": "Infiltrating papillary TCC is diagnosed from a mass at the renal pelvis. Which is the single best answer?",
+      "options": [
+        "50% of TCC are infiltrating papillary tumours",
+        "Have a broad base and frond-like morphology",
+        "On CT have a density lower than urine and higher than renal parenchyma",
+        "CT value of TCC is around 50-60 HU",
+        "Demonstrate avid enhancement post-contrast"
+      ],
+      "answer": "Have a broad base and frond-like morphology",
+      "explanation": "Over 85% of TCCs are infiltrating papillary tumours. CT density is 8-30 HU, slightly higher than urine and lower than renal parenchyma. Post-contrast there is mild to moderate enhancement to 18-55Hu",
+      "reference": "Wang J et al. Transitional cell carcinoma of upper urinary tract vs. benign lesions: distinctive MSCT features. Abdom Imaging 2009; 34(1): 94-106",
+      "response": ""
+    },
+    {
+      "questionNumber": 5,
+      "stem": "Which of the following favours a diagnosis of infiltrating papillary TCC rather than ureteral endometriosis?",
+      "options": [
+        "Location in proximal third of ureter",
+        "Age 35 years",
+        "An intramural nodule",
+        "Soft tissue component outside ureter larger than in it",
+        "High signal intensity on T1 and ‘shading’ on T2"
+      ],
+      "answer": "Location in proximal third of ureter",
+      "explanation": "Ureteral endometriosis is usually in childbearing age and in the lower third of ureters, often co-existent with other sites of abdominal and pelvic disease",
+      "reference": "Wang J et al. Transitional cell carcinoma of upper urinary tract vs. benign lesions: distinctive MSCT features. Abdom Imaging 2009; 34(1): 94-106",
+      "response": ""
+    },
+    {
+      "questionNumber": 6,
+      "stem": "Regarding yolk sac tumours of ovary:",
+      "options": [
+        "Are the most common malignant germ cell tumour of the ovary",
+        "Account for 5% of all ovarian malignancy",
+        "Carry a poorer prognosis than any other ovarian germ cell tumour",
+        "Haemorrhagic change is very rare",
+        "Are slow growing tumours"
+      ],
+      "answer": "Carry a poorer prognosis than any other ovarian germ cell tumour",
+      "explanation": "Yolk sac tumours are well-enhanced tumours consisting of mixed solid and cystic tissue with some area of haemorrhage. A ‘bright dot’ sign is recognised; a well-enhanced dilated vessel on the post-contrast image. Yolk sac tumours have a poor prognosis. They account for 1% of ovarian malignancies. They are the second most common malignant germ cell tumour after dysgerminomas",
+      "reference": "Choi HJ et al. Yolk sac tumor of the ovary: CT findings. Abdom Imaging 2008; 33(6): 736-739",
+      "response": ""
+    },
+    {
+      "questionNumber": 7,
+      "stem": "A 60-year-old man with elevated PSA and a Gleason 4+3 tumour undergoes investigation with MRI of the prostate. Which is the single best answer?",
+      "options": [
+        "Tumour of the gland is low signal on T2",
+        "Tumour appears bright on the Apparent Diffusion Coefficient (ADC)",
+        "Tumour appears dark on high b-value DWI images",
+        "Seminal vesicle involvement indicates T2 disease",
+        "The inguinal nodes are the first to enlarge with disease progression"
+      ],
+      "answer": "Tumour of the gland is low signal on T2",
+      "explanation": "Tumor appears as a focus of low signal compared to the normal high signal peripheral zone on T2. T3 disease indicates extracapsular extension and/or seminal vesicle involvement. Tumour appears dark on ADC and bright on high b-value DWI images. Obturator nodes are first to become involved",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 8,
+      "stem": "Which of the following indicates T3 disease in a 66-year-old man with bladder cancer?",
+      "options": [
+        "Invasion of perivisical fat",
+        "Tumour size 2.5cm",
+        "Tumour invading inner half or superficial muscle",
+        "Tumour invading deep muscle",
+        "Invasion of the rectum"
+      ],
+      "answer": "Invasion of perivisical fat",
+      "explanation": "Invasion of perivesical fat indicates T3 disease. Invasion of surrounding organs, pelvic or abdominal wall is T4 disease. T1-T2b tumours are treated with a conservative approach including TURB and local chemotherapy, whereas radical cystectomy and urinary diversion are reserved for invasive cancer",
+      "reference": "Panebianco V et al. Bladder carcinoma: MDCT cystography and virtual cystoscopy. Abdom Imaging 2010; 35(3): 257-264",
+      "response": ""
+    },
+    {
+      "questionNumber": 9,
+      "stem": "In a 40-year-old woman with seizures and bilateral renal masses, with the appearance of multiple angiomyolipomas, which is the single best answer?",
+      "options": [
+        "Sporadic solitary Angiomyolipoma (AML) have a female preponderance",
+        "Account for 50% of all renal AMLs",
+        "Are associated with tuberous sclerosis",
+        "Warrant treatment due to risk of bleeding when > 2cm",
+        "Are typically hypoechoic on US"
+      ],
+      "answer": "Are associated with tuberous sclerosis",
+      "explanation": "Those AML associated with tuberous sclerosis are multifocal, bilateral, larger and present in a younger age group. AML appear echogenic on US",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 10,
+      "stem": "Granulosa cell ovarian tumour is diagnosed following removal of a complex pelvic mass. Which is the single best answer?",
+      "options": [
+        "Account for 15% of ovarian tumours",
+        "The juvenile subtype is more common",
+        "Has a rapid rate of growth",
+        "Recurrent disease is almost always in the first two years after treatment",
+        "Variable imaging appearances are recognised from uniloculated cystic masses to solid masses"
+      ],
+      "answer": "Variable imaging appearances are recognised from uniloculated cystic masses to solid masses",
+      "explanation": "Represent 70% of malignant sex cord stromal tumours, but only 2-5% of all ovarian tumours have an unpredictable and indolent course with relapse occurring up to several years after initial diagnosis. The adult subtype accounts for 95% of all GCTs",
+      "reference": "Rha SE et al. Recurrent ovarian granulosa cell tumors: clinical and imaging features. Abdom Imaging 2008; 33(1): 119-125",
+      "response": ""
+    },
+    {
+      "questionNumber": 11,
+      "stem": "Which is a cause of dilated calyx with wide infundibuli?",
+      "options": [
+        "Post-obstructive uropathy",
+        "Structure secondary to calculus",
+        "Structure secondary to TB",
+        "Extrinsic compression by an artery",
+        "Hydrocalycosis"
+      ],
+      "answer": "Post-obstructive uropathy",
+      "explanation": "Answers B-E are causes with narrow infundibuli",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 12,
+      "stem": "During MR of the spine a 2cm renal lesion is identified at the upper pole cortex of the RK. The lesion is well-defined and is of high SI on T1 and T2 images. Ultrasound shows normal Doppler flow in the renal vein which is separate from the lesion, which is echogenic on US. The findings are most likely to represent which of the following?",
+      "options": [
+        "AML",
+        "Atypical cyst",
+        "Abscess",
+        "RCC",
+        "Lymphoma"
+      ],
+      "answer": "AML",
+      "explanation": "AML appears increased on S1 on T1+T2 and is echogenic on US",
+      "reference": "Chapman S and Nakielny R (2003) Aids to Radiological Differential Diagnosis. 4th edition. London: Saunders Ltd. p.330",
+      "response": ""
+    },
+    {
+      "questionNumber": 13,
+      "stem": "Which of the following causes immediate faint persistent nephrogram on Intravenous Urogram (IVU)?",
+      "options": [
+        "Renal vein thrombosis (RVT)",
+        "Acute obstruction",
+        "Acute hypotension",
+        "Acute tubular necrosis",
+        "Chronic obstruction"
+      ],
+      "answer": "Renal vein thrombosis (RVT)",
+      "explanation": "Acute glomerulonephritis, RVT and chronic severe ischaemia are all causes of immediate faint persistent nephrogram",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 14,
+      "stem": "Which is the cause of rim nephrogram?",
+      "options": [
+        "Acute complete arterial occlusion",
+        "Acute ureteric obstruction",
+        "Polycystic kidney disease",
+        "Medullary sponge kidney",
+        "Acute pyelonephritis"
+      ],
+      "answer": "Acute complete arterial occlusion",
+      "explanation": "Acute complete arterial occlusion and severe hydronephrosis are causes of a rim nephrogram. B-E are causes of a striated nephrogram",
+      "reference": "Chapman S and Nakielny R (2003) Aids to Radiological Differential Diagnosis. 4th edition. London: Saunders Ltd. p. 337",
+      "response": ""
+    },
+    {
+      "questionNumber": 15,
+      "stem": "Regarding molar pregnancy ultrasound:",
+      "options": [
+        "High velocity, low impedance waveforms on Doppler occur for later in a molar pregnancy than in a normal pregnancy",
+        "The uterine artery Pulsatility Index (PI) is proportional to arterovenous shunting",
+        "Patients with a low P1 are more likely to become resistant to single drug therapy with methotrexate",
+        "Low impedance waveforms with high diastolic velocities are findings in a normal pregnancy",
+        "A minimum normal UAPI is > 2.5"
+      ],
+      "answer": "Patients with a low P1 are more likely to become resistant to single drug therapy with methotrexate",
+      "explanation": "Minimal normal UAPI > 1.5. High velocity low impedance waveforms on Doppler are findings in a normal pregnancy but are found in the first and second trimesters in molar pregnancy (far earlier than in a normal pregnancy). Low P1 indicate increased AV shunting and are more likely to become resistant to single drug therapy with methotrexate",
+      "reference": "Allen SD et al. Radiology of gestational trophoblastic neoplasia. Clinical Radiology 2006; 61(4): 301-313",
+      "response": ""
+    },
+    {
+      "questionNumber": 16,
+      "stem": "A 45-year-old female with a six-month history of urinary tract symptoms undergoes CT showing an enlarged right kidney with a large staghorn calculus and hydronephrosis. The renal parenchyma is replaced by multiple confluent fluid-filled masses. Open nephrectomy histology from the right kidney reveals lipid laden foamy macrophages in combination with an inflammatory granuloma and a lymphoplasmocytic infiltrate. What is the most likely diagnosis?",
+      "options": [
+        "Xanthogranulomatous pyelonephritis",
+        "Renal lymphoma",
+        "Renal TB",
+        "Malakoplakia",
+        "Nephrocalcinosis"
+      ],
+      "answer": "Xanthogranulomatous pyelonephritis",
+      "explanation": "A rare form of low-grade chronic renal infection with progressive destruction of renal parenchyma, XGP is more common in women and in 50-60 age group. Most cases are diffuse. E.coli and P.mirabils are the most common organisms in these patients with UTI",
+      "reference": "Loffroy R et al. Xanthogranulomatous pyelonephritis in adults: clinical and radiological findings in diffuse and focal forms. Clinical Radiology 2007; 62(9): 884-890",
+      "response": ""
+    },
+    {
+      "questionNumber": 17,
+      "stem": "Non seminomatous germ cell tumour is diagnosed in a 30-year-old man. Which is the single best answer?",
+      "options": [
+        "Non seminomatous Gem Cell Tumour form the majority of testicular Gem Cell Tumour",
+        "Left-sided tumours frequently metastasize to left PA nodes just above level of left renal vein",
+        "Right-sided tumours spread initially to aortocaval lymph nodes",
+        "Echelon nodes are usually left-sided nodes lateral to PA nodes",
+        "Imaging appearances of nodal disease at late relapse is often more predictable than at initial presentation"
+      ],
+      "answer": "Right-sided tumours spread initially to aortocaval lymph nodes",
+      "explanation": "Late relapse > 2 years after CR, in absence of second primary tumour. Occurs in up to 7% of patients with less predictable pattern of nodal spread. NSGT form 40% of testicular GCT compared with 60% seminomatous. Left-sided tumours metastasize to left PA nodes below the level of the renal vein. Echelon nodes are usually right-sided, anterior to right psoas",
+      "reference": "Rutherford EE et al. Late relapse of metastatic non-seminomatous testicular germ cell tumours. Clinical Radiology 2006; 61(11): 907-915",
+      "response": ""
+    },
+    {
+      "questionNumber": 18,
+      "stem": "Involvement of which of the following indicates the poorest prognosis in recurrent endometrial cancer?",
+      "options": [
+        "Spleen",
+        "Vagina",
+        "Lung",
+        "Bladder",
+        "Well-differentiated tumour at original surgery"
+      ],
+      "answer": "Spleen",
+      "explanation": "Splenic, liver and multiple sites of disease are independent predictors of poor outcome",
+      "reference": "Sohaib SA et al. Recurrent endometrial cancer: patterns of recurrent disease and assessment of prognosis. Clinical Radiology 2007; 62(1): 28-34",
+      "response": ""
+    },
+    {
+      "questionNumber": 19,
+      "stem": "Which of the following most favours a diagnosis of adult prostate sarcoma rather than adenocarcinoma?",
+      "options": [
+        "Age of patient: 50",
+        "Size of tumour: 2.3cm",
+        "Absence of calcification",
+        "Solid and cystic components",
+        "Invasion of the bladder wall"
+      ],
+      "answer": "Solid and cystic components",
+      "explanation": "Prostatic sarcomas represent 0.1% of all primary prostate malignancy in adults. Mean age is younger than that of adenocarcinoma. Typically presents as a large solid and cystic mass with rapid hypervascular and heterogenous soft tissue occupying all or most of the prostate",
+      "reference": "Ren FY et al. Adult prostate sarcoma: radiological-clinical correlation. Clinical Radiology 2009; 64(2): 171-177",
+      "response": ""
+    },
+    {
+      "questionNumber": 20,
+      "stem": "Considering solid lesions of the paratesticular space, which is the most common benign tumour?",
+      "options": [
+        "Adenocarcinoid tumour",
+        "Lipoma",
+        "Haemangioma",
+        "Leiomyomas",
+        "Papillary cystadenomas"
+      ],
+      "answer": "Adenocarcinoid tumour",
+      "explanation": "30% of all paratesticular masses and most common benign neoplasm. Hamartomatous lesions are of probable mesothelial origin in young adults and usually present either as a painless mass or an incidental finding",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 21,
+      "stem": "In a patient who had a right nephrectomy ten years ago for RCC, a 3cm lesion in the cortex of the lower pole of the left kidney is evaluated with MRI. This appears isointense on the in-phase sequence and low SI on the opposed phase sequence. No other renal lesions are demonstrated. The renal veins appear normal. What is the most likely diagnosis?",
+      "options": [
+        "AML",
+        "Simple cyst",
+        "Oncocytoma",
+        "RCC",
+        "Metastatic deposit"
+      ],
+      "answer": "AML",
+      "explanation": "Demonstration of fat within a renal mass on CT or MRI is diagnostic of AML",
+      "reference": "Lenton J. Embolization of renal angiomyolipoma: immediate complications and long-term outcomes Clinical Radiology 2008; 63(8): 864-870",
+      "response": ""
+    },
+    {
+      "questionNumber": 22,
+      "stem": "In prostate cancer, which best describes changes in Magnetic Resonance Spectroscopy (MRS)?",
+      "options": [
+        "Elevated choline",
+        "Reduced citrate",
+        "Elevated choline:citrate ratio",
+        "Elevated citrate:choline ratio",
+        "Combining MRI with MRS has no increased accuracy in diagnosis of prostate cancer"
+      ],
+      "answer": "Elevated choline:citrate ratio",
+      "explanation": "Elevated choline + creatine: citrate ratio best describes MRS features of prostate cancer",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 23,
+      "stem": "A patient informs you she has a medical condition prior to pelvic MRI for evaluation of a pelvic malignancy. Which of the following would contraindicate buscopan injection?",
+      "options": [
+        "Hypertension",
+        "Angina",
+        "CABG 3 years ago",
+        "Myasthenia gravis",
+        "Multiple sclerosis"
+      ],
+      "answer": "Myasthenia gravis",
+      "explanation": "Antimuscarinics are contraindicated in myasthenia gravis (but may be used to decrease the muscarinic side effects of anticholinesterases), paralytic ileus, pyloric stenosis and prostatic enlargement. They should be used with caution in Down’s syndrome, GORD, diarrhoea, ulcerative colitis, acute myocardial infarction, hypertension, conditions characterised by tachycardia (hyperthyroidism, cardiac insufficiency, cardiac surgery), pyrexia, pregnancy and in individuals susceptible to angle closure glaucoma. HBB improves image quality and lesion visualisation in oncologic pelvic MR",
+      "reference": "Johnson W et al. The value of hyoscine butylbromide in pelvic MRI. Clinical Radiology 2007; 62(11): 1087-1093",
+      "response": ""
+    },
+    {
+      "questionNumber": 24,
+      "stem": "In dynamic renal imaging:",
+      "options": [
+        "The patient must not eat or drink for 6 hours prior to the test",
+        "Provides information on total and divided function only",
+        "Total divided renal function are evaluated in addition to rates of transit through parenchyma and outflow track",
+        "Diethylene triamine pentaacetic acid (DTPA) has the advantage of higher renal concentration than inulin",
+        "DTPA is excreted by glomerular filtration and tubular excretion"
+      ],
+      "answer": "Total divided renal function are evaluated in addition to rates of transit through parenchyma and outflow track",
+      "explanation": "This investigation requires a hydrated patient to lie supine with knees slightly flexed to reduce lumbar lordosis. DTPA is handled the same way as inulin. D and E are correct for MAG3",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 25,
+      "stem": "A 30-year-old man with known Hep B surface Antigen (HBsAg), abdominal pain, malaise and weight loss is diagnosed with Polyarteritis nodosa (PAN). Which of the following is true?",
+      "options": [
+        "Affects small arteries only",
+        "Causes aneurysms which are usually 5-10mm in size",
+        "Produces moth-eaten nephrograms after thrombosis of the microaneurysms",
+        "Angiography has significantly higher sensitivity than specificity in diagnosis",
+        "Angiography has a much higher positive predictive value (PPV) compared with negative predictive value (NPV)"
+      ],
+      "answer": "Produces moth-eaten nephrograms after thrombosis of the microaneurysms",
+      "explanation": "Affects medium and small arteries. Aneurysms are 2-3cm in size, which when thrombosed produce moth-eaten nephrogram. Angiography has high sensitivity and specificity but a much higher negative than positive predictive value in diagnosis. Diagnosis is often made with clinical features and angiography",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 26,
+      "stem": "A 29-year-old female with new onset hypertension has normal renal tract ultrasound. Magnetic resonance Angiography (MRA) is performed which demonstrates narrowing at the distal right main renal artery. Which is the most likely diagnosis?",
+      "options": [
+        "Renal artery stenosis",
+        "Fibromuscular dysplasia",
+        "Arteriosclerotic RA disease",
+        "Neurofibromatosis",
+        "Polyarteritis nodosa"
+      ],
+      "answer": "Fibromuscular dysplasia",
+      "explanation": "FMD accounts for 35% of RAS. It is more common in children and young adults, affecting a greater amount of females than males. It is associated with hypertension and progressive renal insufficiency. FMD occurs bilaterally in 2/3 of cases and R > L 4:1. It usually affects the mid distal renal artery and there can be a beaded appearance of artery",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 27,
+      "stem": "A 3cm cystic lesion is seen on CT. Thickened septae are noted, with nodular areas of calcification, with solid non-enhancing areas. Which of the following Bosniak classification best describes the lesion?",
+      "options": [
+        "I",
+        "II",
+        "IIF",
+        "III",
+        "IV"
+      ],
+      "answer": "III",
+      "explanation": "Class II have at least one thin septa traversing them (< 1mm) and they have an appearance of thin areas of mural calcification or fluid content with greater attenuation. These lesions are benign however IIF with numerous class II features should be followed up. Class III features as above are indicative of malignancy and biopsy or surgical exploration is necessary. Type IV cystic lesions are clearly malignant",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 28,
+      "stem": "Which of the following indicates T2 disease in renal cell carcinoma?",
+      "options": [
+        "Perinephric fat involvement",
+        "Tumour size > 2.5cm",
+        "Tumour involvement of renal vein",
+        "Tumour involvement of adrenal gland",
+        "IVC involvement"
+      ],
+      "answer": "Tumour size > 2.5cm",
+      "explanation": "Stage T2 disease is indicated when the tumour size is greater than 2.5cm",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 29,
+      "stem": "Regarding lymphoma of the kidneys:",
+      "options": [
+        "Multiple focal nodules appear hyperdense on CT",
+        "Involved kidneys are usually atrophic",
+        "Focal masses appear high signal on T1",
+        "Focal masses appear hyperintense on T2",
+        "CT may demonstrate sheet like diffuse infiltration of perirenal tissues"
+      ],
+      "answer": "CT may demonstrate sheet like diffuse infiltration of perirenal tissues",
+      "explanation": "Diffuse infiltration leads to renal enlargement. Focal lesions have a characteristic usually low attenuation post-contrast on CT, low SI on T1 and hypo-isointense on T2",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 30,
+      "stem": "Regarding metastatic sites of disease to the kidney:",
+      "options": [
+        "Are frequently symptomatic",
+        "Usually occur from direct invasion",
+        "Haematogenous metastasis are usually > 3 cm",
+        "Are usually hypovascular on CT",
+        "Commonly calcify"
+      ],
+      "answer": "Are usually hypovascular on CT",
+      "explanation": "Metastases are usually small (< 3cm), multiple and confined to cortex. The most common mode of spread is haematogenous. Metastases tend not to invade the renal vein or calcify; they are more infiltrative, less exophytic compared with renal cell carcinoma",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 31,
+      "stem": "Which of the following most favours RCC rather than TCC?",
+      "options": [
+        "A central hypoechoic lesion on US",
+        "Intraluminal soft tissue mass in the calyx",
+        "Renal vein invasion",
+        "Infiltration of renal sinus",
+        "Contrast outlining tumour in the pelvis"
+      ],
+      "answer": "Renal vein invasion",
+      "explanation": "In TCC inferior vena caval and renal vein invasion are uncommon",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 32,
+      "stem": "Considering Squamous Cell Carcinoma (SCC) of the kidney:",
+      "options": [
+        "Is the second most common tumour subtype affecting the kidney",
+        "Usually carries a better prognosis than RCC",
+        "Is usually indolent",
+        "Acute infection is involved in the aetiology",
+        "Renal calculi are present in most patients"
+      ],
+      "answer": "Renal calculi are present in most patients",
+      "explanation": "SCC of the kidney is a relatively rare condition. It carries a poor prognosis due to its aggressive nature. Both renal calculi and chronic infection have been implicated in its aetiology. Cross sectional imaging appearances are identical to those of TCC",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 33,
+      "stem": "Which is a cause of cortical rather than medullary nephrocalcinosis?",
+      "options": [
+        "Acute cortical necrosis",
+        "Hyperoxaluria",
+        "Hypervitamosis D",
+        "Sarcoidosis",
+        "Renal tubular acidosis"
+      ],
+      "answer": "Acute cortical necrosis",
+      "explanation": "Acute cortical necrosis causes cortical nephrocalcinosis, whereas B-E are causes of medullary nephrocalcinosis",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 34,
+      "stem": "Regarding hydronephrosis of pregnancy:",
+      "options": [
+        "Left-sided dilated predominates",
+        "Occurs predominantly due to maternal hormones decreasing ureteric tone",
+        "Persists at most 3-4 days postpartum in most cases",
+        "Occurs in 90% of pregnant women by third trimester",
+        "Usually involves the entire length of the uterus"
+      ],
+      "answer": "Occurs in 90% of pregnant women by third trimester",
+      "explanation": "In most women dilatation disappears postpartum. Resolution can take between a few days to several weeks. Maternal hormones play a minor part. Right-sided hydronephrosis is more common",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 35,
+      "stem": "Which of the following is a neoplasm affecting the breast that is least likely to contain bone cartilage or osteoid tissue?",
+      "options": [
+        "Lymphoma",
+        "Intraductal papillomas with stromal metaplasia",
+        "Phyllodes cystosarcoma",
+        "Stromal sarcomas",
+        "Adenocarcinomas with epithelial metaplasia"
+      ],
+      "answer": "Lymphoma",
+      "explanation": "B-D can contain bone, cartilage and osteoid tissue. Osteogenic sarcomas may also arise from sarcomatous transformation of connective tissue elements of pre-existing breast neoplasms",
+      "reference": "Choudhary S et al. Case report: Osteosarcoma of the breast-an unusual presentation. Clinical Radiology 2006; 61(3): 291-293",
+      "response": ""
+    },
+    {
+      "questionNumber": 36,
+      "stem": "Regarding endometrial carcinoma on MR:",
+      "options": [
+        "Normal zonal anatomy is best demonstrated on T1",
+        "Tumour is typically higher signal compared with endometrial lining on T2",
+        "Tumour is typically higher signal intensity than myometrium",
+        "Enhances faster than myometrium on dynamic contrast enhancement",
+        "Usually low SI than brightly enhancing normal myometrial tissue after contrast"
+      ],
+      "answer": "Usually low SI than brightly enhancing normal myometrial tissue after contrast",
+      "explanation": "Endometrial tumours are usually isointense to myometrium on T1 and lower SI to endometrial lining on T2. Tumours demonstrate slower enhancement on DCE than myometrium. Normal zonal anatomy is clearly depicted on T2",
+      "reference": "Barwick TD et al. Imaging of endometrial adenocarcinoma. Clinical Radiology 2006; 61(7): 545-555",
+      "response": ""
+    },
+    {
+      "questionNumber": 37,
+      "stem": "Which of the following ovarian masses appear more cystic than solid?",
+      "options": [
+        "Endometriosis",
+        "Metastases",
+        "Fibroma",
+        "Lymphoma",
+        "Arrhenoblastoma"
+      ],
+      "answer": "Endometriosis",
+      "explanation": "Cystadenocarcinoma, dermoid abscess, endometriosis and ectopic pregnancy are examples of cystic ovarian masses",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 38,
+      "stem": "Which of the following is least likely to suggest a malignant lesion in the breast?",
+      "options": [
+        "Thin halo",
+        "Ill-defined margin",
+        "Spiculated morphology",
+        "Inhomogeneity",
+        "Focal ductal dilation"
+      ],
+      "answer": "Thin halo",
+      "explanation": "A wide halo is more suggestive of a malignant lesion but features are not invariable",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 39,
+      "stem": "Which of the following is best at distinguishing fibroadenoma from a carcinoma?",
+      "options": [
+        "Poor reflectivity",
+        "Homogenous echopattern",
+        "Ill-defined mass",
+        "Absent far wall echoes",
+        "Posterior acoustic shadowing"
+      ],
+      "answer": "Homogenous echopattern",
+      "explanation": "Fibroadenomas classically have a homogenous internal echopattern",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 40,
+      "stem": "MRI shows two separate normal sized uteri and cervices with a septum extending into the upper vagina. The two uteri are widely separated, with preservation of the endometrial and myometrial widths. What name is given to this abnormality?",
+      "options": [
+        "Uterus didelphys",
+        "Mullerian agenesis",
+        "Unicornate uterus",
+        "Uterus bicornuate",
+        "Septate uterus"
+      ],
+      "answer": "Uterus didelphys",
+      "explanation": "When partial fusion of the Müllerian ducts occurs, myometrium forms the dividing septum. This abnormality is known as a bicornuate uterus. A septate uterus arises when there is only partial resorption of the final fibrous septum dividing the two horns of the uterus. The latter defect results in further reproductive complications",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 41,
+      "stem": "HSG shows small diverticular outpouchings in the isthmic portion of the right fallopian tube with distal tube occlusion. What is the diagnosis?",
+      "options": [
+        "Salpingitis isthmica nodosa (SIN)",
+        "Tubal polyps",
+        "Adenomyosis",
+        "Asherman’s syndrome",
+        "Ectopic pregnancy"
+      ],
+      "answer": "Salpingitis isthmica nodosa (SIN)",
+      "explanation": "SIN is associated with pelvic inflammatory disease and a higher risk of ectopic pregnancy",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 42,
+      "stem": "Regarding retroperitoneal fibrosis(RPF):",
+      "options": [
+        "Is common in females in the primary form",
+        "Beta-blockers are a common cause",
+        "Desmoplastic response to malignancy is the most common case in secondary RPF",
+        "Causes lateral deviation of the mid ureter",
+        "In the primary form responds to steroids"
+      ],
+      "answer": "In the primary form responds to steroids",
+      "explanation": "Two thirds of cases of RPF are primary and one third are secondary. Both forms are more common in males. Secondary causes include drugs such as methysergide, beta-blockers, phenacetin. Medial deviation of the ureter occurs in the mid third",
+      "reference": "Dahnert W (2007) Radiology Review Manual. 6th edition. Philadelphia: Lippincott Williams & Wilkins. p. 970",
+      "response": ""
+    },
+    {
+      "questionNumber": 43,
+      "stem": "Which is the most likely to cause bilateral small rather than large kidneys?",
+      "options": [
+        "Medullary cystic disease",
+        "Multiple myeloma",
+        "PAN",
+        "Glycogen storage disease",
+        "Acute glomerulonephritis"
+      ],
+      "answer": "Medullary cystic disease",
+      "explanation": "Acute arterial hypotension, arteriosclerosis, nephrosclerosis and hereditary nephropathies including medullary cystic disease and Alport syndrome are all causes of bilateral small kidneys",
+      "reference": "Dahnert W (2007) Radiology Review Manual. 6th edition. Philadelphia: Lippincott Williams & Wilkins. p. 883–884",
+      "response": ""
+    },
+    {
+      "questionNumber": 44,
+      "stem": "Regarding clear cell tumour of the ovary:",
+      "options": [
+        "Are rarely invasive",
+        "Represents > 20% of ovarian carcinomas",
+        "Most patients present at stage 2 disease",
+        "Frequently occurs as a unilocular cyst with mural nodule",
+        "Has a poorer survival rate compared with other ovarian cancers"
+      ],
+      "answer": "Frequently occurs as a unilocular cyst with mural nodule",
+      "explanation": "50% of patients have a 5-year survival rate; it presents in stage I in 75% of cases and accounts for up to 10% of all ovarian cancers",
+      "reference": "Dahnert W (2007) Radiology Review Manual. 6th edition. Philadelphia: Lippincott Williams & Wilkins. p. 1033",
+      "response": ""
+    },
+    {
+      "questionNumber": 45,
+      "stem": "Regarding mucinous ovarian tumours:",
+      "options": [
+        "Are most commonly mucinous cystadenocarcinomas",
+        "Account for the most common benign epithelial neoplasias of the ovary",
+        "Are most common in the post-menopausal population",
+        "Rupture may lead to pseudomyxoma peritoneii",
+        "When mucinous, cystadenomas are unilocular cysts with few septa"
+      ],
+      "answer": "Rupture may lead to pseudomyxoma peritoneii",
+      "explanation": "20 % of ovarian tumours are mucinous. These are the second most common benign epithelial neoplasm after serous ovarian neoplasias. Mucinous cystadenomas account for 80% and are multiloculated cysts with numerous septae, occurring in the third to fifth decades",
+      "reference": "Dahnert W (2007) Radiology Review Manual. 6th edition. Philadelphia: Lippincott Williams & Wilkins. p.1051",
+      "response": ""
+    },
+    {
+      "questionNumber": 46,
+      "stem": "Regarding ovarian fibromas:",
+      "options": [
+        "Demonstrate rapid enhancement on CECT",
+        "Commonly present as Meigs’ syndrome",
+        "Are usually bilateral",
+        "Usually hyperechoic on ultrasound",
+        "Low on T1 and T2, less or equal to myometrium"
+      ],
+      "answer": "Low on T1 and T2, less or equal to myometrium",
+      "explanation": "Well-defined solid masses in patients > 40. Low SI on T1+T2, with poor delayed contrast enhancement. Bilateral in 4-8% and associated with Meigs’ syndrome in 1%",
+      "reference": "Dahnert W (2007) Radiology Review Manual. 6th edition. Philadelphia: Lippincott Williams & Wilkins. p. 1056",
+      "response": ""
+    },
+    {
+      "questionNumber": 47,
+      "stem": "A 50-year-old female undergoes CT for an echogenic lesion on ultrasound. Pre-contrast CT shows a lesion, which is well-defined and has increased attenuation (60Hu). Post-contrast the lesion appears low in attenuation related to the surrounding parenchyma (61 HU). The diagnosis is:",
+      "options": [
+        "Haemorrhagic renal cell carcinoma",
+        "Angiomyolipoma (AML) that has bled",
+        "Lymphoma",
+        "Haemorrhagic renal cyst",
+        "AML"
+      ],
+      "answer": "Haemorrhagic renal cyst",
+      "explanation": "A less than 10 HU increase post-contrast indicates benign hyperdense cyst. Other benign features include being sharply marginated and homogenous",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 48,
+      "stem": "A 40-year-old diabetic presents with Urinary Tract Infection (UTI). Abdominal radiograph demonstrates small rounded curvilinear lucencies outlining the bladder wall. What is the diagnosis?",
+      "options": [
+        "Emphysematous cystitis",
+        "Enterovesical fistula",
+        "Penetrating trauma",
+        "Post-cystoscopy",
+        "Pneumatosis intestinalis"
+      ],
+      "answer": "Emphysematous cystitis",
+      "explanation": "Emphysematous cholecystits occurs more commonly in females and is usually due to E.coli. Gas is present in the bladder mucosal lumen. On ultrasound there is a thickened bladder wall with echogenic foci and acoustic shadowing",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 49,
+      "stem": "Regarding MRI prostate seminal vesicles:",
+      "options": [
+        "Usually low on T2",
+        "Usually high SI on Diffusion Weighted Imaging (DWI)",
+        "Typically have low ADC values",
+        "Are high signal on T2 when atrophic",
+        "Are low signal when invaded with tumour"
+      ],
+      "answer": "Are low signal when invaded with tumour",
+      "explanation": "Seminal vesicles may appear low in signal on T2 when atrophic, empty or with tumour involvement",
+      "reference": "",
+      "response": ""
+    },
+    {
+      "questionNumber": 50,
+      "stem": "Regarding prostate MR:",
+      "options": [
+        "The Peripheral Zone (PZ) and Transitional Zone (TZ) are difficult to distinguish on MR",
+        "Volume of prostate gland > 60 cc precludes brachytherapy",
+        "The normal PZ is typically heterogeneous on T2",
+        "Haemorrhage appears as low SI on T1",
+        "Tumours occur more commonly in TZ than PZ"
+      ],
+      "answer": "Volume of prostate gland > 60 cc precludes brachytherapy",
+      "explanation": "Contraindications to brachytherapy include a volume of over 60cc",
+      "reference": "",
+      "response": ""
+    }
+  ]
+}
