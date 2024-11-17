@@ -44,7 +44,7 @@ const {
 const bookSlug = computed(() => path.split("/")[2]);
 const shuffleQuestions = () => {
   questionsShuffled.value = true;
-  toast.add({ title: "Questions Shuffled!", icon: "i-ic-outline-info" });
+  toast.add({ title: "Questions Shuffled!", icon: "ph:info-duotone" });
   refresh();
 };
 
@@ -128,7 +128,7 @@ const covers = Object.fromEntries(
             <div v-if="section.questions?.length > 0">
               <div v-if="isAnswering">
                 <UButton
-                  icon="i-ic-outline-restart-alt"
+                  icon="ph:info-duotone"
                   label="Restart"
                   variant="soft"
                   size="xs"
@@ -143,7 +143,7 @@ const covers = Object.fromEntries(
                     variant="soft"
                     size="xs"
                     @click="shuffleQuestions"
-                    icon="i-ic-baseline-shuffle"
+                    icon="ph:matrix-logo-duotone"
                   />
                 </div>
 
@@ -151,7 +151,7 @@ const covers = Object.fromEntries(
                   <h1 class="font-[oswald] tracking-wider">Quick Revision</h1>
                   <UToggle
                     v-model="revisionMode"
-                    icon="i-ic-baseline-menu-book"
+                    icon="ph:fast-forward-duotone"
                   />
                 </div>
               </div>
@@ -164,7 +164,11 @@ const covers = Object.fromEntries(
         v-if="section.questions?.length === 0"
         class="flex flex-col items-center py-6 gap-4"
       >
-        <img src="/img/wait.svg" alt="wait for questions" class="w-2/5" />
+        <img
+          src="~/assets/img/wait.svg"
+          alt="wait for questions"
+          class="w-2/5"
+        />
 
         <p class="font-[oswald] tracking-wider font-thin">
           Questions will be added soon...🙂
@@ -176,7 +180,7 @@ const covers = Object.fromEntries(
           <h5
             class="font-[oswald] font-medium text-2xl tracking-wider text-center py-4"
           >
-            Summary <UIcon name="i-ic-outline-ssid-chart" />
+            Summary <UIcon name="ph:chart-line-duotone" />
           </h5>
           <div class="flex flex-col justify-center gap-4">
             <div class="border dark:border-zinc-900 rounded p-4 space-y-2">
@@ -220,7 +224,7 @@ const covers = Object.fromEntries(
             <div class="flex gap-2 justify-center">
               <UButton
                 class="self-center"
-                icon="i-ic-baseline-arrow-circle-left
+                icon="ph:caret-circle-left-duotone
 
                 "
                 @click="$router.back()"
@@ -229,7 +233,7 @@ const covers = Object.fromEntries(
               <UButton
                 class="self-center"
                 @click="handleReset"
-                icon="i-ic-round-settings-backup-restore
+                icon="ph:arrows-counter-clockwise-duotone
 
                 "
                 >Reset</UButton

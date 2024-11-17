@@ -7,6 +7,5 @@ export default defineAppConfig({
     button: {
       font: "font-[oswald] tracking-wider uppercase font-bold",
     },
-    icons: ["ic", "simple-icons"],
   },
 });

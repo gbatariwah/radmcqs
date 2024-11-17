@@ -20,7 +20,7 @@ const props = defineProps({
       class="text-sm p-2 font-light rounded-lg mt-1 flex pr-6"
     >
       <p class="p-4 self-start text-lg">
-        <UIcon name="i-ic-baseline-lightbulb" />
+        <UIcon name="ph:lightbulb-duotone" />
       </p>
       <div class="space-y-2">
         <p v-if="text">{{ text }}.</p>
@@ -33,7 +33,7 @@ const props = defineProps({
       class="text-sm p-2 font-light rounded-lg mt-1 flex pr-6"
     >
       <p class="p-4 self-start text-lg">
-        <UIcon name="i-ic-baseline-lightbulb" />
+        <UIcon name="ph:lightbulb-duotone" />
       </p>
       <div class="space-y-2">
         <p v-if="text">{{ text }}.</p>

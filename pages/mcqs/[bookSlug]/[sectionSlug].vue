@@ -174,7 +174,11 @@ const bookSlug = computed(() => path.split("/")[2]);
         v-if="section.questions?.length === 0"
         class="flex flex-col items-center py-6 gap-4"
       >
-        <img src="/img/wait.svg" alt="wait for questions" class="w-2/5" />
+        <img
+          src="~/assets/img/wait.svg"
+          alt="wait for questions"
+          class="w-2/5"
+        />
 
         <p class="font-[oswald] tracking-wider font-thin">
           Questions will be added soon...🙂
@@ -187,7 +191,7 @@ const bookSlug = computed(() => path.split("/")[2]);
             class="font-[oswald] font-medium text-2xl tracking-wider text-center py-4"
           >
             Summary
-            <UIcon name="i-ic-outline-ssid-chart" />
+            <UIcon name="ph:chart-line-duotone" />
           </h5>
           <div class="flex flex-col justify-center gap-4">
             <div class="border dark:border-zinc-900 rounded p-4 space-y-2">

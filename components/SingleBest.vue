@@ -68,7 +68,7 @@ watch(revision, (newVal) => {
             <UIcon
               v-if="revision || question.response === question.answer"
               class="' text-green-600 text-lg"
-              name="i-ic-baseline-check-circle"
+              name="ph:checks-duotone"
             />
           </span>
           <span v-else>{{ option }}</span>
@@ -77,7 +77,7 @@ watch(revision, (newVal) => {
             <UIcon
               v-if="question.response !== question.answer"
               class="text-lg ml-2 -m-1 text-red-600"
-              name="i-ic-baseline-cancel"
+              name="ph:x-duotone"
             />
           </span>
         </div>
@@ -128,9 +128,7 @@ watch(revision, (newVal) => {
         color="sky"
         v-motion-pop
         variant="soft"
-        :icon="
-          checkAnswer ? 'i-ic-baseline-visibility-off' : 'i-ic-round-visibility'
-        "
+        :icon="checkAnswer ? 'ph:eye-closed-duotone' : 'ph:eye-duotone'"
       />
     </div>
   </div>
