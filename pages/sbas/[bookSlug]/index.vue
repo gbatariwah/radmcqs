@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { filename } from "pathe/utils";
+
 const { params } = useRoute();
 
 const { data: book } = await useAsyncData(`${params.bookSlug}`, () =>
@@ -12,12 +13,12 @@ const formatedEdition = computed(() =>
   book.value.edition === 1
     ? "1st Edition"
     : book.value.edition === 2
-    ? "2nd Edition"
-    : book.value.edition === 3
-    ? "3rd Edition"
-    : typeof book.value.edition === "string"
-    ? book.value.edition
-    : `${book.value.edition}th Edition`
+      ? "2nd Edition"
+      : book.value.edition === 3
+        ? "3rd Edition"
+        : typeof book.value.edition === "string"
+          ? book.value.edition
+          : `${book.value.edition}th Edition`
 );
 
 const glob = import.meta.glob("~/assets/covers/*.jpg", { eager: true });
@@ -26,6 +27,7 @@ const covers = Object.fromEntries(
 );
 
 const numbers = [
+  "ph:number-zero-duotone",
   "ph:number-one-duotone",
   "ph:number-two-duotone",
   "ph:number-three-duotone",
@@ -35,7 +37,7 @@ const numbers = [
   "ph:number-seven-duotone",
   "ph:number-eight-duotone",
   "ph:number-nine-duotone",
-  "ph:number-ten-duotone",
+  "ph:number-ten-duotone"
 ];
 </script>
 
@@ -54,7 +56,7 @@ const numbers = [
           <span
             v-if="params.bookSlug !== 'engineering-interview-questions'"
             class="text-orange-400 font-light"
-            >{{ formatedEdition }}</span
+          >{{ formatedEdition }}</span
           >
         </h1>
         <p
@@ -127,7 +129,17 @@ const numbers = [
         <div v-for="(section, i) in book.sections" :key="section.slug">
           <div class="space-y-4">
             <div class="font-[oswald] text-xl flex items-center gap-6">
-              <UIcon :name="numbers[i]" />
+              <div>
+                <div v-if="i < 9">
+                  <UIcon :name="numbers[0]" class="invisible" />
+                  <UIcon :name="numbers[i + 1]" />
+                </div>
+
+                <div v-else-if="i >=9">
+                  <UIcon :name="numbers[Number(String(i + 1).split('')[0])]" />
+                  <UIcon :name="numbers[Number(String(i + 1).split('')[1])]" />
+                </div>
+              </div>
               <nuxt-link
                 :to="`/sbas/${params.bookSlug}/${section.slug}`"
                 class="hover:underline"

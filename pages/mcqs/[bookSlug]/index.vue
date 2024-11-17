@@ -25,6 +25,21 @@ const formatedEdition = computed(() =>
     ? book.value.edition
     : `${book.value.edition}th Edition`
 );
+
+
+const numbers = [
+  "ph:number-zero-duotone",
+  "ph:number-one-duotone",
+  "ph:number-two-duotone",
+  "ph:number-three-duotone",
+  "ph:number-four-duotone",
+  "ph:number-five-duotone",
+  "ph:number-six-duotone",
+  "ph:number-seven-duotone",
+  "ph:number-eight-duotone",
+  "ph:number-nine-duotone",
+  "ph:number-ten-duotone"
+];
 </script>
 
 <template>
@@ -78,11 +93,17 @@ const formatedEdition = computed(() =>
         <div v-for="(section, i) in book.sections" :key="section.slug">
           <div class="space-y-4">
             <div class="font-[oswald] text-xl flex items-center gap-6">
-              <p
-                class="font-extrabold shrink-0 text-xl ring-2 ring-zinc-700 h-8 w-8 rounded-full flex items-center justify-center"
-              >
-                {{ i + 1 }}
-              </p>
+              <div>
+                <div v-if="i < 9">
+                  <UIcon :name="numbers[0]" class="invisible" />
+                  <UIcon :name="numbers[i + 1]" />
+                </div>
+
+                <div v-else-if="i >=9">
+                  <UIcon :name="numbers[Number(String(i + 1).split('')[0])]" />
+                  <UIcon :name="numbers[Number(String(i + 1).split('')[1])]" />
+                </div>
+              </div>
               <nuxt-link
                 :to="`/mcqs/${params.bookSlug}/${section.slug}`"
                 class="hover:underline"
