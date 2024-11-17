@@ -1,43 +1,90 @@
 <template>
-  <nav class="flex justify-between items-center">
-    <nuxt-link to="/" class="font-bold flex gap-1 items-center" v-motion-roll-visible-once-left>
-      <span class="font-[Kablammo] text-2xl tracking-wide">RAD MCQS </span
-      ><img src="/img/light-bulb.png" alt="logo-img" />
-    </nuxt-link>
+  <nav class="flex justify-between items-center py-4">
+    <Logo />
 
     <div class="flex gap-4 items-center">
-      <div class="text-2xl" v-show="mounted">
-        <UIcon
-          name="i-ic-sharp-dark-mode"
-          v-if="mounted && isDark"
-          @click="() => toggleDark()"
-          class="animate__animated animate__rotateIn cursor-pointer"
-        />
-        <UIcon
-          v-else
-          name="i-ic-baseline-wb-sunny"
-          @click="() => toggleDark()"
-          class="animate__animated animate__rotateIn cursor-pointer"
-        />
-      </div>
-      <!--          <UDropdown-->
-      <!--            :items="items"-->
-      <!--            :popper="{ placement: 'bottom-start' }"-->
-      <!--            :ui="{ width: 'w-28', background: 'dark:bg-zinc-900' }"-->
-      <!--          >-->
-      <!--            <UButton color="white" trailing-icon="i-ic-sharp-more-vert" />-->
-      <!--          </UDropdown>-->
+      <ToggleTheme />
+      <UDropdown
+        :items="items"
+        :ui="{
+          item: { disabled: 'cursor-text select-text' },
+          background: 'dark:bg-neutral-900',
+        }"
+        :popper="{ placement: 'bottom-start' }"
+      >
+        <UAvatar icon="ph:user-duotone" />
+
+        <template #account="{ item }">
+          <div class="text-left">
+            <p>Signed in as</p>
+            <p class="truncate font-medium text-gray-900 dark:text-white">
+              {{ item.label }}
+            </p>
+          </div>
+        </template>
+
+        <template #item="{ item }">
+          <div class="flex justify-between w-full" @click="handleSignOut">
+            <span class="truncate">{{ item.label }}</span>
+
+            <UIcon
+              :name="item.icon"
+              class="flex-shrink-0 h-4 w-4 text-gray-400 dark:text-gray-500 ms-auto"
+            />
+          </div>
+        </template>
+      </UDropdown>
     </div>
   </nav>
 </template>
 
 <script setup lang="ts">
-import { useDark, useToggle } from "@vueuse/core";
+const user = useSupabaseUser();
+const supabase = useSupabaseClient();
 
-const mounted = ref(false);
+const handleSignOut = async () => {
+  const { error } = await supabase.auth.signOut();
+};
 
-const isDark = useDark();
-const toggleDark = useToggle(isDark);
+watchEffect(() => {
+  if (!user.value) {
+    navigateTo("/sign-in");
+  }
+});
 
-onMounted(() => (mounted.value = true));
+const items = [
+  [
+    {
+      label: user.value.email,
+      slot: "account",
+      disabled: true,
+    },
+  ],
+  // [
+  //   {
+  //     label: "Settings",
+  //     icon: "i-heroicons-cog-8-tooth",
+  //   },
+  // ],
+  // [
+  //   {
+  //     label: "Documentation",
+  //     icon: "i-heroicons-book-open",
+  //   },
+  //   {
+  //     label: "Changelog",
+  //     icon: "i-heroicons-megaphone",
+  //   },
+  //   {
+  //     label: "Status",
+  //     icon: "i-heroicons-signal",
+  //   },
+  // ],
+  [
+    {
+      label: "Sign out",
+      icon: "ph:sign-out-duotone",
+    },
+  ],
+];
 </script>

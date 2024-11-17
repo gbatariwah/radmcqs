@@ -19,7 +19,7 @@
           class="text-sm p-2 font-light rounded-lg mt-1 flex pr-6"
         >
           <p class="p-4 self-start">
-            <UIcon name="i-ic-baseline-lightbulb" />
+            <UIcon name="ph:lightbulb-duotone" />
           </p>
           <div class="space-y-2">
             <p>{{ question.explanation }}.</p>
@@ -39,11 +39,7 @@
         size="xs"
         color="sky"
         variant="soft"
-        :icon="
-          checkAnswers
-            ? 'i-ic-baseline-visibility-off'
-            : 'i-ic-round-visibility'
-        "
+        :icon="checkAnswers ? 'ph:eye-closed-duotone' : 'ph:eye-duotone'"
       />
     </div>
   </div>

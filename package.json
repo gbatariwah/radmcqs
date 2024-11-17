@@ -10,22 +10,26 @@
     "start": "node .output/server/index.mjs"
   },
   "devDependencies": {
-    "@iconify-json/ic": "^1.1.13",
     "@nuxt/content": "^2.7.0",
     "@nuxt/devtools": "latest",
     "@nuxt/fonts": "^0.10.2",
+    "@nuxt/icon": "^1.7.5",
     "@nuxt/ui": "^2.19.2",
     "@nuxthq/ui": "^2.4.1",
+    "@nuxtjs/supabase": "^1.4.2",
     "@types/node": "^18",
     "@vueuse/core": "^10.2.0",
     "@vueuse/nuxt": "^10.2.0",
     "daisyui": "^3.1.6",
     "nuxt": "^3.14.159",
+    "nuxt-security": "^2.1.1",
     "prettier": "^2.8.8",
     "typescript": "latest"
   },
   "dependencies": {
+    "@iconify-json/ph": "^1.2.1",
     "@vueuse/motion": "^2.1.0",
-    "animate.css": "^4.1.1"
+    "animate.css": "^4.1.1",
+    "yup": "^1.4.0"
   }
 }

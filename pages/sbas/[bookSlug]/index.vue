@@ -24,6 +24,19 @@ const glob = import.meta.glob("~/assets/covers/*.jpg", { eager: true });
 const covers = Object.fromEntries(
   Object.entries(glob).map(([key, value]) => [filename(key), value.default])
 );
+
+const numbers = [
+  "ph:number-one-duotone",
+  "ph:number-two-duotone",
+  "ph:number-three-duotone",
+  "ph:number-four-duotone",
+  "ph:number-five-duotone",
+  "ph:number-six-duotone",
+  "ph:number-seven-duotone",
+  "ph:number-eight-duotone",
+  "ph:number-nine-duotone",
+  "ph:number-ten-duotone",
+];
 </script>
 
 <template>
@@ -114,11 +127,7 @@ const covers = Object.fromEntries(
         <div v-for="(section, i) in book.sections" :key="section.slug">
           <div class="space-y-4">
             <div class="font-[oswald] text-xl flex items-center gap-6">
-              <p
-                class="font-extrabold shrink-0 text-xl ring-2 ring-zinc-700 h-8 w-8 rounded-full flex items-center justify-center"
-              >
-                {{ i + 1 }}
-              </p>
+              <UIcon :name="numbers[i]" />
               <nuxt-link
                 :to="`/sbas/${params.bookSlug}/${section.slug}`"
                 class="hover:underline"

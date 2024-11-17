@@ -10,7 +10,7 @@
     v-show="visible"
     @click="scrollUp"
     color="sky"
-    icon="i-ic-twotone-keyboard-double-arrow-up"
+    icon="ph:arrow-fat-line-up-duotone"
     class="fixed bottom-14 right-8 z-50 ring ring-sky-500"
     variant="soft"
     :ui="{ rounded: 'rounded-full' }"

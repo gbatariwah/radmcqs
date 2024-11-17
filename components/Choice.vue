@@ -28,8 +28,8 @@ const optionLabels = ["a", "b", "c", "d", "e"];
               "
               :name="
                 option.response === option.answer
-                  ? 'i-ic-baseline-check-circle'
-                  : 'i-ic-baseline-cancel'
+                  ? 'ph:checks-duotone'
+                  : 'ph:x-duotone'
               "
             />
           </p>
@@ -48,7 +48,7 @@ const optionLabels = ["a", "b", "c", "d", "e"];
                 class="text-sm p-2 font-light rounded-lg mt-1 flex pr-6"
               >
                 <p class="p-4">
-                  <UIcon name="i-ic-baseline-lightbulb" />
+                  <UIcon name="ph:lightbulb-duotone" />
                 </p>
                 <p>{{ option.explanation }}.</p>
               </UBadge>
@@ -58,7 +58,7 @@ const optionLabels = ["a", "b", "c", "d", "e"];
                 class="text-sm p-2 font-light rounded-lg mt-1 flex pr-6"
               >
                 <p class="p-4">
-                  <UIcon name="i-ic-baseline-lightbulb" />
+                  <UIcon name="ph:lightbulb-duotone" />
                 </p>
                 <p>{{ option.explanation }}.</p>
               </UBadge>
