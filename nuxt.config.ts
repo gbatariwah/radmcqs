@@ -9,8 +9,8 @@ export default defineNuxtConfig({
     "@nuxt/ui",
     "@nuxt/fonts",
     "@nuxt/icon",
-    "@nuxtjs/supabase",
-    "nuxt-security",
+    // "@nuxtjs/supabase",
+    // "nuxt-security",
   ],
   app: {
     pageTransition: { name: "page", mode: "out-in" },
@@ -38,17 +38,18 @@ export default defineNuxtConfig({
       collections: ["ph"],
     },
   },
-  security: {
-    // corsHandler: {
-    //   origin: "*",
-    // },
-  },
+  // security: {
+  //   // corsHandler: {
+  //   //   origin: "*",
+  //   // },
+  // },
 
-  supabase: {
-    redirectOptions: {
-      login: "/sign-in",
-    },
-  },
+  // supabase: {
+  //   redirect: false,
+  //   // redirectOptions: {
+  //   //   login: "/sign-in",
+  //   // },
+  // },
 
   compatibilityDate: "2024-11-14",
 });

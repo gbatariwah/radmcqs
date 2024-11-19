@@ -7,15 +7,15 @@ const loginError = ref("");
 
 definePageMeta({
   layout: "auth",
-  middleware: [
-    function (to, from) {
-      const session = useSupabaseSession();
-
-      if (session.value) {
-        return navigateTo("/");
-      }
-    },
-  ],
+  // middleware: [
+  //   function (to, from) {
+  //     const session = useSupabaseSession();
+  //
+  //     if (session.value) {
+  //       return navigateTo("/");
+  //     }
+  //   },
+  // ],
 });
 
 const state = reactive({

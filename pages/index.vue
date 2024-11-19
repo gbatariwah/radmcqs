@@ -4,6 +4,13 @@ const collection = [
     type: "Clinical Radiology",
     books: [
       {
+        title: "Succeeding in the new FRCR Part 2a Exam",
+        slug: "succeeding-in-the-new-frcr-part-2a-exam",
+        edition: 1,
+        color: "purple",
+        type: "sbas",
+      },
+      {
         title:
           "Grainger & Allison’s Diagnostic Radiology: Single Best Answer MCQs",
         slug: "grainger-and-allisons-diagnostic-radiology",
@@ -23,13 +30,6 @@ const collection = [
         slug: "final-frcr-2a",
         edition: 1,
         color: "sky",
-        type: "sbas",
-      },
-      {
-        title: "Succeeding in the new FRCR Part 2a Exam",
-        slug: "succeeding-in-the-new-frcr-part-2a-exam",
-        edition: 1,
-        color: "purple",
         type: "sbas",
       },
     ],
