@@ -4,6 +4,14 @@ const collection = [
     type: "Clinical Radiology",
     books: [
       {
+        title:
+          "FRCR Part 2a: Single Best Answer (Sba) Questions for the New Format",
+        slug: "frcr-part-2a-single-best-answer-questions-for-the-new-format",
+        edition: 1,
+        color: "yellow",
+        type: "sbas",
+      },
+      {
         title: "Succeeding in the new FRCR Part 2a Exam",
         slug: "succeeding-in-the-new-frcr-part-2a-exam",
         edition: 1,

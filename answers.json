@@ -1,302 +1,452 @@
 [
   {
     "questionNumber": 1,
-    "answer": "A",
-    "explanation": "Rathkes cleft cysts do not calcify. They affect women to men in a 2:1 ratio and adults from 40-60 years of age. They cause variable MR appearances depending on protein content of cyst. They can rarely show enhancement.",
-    "reference": "Rao VJ et al. Imaging characteristics of common suprasellar lesions with emphasis on MRI findings. Clinical Radiology 2008; 63(8): 939-947."
+    "answer": "d",
+    "explanation": "The Fisher scale is useful in communicating the description of SAH. Grade 1: no haemorrhage evident, grade 2: SAH > 1mm, grade 4: associated intra-ventricular haemorrhage or parenchymal extension.",
+    "reference": "RITI 6b_093 SAH: Acute investigation, treatment and prevention"
   },
   {
     "questionNumber": 2,
-    "answer": "A",
-    "explanation": "More commonly cryptococcus meningitis but cryptococcus or gelatinous pseudocysts reside in dilated perivascular spaces.",
-    "reference": "Rao VJ et al. Imaging characteristics of common suprasellar lesions with emphasis on MRI findings. Clinical Radiology 2008; 63(8): 939-947."
+    "answer": "a",
+    "explanation": "This is a spinal dural AV fistula (type 1), the fistula is present within the pial dura, producing distended draining veins on the surface of the spinal cord and oedema secondary to venous hypertension.",
+    "reference": "RITI 6b_105 Spinal Vascular Anomalies."
   },
   {
     "questionNumber": 3,
-    "answer": "A",
-    "explanation": "A young patient with migraines, auras, TIAs or subcortical strokes should raise suspicion of CADASIL. Subcortical infarcts are characteristically in the anterior temporal pole and external capsule but may involve C, D and E.",
-    "reference": "Downer JJ et al. Symmetry in computed tomography of the brain: the pitfalls. Clinical Radiology 2009; 64(3): 298-306."
+    "answer": "b",
+    "explanation": "Persistent hyperplastic primary vitreous is caused by the persistence of the embryonic hyaloid vascular system. Its features are microphthalmia, a vitreous body remnant of the hyaloid artery, retinal detachment and haemorrhage, fluid levels from the degradation of haemorrhage, and calcification.",
+    "reference": "Aids to Radiological Differential Diagnosis, 4th Ed, p. 387."
   },
   {
     "questionNumber": 4,
-    "answer": "A",
-    "explanation": "These are typical imaging findings but the abnormalities are not always reversible or posterior.",
-    "reference": "Downer JJ et al. Symmetry in computed tomography of the brain: the pitfalls. Clinical Radiology 2009; 64(3): 298-306."
+    "answer": "a",
+    "explanation": "Brain AVMs are the most common symptomatic vascular malformation. They typically present in 20-40 year olds with ictus from haemorrhage, progressive neurological deficit or headaches. Imaging features include: jat CT: serpiginous, densely enhancing vessel without mass effect or oedema; at MR: a nidus of flow voids on T2W sequences, at catheter angiography: grossly dilated vessel resembling a ‘bag of worms’.",
+    "reference": "Aids to Radiological Differential Diagnosis, 4th Ed, p. 408-410."
   },
   {
     "questionNumber": 5,
-    "answer": "A",
-    "explanation": "Lesions are in deep and subcortical white matter, pons and basilar territories. They may be unilateral or bilateral and the majority are reversible although some can progress to infarction. Vasospasm is uncommon in mild to moderate pre-eclampsia.",
+    "answer": "d",
+    "explanation": "Ref: RITI 6b_008 Plain Skull Radiography.",
     "reference": ""
   },
   {
     "questionNumber": 6,
-    "answer": "A",
-    "explanation": "Warthin’s tumours are benign salivary gland tumours, accounting for 6-10% of all parotid tumours. Warthin’s tumours are bilateral in 15% of cases.",
-    "reference": "Dineen R et al. Imaging of acute neurological conditions in pregnancy and the puerperium. Clinical Radiology 2005; 60(11): 1156-1170."
+    "answer": "c",
+    "explanation": "A number of features are suggestive of nodal metastases: a round, rather than elliptical shape (S/L axis ratio > 0.5), the absence of an echogenic hilum, a cystic area suggestive of necrosis, an ill-defined border, peripheral colour flow with regions of relative avascularity and subcapsular vessels, and punctate calcification (seen in metastases from papillary thyroid carcinoma).",
+    "reference": "RITI 6a_058 Ultrasound of the Thyroid and Parathyroid Glands."
   },
   {
     "questionNumber": 7,
-    "answer": "A",
-    "explanation": "B-E are causes of cerebellar atrophy without cerebral atrophy.",
-    "reference": "Dahnert W (2007) Radiology Review Manual. 6th edition. Philadelphia: Lippincott Williams & Wilkins. p. 234."
+    "answer": "a",
+    "explanation": "This patient suffers from Gorlin-Goltz/basal cell naevus syndrome, associated with multiple cutaneous basal cell carcinomas during childhood, odontogenic keratocysts, ectopic calcifications, and multiple skeletal anomalies. Mental retardation is another recognised association. All of the above answers above can present as cystic lesions of the jaw.",
+    "reference": "RITI 6b_048 Dental Pathology."
   },
   {
     "questionNumber": 8,
-    "answer": "A",
-    "explanation": "Occurs in 80% of term infants and 15% of adults. Rarely may dilate and cause obstructive hydrocephalus.",
-    "reference": "Dahnert W (2007) Radiology Review Manual. 6th edition. Philadelphia: Lippincott Williams & Wilkins. p. 236."
+    "answer": "a",
+    "explanation": "The displacement of the parapharyngeal fascial space can help localize neck lesions: Displacement of parapharyngeal space and styloid musculature.",
+    "reference": "RITI 6b_053 Imaging Neck Masses, 2nd Ed, p. 698."
   },
   {
     "questionNumber": 9,
-    "answer": "A",
-    "explanation": "Gliomas consist of astrocytomas, oligodendrogliomas, paragangliomas, ganglogliomas and medulloblastomas.",
-    "reference": "Dahnert W (2007) Radiology Review Manual. 6th edition. Philadelphia: Lippincott Williams & Wilkins. p. 238."
+    "answer": "c",
+    "explanation": "The common craniosynostoses include: Plagiocephaly, Trigonocephaly, Scaphocephaly, Brachycephaly, Oxycephaly, Cloverleaf, Metopic, Sagittal, coronal and lambdoid sutures, as well as multiple paired sutures to produce a 'trilobar' skull.",
+    "reference": "Radiology Review Manual, 6th Ed, p. 178 & Aids to Radiological Differential Diagnosis, 4th Ed, p. 487."
   },
   {
     "questionNumber": 10,
-    "answer": "A",
-    "explanation": "Other extra-axial posterior fossa masses include acoustic neuroma, meningioma, chordoma and epidermoid.",
-    "reference": "Dahnert W (2007) Radiology Review Manual. 6th edition. Philadelphia: Lippincott Williams & Wilkins. p. 239."
+    "answer": "d",
+    "explanation": "Although all the above conditions can result in skull vault lucencies, LCH is the only one that is also associated with surrounding sclerosis. In this case, the sclerotic border indicates the healing phase of LCH. Other conditions that can produce a lucency with sclerosis include: epidermoid, encephalocoele, haemangioma, chronic osteomyelitis, and frontal sinus mucocoele.",
+    "reference": "Aids to Radiological Differential Diagnosis, 4th Ed, p. 487."
   },
   {
     "questionNumber": 11,
-    "answer": "A",
-    "explanation": "Ependymomas followed by astrocytoma are the most common.",
-    "reference": "Dahnert W (2007) Radiology Review Manual. 6th edition. Philadelphia: Lippincott Williams & Wilkins. p. 241."
+    "answer": "a",
+    "explanation": "Schwannomas are the most common CPA mass. The epicentre of the lesion is typically in the epicentre of the internal auditory canal, typically causing a >2 mm difference in canal diameter on the affected side. Extension into the CPA causes an ‘ice cream cone’ appearance. On MR imaging, the lesion is iso-intense on T1W, hyper-intense on T2W and has dense enhancement (however, meningiomas also typically enhance). Calcification is not typical.",
+    "reference": "Primer of Diagnostic Imaging, 4th Ed, p. 544."
   },
   {
     "questionNumber": 12,
-    "answer": "A",
-    "explanation": "Other causes increase carbon monoxide poisoning, barbituate intoxication, hypoxia, hypoglycaemia and lacunar infarcts.",
-    "reference": "Dahnert W (2007) Radiology Review Manual. 6th edition. Philadelphia: Lippincott Williams & Wilkins. p. 244."
+    "answer": "e",
+    "explanation": "Chiari | is herniation of the cerebellar tonsils below a line connecting the basion and opisthion. Unlike Chiari Hl, Hl and IV, Chiari | is not associated with myelomeningocoeles. Indeed, the condition is frequently isolated without supratentorial anomalies. As well as the listed associations, Chiari | occurs with: basiliar impression, cranio-vertebral fusion, and Klippel-Feil anomaly.",
+    "reference": "Radiology Review Manuel, 6th Ed, p. 275."
   },
   {
     "questionNumber": 13,
-    "answer": "A",
-    "explanation": "Due to excess iron accumulation, a central gliosis is associated with Haltervorden-Spatz disease, dementia, retinitis pigmentosa, X-linked disorders with mental retardation, atrophy and Parkinsonian disorders.",
-    "reference": "Dahnert W (2007) Radiology Review Manual. 6th edition. Philadelphia: Lippincott Williams & Wilkins. p. 241."
+    "answer": "b",
+    "explanation": "Although non-specific, enhancement of the intracanalicular and labyrinthine portion occurs in Bell’s palsy (other inflammatory and neoplastic conditions should also be considered). Enhancement of the tympanic and mastoid portions of the facial nerve is a normal variant. Demineralisation does not occur.",
+    "reference": "Primer of Diagnostic Imaging, 4th Ed, p. 612."
   },
   {
     "questionNumber": 14,
-    "answer": "A",
-    "explanation": "B-E are extra-axial features.",
-    "reference": "Dahnert W (2007) Radiology Review Manual. 6th edition. Philadelphia: Lippincott Williams & Wilkins. p. 246."
+    "answer": "e",
+    "explanation": "",
+    "reference": "Aids to Radiological Differential Diagnosis, 4th Ed, p. 428."
   },
   {
     "questionNumber": 15,
-    "answer": "B",
-    "explanation": "A and C-E are features of epidermoid cyst. A and C demonstrate CSF-like density and have smooth margins.",
-    "reference": "Dahnert W (2007) Radiology Review Manual. 6th edition. Philadelphia: Lippincott Williams & Wilkins. p. 276."
+    "answer": "d",
+    "explanation": "MS plaques are typically of high-signal intensity on T2W and Proton density imaging. The hypointense thalamus (and putamen) are due to increased ferritin.",
+    "reference": "Radiology Review Manuel, 6th Ed, p. 3177."
   },
   {
     "questionNumber": 16,
-    "answer": "A",
-    "explanation": "Cavernomas are most commonly located in subcortical regions and are hypodense areas which can calcify. They are associated with minimal mass effect/oedema. Cavernomas can undergo haemorrhagic change and are associated with seizures.",
-    "reference": "Dahnert W (2007) Radiology Review Manual. 6th edition. Philadelphia: Lippincott Williams & Wilkins. p. 273."
+    "answer": "b",
+    "explanation": "Descending transtentorial (or uncal) herniation is associated with: effacement of the ipsilateral suprasellar cistern, enlargement of the ipsilateral CPA cistern, Duret haemorrhages in the midbrain (which would feature as regions of high attenuation), and PCA ischemia.",
+    "reference": "Primer of Diagnostic Imaging, 4th Ed, p. 531."
   },
   {
     "questionNumber": 17,
-    "answer": "A",
-    "explanation": "Syringohydromyelia, hydrocephalus, malformation of small bones and spine are also associations of Type I Chiari malformation.",
-    "reference": ""
+    "answer": "e",
+    "explanation": "A number of features are suggestive of a benign, rather than malignant, lesion. Cystic lesions are usually benign; a comet tail artefact usually indicates a (benign) colloid cyst; a complete low- echogenicity ‘halo’ increases the odds of a benign lesion 12 times. The overall echogenicity is another indicator: 96% of hyperechoic lesions are benign, compared to 74% of isoechoic and 39% of hypoechoic lesions.",
+    "reference": "RIT! 6b_058 Ultrasound of the Thyroid and Parathyroid Glands."
   },
   {
     "questionNumber": 18,
-    "answer": "B",
-    "explanation": "Protein content/paramagnetic effect of magnesium Mg2+/calcium Ca2+/, Iron Fe, in a cyst cause increased T1 and T2 SI. Colloid cysts appear iso/hyperdense on NCCT. They can occasionally widen septum pellucidum and cause asymmetrical enlargement of the lateral ventricles.",
-    "reference": "Dahnert W (2007) Radiology Review Manual. 6th edition. Philadelphia: Lippincott Williams & Wilkins. p. 277-278."
+    "answer": "d",
+    "explanation": "EpendymomaAstrocytoma AdultChildren More commonLess common TiW signalLowLow/intermediate EnhancementWell defined, strongly defined SyrinxMore commonLess common HaemorrhageMore commonLess common Age Bone remodelling.",
+    "reference": "RIT! 6b_123 Primary tumours of the spinal cord."
   },
   {
     "questionNumber": 19,
-    "answer": "A",
-    "explanation": "Located in CPA in 40%, accounting for 5% of CPA tumours.",
-    "reference": "Dahnert W (2007) Radiology Review Manual. 6th edition. Philadelphia: Lippincott Williams & Wilkins. p. 286."
+    "answer": "c",
+    "explanation": "‘Red flags’ for potentially serious headache include: precipitation with valsalva manoeuvre, age over 50, new abnormal neurological signs, progressive headache, onset in early morning, associated fever or systemic symptoms, change in character of headache.",
+    "reference": "RITI 6b_160 Acute and Chronic headaches."
   },
   {
     "questionNumber": 20,
-    "answer": "E",
-    "explanation": "No gadolinium enhancement and no white matter involvement.",
-    "reference": "Dahnert W (2007) Radiology Review Manual. 6th edition. Philadelphia: Lippincott Williams & Wilkins. p. 303."
+    "answer": "e",
+    "explanation": "Only 1% of meningiomas are associated with internal haemorrhage. Regarding the other characteristics: the inward bulging of the grey-white junction is suggestive of an extra-axial lesion, such as a meningioma; 60% of meningiomas are associated with oedema; meningiomas are typically hyperdense on unenhanced CT imaging and are seen to enhance with i.v. contrast medium.",
+    "reference": "RITI 6b_116 Characteristic appearances and differential diagnosis of meningiomas."
   },
   {
     "questionNumber": 21,
-    "answer": "A",
-    "explanation": "Dural meningeal carcinomatosis is rarely associated with positive cytology and involves localised or diffuse curvilinear enhancement underneath inner table in expected position of dura.",
-    "reference": "Dahnert W (2007) Radiology Review Manual. 6th edition. Philadelphia: Lippincott Williams & Wilkins. p. 306."
+    "answer": "b",
+    "explanation": "Epidermoid tumours are typically iso-intense to CSF on T1 and T2W imaging, with high signal on diffusion weighted sequences and heterogeneous signal on FLAIR imaging. They do not typically enhance.",
+    "reference": "RITI 6b_118 Acoustic Schwannomas."
   },
   {
     "questionNumber": 22,
-    "answer": "A",
-    "explanation": "Squamous cell lung cancer and adenocarcinoma of the lung cause cystic metastasis to the brain. Answers B-E are causes of haemorrhagic metastases.",
-    "reference": "Dahnert W (2007) Radiology Review Manual. 6th edition. Philadelphia: Lippincott Williams & Wilkins. p. 309-310."
+    "answer": "a",
+    "explanation": "In older patients with significant atheroma, there is a 1-2% risk of neurological deficit. This is reduced to < 0.5% in younger patients.",
+    "reference": "RIT! 6b_034 Intra-arterial cerebral angiography: implications, technique and complications."
   },
   {
     "questionNumber": 23,
-    "answer": "A",
-    "explanation": "Most commonly involve cortical and subcortical white matter, occasionally through corpus callosum as butterfly glioma.",
-    "reference": "Dahnert W (2007) Radiology Review Manual. 6th edition. Philadelphia: Lippincott Williams & Wilkins. p. 320."
+    "answer": "d",
+    "explanation": "Temporo-parietal hypoperfusion is typically caused by Alzheimer’s type dementia or Lewy body disease. Two other patterns to consider include: firstly fronto-temporal hypoperfusion, caused by Pick’s disease, fronto-temporal dementia, chronic alcoholism and schizophrenia; and secondly patchy/ multiple perfusion defects, caused by AIDS-related dementia, schizophrenia and multi-infarct dementia.",
+    "reference": "RIT! 7n_005 HMPAO"
   },
   {
     "questionNumber": 24,
-    "answer": "A",
-    "explanation": "B represents early subacute haemorrhage, C represents acute (12-72 hours), D represents hyperacute (less than 12 hours) and E represents chronic haemorrhage (> 1 month).",
-    "reference": "Chapman S and Nakielny R (2003) Aids to Radiological Differential Diagnosis. 4th edition. London: Saunders Ltd. p. 404."
+    "answer": "d",
+    "explanation": "The striatum comprises the caudate nucleus and putamen; striatum also includes the globus pallidus.",
+    "reference": "Primer of Diagnostic Imaging, 4th Ed, p. 500."
   },
   {
     "questionNumber": 25,
-    "answer": "A",
-    "explanation": "These are all features of tuberous sclerosis.",
-    "reference": "Chapman S and Nakielny R (2003) Aids to Radiological Differential Diagnosis. 4th edition. London: Saunders Ltd. p. 450-451."
+    "answer": "d",
+    "explanation": "Venous occlusion progresses to infarction in approximately 50% of cases. These infarcts do not conform to arterial territories: occlusion of the midline veins may result in bilateral infarction (low attentation on CT and increased T2W signal on MRI). Acute thrombus is hyperdense on pre-contrast CT imaging; however, i.v. contrast medium results in more intense enhancement of the walls of the sinuses than of their contents (the ‘delta sign’). Haemorrhage is common. Brain swelling is prominent early in the clinical course; this is in contradistinction to arterial infarcts, where swelling is maximal at 3-5 days.",
+    "reference": "Aids to Radiological Differential Diagnosis, 4th Ed, p. 400."
   },
   {
     "questionNumber": 26,
-    "answer": "A",
-    "explanation": "MR angiography shows reversal of flow through the Superior Ophthalmic Vein (SOV), rapid progress of proptosis, visual loss or raised intracranial pressure requiring emergency treatment.",
-    "reference": ""
+    "answer": "e",
+    "explanation": "On T1W imaging, the anterior pituitary is typically iso-intense and the posterior pituitary hyperintense; on T2W imaging, both the anterior and posterior pituitary are typically iso-intense. The gland is normally flat or concave superiorly, but may be convex in pregnancy.",
+    "reference": "Primer of Diagnostic Imaging, 4th Ed, p. 580."
   },
   {
     "questionNumber": 27,
-    "answer": "D",
-    "explanation": "Sparing of muscle tendons is typical. Most cases are bilateral.",
-    "reference": ""
+    "answer": "b",
+    "explanation": "An eccentric enhancing nodule may be seen in cases of toxoplasmosis, but is rare in lymphoma. Callosal involvement, ependymal spread and high attenuation on unenhanced CT imaging are typical features of lymphoma.",
+    "reference": "Primer of Diagnostic Imaging, 4th Ed, p. 549."
   },
   {
     "questionNumber": 28,
-    "answer": "E",
-    "explanation": "Drop metastases are usually dorsal in location in the spinal canal. Medulloblastomas are the most common cause of drop metastases. A higher percentage of CSF cytology is positive.",
-    "reference": ""
+    "answer": "b",
+    "explanation": "Orbital pseudotumour tends to: be unilateral (85%), involve the tendons, gland, cause stranding of the lacrimal fat, enlarge, be painful, and have a good response to steroids.",
+    "reference": "Primer of Diagnostic Imaging, 4th Ed, p. 624."
   },
   {
     "questionNumber": 29,
-    "answer": "A",
-    "explanation": "Basilar meninges often involved. B-E are recognised imaging findings. Spinal disease is less common than brain disease and findings include intramedullary lesions and intrathecal nodular masses.",
-    "reference": "Provenzale, JM and Nelson, RC (1998) Duke Radiology Case Review: Imaging, Differential Diagnosis, and Discussion. Philadelphia: Lippincott Williams & Wilkins. p. 321."
+    "answer": "e",
+    "explanation": "A Rathke’s cleft cyst is typically hyperintense on T1W, and has smooth peripheral enhancement with intravenous contrast medium.",
+    "reference": "Diagnostic Radiology, 5th Ed, p. 564."
   },
   {
     "questionNumber": 30,
-    "answer": "D",
-    "explanation": "Early CT findings may show medial temporal hypodensity. Areas poorly enhance on CT and MR. Signal abnormalities often decrease in response to treatment.",
-    "reference": ""
+    "answer": "a",
+    "explanation": "A thyroglossal duct cyst is described. Many are infrahyoid (25-60%), the US appearances can be extremely variable.",
+    "reference": "Clin Rad (2008); 63:613-622."
   },
   {
     "questionNumber": 31,
-    "answer": "A",
-    "explanation": "1⁄3 haemangioblastomas are purely solid, 1⁄3 are cystic with mural nodes and 1⁄3 are cystic with a more complex solid component.",
-    "reference": "Provenzale, JM and Nelson, RC (1998) Duke Radiology Case Review: Imaging, Differential Diagnosis, and Discussion. Philadelphia: Lippincott Williams & Wilkins. p. 327."
+    "answer": "e",
+    "explanation": "A craniopharyngioma would typically be seen as a cyst with a mural nodule. Calcification is present in 90% of cases in the younger age group. Both craniopharyngiomas and Rathke cleft cysts have variable signal intensities on MR imaging, but most commonly craniopharyngiomas have a low signal on T1W imaging. The enhancement pattern is typically ‘solid’ or ‘nodular’, as opposed to the ‘rim-like’ pattern seen in Rathke cleft cysts.",
+    "reference": "Neuroradiology: the requisites, 2nd Ed, p. 542-547."
   },
   {
     "questionNumber": 32,
-    "answer": "E",
-    "explanation": "Other features include cerebral atrophy with thickening of skull vault and surface enhancement, enlarged choroid plexus and enlarged medullary/subependymal veins. Choroid angiomas may be present.",
-    "reference": "Chapman S and Nakielny R (2003) Aids to Radiological Differential Diagnosis. 4th edition. London: Saunders Ltd. p. 451."
+    "answer": "e",
+    "explanation": "A consensus panel has recently defined the US criteria for gauging carotid artery stenosis. Quantitative criteria include: Stenosis Normal<50% ICA PSV (cm/s)< 125 <125 ICA ICA PSV ratio ICA EDV (cm/s) 125-130 > 230 < 2.0 < 40 < 2.0 < 40 undetectable 2.0-4.0 40 - 100 > 4.0 >100 NA NA 50-69% > 70% Total occlusion.",
+    "reference": "Radiology (2003); 229:340-346."
   },
   {
     "questionNumber": 33,
-    "answer": "A",
-    "explanation": "Broad based attachment to petrous bone. More homogenous SI and less bright T2. Uniform enhancement distinguishes from vestibular schwannoma.",
-    "reference": "Chapman S and Nakielny R (2003) Aids to Radiological Differential Diagnosis. 4th edition. London: Saunders Ltd. p. 469."
+    "answer": "b",
+    "explanation": "A region that shows both diffusion and perfusion abnormalities represents irreversibly infarcted tissue, while a region that shows only perfusion abnormalities and has normal diffusion represents viable but ischaemic tissue: a ‘penumbra’.",
+    "reference": "Radiographics (2006); 26:S75-95, FRCR."
   },
   {
     "questionNumber": 34,
-    "answer": "D",
-    "explanation": "Parathyroid adenomas are typically well circumscribed, round or oval hypoechoic nodules. They are usually low signal on T1 and high on T2. However, they may appear as high signal on both in the presence of haemorrhagic change. Parathyroid adenomas are usually hyperdense on CT.",
-    "reference": "Ahuja AT et al. Imaging for primary hyperparathyroidism-what beginners should know. Clinical Radiology 2004; 59(11): 967–976."
+    "answer": "a",
+    "explanation": "Sturge-Weber syndrome is associated with calcification of the cortical gyri, rather than the basal ganglia. The cause of basal ganglia calcification can be divided into: physiologic, endocrine, (e.g. hypothyroidism, hypoparathyroidism, pseudo- and pseudo-pseudohypoparathyroidism), metabolic (e.g. Fahr’s disease and mitochondrial cytopathies), congenital/ developmental (e.g. Cockayne’s syndrome), infection (e.g. TORCH, cystercercosis, tuberculosis), toxic (e.g. CO poisoning, hypoxia, lead), and chemotherapy/radiotherapy.",
+    "reference": "Aids to Radiological Differential Diagnosis, 4th Ed, p. 430."
   },
   {
     "questionNumber": 35,
-    "answer": "E",
-    "explanation": "Matting is associated with tubercular lymph nodes. Increased peripheral vessels is a feature of malignant nodes.",
-    "reference": "Ahuja A et al. Sonography of neck lymph nodes. Part II: abnormal lymph nodes. Clinical Radiology 2003; 58(5): 359-366."
+    "answer": "a",
+    "explanation": "Time T1WI Signal T2WI Signal 0-12 hours (hyperacute) 12-72 hours (acute) 4—7 days (early subacute) 8-30 days (late subacute) more than 1 month Intermediate Intermediate High High Low High Low Low High Low.",
+    "reference": "Aids to Radiological Differential Diagnosis, 4th Ed, p. 404."
   },
   {
     "questionNumber": 36,
-    "answer": "B",
-    "explanation": "Carotid body tumours are painless pulsatile vascular masses, hyperintense on T2 and heterogeneously isointense on T1 with avid enhancement. Multiple flow voids are usually seen on MRI.",
-    "reference": ""
+    "answer": "b",
+    "explanation": "Virchow-Robin spaces are invaginations of the sub-arachnoid space into the brain parenchyma. They are seen with increasing frequency with age. The signal intensity is identical to CSF: in the case above, none of the other causes would appear isointense to CSF on FLAIR imaging.",
+    "reference": "Radiographics (2007); 27:1071-87."
   },
   {
     "questionNumber": 37,
-    "answer": "D",
-    "explanation": "Both are extra-axial and can be of mixed attenuation. Although skull fractures are more common in EDH, this cannot be the single best answer as EDH cross dural attachments are limited by cranial sutures.",
-    "reference": ""
+    "answer": "e",
+    "explanation": "Pycnodyostosis is an autosomal recessive inherited disease featuring dwarfism, learning difficulties, nail dystrophy, receding jaw, wide cranial sutures, and multiple wormian bones.",
+    "reference": "Aids to Radiological Differential Diagnosis, 4th Ed, p. 486."
   },
   {
     "questionNumber": 38,
-    "answer": "A",
-    "explanation": "Ameloblastomas grow in the buccolingual direction and are expansile.",
-    "reference": "Macanovic M et al. Incidental bony pathology when reporting trauma orthopantomograms. Ameloblastomas grow in the buccolingual direction and are expansile. Clinical Radiology 2010; 65(10): 842-849."
+    "answer": "b",
+    "explanation": "Time T1WI Signal T2WI Signal DWI ADC 0-6 hours Isointense Isointense High Low Low High High Low Low High Low (encephalomalacia) High through T2 shine through.",
+    "reference": "Neuroradiology: the requisites, 2nd Ed, p. 194."
   },
   {
     "questionNumber": 39,
-    "answer": "A",
-    "explanation": "Other features of meningioma include calcification, homogenous enhancement and hyperostosis.",
-    "reference": ""
+    "answer": "e",
+    "explanation": "The ability to cross dural reflections, such as the falx and tentorium cerebelli, places the haematoma in the extra-dural, rather than sub-dural space.",
+    "reference": "Neuroradiology: the requisites, 2nd Ed, p. 247."
   },
   {
     "questionNumber": 40,
-    "answer": "A",
-    "explanation": "Glomus tumour is the most common cause of pulsatile tinnitus.",
-    "reference": ""
+    "answer": "a",
+    "explanation": "The patient fulfils the diagnostic criteria for Neurofibromatosis type 2. Unlike NF-1, there is no association with Lisch nodules, skeletal dysplasia, optic pathway gliomas or vascular dysplasia.",
+    "reference": "Radiology Review Manual, 6th Ed, p. 319."
   },
   {
     "questionNumber": 41,
-    "answer": "B",
-    "explanation": "Multiple flow voids are due to hypertrophied lenticulostriate arteries. Children more often present with ischemia and infarct in cortical/subcortical areas. Adults more often present with haemorrhage than children, but when infarcts do occur, they are most often in the deep white matter. The disease can involve the posterior circulation. The supraclinoid MCA is the first to be involved.",
-    "reference": "Kuroda S et al. Moyamoya disease: current concepts and future perspectives. Lancet Neurology 2008; 7(11): 1056-1066."
+    "answer": "d",
+    "explanation": "The commonest ‘soft’ neck masses in infants and children are lipomas, haemangiomas and cystic hygromas. The latter have low-to-intermediate signal intensity on T1W and high signal on T2W.",
+    "reference": "Aids to Radiological Differential Diagnosis, 4th Ed, p. 394."
   },
   {
     "questionNumber": 42,
-    "answer": "A",
-    "explanation": "Osteoblastoma is a cause of a solitary dense pedicle.",
-    "reference": ""
+    "answer": "a",
+    "explanation": "The olfactory (I) and optic (II) nerves are most often affected by base injury.",
+    "reference": "RITI 6b_062 Brain Complications of injury."
   },
   {
     "questionNumber": 43,
-    "answer": "A",
-    "explanation": "Other intramedullary masses include astrocytomas are dermoids (lipoma/teratomas), acutely expanding infarcts and haematoma.",
-    "reference": ""
+    "answer": "c",
+    "explanation": "The typical lesions of diffuse axonal injury are seen more prominently on MR than CT imaging.",
+    "reference": "RIT! 6b_060 Diffuse Brain Injury."
   },
   {
     "questionNumber": 44,
-    "answer": "A",
-    "explanation": "Rheumatoid arthritis is the most common cause of erosion of the odontoid peg.",
-    "reference": ""
+    "answer": "d",
+    "explanation": "The vascular nature of the tumour contraindicates biopsy.",
+    "reference": "Radiology Review Manual, 6th Ed, p. 387."
   },
   {
     "questionNumber": 45,
-    "answer": "A",
-    "explanation": "75% of cases are in the basal ganglia.",
-    "reference": ""
+    "answer": "c",
+    "explanation": "The staging is: T1: tumour confined to vocal cord. T2: supra/ subglottic extension with or without impaired mobility. T3: fixation of true vocal cord. T4: destruction of thyroid cartilage/ extension outside larynx. There is no T5.",
+    "reference": "Radiology Review Manual, 6th Ed, p. 387."
   },
   {
     "questionNumber": 46,
-    "answer": "D",
-    "explanation": "Progressive multifocal leukoencephalopathy has a predilection for the parieto-occipital region.",
-    "reference": "Dahnert W (2007) Radiology Review Manual. 6th edition. Philadelphia: Lippincott Williams & Wilkins. p. 324-325."
+    "answer": "c",
+    "explanation": "The patient has had a transient ischaemic attack (TIA). The Rothwell classification counts a score of 24 counts as a high risk TIA; the risk of a stroke within 4 weeks is up to 20%. 1 point is scored for each of: age (2 60), hypertension (2140/90), diabetes, symptom duration of 40-60 minutes and speech disturbance alone; 2 points for symptoms of >60 minutes or a unilateral weakness. The described patient scores 5 and is therefore high risk, however, recent NICE guidelines state the following management plan for high risk TIAs: 300 mg aspirin should be started immediately, specialist assessment and investigation should be undertaken within 24 hours of onset of symptoms (7 days for low risk patients), and that measures for secondary prevention should be introduced. MR imaging (with DWI) should only be performed if there is uncertainty over the diagnosis or the vascular territory involved. The guidelines also advocate carotid imaging within 7 days with a view to endarterectomy (if appropriate) within 2 weeks.",
+    "reference": "Lancet (2005); 366: 29-36 & NICE guideline CG068 (published July 2008)."
   },
   {
     "questionNumber": 47,
-    "answer": "A",
-    "explanation": "Other causes are lymphoma, adenocarcinoma, adenoid cystic carcinoma, mucoceles and paranasal sinusitis.",
-    "reference": ""
+    "answer": "e",
+    "explanation": "Oligodendrogliomas are slowly growing gliomas, most commonly located in the frontal lobes. Large nodular calcification is present in approximately 90% of cases. Cystic degeneration, enhancement and a lack of oedema are all common. Over 80% either hypo- or iso-dense on unenhanced CT imaging.",
+    "reference": "RIT! 6_108 Primary tumours Gliomas — astros, oligos."
   },
   {
     "questionNumber": 48,
-    "answer": "B",
-    "explanation": "Other causes include early thyroiditis, hyperthyroidism, and rebound after withdrawal of anti-thyroid medications.",
-    "reference": "Dahnert W (2007) Radiology Review Manual. 6th edition. Philadelphia: Lippincott Williams & Wilkins. p. 363."
+    "answer": "e",
+    "explanation": "The medial wall of the maxillary sinus is spared in a type II fracture. The pterygoid plates are involved in all Le Fort fractures.",
+    "reference": "RIT! 6a_024 Trauma of the face, orbit and mandible."
   },
   {
     "questionNumber": 49,
-    "answer": "C",
-    "explanation": "Other causes include autonomous adenoma and, very rarely, thyroid cancer. Any hot nodule on Tc-99m should be imaged with I-123 to differentiate between autonomous and cancerous lesions.",
-    "reference": ""
+    "answer": "a",
+    "explanation": "Longitudinal fractures are parallel to the axis of the petrous pyramid and predominantly affect the middle ear (including the ossicles and tympanic membrane). Transverse fractures are perpendicular to the axis of the petrous pyramid and affect the labyrinth. Facial nerve palsy occurs in 50% of transverse fractures, but only 20% of longitudinal fractures.",
+    "reference": "Radiology Review Manual, 6th Ed, p. 208."
   },
   {
     "questionNumber": 50,
-    "answer": "B",
-    "explanation": "Stage T3 disease includes tumour limited to the larynx with cord fixation or extension to post-cricoid area, and medial wall of the pyriform sinus/pre-epiglottc space.",
-    "reference": "Connor S. Laryngeal cancer: how does the radiologist help? Cancer Imaging 2007; 28(7): 93-103."
+    "answer": "b",
+    "explanation": "In addition, rubella is associated with hearing loss, autism, pigmentary retinopathy, vasculopathy, pulmonic stenosis, and hepatosplenomegaly.",
+    "reference": "Neuroradiology: the requisites, 2nd Ed, p. 443."
+  },
+  {
+    "questionNumber": 51,
+    "answer": "a",
+    "explanation": "This is the most profound form of holoprosencephaly, where there is almost no separation of the cerebral hemispheres or ventricles. There is a ‘horseshoe’ configuration of neural tissue with a single crescent-shaped ventricle. There is no ‘bilobar’ form of holoprosencephaly. Septo-optic dysplasia can be considered part of the holoprosencephaly spectrum.",
+    "reference": "Neuroradiology: the requisites, 2nd Ed, p. 421."
+  },
+  {
+    "questionNumber": 52,
+    "answer": "e",
+    "explanation": "This is a leptomeningeal pattern of enhancement. This can be seen in acute stroke, leptomeningeal meningitis, inflammatory diseases such as sarcoid, and metastasis.",
+    "reference": "Neuroradiology: the requisites, 2nd Ed, p. 287."
+  },
+  {
+    "questionNumber": 53,
+    "answer": "b",
+    "explanation": "Within the first 2 days, enhancement within the pre-operative tumour bed should be regarded as suspicious of incomplete resection. After this time, it is common for enhancing granulation tissue to develop. Dural enhancement is a normal post-operative finding.",
+    "reference": "Neuroradiology: the requisites, 2nd Ed, p. 167."
+  },
+  {
+    "questionNumber": 54,
+    "answer": "e",
+    "explanation": "DNETs are benign tumours arising from cortical gray matter, most commonly found in the temporal lobes. They are characterised by the presence of multiple cysts and a lack of surrounding oedema. Desmoplastic infantile gangliogliomas typically occur before the 2nd birthday; Oligodendrogliomas typically occur in 30-60 year olds.",
+    "reference": "Neuroradiology: the requisites, 2nd Ed, p. 167."
+  },
+  {
+    "questionNumber": 55,
+    "answer": "a",
+    "explanation": "Haemorrhagic metastases typically have an incomplete or absent haemosiderin ring. Calcification is rare. Most commonly, there is either nodular, eccentric or ring enhancement. This contrasts with haemorrhagic cerebrovascular malformations, which typically show minimal or central enhancement. Surrounding oedema is present in both the acute/subacute phase.",
+    "reference": "Neuroradiology: the requisites, 2nd Ed, p. 135."
+  },
+  {
+    "questionNumber": 56,
+    "answer": "d",
+    "explanation": "A mucocoele is the accumulation of mucous secretions behind obstructed bone and sinus cavity ostium. This causes expansion and remodelling. Differentiation from carcinoma can be difficult.",
+    "reference": "Diagnostic Imaging: Head and Neck, 7th Ed, p. I-2."
+  },
+  {
+    "questionNumber": 57,
+    "answer": "a",
+    "explanation": "Wernicke’s encephalopathy is associated with necrosis of the mammillary bodies and periventricular demyelination. Marchifava-Bignami disease is associated with hyperintense foci within the corpus callosum on T2W; pontine myelinosis is associated with hyperintense lesions within the pons. Atrophy of the corpus callosum is a recognised feature.",
+    "reference": "Neuroradiology: the requisites, 2nd Ed, p. 421."
+  },
+  {
+    "questionNumber": 58,
+    "answer": "b",
+    "explanation": "This is a description of coalescent mastoiditis. A Bezold’s abscess represents extension of infection down into the tissues of the neck.",
+    "reference": "RIT! 6a_017b and glomus tumour. Petrous temporal bone: infection, cholesteatoma."
+  },
+  {
+    "questionNumber": 59,
+    "answer": "e",
+    "explanation": "Octreotide is a somatostatin analogue, and uptake is seen where somatostatin receptors are expressed, such as neuroendocrine tumours (e.g., glomus tympanicum), and other malignancies (e.g., small cell lung cancer, lymphoma, and breast cancer). There is also uptake in a few tumours that do not express the receptor (e.g., meningioma, astrocytoma).",
+    "reference": "Nuclear Medicine — The Requisites, 2nd Ed, p. 223-5."
+  },
+  {
+    "questionNumber": 60,
+    "answer": "b",
+    "explanation": "The mass is most likely a medulloblastoma. These tend to be iso-to-hypo intense on T1W. Leptomeningeal metastases, seen as enhancing nodules, can cause seizures. Hydrocephalus is present in 90% of cases.",
+    "reference": "RITI 6b_110 Medulloblastoma."
+  },
+  {
+    "questionNumber": 61,
+    "answer": "c",
+    "explanation": "Squamous cell carcinoma is usually of heterogeneous, low T2W signal, with a solid enhancement pattern. Bony destruction is seen in approximately 80% of sinonasal SCCs at first presentation. Occupational exposure to nickel, chrome pigment and the use of Bantu snuff are recognised risk factors.",
+    "reference": "Neuroradiology: the requisites, 2nd Ed, p. 634."
+  },
+  {
+    "questionNumber": 62,
+    "answer": "d",
+    "explanation": "Chordomas originate from the remnants of the embryonic notochord, and may occur at any point along the neural axis. The clivus is the second most frequently affected site. The tumour is locally aggressive, of low T1W signal (giving rise to areas of calcified parenchyma on T1W) and enhances. They are typically isointense to brain parenchyma on T1W.",
+    "reference": "Neuroradiology: The Requisites, 2nd Ed, p. 560."
+  },
+  {
+    "questionNumber": 63,
+    "answer": "b",
+    "explanation": "The 3 main criteria for the definition of a dural tail are: presence on at least two contiguous 5 mm sections through the tumour (although now sections tend to be less than 5 mm thick); the greater thickness being adjacent to the tumour, and enhancement being bedded in association with the tumour itself. Dural tails have classically been described with meningiomas, but can occur with other extra-axial and even intra-axial tumours.",
+    "reference": "Clin Rad (2005); 60:171-188."
+  },
+  {
+    "questionNumber": 64,
+    "answer": "c",
+    "explanation": "The contents of the jugular foramen include: cranial nerves IX, X, and XI, the inferior petrosal sinus, the internal jugular vein, and the posterior meningeal artery. The middle meningeal artery runs within the foramen spinosum.",
+    "reference": "Netter’s Concise Neuroanatomy, 1st Ed, p. 13."
+  },
+  {
+    "questionNumber": 65,
+    "answer": "c",
+    "explanation": "The posterior cerebral artery supplies the mesial occipital lobe, and perforators to the thalamus and midbrain.",
+    "reference": "Netter’s Concise Neuroanatomy."
+  },
+  {
+    "questionNumber": 66,
+    "answer": "e",
+    "explanation": "CNS lymphoma has increased uptake of thallium-201 on SPECT imaging.",
+    "reference": "Radiology Review Manual, 1st Ed, p. 65."
+  },
+  {
+    "questionNumber": 67,
+    "answer": "d",
+    "explanation": "Tuberous sclerosis is associated with, amongst other features: cortical tubers, subependymal nodules, giant cell astrocytomas, white matter lesions, retinal phakomas, and vascular abnormalities.",
+    "reference": "Aids to Radiological Differential Diagnosis, 4th Ed, p. 450."
+  },
+  {
+    "questionNumber": 68,
+    "answer": "d",
+    "explanation": "The typical attenuation values for commonly encountered tissue types are: bone, 400-1000 HU; congealed blood, 56-76 HU; white matter, 22-32 HU; grey matter, 36-46 HU; water (CSF), 0 HU.",
+    "reference": "A Textbook of Radiology and Imaging, 5th Ed, p. 1724."
+  },
+  {
+    "questionNumber": 69,
+    "answer": "a",
+    "explanation": "In the case above, if the ventral subarachnoid space were dilated, this would be more appropriately termed a myelomeningocele. If the dorsal placode were continuous with a lipoma, continuous with the subcutaneous tissues, this would represent a lipomyelocele.",
+    "reference": "Fundamentals of Diagnostic Radiology, 2nd Ed, p. 312."
+  },
+  {
+    "questionNumber": 70,
+    "answer": "a",
+    "explanation": "MRA is often used to follow ‘coiled’ aneurysms. Giant aneurysms are rarely visualized to their full extent on 3D time-of-flight MRA because of flow in their nidus. Time-of-flight MRA images may be degraded by the T1-effects of blood degradation products.",
+    "reference": "Diagnostic Radiology, 5th Ed, Pp. 1373."
+  },
+  {
+    "questionNumber": 71,
+    "answer": "e",
+    "explanation": "Branchial cleft cysts are derived from the 1st or (more commonly) the 2nd cervical pouch. These are usually anterior triangle lesions and of water CT attenuation (< 20 HU). Rim enhancement is seen in infected cysts.",
+    "reference": "Diagnostic Radiology, 5th Ed, p. 1455."
+  },
+  {
+    "questionNumber": 72,
+    "answer": "b",
+    "explanation": "The patient has lower motor neurone signs in the upper limbs and likely upper motor neurone signs in the lower limbs. The most likely diagnosis is a syrinx (syringohydromyelia) within the cervical cord. A Chiari II malformation is usually accompanied by a myelomeningocele, abnormal development of the cerebellar vermis, and hydrocephalus. The herniated cerebellum blocks CSF circulation and leads to the formation of a syrinx within the spinal cord.",
+    "reference": ""
+  },
+  {
+    "questionNumber": 73,
+    "answer": "c",
+    "explanation": "The imaging characteristics are those of a choroid plexus papilloma. Meningiomas are rarely intraventricular and most frequently occur in middle-aged women. Colloid cysts occur within the third ventricle. Ependymomas typically arise from the floor of the fourth ventricle.",
+    "reference": "Clinical Imaging: An Atlas of Differential Diagnosis, 4th Ed, p. 1124."
+  },
+  {
+    "questionNumber": 74,
+    "answer": "a",
+    "explanation": "The innominate suture is present in all neonates and can be seen posterior to the occipitomental suture. It rarely persists in adulthood.",
+    "reference": "Accident and Emergency Radiology, 2nd Ed, p. 37."
+  },
+  {
+    "questionNumber": 75,
+    "answer": "e",
+    "explanation": "A coloboma represents incomplete closure of the foetal choroidal fissure. It can be associated with microphthalmos and is commonly bilateral, where the optic disk is enlarged and elevated.",
+    "reference": "Radiology Review Manual, 6th Ed, p. 620."
   }
 ]

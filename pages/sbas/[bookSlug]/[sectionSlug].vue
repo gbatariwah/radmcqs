@@ -170,9 +170,7 @@ const covers = Object.fromEntries(
           class="w-2/5"
         />
 
-        <p class="font-[oswald] tracking-wider font-thin">
-          Questions will be added soon...🙂
-        </p>
+        <p class="font-[oswald] tracking-wider font-thin">Coming soon...🙂</p>
       </div>
 
       <div class="mt-8" v-else>

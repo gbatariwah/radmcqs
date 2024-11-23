@@ -1,0 +1,60 @@
+{
+  title: "Succeeding in the new FRCR Part 2a Exam",
+  slug: "frcr-part-2a-single-best-answer-questions-for-the-new-format",
+  author: "Dr Tristan Barrett, Dr Nadeem Shaida,Dr Owen Thomas, Dr Ashley Shaw",
+  edition: 1,
+  sections: [
+    [
+      {
+        name: "Cardiothoracic and Vascular",
+        slug: "cardiothoracic-and-vascular",
+      },
+      {
+        name: "Musculoskeletal and Trauma",
+        slug: "musculoskeletal-and-trauma",
+      },
+      {
+        name: "Gastrointestinal",
+        slug: "gastrointestinal",
+      },
+      {
+        name: "Genitourinary, Adrenal, Obstetric & Gynaecology and Breast",
+        slug: "genitourinary-adrenal-obstetric-gynaecology-and-breast",
+      },
+      {
+        name: "Paediatrics",
+        slug: "paediatrics",
+      },
+      {
+        name: "Central Nervous and Head & Neck",
+        slug: "central-nervous-and-head-neck",
+      }
+    ],
+    [
+      {
+        name: "Cardiothoracic and Vascular - Mock",
+        slug: "cardiothoracic-and-vascular-mock",
+      },
+      {
+        name: "Musculoskeletal and Trauma - Mock",
+        slug: "musculoskeletal-and-trauma-mock",
+      },
+      {
+        name: "Gastrointestinal - Mock",
+        slug: "gastrointestinal-mock",
+      },
+      {
+        name: "Genitourinary, Adrenal, Obstetric & Gynaecology and Breast - Mock",
+        slug: "genitourinary-adrenal-obstetric-gynaecology-and-breast-mock",
+      },
+      {
+        name: "Paediatrics - Mock",
+        slug: "paediatrics-mock",
+      },
+      {
+        name: "Central Nervous and Head & Neck - Mock",
+        slug: "central-nervous-and-head-neck-mock",
+      }
+    ],
+  ],
+}

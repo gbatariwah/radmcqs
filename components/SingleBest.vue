@@ -10,12 +10,14 @@ const { params } = useRoute();
 const checkAnswer = ref(false);
 const revision = computed(() => props.revisionMode);
 
-const isGraingerOrSbas = computed(
+const isQuestionMark = computed(
   () =>
     params.bookSlug === "grainger-and-allisons-diagnostic-radiology" ||
     params.bookSlug === "sbas-for-the-frcr-part-2a" ||
     params.bookSlug === "final-frcr-2a" ||
-    params.bookSlug === "succeeding-in-the-new-frcr-part-2a-exam"
+    params.bookSlug === "succeeding-in-the-new-frcr-part-2a-exam" ||
+    params.bookSlug ===
+      "frcr-part-2a-single-best-answer-questions-for-the-new-format"
 );
 
 const optionLabels = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J"];
@@ -33,11 +35,11 @@ watch(revision, (newVal) => {
     <h2
       class="font-[oswald] text-lg tracking-wide"
       :class="{
-        'font-bold': !isGraingerOrSbas,
+        'font-bold': !isQuestionMark,
       }"
     >
       <span class="text-orange-400">{{ questionId + 1 }}</span
-      >. {{ question.stem }}{{ isGraingerOrSbas ? "" : ":" }}
+      >. {{ question.stem }}{{ isQuestionMark ? "" : ":" }}
     </h2>
 
     <div v-for="(option, optionId) in question.options">
