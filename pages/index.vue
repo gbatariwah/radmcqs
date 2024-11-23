@@ -12,6 +12,13 @@ const collection = [
         type: "sbas",
       },
       {
+        title: "Final FRCR Self Assessment",
+        slug: "final-frcr-self-assessment",
+        edition: 1,
+        color: "blue",
+        type: "sbas",
+      },
+      {
         title: "Succeeding in the new FRCR Part 2a Exam",
         slug: "succeeding-in-the-new-frcr-part-2a-exam",
         edition: 1,

@@ -107,7 +107,7 @@ const covers = Object.fromEntries(
       <div class="flex flex-col sm:flex-row items-center sm:items-start">
         <img
           :src="`${covers[bookSlug]}`"
-          alt="mcq-companion"
+          :alt="bookSlug"
           class="w-40 rounded-lg"
         />
         <div class="p-4 flex flex-col justify-between">
