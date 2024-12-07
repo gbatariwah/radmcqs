@@ -1,4 +1,8 @@
-[
+{
+  name: "Physics MCQs for the Part 1 FRCR",
+  authors: "Shahzad Ilyas",
+  slug: "magnetic-resonance-imaging",
+  questions: [
     {
       "questionNumber": 1,
       "stem": "Regarding nuclear magnetic resonance imaging (MRI)",
@@ -1080,3 +1084,4 @@
       ]
     }
   ]
+}

@@ -1,0 +1,1448 @@
+{
+  name: "FRCR Physics MCQs in Clinical Radiology",
+  authors: "Ibrahim Lutfi Shuaib, Hafiz M. Zin, Mohd Zahri Abdul Aziz, Noor Diyana Osman, Rafidah Zainon",
+  slug: "examination-9",
+  questions: [
+    {
+      "questionNumber": 1,
+      "stem": "Optical density is",
+      "options": [
+        {
+          "response": "",
+          "text": "The ratio of incident light to transmitted light in logarithmic form",
+          "answer": "True",
+          "explanation": "Optical density (OD) = log10 (I0/II) where I0 is the incident light intensity and I is the transmitted light intensity"
+        },
+        {
+          "response": "",
+          "text": "Measured using densitometer",
+          "answer": "True",
+          "explanation": "Densitometer is a tool to measure OD. OD is often measured for film"
+        },
+        {
+          "response": "",
+          "text": "A measure of the degree of film darkening",
+          "answer": "True",
+          "explanation": "The film is darker with higher OD value"
+        },
+        {
+          "response": "",
+          "text": "Referred as radiographic density",
+          "answer": "True",
+          "explanation": "Radiographic density is also known as OD"
+        },
+        {
+          "response": "",
+          "text": "1.0 if 100% of the incident light is transmitted",
+          "answer": "False",
+          "explanation": "Optical density is 0 if 100% of light is transmitted, 100/100 = 1, log 1 = 0"
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "stem": "Regarding photostimulable phosphor used in computed radiography (CR)",
+      "options": [
+        {
+          "response": "",
+          "text": "The phosphor emits light",
+          "answer": "True",
+          "explanation": "The phosphor requires light input to release the trapped energy in the form of light"
+        },
+        {
+          "response": "",
+          "text": "Barium fluorohalide is a type of phosphor used",
+          "answer": "True",
+          "explanation": "The common phosphor used is barium fluorohalide doped with europium (BaFX(Eu))"
+        },
+        {
+          "response": "",
+          "text": "It is in a form of plate contained within a cassette",
+          "answer": "True",
+          "explanation": "The plate is inserted into a light-tight cassette"
+        },
+        {
+          "response": "",
+          "text": "It requires heat stimulation for readout",
+          "answer": "False",
+          "explanation": "It requires light stimulation, for example, laser beam that moves across the plate"
+        },
+        {
+          "response": "",
+          "text": "It is not reusable",
+          "answer": "False",
+          "explanation": "It is reusable by removing the stored energy in the plate using exposure to a bright light source"
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "stem": "Regarding image quality in radiography",
+      "options": [
+        {
+          "response": "",
+          "text": "Increasing the mA decreases the image quality",
+          "answer": "False",
+          "explanation": "Increasing the mA increases the image quality by increasing the signal-to-noise ratio at the expense of increasing patient dose"
+        },
+        {
+          "response": "",
+          "text": "Compression of the patient improves contrast",
+          "answer": "True",
+          "explanation": "Compression reduces scatter and improves the contrast"
+        },
+        {
+          "response": "",
+          "text": "The use of grid reduces scatter radiation",
+          "answer": "True",
+          "explanation": "A grid placed between the patient and the receptor absorbs the scatter and increases contrast"
+        },
+        {
+          "response": "",
+          "text": "Latitude describes the dynamic range of a film",
+          "answer": "True",
+          "explanation": "The latitude is the range of detector exposures that forms an image and determines the contrast"
+        },
+        {
+          "response": "",
+          "text": "Beam collimation reduces the amount of scattered radiation",
+          "answer": "True",
+          "explanation": "Less volume irradiated will result in less x-ray scatter"
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "stem": "Isotopes of an element",
+      "options": [
+        {
+          "response": "",
+          "text": "Have the same number of protons",
+          "answer": "True",
+          "explanation": "Isotopes have different number of neutrons"
+        },
+        {
+          "response": "",
+          "text": "Have the same physical properties",
+          "answer": "False",
+          "explanation": "Isotopes have different physical properties"
+        },
+        {
+          "response": "",
+          "text": "Have the same chemical properties",
+          "answer": "True",
+          "explanation": "A number of protons determine the chemical element"
+        },
+        {
+          "response": "",
+          "text": "Are stable",
+          "answer": "False",
+          "explanation": "Not all isotopes are stable. Carbon-12 is a stable isotope, while carbon-14 is a radioactive isotope (radioisotope)"
+        },
+        {
+          "response": "",
+          "text": "Have different number of neutrons",
+          "answer": "True",
+          "explanation": "A number of neutrons between isotopes are different"
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "stem": "Regarding the intensity of x-ray produced in an x-ray tube",
+      "options": [
+        {
+          "response": "",
+          "text": "The intensity refers to the energy fluence rate",
+          "answer": "True",
+          "explanation": "Intensity is the energy fluence per unit time"
+        },
+        {
+          "response": "",
+          "text": "It is not a factor of x-ray energy",
+          "answer": "False",
+          "explanation": "Energy fluence is the number of photons multiplied with the mean photon energy"
+        },
+        {
+          "response": "",
+          "text": "It is directly related to tube current",
+          "answer": "True",
+          "explanation": "The intensity is proportional to mAs"
+        },
+        {
+          "response": "",
+          "text": "It is affected by the distance from the source",
+          "answer": "True",
+          "explanation": "The intensity is reduced by one over square of the distance which follows inverse square law"
+        },
+        {
+          "response": "",
+          "text": "It is proportional to tube voltage",
+          "answer": "True",
+          "explanation": "The intensity is approximately proportional to the square of kV"
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "stem": "The mass attenuation coefficient is",
+      "options": [
+        {
+          "response": "",
+          "text": "Equal to the linear attenuation coefficient",
+          "answer": "False",
+          "explanation": "It is a linear attenuation coefficient divided by the density of the material it passes"
+        },
+        {
+          "response": "",
+          "text": "Independent of the material density",
+          "answer": "False",
+          "explanation": "It is dependent of the material density"
+        },
+        {
+          "response": "",
+          "text": "Measured in cm−1",
+          "answer": "False",
+          "explanation": "The unit is cm2/g"
+        },
+        {
+          "response": "",
+          "text": "Multiplied with the mass thickness of the material to obtain the beam attenuation",
+          "answer": "True",
+          "explanation": "The product of the mass thickness in g/cm 2 and mass attenuation coefficient in cm2/g is the attenuation of the beam"
+        },
+        {
+          "response": "",
+          "text": "Used to calculate Hounsfield unit",
+          "answer": "False",
+          "explanation": "Hounsfield unit (HU) uses linear attenuation coefficient"
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "stem": "Regarding anode angle",
+      "options": [
+        {
+          "response": "",
+          "text": "It is between 6° and 20°",
+          "answer": "True",
+          "explanation": "Anode angle of 12–15° is most common"
+        },
+        {
+          "response": "",
+          "text": "It is an angle between the target surface and the central electron beam",
+          "answer": "False",
+          "explanation": "Anode angle is the angle of the anode surface with respect to the central ray in the x-ray field"
+        },
+        {
+          "response": "",
+          "text": "Smaller angle increases the field coverage",
+          "answer": "False",
+          "explanation": "Smaller angle decreases the field coverage"
+        },
+        {
+          "response": "",
+          "text": "Bigger angle improves geometrical unsharpness",
+          "answer": "False",
+          "explanation": "Smaller angle improves geometric unsharpness"
+        },
+        {
+          "response": "",
+          "text": "The heel effect varies with the target angle",
+          "answer": "True",
+          "explanation": "The heel effect is more pronounced with steeper anode angle"
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "stem": "Regarding the deterministic and stochastic effects of radiation",
+      "options": [
+        {
+          "response": "",
+          "text": "Stochastic effect has a lower dose threshold compared to the deterministic effect",
+          "answer": "False",
+          "explanation": "There is no threshold for stochastic effect, but deterministic effect has threshold"
+        },
+        {
+          "response": "",
+          "text": "Sterility is a deterministic effect",
+          "answer": "True",
+          "explanation": "Sterility is considered as deterministic effect because the effect occurs immediately after the irradiation"
+        },
+        {
+          "response": "",
+          "text": "Deterministic effect has repair mechanism",
+          "answer": "True",
+          "explanation": "Below threshold, cells can repair"
+        },
+        {
+          "response": "",
+          "text": "Stochastic effect is hereditary",
+          "answer": "True",
+          "explanation": "The effect may occur in descendants of the exposed individuals"
+        },
+        {
+          "response": "",
+          "text": "Cataract is a stochastic effect",
+          "answer": "False",
+          "explanation": "Cataract has a dose threshold, and thus, it is a deterministic effect"
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "stem": "Regarding radiation damage to DNA",
+      "options": [
+        {
+          "response": "",
+          "text": "The DNA damage is caused by free radicals produced from x-ray interaction",
+          "answer": "True",
+          "explanation": "This is an indirect action of DNA damage"
+        },
+        {
+          "response": "",
+          "text": "The damage leads to cell death",
+          "answer": "True",
+          "explanation": "Cell death due to radiation can be via direct action and indirect action of DNA damage"
+        },
+        {
+          "response": "",
+          "text": "The process is beneficial for radiotherapy",
+          "answer": "True",
+          "explanation": "This is useful to kill the cancer cells in radiotherapy"
+        },
+        {
+          "response": "",
+          "text": "The x-ray causes a direct damage to DNA",
+          "answer": "False",
+          "explanation": "Gamma rays are indirectly ionising radiation and thus cause indirect damage. Particles are directly ionising and cause direct damage"
+        },
+        {
+          "response": "",
+          "text": "The damage is irreparable",
+          "answer": "False",
+          "explanation": "The damage is repairable if below threshold dose"
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "stem": "Regarding digital radiography (DR) detectors",
+      "options": [
+        {
+          "response": "",
+          "text": "Indirect conversion system uses scintillating material",
+          "answer": "True",
+          "explanation": "Scintillating material is used to convert x-rays to lights in DR detectors"
+        },
+        {
+          "response": "",
+          "text": "The active matrix array is made up of rare earth materials",
+          "answer": "False",
+          "explanation": "Active matrix array (AMA) is made of an amorphous silicon doped with hydrogen"
+        },
+        {
+          "response": "",
+          "text": "DR latent image is read out one line at a time",
+          "answer": "True",
+          "explanation": "There is no latent image stage in DR; image is converted immediately after exposure"
+        },
+        {
+          "response": "",
+          "text": "The photoconductor in direct conversion DR system is amorphous selenium",
+          "answer": "True",
+          "explanation": "Amorphous selenium is ionised with x-ray irradiation to produce charges directly from the process"
+        },
+        {
+          "response": "",
+          "text": "Indirect conversion detector in DR offers lower patient dose for the same image quality over direct conversion detector",
+          "answer": "False",
+          "explanation": "There is no change in dose between direct and indirect DR detector. Dose is dependent on exposure factors"
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "stem": "Cause of misregistration in digital subtraction angiography includes",
+      "options": [
+        {
+          "response": "",
+          "text": "Peristalsis",
+          "answer": "True",
+          "explanation": "Peristalsis is an involuntary movement that can cause misregistration"
+        },
+        {
+          "response": "",
+          "text": "Patient breathing",
+          "answer": "True",
+          "explanation": "It is a voluntary movement that can cause shift in coordinate of images"
+        },
+        {
+          "response": "",
+          "text": "Contrast concentration",
+          "answer": "False",
+          "explanation": "Contrast concentration does not cause misregistration in DSA"
+        },
+        {
+          "response": "",
+          "text": "Cardiac motion",
+          "answer": "True",
+          "explanation": "Cardiac motion is involuntary movement of cardiac muscle that can cause misregistration"
+        },
+        {
+          "response": "",
+          "text": "Metal implant in patient body",
+          "answer": "False",
+          "explanation": "Metal implant causes streak artefact, not misregistration"
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "stem": "Concerning the input screen in image intensifier",
+      "options": [
+        {
+          "response": "",
+          "text": "It converts the electron beam to light",
+          "answer": "False",
+          "explanation": "Input phosphor converts the x-rays photons to visible light"
+        },
+        {
+          "response": "",
+          "text": "The input phosphor is made of caesium iodide",
+          "answer": "True",
+          "explanation": "Caesium iodide is a scintillating material used as input phosphor layer"
+        },
+        {
+          "response": "",
+          "text": "It is coated with photocathode layer on the inner side screen",
+          "answer": "True",
+          "explanation": "Photocathode layer converts lights to electrons in image intensifier"
+        },
+        {
+          "response": "",
+          "text": "It is larger in size compared to output screen",
+          "answer": "True",
+          "explanation": "Input screen is larger compared to output screen to provide minification gain of an image produced"
+        },
+        {
+          "response": "",
+          "text": "It is coated with zinc cadmium sulphide",
+          "answer": "False",
+          "explanation": "Caesium iodide layer is used in input screen not zinc cadmium sulphide layer"
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "stem": "Artefact in fluoroscopy imaging includes",
+      "options": [
+        {
+          "response": "",
+          "text": "Lag",
+          "answer": "True",
+          "explanation": "Fluoroscopic systems also experience temporal blurring due to system lag. This temporal blurring has the effect of averaging frames together"
+        },
+        {
+          "response": "",
+          "text": "Ring artefact",
+          "answer": "False",
+          "explanation": "Ring artefact is an artefact in CT, not fluoroscopy"
+        },
+        {
+          "response": "",
+          "text": "Pincushion distortion",
+          "answer": "True",
+          "explanation": "Pincushion distortion is magnification toward the edges of images produces by curvature of input screen"
+        },
+        {
+          "response": "",
+          "text": "Veiling glare",
+          "answer": "True",
+          "explanation": "Veiling glare is produced by the scattering effects in the image intensifier"
+        },
+        {
+          "response": "",
+          "text": "Vignetting",
+          "answer": "True",
+          "explanation": "Vignetting happens when central area of image is brighter than periphery"
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "stem": "Concerning dose in fluoroscopic procedure",
+      "options": [
+        {
+          "response": "",
+          "text": "Zoom option in fluoroscopy increases patient entrance skin dose",
+          "answer": "True",
+          "explanation": "In zoom option, kV and mAs will be increased; therefore the patient entrance skin dose will also increase"
+        },
+        {
+          "response": "",
+          "text": "Automatic brightness control output display is independent of image intensifier entrance dose rate",
+          "answer": "True",
+          "explanation": "Automatic brightness control adjusts the image brightness by increasing either kV or mA, therefore related with entrance dose rate"
+        },
+        {
+          "response": "",
+          "text": "Reducing the fluoroscopy pulse rate results in reduction of patient entrance dose rate",
+          "answer": "True",
+          "explanation": "Reducing fluoroscopy pulse rate mean reducing number of exposure per unit of time"
+        },
+        {
+          "response": "",
+          "text": "It is safer for the operator to use under-couch x-ray tube position in comparison with over-couch tube position",
+          "answer": "True",
+          "explanation": "Scattered dose rate is higher near the area which the x-ray enters the patient"
+        },
+        {
+          "response": "",
+          "text": "Increasing the thickness of copper filter results in reduction of patient surface dose",
+          "answer": "True",
+          "explanation": "Increasing filter thickness will increase absorption of low scatter radiation from reaching patient skin"
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "stem": "Technique for reducing dose to patient in fluoroscopy imaging includes",
+      "options": [
+        {
+          "response": "",
+          "text": "Filtration of low-energy photon using grid",
+          "answer": "False",
+          "explanation": "Filter is used to filter low-energy photon to patient not grid"
+        },
+        {
+          "response": "",
+          "text": "Iso-centric imaging",
+          "answer": "True",
+          "explanation": "Iso-centric imaging distributes entrance dose to multiple skin areas of the patient"
+        },
+        {
+          "response": "",
+          "text": "Last image hold",
+          "answer": "True",
+          "explanation": "Last image hold displays last image as a reference for operator without turning to reduce dose to patient significantly"
+        },
+        {
+          "response": "",
+          "text": "Image magnification",
+          "answer": "False",
+          "explanation": "Image magnification in fluoroscopy increases dose to patient"
+        },
+        {
+          "response": "",
+          "text": "Pulsed fluoroscopy",
+          "answer": "True",
+          "explanation": "Use of pulse fluoroscopy able to reduce dose to patient compared to continuous fluoroscopy modality"
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "stem": "The half-life of a radionuclide",
+      "options": [
+        {
+          "response": "",
+          "text": "Varies according to the radionuclide",
+          "answer": "True",
+          "explanation": "The values range from milliseconds to years"
+        },
+        {
+          "response": "",
+          "text": "Is based on probabilistic events",
+          "answer": "True",
+          "explanation": "The tendency of the nucleus to decay is based on probability"
+        },
+        {
+          "response": "",
+          "text": "Is the time taken for 25% of the radionuclides to decay",
+          "answer": "False",
+          "explanation": "The half-life is time taken for 50% of the radionuclide to decay"
+        },
+        {
+          "response": "",
+          "text": "Is dependent on the physical state of the nuclide",
+          "answer": "True",
+          "explanation": "It is independent of the nuclide physical state"
+        },
+        {
+          "response": "",
+          "text": "Is proportional to decay constant",
+          "answer": "True",
+          "explanation": "Decay constant is equal to 0.693 divided with the half-life"
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "stem": "Regarding collimators used in planar imaging",
+      "options": [
+        {
+          "response": "",
+          "text": "Convergent hole collimator is useful for imaging larger organs",
+          "answer": "False",
+          "explanation": "Convergent hole collimator is useful for imaging children and smaller organs"
+        },
+        {
+          "response": "",
+          "text": "A larger field of view (FOV) is obtained by a divergent hole collimator",
+          "answer": "True",
+          "explanation": "Divergent hole collimator produces larger FOV, and the organ of interest appears larger at the face of crystal"
+        },
+        {
+          "response": "",
+          "text": "Medium-energy collimator is used for imaging with 99mTc radionuclide",
+          "answer": "False",
+          "explanation": "Low-energy collimator is used for imaging with 99mTc radionuclide, while medium-energy collimator is used with energy source up to 400 keV such as 111In, 67Ga, and 131I"
+        },
+        {
+          "response": "",
+          "text": "High-sensitivity collimator has larger holes compared to high-resolution collimator",
+          "answer": "True",
+          "explanation": "High-sensitivity collimator has larger holes to allow more scattered photons to be counted. High-resolution collimator has smaller and deeper holes to produce higher-resolution images"
+        },
+        {
+          "response": "",
+          "text": "A pinhole collimator is preferable for imaging the superficial small organ",
+          "answer": "True",
+          "explanation": "A pinhole collimator generates magnified images of small organ and is preferable for imaging the superficial small organ"
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "stem": "Regarding image quality in gamma camera",
+      "options": [
+        {
+          "response": "",
+          "text": "Resolution test is tested using bar test pattern",
+          "answer": "True",
+          "explanation": "Routine measurement of spatial resolution for a gamma camera is performed using a four-quadrant bar test pattern"
+        },
+        {
+          "response": "",
+          "text": "Sensitivity is reduced with increased crystal thickness",
+          "answer": "False",
+          "explanation": "Sensitivity is increased with crystal thickness. The thicker the crystal, the higher the quantum detection efficiency"
+        },
+        {
+          "response": "",
+          "text": "The resolution increases as the distance between gamma camera head and patient is reduced",
+          "answer": "True",
+          "explanation": "The nearer the source to detector, the better the resolution of the image"
+        },
+        {
+          "response": "",
+          "text": "Scattered gamma rays detected by gamma camera reduce image contrast",
+          "answer": "True",
+          "explanation": "Scattered radiation reduces image contrast in gamma camera. It is filtered using collimator in gamma camera imaging"
+        },
+        {
+          "response": "",
+          "text": "Resolution is increased as crystal thickness is increased",
+          "answer": "False",
+          "explanation": "Resolution is reduced with crystal thickness"
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "stem": "Regarding radiation protection in radiographic procedure",
+      "options": [
+        {
+          "response": "",
+          "text": "Lead protective barrier used in x-ray rooms is 2 mm thick",
+          "answer": "True",
+          "explanation": "A 2 mm lead protective barrier is sufficient to shield maximum x-ray energy of 140 kVp from radiographic procedure"
+        },
+        {
+          "response": "",
+          "text": "Under-couch x-ray tube provides more scatter shielding to staff compared to over-couch in fluoroscopy examination",
+          "answer": "True",
+          "explanation": "A comparison of measured radiation doses using over-couch versus under-couch systems revealed that radiation doses to the forehead and finger are about fivefold to sixfold greater"
+        },
+        {
+          "response": "",
+          "text": "Thyroid shield used in radiology is 0.25 mm lead equivalent thickness",
+          "answer": "False",
+          "explanation": "Thyroid shield used in radiology is 0.5 mm lead equivalent thickness"
+        },
+        {
+          "response": "",
+          "text": "Accurate collimation is practiced to reduce unnecessary radiation to patient in diagnostic imaging procedure",
+          "answer": "True",
+          "explanation": "Tight collimation reduces scatter radiation production"
+        },
+        {
+          "response": "",
+          "text": "X-ray tube is positioned to be as far as possible to patient in fluoroscopy examination",
+          "answer": "True",
+          "explanation": "The distance can reduce dose significantly to patient skin during fluoroscopy examination"
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "stem": "Regarding dose records in IRMER 2000",
+      "options": [
+        {
+          "response": "",
+          "text": "Classified persons must have an assessment of their dose of ionising radiation made by an approved dosimetry service",
+          "answer": "True",
+          "explanation": "Classified persons must have an assessment of their dose of ionising radiation made by an approved dosimetry service and their dose records must be kept by their Employer for at least 50 years or until the individual reaches the age of 75 (Regulation 21 (3a)"
+        },
+        {
+          "response": "",
+          "text": "The person engaged in the endoscopy using x-rays is a classified worker",
+          "answer": "True",
+          "explanation": "Persons who are likely to receive an effective dose more than 6 mSv per year or three-tenths of any relevant dose limit must be classified (Regulation 20 (1)"
+        },
+        {
+          "response": "",
+          "text": "Health records for classified staff are kept for at least 20 years",
+          "answer": "False",
+          "explanation": "Health records for classified staff are kept for at least 50 years"
+        },
+        {
+          "response": "",
+          "text": "Investigation reports for doses received by employees that exceed the investigation level must be kept for at least 2 years",
+          "answer": "True",
+          "explanation": "This should also trigger a review of working conditions in the event of recorded doses exceeding the appropriate investigation level"
+        },
+        {
+          "response": "",
+          "text": "Persons who are likely to receive an effective dose more than 3 mSv per year must be classified",
+          "answer": "False",
+          "explanation": "Dose excess of 6 mSv per year must be classified"
+        }
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "stem": "According to IRR 99, an incident should be reported if a patient received",
+      "options": [
+        {
+          "response": "",
+          "text": "5 times the intended dose for a mammogram",
+          "answer": "False",
+          "explanation": "For mammogram, it is 10 times the intended dose"
+        },
+        {
+          "response": "",
+          "text": "1.2 times the intended dose during radionuclide therapy",
+          "answer": "True",
+          "explanation": "Refer to the table below"
+        },
+        {
+          "response": "",
+          "text": "15 times the intended dose for a skull x-ray",
+          "answer": "False",
+          "explanation": "For skull x-ray, it is 20 times the intended dose"
+        },
+        {
+          "response": "",
+          "text": "1.5 times the intended dose for an interventional radiology",
+          "answer": "True",
+          "explanation": "Refer to the table below"
+        },
+        {
+          "response": "",
+          "text": "10 times the intended dose for an abdominal x-ray",
+          "answer": "True",
+          "explanation": "Refer to the table below"
+        }
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "stem": "Concerning reconstruction kernel",
+      "options": [
+        {
+          "response": "",
+          "text": "Smooth kernel is usually used in brain examinations",
+          "answer": "True",
+          "explanation": "Smooth kernel is used for imaging the low-contrast areas such as brain, abdomen, liver and soft tissues"
+        },
+        {
+          "response": "",
+          "text": "High-pass filter reduces the blurring effects",
+          "answer": "True",
+          "explanation": "High-pass filter will cut off the low-frequency signal that contributes to blurring effects"
+        },
+        {
+          "response": "",
+          "text": "Bone algorithm is known as edge-enhancement kernel",
+          "answer": "True",
+          "explanation": "Bone kernel is a sharper kernel and known as edge-enhancement kernel because it produces image with high spatial resolution and sharpen the edges"
+        },
+        {
+          "response": "",
+          "text": "Sharper kernel is used to assess bony structures",
+          "answer": "True",
+          "explanation": "Sharper kernel is used for imaging the high-contrast areas such as musculoskeletal, bones, inner ear and lung, which require better spatial resolution"
+        },
+        {
+          "response": "",
+          "text": "Smooth kernel produces smoother images with higher noise",
+          "answer": "False",
+          "explanation": "Smooth kernel produces smoother images with lower image noise"
+        }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "stem": "The iterative reconstruction (IR) technique",
+      "options": [
+        {
+          "response": "",
+          "text": "is capable of reconstructing optimal image with incomplete projection data",
+          "answer": "True",
+          "explanation": "IR is capable of reconstructing an optimal image from incomplete projection data or limited angular range of projection data"
+        },
+        {
+          "response": "",
+          "text": "is based on repetitive correction by estimation",
+          "answer": "True",
+          "explanation": "IR is based on estimation and the correction of projection data is repeated until a condition predefined by the algorithm is fulfilled and the final image is generated"
+        },
+        {
+          "response": "",
+          "text": "works better for metal artefact reduction",
+          "answer": "True",
+          "explanation": "IR corrects the beam hardening effects and thus reduces the metal streak artefacts"
+        },
+        {
+          "response": "",
+          "text": "results in lower spatial resolution than FBP technique",
+          "answer": "False",
+          "explanation": "IR technique results in higher spatial resolution as compared to FBP technique"
+        },
+        {
+          "response": "",
+          "text": "is capable of reducing dose",
+          "answer": "True",
+          "explanation": "IR technique reduces the image quantum noise and thus reduces radiation dose"
+        }
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "stem": "Regarding high-pitch technique in helical CT",
+      "options": [
+        {
+          "response": "",
+          "text": "It reduces scan time",
+          "answer": "True",
+          "explanation": "Higher-pitch technique (>1) can reduce scan time as it can cover larger scan length with shorter acquisition time"
+        },
+        {
+          "response": "",
+          "text": "It is useful for retrospective gated cardiac CT",
+          "answer": "False",
+          "explanation": "The gated cardiac CT uses low-pitch technique because the scanner must acquire images of the entire heart during diastole, so it has to cover each point multiple times"
+        },
+        {
+          "response": "",
+          "text": "It reduces patient dose",
+          "answer": "True",
+          "explanation": "Higher-pitch technique will reduce the patient dose because dose is inversely proportional to pitch"
+        },
+        {
+          "response": "",
+          "text": "Image reconstructed is blurred",
+          "answer": "True",
+          "explanation": "When pitch is high (>1), resolution is poor. The gap between the beam requires greater interpolation on the data and causes loss of resolution"
+        },
+        {
+          "response": "",
+          "text": "It produces more respiratory motion artefact",
+          "answer": "False",
+          "explanation": "The low-pitch technique produces more respiratory motion artefact"
+        }
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "stem": "Regarding image quality in CT",
+      "options": [
+        {
+          "response": "",
+          "text": "As slice thickness increases, the partial volume effects tend to decrease",
+          "answer": "False",
+          "explanation": "Increasing slice thickness will increase the partial volume effect"
+        },
+        {
+          "response": "",
+          "text": "CT noise is reduced by reducing the voxel size",
+          "answer": "False",
+          "explanation": "CT noise is reduced by increasing the voxel size, because more photons are to be detected"
+        },
+        {
+          "response": "",
+          "text": "Spatial resolution is improved by reducing the field of view",
+          "answer": "True",
+          "explanation": "Reducing the field of view (FOV) will reduce the voxel size. Smaller voxel size allows smaller structures to be imaged and thus improve the spatial resolution"
+        },
+        {
+          "response": "",
+          "text": "Soft reconstruction kernel improves the visibility of low-contrast lesions",
+          "answer": "True",
+          "explanation": "Soft reconstruction kernel or smooth kernel improves the low-contrast lesions detectability"
+        },
+        {
+          "response": "",
+          "text": "A narrower window width decreases the image contrast",
+          "answer": "False",
+          "explanation": "Narrowing the window width will increase the image contrast because of the small differences in CT numbers (grayscale range)"
+        }
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "stem": "Regarding the principles of single-photon emission computed tomography (SPECT)",
+      "options": [
+        {
+          "response": "",
+          "text": "It consists of gamma cameras that rotate continuously around patient",
+          "answer": "True",
+          "explanation": "SPECT system consists of multiple gamma cameras that continuously rotate around patient"
+        },
+        {
+          "response": "",
+          "text": "The system sensitivity is decreased as triple-headed camera is used",
+          "answer": "False",
+          "explanation": "The system sensitivity is increased as triple-headed camera is used"
+        },
+        {
+          "response": "",
+          "text": "Iterative reconstruction offers more accurate attenuation correction than filtered back projection",
+          "answer": "True",
+          "explanation": "Iterative reconstruction produces more accurate attenuation correction and less sensitive to noise as compared to filtered backprojection"
+        },
+        {
+          "response": "",
+          "text": "It has potential to correct the gamma attenuation",
+          "answer": "True",
+          "explanation": "Gamma ray attenuation inside patient results in fewer counts at the centre than the edges of patient. SPECT has algorithm for gamma attenuation correction during image reconstruction"
+        },
+        {
+          "response": "",
+          "text": "An elliptical orbit is used to minimise the gap between patient and collimator",
+          "answer": "True",
+          "explanation": "The gamma camera must have sufficient circular orbit of movement to miss the patient’s shoulders. An elliptical orbit is recommended to optimise the distance around the patient"
+        }
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "stem": "Concerning image quality of SPECT imaging",
+      "options": [
+        {
+          "response": "",
+          "text": "Noise is higher due to limited number of counts",
+          "answer": "True",
+          "explanation": "SPECT images usually have limited number of counts when compared to planar imaging; therefore SPECT images contain more noise. Noise is based on the number of counts per slice"
+        },
+        {
+          "response": "",
+          "text": "It has spatial resolution greater than planar imaging",
+          "answer": "False",
+          "explanation": "The spatial resolution in SPECT is worse than in conventional planar imaging, but contrast resolution is improved"
+        },
+        {
+          "response": "",
+          "text": "An area of very high activity causes streaking artefacts",
+          "answer": "True",
+          "explanation": "Area with very high activity (has excessively high count rate) may cause streaking artefacts in reconstructed image"
+        },
+        {
+          "response": "",
+          "text": "Noise is reduced by using thicker reconstructed slice",
+          "answer": "True",
+          "explanation": "Noise can be reduced by increasing the thickness of the reconstructed image. Thicker slices will allow for more counts per pixel and therefore reduce image noise and increase the signal-to-noise ratio"
+        },
+        {
+          "response": "",
+          "text": "Image resolution is improved by using a high-sensitivity collimator",
+          "answer": "False",
+          "explanation": "The spatial resolution in SPECT can be improved using high-resolution collimator. A high-sensitivity collimator produces low spatial resolution"
+        }
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "stem": "The positron emitter used in PET imaging includes",
+      "options": [
+        {
+          "response": "",
+          "text": "18F",
+          "answer": "True",
+          "explanation": "18F is the most common positron emitters used in PET, having a half-life of 110 min"
+        },
+        {
+          "response": "",
+          "text": "133Xe",
+          "answer": "False",
+          "explanation": "133Xe is not a positron emitter. It emits beta rays and gamma rays and is used in lung ventilation imaging"
+        },
+        {
+          "response": "",
+          "text": "68Ga",
+          "answer": "True",
+          "explanation": "68Ga is a positron emitter produced by radionuclide generators, having a half-life of 68 min"
+        },
+        {
+          "response": "",
+          "text": "82Rb",
+          "answer": "True",
+          "explanation": "82Rb is a positron emitter with short half-life of only 1 min and is also produced by radionuclide generator"
+        },
+        {
+          "response": "",
+          "text": "123I",
+          "answer": "False",
+          "explanation": "123I is not a positron emitter. It emits gamma rays and is used in SPECT"
+        }
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "stem": "Regarding nuclear magnetic resonance (NMR) principles",
+      "options": [
+        {
+          "response": "",
+          "text": "An MR active nucleus spins at its own precessional frequency",
+          "answer": "False",
+          "explanation": "Each MR active nuclei has specific gyromagnetic constant value and will precess at its own precessional frequencies in the same magnetic field strength"
+        },
+        {
+          "response": "",
+          "text": "The magnetic moments of the nuclei move out of phase of each other",
+          "answer": "False",
+          "explanation": "The magnetic moments of the nuclei move into phase with each other"
+        },
+        {
+          "response": "",
+          "text": "Nuclei with an odd number of protons are MR active",
+          "answer": "True",
+          "explanation": "MR active nuclei have an odd number of protons and have tendency to align with the applied magnetic field"
+        },
+        {
+          "response": "",
+          "text": "More nuclei are aligned antiparallel to the magnetic field than the parallel nuclei",
+          "answer": "False",
+          "explanation": "More nuclei are aligned parallel to the magnetic field than the antiparallel nuclei"
+        },
+        {
+          "response": "",
+          "text": "Net magnetisation vector (NMV) is larger at high field strength than lower field strength",
+          "answer": "True",
+          "explanation": "As the magnetic field strength increased, the energy difference between two populations (spin-up and spin-down nuclei) increases. Thus, the magnitude of NMV is larger"
+        }
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "stem": "Regarding resonance induced by RF pulses in MRI",
+      "options": [
+        {
+          "response": "",
+          "text": "Net magnetisation vector (NMV) moves out of alignment from magnetic field",
+          "answer": "True",
+          "explanation": "During resonance, nuclei gained energy from RF pulse and become high-energy nuclei. The high-energy nuclei aligned at opposite directions of the magnetic field (spin-down nuclei), and the NMV moves out of alignment from magnetic field"
+        },
+        {
+          "response": "",
+          "text": "All magnetic moments move at the same precessional path",
+          "answer": "True",
+          "explanation": "All magnetic moments move at the same precessional path around Bo (in phase)"
+        },
+        {
+          "response": "",
+          "text": "Excitation of nuclei due to energy absorption from RF pulse",
+          "answer": "True",
+          "explanation": "The absorption of energy from applied RF pulse causes excitation of nuclei"
+        },
+        {
+          "response": "",
+          "text": "90° flip angle rotates the NMV completely from transverse to longitudinal plane",
+          "answer": "False",
+          "explanation": "90° flip angle completely rotates the NMV from longitudinal to transverse plane"
+        },
+        {
+          "response": "",
+          "text": "The applied RF pulse is exactly at Larmor frequency",
+          "answer": "True",
+          "explanation": "For resonance to occur, the applied RF pulse must have energy exactly at the same precessional (Larmor) frequency"
+        }
+      ]
+    },
+    {
+      "questionNumber": 31,
+      "stem": "Concerning magnetic resonance imaging (MRI)",
+      "options": [
+        {
+          "response": "",
+          "text": "The k-space stores the signal spatial frequencies",
+          "answer": "True",
+          "explanation": "The k-space stores an organised collection of spatial frequencies of MR signal. Resultant MR signal at each point in time represents the spatial frequencies and phase angles from all locations in the image"
+        },
+        {
+          "response": "",
+          "text": "Higher proton density tissue appears dark in MR image",
+          "answer": "False",
+          "explanation": "Higher proton density tissue appears bright in MR image (high signals)"
+        },
+        {
+          "response": "",
+          "text": "A steeper phase-encoding gradient results in smaller FOV",
+          "answer": "True",
+          "explanation": "The gradients are used to control the slice thickness and FOV. The steeper the frequency and the phase-encoding gradients, the smaller the FOV"
+        },
+        {
+          "response": "",
+          "text": "The time taken for 63% of longitudinal magnetisation to recover is known as T1 relaxation time",
+          "answer": "True",
+          "explanation": "T1 is the time taken for longitudinal magnetisation to recover approximately 63% [1 – 1/(e)] of its initial value after RF pulse is applied"
+        },
+        {
+          "response": "",
+          "text": "Bone does not produce any artefacts in MRI",
+          "answer": "True",
+          "explanation": "Air and hard bone do not give any MRI signal, so these areas appear black and do not produce any artefacts"
+        }
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "stem": "Regarding pulse sequences in MRI",
+      "options": [
+        {
+          "response": "",
+          "text": "The pulse sequences involve RF pulses and gradients",
+          "answer": "True",
+          "explanation": "The pulse sequence consists of RF pulses and pulsed field gradients with several time periods such as TR and TE"
+        },
+        {
+          "response": "",
+          "text": "Repetition time (TR) controls the amount of T2 weighting in image",
+          "answer": "False",
+          "explanation": "Echo time (TE) controls the amount of T2 weighting, while the repetition time (TR) controls the amount of T1 weighting in image"
+        },
+        {
+          "response": "",
+          "text": "180° rephasing pulse is used to generate echoes",
+          "answer": "True",
+          "explanation": "180° pulse causes rephasing of protons in a spin-echo sequence after the applied RF pulse is switched off"
+        },
+        {
+          "response": "",
+          "text": "Inversion recovery sequence begins by 180° pulse followed by 90° pulse",
+          "answer": "True",
+          "explanation": "An inversion recovery pulse sequence begins with 180° inverting pulse followed by 90° excitation pulse at TI (time from inversion)"
+        },
+        {
+          "response": "",
+          "text": "Spin-echo sequence is preferable as it produces good image quality",
+          "answer": "True",
+          "explanation": "Spin-echo (SE) sequence is used clinically as a preferable method for obtaining high-quality images"
+        }
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "stem": "Regarding safety in MRI",
+      "options": [
+        {
+          "response": "",
+          "text": "Specific absorption rate (SAR) is used to measure body temperature increment due to RF absorption",
+          "answer": "True",
+          "explanation": "Specific absorption rate (SAR) is defined as the rate of radiofrequency (RF) power absorbed (increased body temperature) per unit mass by any part of the body"
+        },
+        {
+          "response": "",
+          "text": "Patients with cardiac pacemaker should be excluded from areas where stray fields are greater than 0.5 mT",
+          "answer": "True",
+          "explanation": "Anyone with cardiac pacemaker should be excluded from areas where stray fields greater than or equal to 0.5 mT (5 Gauss)"
+        },
+        {
+          "response": "",
+          "text": "Anaesthetised patients do not require hearing protection",
+          "answer": "False",
+          "explanation": "Hearing protection is required for all patients to prevent irreversible hearing damage"
+        },
+        {
+          "response": "",
+          "text": "The SAR limits are similar for the whole body and extremities",
+          "answer": "False",
+          "explanation": "The SAR limits are different for each part, 4 W/kg for body and 12 W/kg for extremities (FDA limit)"
+        },
+        {
+          "response": "",
+          "text": "There must be two physical barriers between the 5 G line and public access area",
+          "answer": "True",
+          "explanation": "For safety purposes, the 5 G line should be restricted with at least two physical barriers and signage to exclude access by members of the public"
+        }
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "stem": "Parameter that affects ultrasound velocity includes",
+      "options": [
+        {
+          "response": "",
+          "text": "tissue density",
+          "answer": "True",
+          "explanation": "The higher the density of tissue, the slower the velocity of ultrasound wave"
+        },
+        {
+          "response": "",
+          "text": "maximum voltage of the transducer",
+          "answer": "False",
+          "explanation": "Voltage of ultrasound transducer does not affect ultrasound velocity"
+        },
+        {
+          "response": "",
+          "text": "wavelength of ultrasound",
+          "answer": "True",
+          "explanation": "Velocity is equal to wavelength multiplied by frequency"
+        },
+        {
+          "response": "",
+          "text": "diameter of transducer",
+          "answer": "False",
+          "explanation": "Shape and diameter of transducer do not affect velocity of ultrasound wave"
+        },
+        {
+          "response": "",
+          "text": "frequency of ultrasound",
+          "answer": "True",
+          "explanation": "Velocity is equal to wavelength multiplied by frequency"
+        }
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "stem": "Regarding Doppler effect",
+      "options": [
+        {
+          "response": "",
+          "text": "It causes an increase in frequency when object is moving towards the transducer",
+          "answer": "True",
+          "explanation": "The period of ultrasound wave is decreased when object is moving towards the transducer; therefore the frequency is increased"
+        },
+        {
+          "response": "",
+          "text": "The reflected sound velocity is decreased when the object is moving away from transducer",
+          "answer": "False",
+          "explanation": "Velocity of sound does not change; only frequency changes"
+        },
+        {
+          "response": "",
+          "text": "The greatest change in frequency takes place when the direction of ultrasound beams parallel to the object movement",
+          "answer": "True",
+          "explanation": "This is happened when θ = 0. Cos 0° = 1. θ = angle between the ultrasound beam and the vector of red blood cell flow"
+        },
+        {
+          "response": "",
+          "text": "The reflected frequency is same to the incident frequency if the reflector is static",
+          "answer": "True",
+          "explanation": "There is no change in period and frequency if the reflector is static"
+        },
+        {
+          "response": "",
+          "text": "Negative Doppler shift happens when the angle between Doppler beam and moving object is less than 90°",
+          "answer": "False",
+          "explanation": "This is happened when θ < 90o"
+        }
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "stem": "Regarding ultrasound equipment",
+      "options": [
+        {
+          "response": "",
+          "text": "Cardiac transducer is a specialised transducer",
+          "answer": "True",
+          "explanation": "Cardiac transducer is able to do M-mode, B-mode and real-time scanning"
+        },
+        {
+          "response": "",
+          "text": "A-mode measures the depth of object along a single ultrasound ray",
+          "answer": "True",
+          "explanation": "A stand for amplitude which measures the distance"
+        },
+        {
+          "response": "",
+          "text": "A Doppler mode measures blood flow",
+          "answer": "True",
+          "explanation": "Doppler measures the direction and velocity of blood"
+        },
+        {
+          "response": "",
+          "text": "Annular array is a series of concentric circular transducers that can shape the beam to different focal depth",
+          "answer": "True",
+          "explanation": "This annular array produces different frequencies of sound and converts electrical pulse into ultrasound pulses"
+        },
+        {
+          "response": "",
+          "text": "A linear array is a series of individual transducers along a line to produce rectangular image",
+          "answer": "True",
+          "explanation": "The crystals in linear array are aligned in a linear fashion within a flat head and produce sound waves in a straight line to produce a rectangular in shape image"
+        }
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "stem": "Method of quantifying biological effects of ultrasounds includes",
+      "options": [
+        {
+          "response": "",
+          "text": "internal dosimetry",
+          "answer": "False",
+          "explanation": "It is used to quantify dose in organs in nuclear medicine"
+        },
+        {
+          "response": "",
+          "text": "tissue weighting factor",
+          "answer": "False",
+          "explanation": "It is used to quantify effects of ionising radiation"
+        },
+        {
+          "response": "",
+          "text": "mechanical index",
+          "answer": "True",
+          "explanation": "Mechanical index gives information regarding the power deposition to the patient"
+        },
+        {
+          "response": "",
+          "text": "thermal index",
+          "answer": "True",
+          "explanation": "It is the ratio of the acoustic power reduced by the transducer to the power required to raise tissue in the beam area by 1 °C"
+        },
+        {
+          "response": "",
+          "text": "spatial peak-temporal average intensity",
+          "answer": "True",
+          "explanation": "The spatial peak-temporal average intensity, ISPTA = ISATA(Isp/IsA), which is a good indicator of thermal ultrasound effects"
+        }
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "stem": "Regarding bioluminescent imaging",
+      "options": [
+        {
+          "response": "",
+          "text": "Bioluminescence is the process of light emission in living organisms",
+          "answer": "True",
+          "explanation": "Bioluminescence imaging utilises native light emission from a bioluminescent organism"
+        },
+        {
+          "response": "",
+          "text": "It involves detection of a luminescent signal from within a tissue sample",
+          "answer": "True",
+          "explanation": "Luminescent light is produced by the tissue sample"
+        },
+        {
+          "response": "",
+          "text": "It is useful for molecular imaging",
+          "answer": "True",
+          "explanation": "It enables study of ongoing biological processes in vivo"
+        },
+        {
+          "response": "",
+          "text": "It does not provide real-time cell tracking",
+          "answer": "False",
+          "explanation": "The non-invasive method can provide real-time luminescence information from the organism"
+        },
+        {
+          "response": "",
+          "text": "It utilises sensitive charged-coupled device (CCD) camera for imaging",
+          "answer": "True",
+          "explanation": "A CCD camera is used to detect the visible light from bioluminescent"
+        }
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "stem": "Technical requirement for functional imaging includes",
+      "options": [
+        {
+          "response": "",
+          "text": "larger field of view (FOV)",
+          "answer": "True",
+          "explanation": "Functional imaging requires larger FOV which is helpful in image interpretation"
+        },
+        {
+          "response": "",
+          "text": "high temporal resolution",
+          "answer": "True",
+          "explanation": "Temporal resolution (TR) refers to the precision of a measurement with respect to time. Functional imaging requires modality that is able to describe an accurate temporal scale with functional event that occurred (time-of-flight method)"
+        },
+        {
+          "response": "",
+          "text": "rigid image registration",
+          "answer": "False",
+          "explanation": "It should offer non-rigid image registration for easier image integration between different modalities"
+        },
+        {
+          "response": "",
+          "text": "low dose to patients",
+          "answer": "True",
+          "explanation": "It should offer faster acquisition times and significantly reduce dose to patients"
+        },
+        {
+          "response": "",
+          "text": "capable for quantitative analysis",
+          "answer": "True",
+          "explanation": "Functional imaging is capable for measuring and quantitatively analyse any changes in metabolism, blood flow, regional chemical composition and absorption"
+        }
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "stem": "Comparison of imaging modalities for functional and molecular imaging (FMI)",
+      "options": [
+        {
+          "response": "",
+          "text": "ultrasound offers better quantitative information compared to optical imaging",
+          "answer": "True",
+          "explanation": "Ultrasound offers less quantitative information (limited) compared to optical imaging (semi-quantitative)"
+        },
+        {
+          "response": "",
+          "text": "both ultrasound and optical imaging can be applied externally and internally",
+          "answer": "True",
+          "explanation": "Both ultrasound and optical imaging can be applied externally and internally (endoscopy)"
+        },
+        {
+          "response": "",
+          "text": "ultrasound has shorter acquisition time than optical imaging",
+          "answer": "False",
+          "explanation": "Optical imaging has shorter acquisition time (sec-min) than ultrasound (min)"
+        },
+        {
+          "response": "",
+          "text": "MRI has better soft tissue contrast than CT",
+          "answer": "True",
+          "explanation": "MRI offers better soft tissue contrast than CT imaging. MRI has greater range of available soft tissue contrast, can depict anatomy in greater detail and can better differentiate between normal and abnormal tissues"
+        },
+        {
+          "response": "",
+          "text": "both PET and SPECT have unlimited depth penetration",
+          "answer": "True",
+          "explanation": "Both PET and SPECT have unlimited depth penetration through human tissue (can visualise deeper structures)"
+        }
+      ]
+    }
+  ]
+
+}

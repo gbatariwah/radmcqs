@@ -1,0 +1,36 @@
+{
+  "name": "Marrow QBank 2024",
+  "slug": "marrow-qbank",
+  questions: [
+    {
+      questionNumber: 1,
+      stem: "Identify the diagnosis from the x-ray given below",
+      image: '~/assets/img/marrow-qbank/q1.png',
+      options: [
+        "Perthes disease",
+        "DDH",
+        "SCFE",
+        "Achondroplasia",
+      ],
+      response: "",
+      answer: "Achondroplasia",
+      explanation: "~/assets/img/marrow-qbank/e1.png",
+      reference: "Sutton's Radiology and Imaging for Medical Students 7th edition Page nos 1138-1140",
+    },
+    {
+      questionNumber: 1,
+      stem: "Identify the incorrectly matched pair about the findings seen in achondroplasia",
+      image: '',
+      options: [
+        "Pelvis: champagne glass shape",
+        "Epiphysis: Chevron sign",
+        "Hand: trident shape",
+        "Acetabula: Tomb stone appearance",
+      ],
+      response: "",
+      answer: "Acetabula: Tomb stone appearance",
+      explanation: "~/assets/img/marrow-qbank/e2.png",
+      reference: "Sutton's Radiology and Imaging for Medical Students 7th edition Page nos 1138-1140",
+    }
+  ]
+}

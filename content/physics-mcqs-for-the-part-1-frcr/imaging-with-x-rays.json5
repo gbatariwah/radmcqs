@@ -1,0 +1,1087 @@
+{
+  name: "Physics MCQs for the Part 1 FRCR",
+  authors: "Shahzad Ilyas",
+  slug: "imaging-with-x-rays",
+  questions: [
+    {
+      "questionNumber": 1,
+      "stem": "Regarding subject contrast in radiography, which of the following are correct?",
+      "options": [
+        {
+          "response": "",
+          "text": "It depends on the thickness of the structure being imaged",
+          "answer": "True",
+          "explanation": "It is proportional to the thickness of the imaged object"
+        },
+        {
+          "response": "",
+          "text": "It depends on the linear attenuation coefficients of the structures being imaged",
+          "answer": "True",
+          "explanation": "It is proportional to the difference between linear attenuation coefficients of the tissues involved"
+        },
+        {
+          "response": "",
+          "text": "It increases with the tube kV",
+          "answer": "False",
+          "explanation": "With increasing peak kV (kVp), the relative probability of the Compton effect increases, which compromises contrast"
+        },
+        {
+          "response": "",
+          "text": "Contrast between low-atomic-number structures (e.g., fat and muscle) is strongly affected by changes in the tube kV",
+          "answer": "False",
+          "explanation": "In the range of photon energies used in general radiography, the contrast between low-atomic-number tissues is low and only minimally dependent on kVp"
+        },
+        {
+          "response": "",
+          "text": "Contrast between air and soft tissue is due to differences in their atomic numbers",
+          "answer": "False",
+          "explanation": "It is due to a large difference in density. The effective atomic numbers of air and soft tissue are very similar"
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "stem": "Concerning radiographic contrast",
+      "options": [
+        {
+          "response": "",
+          "text": "Attenuation of the X-ray beam depends upon the degree of Bremsstrahlung in the tissue",
+          "answer": "False",
+          "explanation": "Attenuation is due to Compton scattering and photoelectric absorption. Bremsstrahlung relates to the production of X-rays"
+        },
+        {
+          "response": "",
+          "text": "Most structures on a chest radiograph exhibit good radiographic contrast",
+          "answer": "True",
+          "explanation": "This is due to the different attenuation properties of air, fat, soft tissue and bone (the main four ‘radiographic densities’)"
+        },
+        {
+          "response": "",
+          "text": "In principle, contrast media have the same effect on demonstrating contrast between tissues as increasing the peak kV (kVp)",
+          "answer": "False",
+          "explanation": "As they improve contrast, their effect is analogous to decreasing the peak kV (kVp)"
+        },
+        {
+          "response": "",
+          "text": "All contrast media attenuate X-rays to a higher degree than the tissue",
+          "answer": "False",
+          "explanation": "Negative-contrast media (for example, air or carbon dioxide) are radiolucent"
+        },
+        {
+          "response": "",
+          "text": "Positive-contrast media should generally have high atomic numbers to maximize the degree of photoelectric absorption",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "stem": "Which of the following are correct for positive-contrast media?",
+      "options": [
+        {
+          "response": "",
+          "text": "They should ideally have an absorption edge just to the left of the major part of the beam spectrum",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Barium has a K-absorption edge of approximately 23 keV",
+          "answer": "False",
+          "explanation": "This is the value for rhodium. Barium has an absorption edge of 37 keV"
+        },
+        {
+          "response": "",
+          "text": "Iodine has a lower atomic number than barium",
+          "answer": "True",
+          "explanation": "The atomic numbers of iodine and barium are 53 and 56, respectively"
+        },
+        {
+          "response": "",
+          "text": "Iodine most effectively attenuates photons with energies close to 37 keV",
+          "answer": "False",
+          "explanation": "As the K-absorption edge of iodine is 33 keV, it is most effective in attenuating photons of this energy. The answer to this question would be true for barium"
+        },
+        {
+          "response": "",
+          "text": "They may produce characteristic radiation",
+          "answer": "True",
+          "explanation": "This happens when an electron within the K-shell is ejected and replaced by an electron from another valence band"
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "stem": "Concerning magnification",
+      "options": [
+        {
+          "response": "",
+          "text": "It occurs because X-rays converge on the object",
+          "answer": "False",
+          "explanation": "It occurs because X-rays are divergent from their source"
+        },
+        {
+          "response": "",
+          "text": "Assuming a fixed focal spot position, it increases as the object is moved nearer to the film",
+          "answer": "False",
+          "explanation": "This decreases magnification"
+        },
+        {
+          "response": "",
+          "text": "Assuming a fixed position of the object in relation to the focal spot, it increases as the focus-to-film distance (FFD) is increased",
+          "answer": "True",
+          "explanation": "The object-to-film distance would increase"
+        },
+        {
+          "response": "",
+          "text": "If the object is in contact with the film, the magnification factor is 1",
+          "answer": "True",
+          "explanation": "In this case, there would be no magnification"
+        },
+        {
+          "response": "",
+          "text": "Minification of the image with film-screen radiography cannot occur",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "stem": "Geometric unsharpness",
+      "options": [
+        {
+          "response": "",
+          "text": "Occurs because X-ray photons are emitted from an area of finite size rather than from a point source",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Increases with focal spot size",
+          "answer": "True",
+          "explanation": "The larger the focal spot size, the larger the penumbra (image blur around the edges of an object)"
+        },
+        {
+          "response": "",
+          "text": "Decreases with shortening of the object-to-film distance",
+          "answer": "True",
+          "explanation": "The closer the object to the detector, the less unsharpness"
+        },
+        {
+          "response": "",
+          "text": "Increases with shortening of the focus-to-film distance",
+          "answer": "True",
+          "explanation": "The closer the focus to the film, the more geometric unsharpness. In summary, geometric unsharpness depends on the focal spot size ( f ), object-to-film distance (h) and focus-to-film distance (FFD) and is given by the formula Ug ¼ fh/(FFD – h)"
+        },
+        {
+          "response": "",
+          "text": "Decreases towards the anode side of the image",
+          "answer": "True",
+          "explanation": "This is because the projected focal spot decreases in size towards the anode side"
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "stem": "Regarding movement (motion) unsharpness",
+      "options": [
+        {
+          "response": "",
+          "text": "It can be reduced by immobilization",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "It can be reduced by using a short exposure time",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "It can be exaggerated by increasing the object-to-film distance",
+          "answer": "True",
+          "explanation": "In this case, the same amount of object movement will translate to a larger distance on the film"
+        },
+        {
+          "response": "",
+          "text": "Increasing the focus-to-film distance always decreases movement unsharpness",
+          "answer": "False",
+          "explanation": "It may increase motion blur as it necessitates increased exposure time"
+        },
+        {
+          "response": "",
+          "text": "Shortening the exposure time to overcome the motion unsharpness may contribute to increased geometric unsharpness",
+          "answer": "True",
+          "explanation": "This is because to expose the film in a shorter time, the tube current needs to be increased, which may require selecting a larger focal spot. The size of the focal spot may also increase with a higher tube current due to the blooming effect"
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "stem": "Concerning the focal spot",
+      "options": [
+        {
+          "response": "",
+          "text": "The area of the anode over which electrons are targeted is the actual focal spot",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The size of the effective focal spot is the same as the actual focal spot",
+          "answer": "False",
+          "explanation": "The effective focal spot is the area of the actual focal spot viewed from the film. Due to anode angulation, it is smaller than the actual focal spot"
+        },
+        {
+          "response": "",
+          "text": "The anode angle is the angle between the central X-ray beam and the target face",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The value of the anode angle is usually in the range of 7–30°",
+          "answer": "False",
+          "explanation": "It is usually 7–20 degrees"
+        },
+        {
+          "response": "",
+          "text": "Increasing the anode angle increases the actual focal spot size",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "stem": "Concerning the focal spot",
+      "options": [
+        {
+          "response": "",
+          "text": "A larger actual focal spot allows greater tube currents",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Increasing the anode angle increases the maximum permissible exposure factors that can be used",
+          "answer": "True",
+          "explanation": "Increasing the anode angle increases the size of the actual focal spot and so a greater tube current or kVp may be used"
+        },
+        {
+          "response": "",
+          "text": "A typical size of focal spot in general radiography is 1 mm",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Focal spot size has no effect on contrast",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "A larger focal spot size increases the amount of scatter",
+          "answer": "False",
+          "explanation": "It does not affect scatter"
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "stem": "Concerning the focal spot",
+      "options": [
+        {
+          "response": "",
+          "text": "Its size may be estimated using a slit camera",
+          "answer": "True",
+          "explanation": "A slit camera consists of a metal plate with a slit positioned between the tube and the image receptor. One dimension of the focal spot can be calculated from magnification of the slit image. This is then repeated for the other dimension with the slit perpendicular to its original position"
+        },
+        {
+          "response": "",
+          "text": "Its size may be estimated using a star test pattern",
+          "answer": "True",
+          "explanation": "This involves a test object with markings at a set distance apart with which an image is produced of a certain magnification. The degree of blurring of the markings in the image can be used to estimate focal spot size, as it is greater with a larger focal spot"
+        },
+        {
+          "response": "",
+          "text": "A smaller anode angle reduces the size of the effective focal spot",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "A larger anode angle is useful for general radiography",
+          "answer": "True",
+          "explanation": "This allows greater tube loading and higher output, which is often necessary when imaging larger parts of the body. It also increases the size of the field coverage at short focal spot-to-image distances"
+        },
+        {
+          "response": "",
+          "text": "The size of the actual focal spot is partly determined by the length of the cathode filament",
+          "answer": "True",
+          "explanation": "It is also determined by the width of the focusing cup at the cathode"
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "stem": "The heel effect",
+      "options": [
+        {
+          "response": "",
+          "text": "Is due to attenuation of electrons in the target material",
+          "answer": "False",
+          "explanation": "It occurs because X-rays are divergent from their source"
+        },
+        {
+          "response": "",
+          "text": "Is greater on the cathode side of the X-ray field",
+          "answer": "False",
+          "explanation": "Due to anode angulation, photons emitted towards the anode side of the field need to penetrate a larger thickness of the anode material and therefore undergo more attenuation"
+        },
+        {
+          "response": "",
+          "text": "Is more pronounced at small anode angles",
+          "answer": "True",
+          "explanation": "The steeper the target, the larger the thickness of the target material that needs to be penetrated on the anode side"
+        },
+        {
+          "response": "",
+          "text": "Is more noticeable at high peak kV (kVp)",
+          "answer": "False",
+          "explanation": "It is more noticeable at low kVp, as the photons are less penetrating and the differences in attenuation on the cathode and anode sides are more pronounced"
+        },
+        {
+          "response": "",
+          "text": "Results in higher mean energy spectrum of the beam on the anode side compared to the cathode side",
+          "answer": "True",
+          "explanation": "Because photons penetrating through the target material in addition to attenuation also undergo filtration"
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "stem": "Regarding the heel effect",
+      "options": [
+        {
+          "response": "",
+          "text": "It is more pronounced in worn-out anodes with a rugged surface",
+          "answer": "True",
+          "explanation": "The electrons penetrate deeper into the anode material and the photons produced have a greater distance to travel through it"
+        },
+        {
+          "response": "",
+          "text": "It is less pronounced in tubes with rotating compared with stationary anodes",
+          "answer": "False",
+          "explanation": "Anode rotation does not directly affect the heel effect. However, the heel effect is of less significance in stationary anodes tubes as they tend to have larger anode angles (due to thermal factors), and the field uniformity is not as critical in the applications they are used in"
+        },
+        {
+          "response": "",
+          "text": "For a given film size, it is more noticeable on images acquired with a long focus-to-film distance",
+          "answer": "False",
+          "explanation": "With a long focus-to-film distance, only the central, more uniform part of the beam is used to produce the image and the heel effect is less noticeable"
+        },
+        {
+          "response": "",
+          "text": "In mammography, the anode side of the tube should be directed towards the chest wall",
+          "answer": "False",
+          "explanation": "The anode side (with a lower intensity of the beam due to the heel effect) should point away from the chest wall (where the thickness of breast tissue is less)"
+        },
+        {
+          "response": "",
+          "text": "It is useful in spine radiographs",
+          "answer": "True",
+          "explanation": "It may be used to compensate for varying patient thickness along the cranio-caudal axis. For example, antero-posterior (AP) images of the thoracic spine are normally more penetrated (darker) towards the upper vertebrae. With the anode facing cranially, more uniform images can be obtained"
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "stem": "Regarding X-ray tube operation",
+      "options": [
+        {
+          "response": "",
+          "text": "Peak kV (kVp) and mA may be varied independently of one another",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "For a given anode, the focal spot size cannot be varied",
+          "answer": "False",
+          "explanation": "This may be achieved by choosing a different filament length (there are usually two). Some anode discs may also have bevels at different inclinations allowing the choice of a different anode angle"
+        },
+        {
+          "response": "",
+          "text": "Exposure settings may be set automatically by the system",
+          "answer": "True",
+          "explanation": "This may be achieved automatically by anatomically programmed radiography (APR), which will set the kVp/mA/exposure time depending on the particular projection"
+        },
+        {
+          "response": "",
+          "text": "Automatic exposure control (AEC) is usually used",
+          "answer": "True",
+          "explanation": "AEC uses a radiation detector (usually an ionization chamber) placed in close proximity to the image plate, terminating exposure when a sufficient quantity of radiation has reached the film. This is especially important in computed/digital radiography where the detector has a large latitude, and the choice of excessive parameters does not result in obvious overexposure"
+        },
+        {
+          "response": "",
+          "text": "mA and exposure time are usually adjusted simultaneously",
+          "answer": "True",
+          "explanation": "They are usually adjusted as a single parameter (mAs)"
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "stem": "Which of the following are true about the quality and quantity of the X-ray beam?",
+      "options": [
+        {
+          "response": "",
+          "text": "The quality describes the number of photons in the X-ray beam",
+          "answer": "False",
+          "explanation": "This is the quantity"
+        },
+        {
+          "response": "",
+          "text": "The quantity determines the penetrability of the X-ray beam",
+          "answer": "False",
+          "explanation": "X-ray beam penetrability is dependent on beam quality. An X-ray beam containing higher energy photons is more penetrating"
+        },
+        {
+          "response": "",
+          "text": "The quantity is inversely proportional to the tube current",
+          "answer": "False",
+          "explanation": "It is directly proportional"
+        },
+        {
+          "response": "",
+          "text": "The quantity is directly proportional to the tube voltage",
+          "answer": "False",
+          "explanation": "In the range of tube voltages used in general radiography, it is approximately proportional to the square of peak kV (kVp)"
+        },
+        {
+          "response": "",
+          "text": "The quantity is dependent on the choice of target material in the anode",
+          "answer": "True",
+          "explanation": "The amount of Bremsstrahlung radiation produced in higher-atomic-number targets is greater"
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "stem": "Concerning exposure controls",
+      "options": [
+        {
+          "response": "",
+          "text": "Automatic exposure control (AEC) can be varied to adjust the optical density of the film",
+          "answer": "True",
+          "explanation": "The operator can adjust the AEC to produce an image of a certain optical density, known as the density setting"
+        },
+        {
+          "response": "",
+          "text": "A faulty AEC detector will usually result in significant overexposure of the patient",
+          "answer": "False",
+          "explanation": "This should be prevented by a back-up timer, which terminates the exposure if the AEC fails to do so, usually when 150% of expected manual exposure is reached"
+        },
+        {
+          "response": "",
+          "text": "AEC is more likely to ensure the correct exposure when used with collimation",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "AEC typically uses five ionization chambers",
+          "answer": "False",
+          "explanation": "There are usually three chambers covering different areas of the film"
+        },
+        {
+          "response": "",
+          "text": "All ionization chambers must be used simultaneously",
+          "answer": "False",
+          "explanation": "The operator can select which chambers to use depending on the projection"
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "stem": "Regarding collimation",
+      "options": [
+        {
+          "response": "",
+          "text": "It allows the operator to adjust the filtration of the X-ray beam",
+          "answer": "False",
+          "explanation": "It allows adjustment of the beam size. It has no effect on filtration"
+        },
+        {
+          "response": "",
+          "text": "It employs a light beam diaphragm",
+          "answer": "True",
+          "explanation": "This is a light source that projects as though it originated from the X-ray focus, allowing the operator to see the position of the beam projected onto the patient"
+        },
+        {
+          "response": "",
+          "text": "The collimators are constructed of material that is highly attenuating to X-rays",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "It reduces scatter",
+          "answer": "True",
+          "explanation": "Less tissue is irradiated by directing the X-ray beam onto a smaller target area"
+        },
+        {
+          "response": "",
+          "text": "It does not affect the effective dose to the patient",
+          "answer": "False",
+          "explanation": "It decreases the volume of tissue irradiated and the radiation dose"
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "stem": "Regarding the X-ray tube anode",
+      "options": [
+        {
+          "response": "",
+          "text": "It is the site of thermionic emission",
+          "answer": "False",
+          "explanation": "Thermionic emission occurs in the cathode, and the released electrons are targeted on the anode target"
+        },
+        {
+          "response": "",
+          "text": "Tungsten is a suitable target material",
+          "answer": "True",
+          "explanation": "This is due to its high melting point and high atomic number (Z ¼ 74), which increases the degree of Bremsstrahlung"
+        },
+        {
+          "response": "",
+          "text": "Electrons striking the anode mostly convert their energy into X-ray photons",
+          "answer": "False",
+          "explanation": "The energy of the electrons is mainly converted into heat, which is why the anode must be able to tolerate a significant temperature rise. Less than 1% is converted to X-ray photons"
+        },
+        {
+          "response": "",
+          "text": "It is usually rotating",
+          "answer": "True",
+          "explanation": "The anode may be stationary or rotating. Rotating anodes are used for better tolerance of the heat generated during the production of X-rays, as the heat is spread over a larger area"
+        },
+        {
+          "response": "",
+          "text": "The anode material used in mammography is the same as in general radiology",
+          "answer": "False",
+          "explanation": "Rhodium (Z ¼ 45) and molybdenum (Z ¼ 42) are chosen due to the useful energies of characteristic radiation"
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "stem": "Regarding the construction of a rotating anode X-ray tube",
+      "options": [
+        {
+          "response": "",
+          "text": "The entire anode disc is usually made of tungsten",
+          "answer": "False",
+          "explanation": "It is usually made of molybdenum, in which the target annulus (made of tungsten alloy) is embedded"
+        },
+        {
+          "response": "",
+          "text": "The anode stem is made of molybdenum to improve the conduction of heat away from the anode disc",
+          "answer": "False",
+          "explanation": "The opposite is true. Molybdenum has a low heat conductivity, which slows the conduction of heat towards the rotor bearings, protecting them from heat damage"
+        },
+        {
+          "response": "",
+          "text": "The rotor bearings are lubricated with a soft metal",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The electric brushes of the X-ray tube motor are made of graphite",
+          "answer": "False",
+          "explanation": "Induction motors are used. These are brushless"
+        },
+        {
+          "response": "",
+          "text": "The filament assembly is aligned with the anode stem",
+          "answer": "False",
+          "explanation": "The filament is offset towards the edge of the anode, in line with the target annulus"
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "stem": "With regard to the cooling of a rotating anode X-ray tube",
+      "options": [
+        {
+          "response": "",
+          "text": "Heat produced in the focal spot is transferred to the glass envelope by convection",
+          "answer": "False",
+          "explanation": "It is conducted to the anode disc and transfers to the glass envelope by radiation. It cannot be transferred between the anode and glass by convection as the tube is evacuated. Some heat is transferred via conduction through the anode stem (this becomes the main process at lower temperatures as heat radiation becomes less significant). From the glass, heat is transferred to the insulating oil and the tube housing by convection"
+        },
+        {
+          "response": "",
+          "text": "Heat is transferred out of the tube housing into the atmosphere by conduction",
+          "answer": "False",
+          "explanation": "It is transferred by radiation and convection"
+        },
+        {
+          "response": "",
+          "text": "The anode assembly is blackened to improve radiation of heat",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The major thermal limiting factor for single exposures is the heat capacity of the focal spot area",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "In the case of continuous/repeated exposures, the major limiting factor is the heat capacity of the anode disc and the tube housing",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "stem": "Regarding the high-voltage supply to the X-ray tube",
+      "options": [
+        {
+          "response": "",
+          "text": "In a self-rectified tube, X-rays are produced during both the positive and the negative halves of the supplying voltage waveform",
+          "answer": "False",
+          "explanation": "In a self-rectified tube, electrons travel towards the anode only during the positive half of the waveform. During the negative half of the cycle, the filament has positive potential and does not emit electrons; at high tube currents, the anode may reach temperatures sufficient for thermionic emission and electrons may flow towards the filament, destroying the tube"
+        },
+        {
+          "response": "",
+          "text": "In a tube connected to a half-wave rectifying circuit, X-rays are produced during both halves of the supplying voltage waveform",
+          "answer": "False",
+          "explanation": "In a half-rectified circuit, the negative half of the voltage waveform is eliminated. As potential across the tube during this period of the cycle is zero, there is no electron flow and no X-ray production"
+        },
+        {
+          "response": "",
+          "text": "In a fully rectified one-phase circuit, the voltage across the tube is almost constant",
+          "answer": "False",
+          "explanation": "In a fully rectified circuit, the negative half of the cycle is ‘flipped’ into positive. Therefore, in both halves of the cycle, the filament and the target have the correct polarity to produce X-rays. However, the voltage across the tube fluctuates from zero to maximum, and the mean energy of the photons produced is relatively low"
+        },
+        {
+          "response": "",
+          "text": "A fully rectified three-phase supply provides more constant voltage throughout the cycle than a one-phase supply",
+          "answer": "True",
+          "explanation": "With three overlapping fully rectified waveforms, the fluctuations in the tube voltage (ripple) are greatly diminished. The voltage across the tube never falls to zero and the efficiency of X-ray production is higher, as is the mean photon energy. High-frequency generators provide yet further improvements with a practically constant potential"
+        },
+        {
+          "response": "",
+          "text": "A tube supplied from a high-frequency generator requires less filtration in comparison with that supplied from rectified circuits",
+          "answer": "True",
+          "explanation": "More filtration is needed to eliminate photons with lower energies produced by the latter"
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "stem": "Regarding factors affecting X-ray emission",
+      "options": [
+        {
+          "response": "",
+          "text": "The tube voltage affects the maximum energy of Bremsstrahlung radiation",
+          "answer": "True",
+          "explanation": "They describe the maximal operational settings that are permissible without damage to the anode and tube housing"
+        },
+        {
+          "response": "",
+          "text": "Due to inherent tube filtration, the maximum energy of photons measured in keV is slightly lower than the tube potential in kV",
+          "answer": "False",
+          "explanation": "Filtration does not affect the maximum energy of the beam spectrum, which is always equal in keV to the tube potential in kV"
+        },
+        {
+          "response": "",
+          "text": "Beam filtration affects both the quantity and quality of the X-ray beam",
+          "answer": "True",
+          "explanation": "Filtration selectively removes the lower energy photons so it reduces the quantity. It shifts the mean energy of the remaining photons to a higher level, so it increases the beam quality"
+        },
+        {
+          "response": "",
+          "text": "Increasing peak kV (kVp) increases the quantity and quality of the emitted X-ray beam",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Increasing the tube current decreases the half-value layer (HVL) of the beam",
+          "answer": "False",
+          "explanation": "The HVL depends on the quality of radiation (energy spectrum), which is not changed by altering mA"
+        }
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "stem": "X-ray exposure ratings",
+      "options": [
+        {
+          "response": "",
+          "text": "Determine the operational limits of the X-ray equipment",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "May be illustrated graphically",
+          "answer": "True",
+          "explanation": "There are rating charts that display curves showing the maximum permissible mA depending on exposure time and peak kV (kVp) for a particular X-ray tube and focal spot size"
+        },
+        {
+          "response": "",
+          "text": "Are independent of focal spot size",
+          "answer": "False",
+          "explanation": "The size of the focal spot has an influence on the tube current that can safely be tolerated"
+        },
+        {
+          "response": "",
+          "text": "Are dependent on the anode rotation speed",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Are the same for single and repeated exposures",
+          "answer": "False",
+          "explanation": "Ratings for repeated exposures are lower as heat accumulation needs to be taken into account"
+        }
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "stem": "Regarding patient dose in radiography",
+      "options": [
+        {
+          "response": "",
+          "text": "The ratio of entrance surface dose (ESD) to exit dose is similar in most radiographic examinations",
+          "answer": "False",
+          "explanation": "Depending on examination type, this ratio may vary from 10 (for a PA chest X-ray) to over 5000 (in the case of a lateral lumbar spine radiograph)"
+        },
+        {
+          "response": "",
+          "text": "The film dose required to produce an image in film-screen radiography is in the range of 0.2–0.5 mGy",
+          "answer": "False",
+          "explanation": "A dose of approximately 3 mGy is required"
+        },
+        {
+          "response": "",
+          "text": "Increasing mAs increases the exit dose and ESD proportionately",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Increasing the tube kV increases the ratio of ESD to the exit dose",
+          "answer": "False",
+          "explanation": "With increased kV, the X-ray beam is more penetrating and a lower entrance dose is required to produce the same exit dose. In general, the highest peak kV (kVp) producing acceptable image contrast should be used"
+        },
+        {
+          "response": "",
+          "text": "Increasing filtration reduces the ratio of ESD to the exit dose",
+          "answer": "True",
+          "explanation": "This is because increasing filtration makes the beam more penetrating"
+        }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "stem": "Patient dose in radiography can be reduced by",
+      "options": [
+        {
+          "response": "",
+          "text": "Increasing the focus-to-film distance",
+          "answer": "True",
+          "explanation": "Even though increasing the distance necessitates the increase in mAs, it decreases the skin dose as the beam entering the patient is spread over a larger surface area. It also decreases the dose to deeper tissues to a lesser extent"
+        },
+        {
+          "response": "",
+          "text": "Compression",
+          "answer": "True",
+          "explanation": "This is due to a reduction of the required exposure factors (less tissue thickness to penetrate) and the amount of scattered radiation"
+        },
+        {
+          "response": "",
+          "text": "Collimation",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Using a secondary radiation grid",
+          "answer": "False",
+          "explanation": "The exit dose needs to be increased by a factor equal to the Bucky factor of the grid (the ratio of radiation incident on the grid to the transmitted radiation) to obtain the same film exposure"
+        },
+        {
+          "response": "",
+          "text": "Using the air-gap technique",
+          "answer": "False",
+          "explanation": "Use of an air gap requires a higher tube output and increases the patient dose"
+        }
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "stem": "The amount of scattered radiation leaving the patient is decreased by",
+      "options": [
+        {
+          "response": "",
+          "text": "Decreasing the tube kV",
+          "answer": "True",
+          "explanation": "There is less scatter in the forward direction and it is less penetrating"
+        },
+        {
+          "response": "",
+          "text": "Reducing the field area by collimation",
+          "answer": "True",
+          "explanation": "This reduces the amount of scatter produced"
+        },
+        {
+          "response": "",
+          "text": "Compression of the patient",
+          "answer": "True",
+          "explanation": "This also reduces the amount of scatter produced"
+        },
+        {
+          "response": "",
+          "text": "Using a radiation grid",
+          "answer": "False",
+          "explanation": "A grid reduces the amount of scattered radiation reaching the imager, but not the amount of scatter leaving the patient. As it necessitates an increase in tube output, the grid may actually increase the amount of scatter produced (and the patient’s dose)"
+        },
+        {
+          "response": "",
+          "text": "Using the air-gap technique",
+          "answer": "False",
+          "explanation": "This is based on the same principle as (d)"
+        }
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "stem": "Increasing the focus-to-film distance while keeping the film exposure constant",
+      "options": [
+        {
+          "response": "",
+          "text": "Improves radiographic contrast",
+          "answer": "False",
+          "explanation": "It does not influence the radiographic contrast"
+        },
+        {
+          "response": "",
+          "text": "Reduces patient dose",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Reduces magnification",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Reduces geometric unsharpness",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Improves field uniformity",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "stem": "Regarding the construction of a radiation grid",
+      "options": [
+        {
+          "response": "",
+          "text": "It is made of 0.05–0.07 mm lead strips",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The line density of a grid is usually 12–16 cm 1",
+          "answer": "False",
+          "explanation": "The line density of a grid (number of lead strips per cm) is usually 30–80 cm–1 (typically 40)"
+        },
+        {
+          "response": "",
+          "text": "The gaps between the lead strips are filled with air",
+          "answer": "False",
+          "explanation": "Usually aluminium, carbon fibre or plastic are used as interspace material"
+        },
+        {
+          "response": "",
+          "text": "The grid ratio is the ratio of the depth of the interspace channel divided by its width",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "A typical grid ratio is 30:1–80:1",
+          "answer": "False",
+          "explanation": "It is typically 8:1. High-ratio grids (12:1–16:1) are used with very large fields and high peak kV (kVp)"
+        }
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "stem": "Concerning radiation grids",
+      "options": [
+        {
+          "response": "",
+          "text": "A parallel grid is focused at infinity",
+          "answer": "True",
+          "explanation": "This means that if the X-ray tube was located at infinity, the incident beam would be parallel to the lead strips and no primary radiation would be lost. With a finite focus-to-film distance, the X-rays towards the periphery of the beam strike the lead strips obliquely and are attenuated (grid cut-off). This is more pronounced for high-ratio grids (therefore parallel grids rarely have ratios higher than 6:1) and short tube-grid distances (therefore parallel grids should not generally be used at distances of less than 150 cm)"
+        },
+        {
+          "response": "",
+          "text": "For a focused grid, the focusing range depends on the grid ratio",
+          "answer": "True",
+          "explanation": "In a focused grid, the lead strips are tilted progressively from the centre to the edges, pointing in the direction of a point in space termed the convergent point. If the focal point of the tube is in the convergent point, there is no loss of primary radiation. In practice, there is a degree of latitude with regard to focal point placement – it may be positioned within a range of distances (focusing range) without significant loss of primary radiation. The focusing range is wide for low-ratio grids and narrow for high-ratio grids (the high-ratio grids therefore require more precise positioning)"
+        },
+        {
+          "response": "",
+          "text": "In the case of a crossed grid composed of two linear grids, the resulting grid ratio is equal to the product of individual grid ratios",
+          "answer": "False",
+          "explanation": "The resulting ratio is the sum of the individual ratios"
+        },
+        {
+          "response": "",
+          "text": "The contrast improvement factor of a typical grid is 2–4",
+          "answer": "True",
+          "explanation": "This depends on the grid ratio and factors affecting the amount of scatter produced (e.g. kVp, depth of the patient tissue and field size)"
+        },
+        {
+          "response": "",
+          "text": "Grids are generally not used in paediatric radiography",
+          "answer": "True",
+          "explanation": "This is because the amount of scatter arising in a small patient is low and the increase in dose caused by the grid would be highly undesirable"
+        }
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "stem": "Regarding dual-energy radiography",
+      "options": [
+        {
+          "response": "",
+          "text": "It exploits spectral differences in X-ray attenuation by various tissues",
+          "answer": "True",
+          "explanation": "It is based on differences in the degree to which different tissues attenuate high- and low-energy photons"
+        },
+        {
+          "response": "",
+          "text": "It may be used to produce selective tissue images",
+          "answer": "True",
+          "explanation": "By subtracting images obtained at high and low peak kV (kVp), selective bone and soft tissue images can be obtained"
+        },
+        {
+          "response": "",
+          "text": "It always requires two separate exposures",
+          "answer": "False",
+          "explanation": "This is true for dual-exposure systems that obtain two radiographs sequentially at different kVp. There are also single-exposure systems where two image plates divided by a copper filter (‘sandwiched detectors’) are simultaneously exposed, with the back detector receiving filtered, higher energy photons"
+        },
+        {
+          "response": "",
+          "text": "In dual-exposure systems for chest radiography, tube potentials of 60 and 120 kV are usually used",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Dual-exposure systems are prone to misregistration artefacts",
+          "answer": "True",
+          "explanation": "This is due to a slight (200 ms) time delay between the two exposures"
+        }
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "stem": "Concerning dual-energy radiography",
+      "options": [
+        {
+          "response": "",
+          "text": "Dual-exposure systems produce selective tissue images with a better signal-to-noise ratio than single-exposure systems",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "It requires slightly lower radiation doses than conventional radiography",
+          "answer": "False",
+          "explanation": "A slightly higher radiation dose is required"
+        },
+        {
+          "response": "",
+          "text": "It is most commonly used in chest imaging",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "It helps detect calcium within soft tissue structures",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Three images are typically produced for reporting",
+          "answer": "True",
+          "explanation": "These are the unsubtracted image, the selective soft tissue image and the selective bone image"
+        }
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "stem": "Regarding quality assurance in radiography",
+      "options": [
+        {
+          "response": "",
+          "text": "The tube kV is tested using a dosimeter",
+          "answer": "False",
+          "explanation": "It is tested using a digital kV meter"
+        },
+        {
+          "response": "",
+          "text": "Tube output is assessed with an ionization chamber or a solid-state detector",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "For a given mAs, the output of the tube should be constant over the entire voltage range",
+          "answer": "False",
+          "explanation": "In the range of 60–120 kV, tube output is proportional to the square of the peak kV (kVp^2). For lower kV (e.g. in mammography), output is proportional to kVp^3"
+        },
+        {
+          "response": "",
+          "text": "Tube filtration is assessed by measuring the half-value layer (HVL)",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Light beam diaphragm alignment should be checked yearly",
+          "answer": "False",
+          "explanation": "It is usually tested every 1–2 months"
+        }
+      ]
+    }
+  ]
+}

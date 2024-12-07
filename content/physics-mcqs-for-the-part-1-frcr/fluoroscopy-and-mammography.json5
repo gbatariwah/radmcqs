@@ -1,0 +1,1088 @@
+{
+  name: "Physics MCQs for the Part 1 FRCR",
+  authors: "Shahzad Ilyas",
+  slug: "fluoroscopy-and-mammography",
+  questions: [
+    {
+      "questionNumber": 1,
+      "stem": "Regarding the intensifier in fluoroscopy",
+      "options": [
+        {
+          "response": "",
+          "text": "The chamber could be made of metal, e.g. aluminium, or of glass or ceramic",
+          "answer": "True",
+          "explanation": "It is an evacuated chamber made of glass, ceramic or metal such as aluminium"
+        },
+        {
+          "response": "",
+          "text": "It is filled with ionized gas",
+          "answer": "False",
+          "explanation": "It is an evacuated glass, ceramic or metal chamber"
+        },
+        {
+          "response": "",
+          "text": "There is a thin lead foil shielding the inner side of the chamber to prevent light from reaching the tube",
+          "answer": "False",
+          "explanation": "It is surrounded by metal housing, preventing light from reaching the tube and shielding it from the effect of the magnetic field"
+        },
+        {
+          "response": "",
+          "text": "The anode is made of aluminium",
+          "answer": "True",
+          "explanation": "The inner surface of the output screen is coated with a very thin layer of aluminium, which acts as the anode"
+        },
+        {
+          "response": "",
+          "text": "In fluoroscopy, g is higher than in film-screen radiography",
+          "answer": "False",
+          "explanation": "There is a direct relationship between the brightness displayed on the output screen and the intensity of the X-ray photons falling on the input phosphor: doubling the X-ray exposure doubles the light output (g ¼ 1), in contrast to film-screen radiography (g ¼ 2–3)"
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "stem": "Regarding the input screen in fluoroscopy",
+      "options": [
+        {
+          "response": "",
+          "text": "Each absorbed X-ray photon gives rise to nearly 3000 light photons in the blue part of the spectrum",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The input phosphor is antimony caesium (SbCs3)",
+          "answer": "False",
+          "explanation": "It is caesium iodide"
+        },
+        {
+          "response": "",
+          "text": "The input window is usually made of aluminium or titanium",
+          "answer": "True",
+          "explanation": "The input window provides protection for the sensitive input components of the tube and maintains the vacuum. The input window is usually fabricated from a low-atomic-number metal, for example, aluminium (Z ¼ 13) or titanium (Z ¼ 22) foil. Therefore, the X-ray beam can enter the image intensifier with minimum attenuation. It also provides mechanical rigidity and maintains the vacuum"
+        },
+        {
+          "response": "",
+          "text": "The phosphor thickness is 1–4 mm",
+          "answer": "False",
+          "explanation": "The phosphor thickness is 0.1–0.4 mm"
+        },
+        {
+          "response": "",
+          "text": "Only 60% of the incoming X-rays will be detected by the input phosphor",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "stem": "Regarding the output screen in fluoroscopy",
+      "options": [
+        {
+          "response": "",
+          "text": "The output phosphor is silver-activated zinc cadmium sulphide (ZnCdS:Ag)",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The output phosphor emits green light",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The size of the output screen depends on the application",
+          "answer": "False",
+          "explanation": "The input screen size is 150–400 mm in diameter and its size depends on the application: smaller for orthopaedic applications and largest for angiography and interventional radiology. The output screen size does not change according to application"
+        },
+        {
+          "response": "",
+          "text": "The output phosphor is thicker than the input phosphor",
+          "answer": "False",
+          "explanation": "The output phosphor is thinner than the input phosphor"
+        },
+        {
+          "response": "",
+          "text": "To reduce scatter in the output window, very thick glass can be used",
+          "answer": "True",
+          "explanation": "Scatter of light, or halation, in the output window can seriously degrade the contrast of the output image. Anti-halation techniques typically include the use of smoked glass, special optical coatings, very thick glass or a fibre-optic bundle"
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "stem": "Regarding image intensifiers in fluoroscopy",
+      "options": [
+        {
+          "response": "",
+          "text": "The diameter of the input screen is usually twice the diameter of the output screen",
+          "answer": "False",
+          "explanation": "The input screen diameter is ten times that of the output screen"
+        },
+        {
+          "response": "",
+          "text": "The intensity of light produced in the input phosphor and the number of electrons produced by the photocathode are directly proportional to the intensity of the X-ray",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The sequence of interactions in an image intensifier tube is: X-ray → electrons → light → electrons",
+          "answer": "False",
+          "explanation": "It is X-ray ! light ! electrons ! light"
+        },
+        {
+          "response": "",
+          "text": "Absorption of X-ray photons in the input screen window should be kept to a maximum",
+          "answer": "False",
+          "explanation": "see Q2, answer c"
+        },
+        {
+          "response": "",
+          "text": "X-ray scatter in the output window is a serious cause of contrast loss",
+          "answer": "False",
+          "explanation": "Scatter of light in the output window affects the contrast"
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "stem": "Regarding gain in the image intensifier",
+      "options": [
+        {
+          "response": "",
+          "text": "The X-ray absorption efficiency of the input screen phosphor affects the gain of the image intensifier",
+          "answer": "False",
+          "explanation": "Gain is affected by minification, and flux gain; the efficiency of the input screen does not affect the gain"
+        },
+        {
+          "response": "",
+          "text": "Flux gain means that a single light photon in the input phosphor causes multiple electrons in the photocathode",
+          "answer": "False",
+          "explanation": "Flux gain means a single light photon produced in the input phosphor causes a single electron in the photocathode but multiple photons in the output screen"
+        },
+        {
+          "response": "",
+          "text": "The conversion factor provides a measure of image quality",
+          "answer": "False",
+          "explanation": "The conversion factor is a useful measure of gain but does not provide a measure of image quality"
+        },
+        {
+          "response": "",
+          "text": "The conversion factor unit is Cdm² (mGy s⁻¹)⁻¹",
+          "answer": "False",
+          "explanation": "It is Cd m-2 (mGy s-1 )-1 "
+        },
+        {
+          "response": "",
+          "text": "If the conversion factor for a 35 cm diameter input screen is 12, for a magnified field view with a 15 cm input screen the conversion factor would be 2.2",
+          "answer": "True",
+          "explanation": "12 x (15/35)2 ¼ 2.2"
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "stem": "Regarding magnification in fluoroscopy",
+      "options": [
+        {
+          "response": "",
+          "text": "In the magnified mode, the focal point is closer to the output screen",
+          "answer": "False",
+          "explanation": "It is closer to the input screen"
+        },
+        {
+          "response": "",
+          "text": "In magnification, both brightness and spatial resolution are increased",
+          "answer": "False",
+          "explanation": "In the magnified mode, the spatial resolution is higher but the gain (brightness) is less"
+        },
+        {
+          "response": "",
+          "text": "Opening the iris aperture in front of the TV lens reduces the need to increase the dose rate in the magnified mode",
+          "answer": "True",
+          "explanation": "A circular iris aperture of adjustable diameter is normally used to calibrate the light intensity illuminating the image recording device. The iris aperture is also used to compensate (at least in part) for the fall in gain when a magnified field is selected. Opening the iris aperture reduces the need to increase the dose rate to compensate for such a fall in gain"
+        },
+        {
+          "response": "",
+          "text": "A change in voltage of the intermediate electrodes will magnify the image",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "In the magnified view, both patient skin dose and effective dose increase in comparison with the full field of view without any collimation",
+          "answer": "False",
+          "explanation": "Magnification reduces the brightness on the output screen, and to restore the brightness the exposure factors increase, thus increasing the patient’s skin dose. However, because the surface area is reduced, the effective dose would be less in comparison with a full field of view without collimation"
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "stem": "Regarding the image distributor in fluoroscopy",
+      "options": [
+        {
+          "response": "",
+          "text": "To transfer the image from the intensifier to the TV system, a tandem lens pair is used",
+          "answer": "True",
+          "explanation": "An optical distributor is a light-tight housing that contains the optical components required to transfer the image from the output screen to the TV sensor. Image transfer takes place via a so-called tandem lens pair. The tandem lens pair comprises two optics, one associated with the intensifier and the other with the TV sensor (Fig.6.1)"
+        },
+        {
+          "response": "",
+          "text": "As an automatic dose control, an electronic light sensor can be mounted between the two lenses to measure the brightness of the intensifier image",
+          "answer": "True",
+          "explanation": "An electronic light sensor is mounted between the two lenses to measure the brightness of the intensifier image and can be used as a real-time feedback signal for an automatic dose (rate) control system. These are used to automatically adjust the intensifier input dose rate to take account of differences in X-ray transmission through different body sections of the patient and for patients of different sizes"
+        },
+        {
+          "response": "",
+          "text": "The fluorographic camera is typically mounted parallel to the intensifier TV channel",
+          "answer": "False",
+          "explanation": "When a fluorographic camera is implemented, it is typically mounted at a right angle to the intensifier TV channel"
+        },
+        {
+          "response": "",
+          "text": "The output screen is in the focal plane of the primary collimating lens",
+          "answer": "True",
+          "explanation": "The output screen lies in the focal plane of the primary collimating lens and therefore the image is effectively focused an infinite distance away (Fig.6.1)"
+        },
+        {
+          "response": "",
+          "text": "The physical structure mounted between the two lenses will affect the recorded image",
+          "answer": "False",
+          "explanation": "The image is completely out of focus for any optical plane in the space between the two lenses. This design brings the added benefit that physical structures can be mounted between the two lens and they will not appear in the recorded image (Fig.6.1)"
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "stem": "Regarding the image recording device in fluoroscopy",
+      "options": [
+        {
+          "response": "",
+          "text": "In the TV camera tube, the light photons illuminate the heated cathode, which releases electrons",
+          "answer": "False",
+          "explanation": "The image recording device first used in intensifier TV fluoroscopy was the TV camera tube. This comprises a cylindrical evacuated glass tube with a light-sensitive target in the front face, which is illuminated by light photons from the output screen of the intensifier, and a heated cathode as a high-resolution electron source mounted at the opposite end of the tube (Fig.6.2)"
+        },
+        {
+          "response": "",
+          "text": "In the TV camera tube, the scanning electron beam removes electrons from the inner surface of the target",
+          "answer": "False",
+          "explanation": "The scanning electron beam is scanned over the target and deposits electrons on the surface, building up a uniform charge density (Fig.6.2)"
+        },
+        {
+          "response": "",
+          "text": "Each light photon absorbed in the charge-coupled device (CCD) gives rise to multiple electron–hole pairs",
+          "answer": "False",
+          "explanation": "Each light photon (from the intensifier output) absorbed in the silicon substrate of the CCD gives rise to an electron–hole pair. The quantity of electronic charge that accumulates at each pixel is directly proportional to the intensity of the incident light and the frame integration time"
+        },
+        {
+          "response": "",
+          "text": "CCD sensors have better resolution but less thermal and magnetic stability in comparison with a TV camera tube",
+          "answer": "False",
+          "explanation": "The technological benefits of CCD sensors include: * Small, inexpensive and compact with low power consumption * Self-scanning image readout (no large electromagnetic deflection coils required) * Negligible lag (less temporal unsharpness) * Resilience against burned-in signals at high-intensity lights * Geometrical precision and spatial uniformity * Excellent thermal, electrical and magnetic stability * Excellent serviceability and long life-time * Compatibility with digital X-ray imaging modalities"
+        },
+        {
+          "response": "",
+          "text": "In CCD sensors, increasing the number of pixels improves the spatial resolution and negligible lag reduces the temporal unsharpness",
+          "answer": "True",
+          "explanation": "Spatial resolution can be improved by increasing the number of pixels in the array"
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "stem": "Regarding the automatic brightness control (ABC)",
+      "options": [
+        {
+          "response": "",
+          "text": "The ABC is made of three ionization chambers",
+          "answer": "False",
+          "explanation": "The automatic exposure control (AEC) is usually made of three ionization chambers in diagnostic radiology"
+        },
+        {
+          "response": "",
+          "text": "In new systems, the ABC measures the light intensity from the output screen",
+          "answer": "False",
+          "explanation": "In modern systems, it is usual to take the camera signal to provide information for the ABC"
+        },
+        {
+          "response": "",
+          "text": "In an anti-isowatt curve, both mA and kV increase with an increase in radiological thickness",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "An anti-isowatt curve is used in angiography",
+          "answer": "False",
+          "explanation": "In angiography, the system holds the tube potential between 60 and 65 kV and the mA increases with radiological thickness"
+        },
+        {
+          "response": "",
+          "text": "The purpose of the ABC is to reduce the patient dose",
+          "answer": "False",
+          "explanation": "Some protocols are designed to maximize the image quality but at the cost of an increased dose because of low kV"
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "stem": "Regarding the automatic brightness control (ABC) in fluoroscopy",
+      "options": [
+        {
+          "response": "",
+          "text": "In a high kV protocol, because the kV is at the maximum, the patient dose increases",
+          "answer": "False",
+          "explanation": "This technique minimizes the dose at the cost of image quality; it is suitable for paediatrics"
+        },
+        {
+          "response": "",
+          "text": "In a contrast study, the mA is kept near constant while the kV increases with radiological thickness",
+          "answer": "False",
+          "explanation": "The kV is held between 60 and 65, and with increased radiological thickness the mA is increased"
+        },
+        {
+          "response": "",
+          "text": "Keeping the kV low and near constant maximizes the image quality but increases the patient dose",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "A high kV mode is used in paediatric imaging",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "In a contrast study with near-constant kV, the kV will never increase when the tube current reaches a certain level",
+          "answer": "False",
+          "explanation": "For a radiological thickness that would need higher tube currents, the system increases the kV while reducing the mA to ensure that the maximum power is not exceeded"
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "stem": "Regarding automatic gain control",
+      "options": [
+        {
+          "response": "",
+          "text": "It means adjusting the image brightness seen in the monitor",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "For automatic gain control, it is common to incorporate a mirror in the optics between two lenses",
+          "answer": "False",
+          "explanation": "Automatic gain control is achieved by adjusting the sensitivity (gain) of the TV system itself"
+        },
+        {
+          "response": "",
+          "text": "It modifies the kV and mA according to the radiological thickness",
+          "answer": "False",
+          "explanation": "mA and kV are not altered as radiological thickness changes"
+        },
+        {
+          "response": "",
+          "text": "It increases the patient’s dose relative to using automated brightness control when the radiological thickness is reduced",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "It can be used to reduce an unnecessary dose to the patient",
+          "answer": "True",
+          "explanation": "In fluoroscopy, the automatic gain control can reduce the patient’s dose at the cost of increased image noise"
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "stem": "Regarding the dose rate in fluoroscopy",
+      "options": [
+        {
+          "response": "",
+          "text": "The detective quantum efficiency (DQE) is: (input screen signal/output screen brightness)²",
+          "answer": "False",
+          "explanation": "DQE is: (output brightness/input signal) 2"
+        },
+        {
+          "response": "",
+          "text": "The DQE is around 65% for a caesium iodide intensifier",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "In fluoroscopy, the most critical limiting factor in dose rate is spatial resolution",
+          "answer": "False",
+          "explanation": "Noise is the main limiting factor"
+        },
+        {
+          "response": "",
+          "text": "The dose rate at the input screen of the intensifier is commonly between 0.2 and 0.3 mGy s⁻¹",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "With a change in the radiological thickness, the output signal will change significantly",
+          "answer": "False",
+          "explanation": "As the thickness changes, kV and mA are adjusted to keep the output brightness or camera signal at a nearly constant level with relatively small variations to input dose rate"
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "stem": "Regarding the dose in fluoroscopy",
+      "options": [
+        {
+          "response": "",
+          "text": "In magnification, the brightness of the output screen increases in proportion to the reduction in area of the field of view",
+          "answer": "False",
+          "explanation": "The brightness of the output image is decreased in proportion to the reduction in area of the field of view"
+        },
+        {
+          "response": "",
+          "text": "The dose–area product (DAP) remains the same or is even reduced in the magnified view",
+          "answer": "True",
+          "explanation": "The input dose rate must be increased in inverse proportion to the area in order to retain the same level of image brightness, and the DAP should be the same. However, in practice, some increase in camera gain is applied so that the increase in input dose rate for the magnified field of view is less than would otherwise be required. The DAP is therefore reduced to some extent on magnification"
+        },
+        {
+          "response": "",
+          "text": "Camera gain is applied in the magnified view to reduce the input dose rate",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The entrance surface dose (ESD) and effective dose for each image are higher in the magnified view compared with the standard view without any collimation",
+          "answer": "False",
+          "explanation": "The effective dose for one image does not increase"
+        },
+        {
+          "response": "",
+          "text": "The ESD in a well-adjusted fluoroscopy system is around 100 mGy min⁻¹",
+          "answer": "False",
+          "explanation": "It is around 10–30 mGy min-1"
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "stem": "In pulsed fluoroscopy",
+      "options": [
+        {
+          "response": "",
+          "text": "The pulse width is between 2 and 20 ms",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The dose rate falls approximately proportionally to the pulse rate",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Continuous fluoroscopy is often achieved using a pulse rate of around 30 pulses s⁻¹",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "If there is no movement in the field of view, when the pulse rate falls below a certain level, it causes flickering of the image",
+          "answer": "False",
+          "explanation": "Each successive image is retained on the display until the following image is displayed. Therefore, there is no flickering, even at the lowest pulse rate, in a static scene"
+        },
+        {
+          "response": "",
+          "text": "A higher pulse rate can produce a blurry image if there is movement in the field of view",
+          "answer": "False",
+          "explanation": "With movement in the field of view, the lower pulse rates will display blurring or lag, which may be unacceptable for a particular examination"
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "stem": "In fluoroscopy",
+      "options": [
+        {
+          "response": "",
+          "text": "A grid-controlled tube is used to reduce the scatter in continuous fluoroscopy",
+          "answer": "False",
+          "explanation": "Grid-controlled tubes are used in pulsed-mode fluoroscopy"
+        },
+        {
+          "response": "",
+          "text": "In a grid-controlled tube, there is a negative-voltage electrode between the anode and the cathode",
+          "answer": "True",
+          "explanation": "In a grid-controlled tube, there is an electrode between the cathode and anode with a negative voltage relative to the cathode of approximately 2 kV"
+        },
+        {
+          "response": "",
+          "text": "A digital spot image is the latest image of the fluorography on the TV monitor that can be saved",
+          "answer": "False",
+          "explanation": "A fluoro-grab image is the latest frame displayed on the TV monitor that can be stored permanently as a record or for subsequent reporting"
+        },
+        {
+          "response": "",
+          "text": "A digital spot image is a low mA technique using a single pulse",
+          "answer": "False",
+          "explanation": "A digital spot image is a single-shot image taken with a single pulse of radiation at a high mA to produce a low-noise image"
+        },
+        {
+          "response": "",
+          "text": "The dose for a digital spot image is between 0.1 and 0.5 mGy",
+          "answer": "False",
+          "explanation": "It is between 0.1 and 5 mGy"
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "stem": "In an analogue fluoroscopy system",
+      "options": [
+        {
+          "response": "",
+          "text": "The film in the cassette is linked to a selectable collimator so that multiple exposures can be made on a single film and multiple spot films can be saved on the same film",
+          "answer": "True",
+          "explanation": "In analogue systems, recording was principally done by film-screen radiography; the cassette with the film in place was automatically driven into the position in front of the intensifier and the exposure made, with a time delay between initiation and exposure of <1 s. The film and cassette are linked to a selectable collimator so that multiple exposures can be made on a single film, which is referred to as a spot film"
+        },
+        {
+          "response": "",
+          "text": "Photospot images are about 30% of the size of what would be seen on the conventional spot film",
+          "answer": "True",
+          "explanation": "An alternative method of taking spot films was to use a camera attached to the image intensifier using a mirror introduced between the output screen and the TV camera, then take a picture of the image on the output screen of the intensifier. The film size was 105 mm, about 30% of the size of what would be seen on the conventional spot film. These films are referred to as photospot images"
+        },
+        {
+          "response": "",
+          "text": "Photospot films have a short exposure time and they are noisy images",
+          "answer": "False",
+          "explanation": "Photospot films have a short exposure time and increased mA, resulting in reduced noise"
+        },
+        {
+          "response": "",
+          "text": "For photospot images, a mirror between the output screen and the TV camera is used",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Synchronizing the pulse rate and frame rate is necessary to produce cine images",
+          "answer": "True",
+          "explanation": "By synchronizing the pulse rate and frame rate, cine recordings can be made"
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "stem": "Regarding spatial resolution in fluoroscopy",
+      "options": [
+        {
+          "response": "",
+          "text": "Resolution is defined at the front face of the image intensifier",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Spatial resolution is limited by the spread of light in the input phosphor",
+          "answer": "False",
+          "explanation": "Spatial resolution is limited by the spread of light in the output phosphor"
+        },
+        {
+          "response": "",
+          "text": "At the level of the output screen, the spatial resolution is 4–5 line pairs mm⁻¹",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "On the display monitor, the spatial resolution is improved compared with the output screen",
+          "answer": "False",
+          "explanation": "The resolution on the monitor is more limited because of the degradation in TV. The theoretical spatial resolution is 1.7 line pairs mm-1"
+        },
+        {
+          "response": "",
+          "text": "In a magnified field of view, the spatial resolution in the display monitor is about 3 line pairs mm⁻¹",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "stem": "Regarding image quality in fluoroscopy",
+      "options": [
+        {
+          "response": "",
+          "text": "The signal-to-noise ratio (SNR) will improve by increasing the image intensification or camera gain",
+          "answer": "False",
+          "explanation": "For an image intensifier, quantum sink corresponds to the photons absorbed in the input screen. Increasing the image intensifier or camera gain will not improve the SNR"
+        },
+        {
+          "response": "",
+          "text": "The veiling glare is only from the light scattering in the output window and is not affected by scattering of the X-rays in the input screen",
+          "answer": "False",
+          "explanation": "Veiling glare is mainly from light scattering in the output window but also by X-rays and light scattering in the input phosphor and electron scattering in the tube itself"
+        },
+        {
+          "response": "",
+          "text": "Veiling glare means a blurry line surrounding the image",
+          "answer": "False",
+          "explanation": "It means dark regions in the image appearing lighter because of the surrounding light areas"
+        },
+        {
+          "response": "",
+          "text": "Vignetting means the periphery of the image is brighter than the centre",
+          "answer": "False",
+          "explanation": "It means that the central area of the image is brighter than the periphery"
+        },
+        {
+          "response": "",
+          "text": "The larger the intensifier, the greater the veiling effect",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "stem": "Regarding factors affecting the image",
+      "options": [
+        {
+          "response": "",
+          "text": "Curvature of the output screen causes a pin cushion effect",
+          "answer": "False",
+          "explanation": "Curvature of the input screen is responsible for the pin cushion effect"
+        },
+        {
+          "response": "",
+          "text": "S-type distortion is caused by the magnetic field influencing the path of electrons",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Images in intensifiers are magnified towards the centre",
+          "answer": "False",
+          "explanation": "They are magnified towards the edges; this is called the pin cushion effect"
+        },
+        {
+          "response": "",
+          "text": "The vignetting effect is reduced by curving the input screen",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Less electron focusing at the periphery causes less distortion at the peripheral parts of the image",
+          "answer": "False",
+          "explanation": "Electrons are less focused at the periphery causing increased brightness and resolution in the centre and less distortion in the centre; these effects are more pronounced in a larger intensifier"
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "stem": "Regarding the testing of image quality",
+      "options": [
+        {
+          "response": "",
+          "text": "To check the spatial resolution of the system, a high kV method is used",
+          "answer": "False",
+          "explanation": "A low kV method is used to reduce scatter and maximize contrast"
+        },
+        {
+          "response": "",
+          "text": "The grid for spatial resolution testing is positioned parallel to the matrix",
+          "answer": "False",
+          "explanation": "The grid is generally angled at 45 degrees with respect to the matrix in order to avoid interference artefacts on the displayed image"
+        },
+        {
+          "response": "",
+          "text": "For contrast resolution, a low-contrast test object is used",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The test object for contrast resolution contains circular inserts of high atomic number",
+          "answer": "True",
+          "explanation": "Contrast resolution is tested with a low-contrast test object, such as a Leeds test object, comprising a flat disc 6 mm thick and 200–300 mm in diameter containing circular inserts of high-atomic-number material that produce varying levels of contrast"
+        },
+        {
+          "response": "",
+          "text": "The Leeds test object is used for contrast resolution testing",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "stem": "Regarding digital subtraction angiography (DSA)",
+      "options": [
+        {
+          "response": "",
+          "text": "It is a high-dose technique with a lower dose of contrast medium",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Misregistration is more prominent at the boundaries between low-contrast details",
+          "answer": "False",
+          "explanation": "Misregistration is caused by movement, particularly at the boundaries between high-contrast details, e.g. bone edges"
+        },
+        {
+          "response": "",
+          "text": "Pixel shifting can be done for each movement in the field of view",
+          "answer": "False",
+          "explanation": "Pixel shifting can be done over the full area of the image and does not allow for differential movement within the field of view"
+        },
+        {
+          "response": "",
+          "text": "The signals of the contrast and mask images are converted into their logarithms prior to subtraction because of the exponential nature of the attenuation",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Taking several mask and contrast images, with later subtraction according to the table position, will need less examination time but more contrast medium",
+          "answer": "False",
+          "explanation": "Most DSA allows acquisition of several mask and contrast images along the full length by table movement. The table position is recorded for each contrast image. The system will subtract the appropriate mask image according to the table position. The advantages of this method are less contrast medium and less time required for examination"
+        }
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "stem": "Regarding dual-energy subtraction",
+      "options": [
+        {
+          "response": "",
+          "text": "A high kV image displays a high contrast between bone and soft tissues",
+          "answer": "False",
+          "explanation": "A low kV image displays a high contrast between bone and soft tissues"
+        },
+        {
+          "response": "",
+          "text": "At low kV, the image contrast is influenced by tissue density rather than atomic number",
+          "answer": "False",
+          "explanation": "At high kV, the contrast of bone is significantly reduced, and image contrast is influenced by tissue density rather than atomic number"
+        },
+        {
+          "response": "",
+          "text": "Subtraction of the low kV from the high kV image improves the soft tissue contrast",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Subtraction of the high kV from the low kV image displays bony details",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "This technique involves taking three images: mask, low kV and high kV in rapid succession",
+          "answer": "False",
+          "explanation": "No mask image is needed"
+        }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "stem": "Regarding flat-plate detectors",
+      "options": [
+        {
+          "response": "",
+          "text": "Caesium iodide is used as the scintillator",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "They have the same detective quantum efficiency (DQE) as a conventional image intensifier",
+          "answer": "True",
+          "explanation": "The DQE for these detectors is comparable with an image intensifier (about 65%)"
+        },
+        {
+          "response": "",
+          "text": "They have the same dynamic range as a conventional image intensifier",
+          "answer": "False",
+          "explanation": "The principal advantages of these detectors are increased dynamic range and improved spatial resolution"
+        },
+        {
+          "response": "",
+          "text": "In a magnified field of view, the spatial resolution is increased",
+          "answer": "False",
+          "explanation": "The spatial resolution when using a flat-plate detector does not improve with magnification"
+        },
+        {
+          "response": "",
+          "text": "Both contrast resolution and distortion are less in comparison with a conventional image intensifier",
+          "answer": "False",
+          "explanation": "The contrast resolution is better and distortion is less"
+        }
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "stem": "In mammography",
+      "options": [
+        {
+          "response": "",
+          "text": "A low tube potential is needed because of the small irradiated tissue",
+          "answer": "False",
+          "explanation": "A low tube potential is needed to maximize the low-contrast subject"
+        },
+        {
+          "response": "",
+          "text": "The film has a smaller latitude compared with general radiography",
+          "answer": "True",
+          "explanation": "In mammography, there is not much difference between the different tissues imaged. Therefore, mammography film has a small latitude, i.e. the range of exposure needed to cover the grey scale is reduced, so that a small change in exposure gives an enhanced change in blackening of the film. This means that mammography film has a very steep linear part of the sensitometric curve"
+        },
+        {
+          "response": "",
+          "text": "The screen is made of caesium iodide",
+          "answer": "False",
+          "explanation": "It is made of rare earth materials"
+        },
+        {
+          "response": "",
+          "text": "Single-sided emulsion is used on the inner side of the film",
+          "answer": "False",
+          "explanation": "Single-sided emulsion is used on the distal side of the film"
+        },
+        {
+          "response": "",
+          "text": "The principal interaction is the photoelectric effect with L-shell electrons",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "stem": "Regarding targets and filters in mammography",
+      "options": [
+        {
+          "response": "",
+          "text": "The Rh–Mo target–filter combination is used for thicker breast tissue",
+          "answer": "False",
+          "explanation": "The combination of Rh-Mo is not used, because the effect of the filter would be to attenuate the Rh characteristic radiation with energy that is just greater than the K-edge of Mo"
+        },
+        {
+          "response": "",
+          "text": "Using a Rh filter with a Mo target increases the mean and peak photon energy of the spectrum compared with Mo–Mo",
+          "answer": "False",
+          "explanation": "Use of a Mo–Rh combination increases the mean energy of the spectrum, because it will transmit Bremsstrahlung photons in the energy range just below 23.2 keV, thus increasing the beam penetration, but peak photon energy is determined by the tube potential and the target material does not affect this"
+        },
+        {
+          "response": "",
+          "text": "Rh produces a characteristic radiation slightly lower than Mo",
+          "answer": "False",
+          "explanation": "The characteristic radiation of Rh is 23.2 keV and Mo is 20 keV"
+        },
+        {
+          "response": "",
+          "text": "The combination of W–Rh has the best contrast",
+          "answer": "False",
+          "explanation": "Contrast in different target–filter combinations decreases as follows: Mo–Mo > Mo–Rh > Rh–Rh > W–Rh"
+        },
+        {
+          "response": "",
+          "text": "In the Mo–Mo combination, the dose is higher than in other combinations",
+          "answer": "True",
+          "explanation": "The dose in different target–filter combinations decreases as follows: Mo–Mo > Mo–Rh > Rh–Rh > W–Rh"
+        }
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "stem": "Regarding mammography units",
+      "options": [
+        {
+          "response": "",
+          "text": "Spatial resolution is 8–10 line pairs mm-1",
+          "answer": "False",
+          "explanation": "Spatial resolution is 15 line pairs mm-1 or above"
+        },
+        {
+          "response": "",
+          "text": "The anode is on the chest wall side",
+          "answer": "False",
+          "explanation": "The cathode is on the chest wall side"
+        },
+        {
+          "response": "",
+          "text": "The focal spot size for the magnified view is 0.3 mm",
+          "answer": "False",
+          "explanation": "For the magnified view, the smaller focal spot size is used, which is 0.1–0.15 mm. The larger one (0.4 mm) is for the standard view"
+        },
+        {
+          "response": "",
+          "text": "The axial ray is directed to the centre of the X-ray field",
+          "answer": "False",
+          "explanation": "The tube is angled so that the axial ray is at the chest wall edge; this helps to produce films with a more uniform density"
+        },
+        {
+          "response": "",
+          "text": "The focus-to-film distance (FFD) is fixed in mammography",
+          "answer": "True",
+          "explanation": "Unlike general X-ray equipment, the distance between the tube head and the film cannot usually be varied. This is because the set is designed for a single examination and the focus-to-film distance used is considered the optimum. The normal FFD is 65 or 66 cm"
+        }
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "stem": "Regarding image quality in mammography",
+      "options": [
+        {
+          "response": "",
+          "text": "Compression reduces movement unsharpness but has no effect on geometrical unsharpness",
+          "answer": "False",
+          "explanation": "Compression reduces both geometrical and movement unsharpness, as well as scatter"
+        },
+        {
+          "response": "",
+          "text": "A magnified view increases unsharpness",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "A linear moving grid is generally used in mammography to reject scatter in more than one direction",
+          "answer": "False",
+          "explanation": "In mammography, moving grids are used for all normal contact images. The grids are generally linear, i.e. they reject scatter in one direction and move from side to side during the exposure, so that they are not seen on the images. Sometimes the exposure stops momentarily when the grid reaches one end of its path to prevent its image appearing on the film. If the exposure times are very short or if the grid speed is not set correctly, then grid lines can sometimes be seen on the image"
+        },
+        {
+          "response": "",
+          "text": "The mammography unit is designed to overcome the anode heel effect",
+          "answer": "False",
+          "explanation": "The radiation across the X-ray beam is not uniform due to the anode heel effect. However, in mammography what we are imaging is not of uniform thickness. A breast is more like a cone in shape. If a uniform X-ray beam were applied to a breast, the resultant density of the film would vary across the breast, being highest where the breast is thinnest (nipple edge) and lowest where the breast is thickest (chest wall edge). We want a uniform film density. To help achieve this we make use of the anode heel effect. In general radiography, the highest intensity part of the X-ray beam is in the centre of the field. In mammography, we want the highest intensity part of the beam to coincide with the thickest part of the breast, i.e. the chest wall edge. To achieve this, the tube is angled and collimated"
+        },
+        {
+          "response": "",
+          "text": "A typical compression force is 100–150 N",
+          "answer": "True",
+          "explanation": "The compression paddle can be moved up and down by a powered motor. During an examination, the compression paddle will slowly be brought down on to the breast. This compresses the breast to make it thinner. The maximum force applied should be no greater than 200 N (equivalent to an approximately 20 kg weight). Standard compression forces are normally between 100 and 150 N"
+        }
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "stem": "Regarding quality assurance in mammography",
+      "options": [
+        {
+          "response": "",
+          "text": "Small-field digital tests need to be carried out on a daily basis",
+          "answer": "True",
+          "explanation": "These are the main tests that might be performed on a daily basis: * Automatic exposure control (AEC) consistency * Film processor sensitometry * Small-field digital tests * Cassette cleaning * Inspection of breast support table and associated equipment"
+        },
+        {
+          "response": "",
+          "text": "Testing the automatic exposure control (AEC) consistency with thickness variation is performed daily",
+          "answer": "False",
+          "explanation": "These are the main tests that might be performed weekly: * AEC consistency with thickness variation * Image quality * Stereotactic localizing device"
+        },
+        {
+          "response": "",
+          "text": "The function of the compression device should be checked monthly",
+          "answer": "True",
+          "explanation": "These are the main tests that might be performed monthly: * Mechanical safety and function of the compression device * Densitometer calibration"
+        },
+        {
+          "response": "",
+          "text": "kV accuracy can be checked monthly",
+          "answer": "False",
+          "explanation": "The following should be tested every 6 months: * kV accuracy * X-ray output * Filtration and half-value layer (HVL) * Focal spot size"
+        },
+        {
+          "response": "",
+          "text": "Image quality should be checked weekly",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "stem": "Regarding the dose and dose measurement in mammography",
+      "options": [
+        {
+          "response": "",
+          "text": "The dose and breast thickness are directly proportional",
+          "answer": "False",
+          "explanation": "For larger breasts, the doses are much higher than for average breasts, as there is a greater thickness of material for the radiation to penetrate and so more is absorbed. Also, loss of reciprocity in the film means even larger doses are needed to achieve the right film density. However, the dose is not linear and rises more steeply after about 6 cm (Fig.6.3)"
+        },
+        {
+          "response": "",
+          "text": "In a single-sided screen, the resolution is better but a higher dose is required",
+          "answer": "True",
+          "explanation": "A back screen means that, as most interactions still take place at the edge of the screen nearest to the radiation source, the film is nearer the interaction, i.e. light source, and the light does not spread out as much, giving a better resolution. By using single-sided film, the emulsion is in direct contact with the screen and the resolution is therefore as good as possible. However, use of a single screen and single-sided emulsion means than a higher dose is required than if doubled-sided film with two screens were used"
+        },
+        {
+          "response": "",
+          "text": "Automatic exposure control (AEC) terminates the exposure after a fixed dose to the detector",
+          "answer": "False",
+          "explanation": "Due to beam hardening, the amount of radiation dose reaching the detector varies with breast thickness and composition. If the AEC worked by detecting a fixed dose, film density would vary with breast variation"
+        },
+        {
+          "response": "",
+          "text": "By varying kV, a greater dose saving can be made for the same loss in contrast, in comparison with changing the target–filter combination",
+          "answer": "False",
+          "explanation": "By varying the kV, you can reduce the dose and exposure time. However, by changing the target–filter combination, a greater dose saving can be made for the same loss in contrast, or a lower loss in contrast can be achieved for the same dose decrease"
+        },
+        {
+          "response": "",
+          "text": "The entrance surface dose (ESD) is proportional to tube kV2",
+          "answer": "False",
+          "explanation": "Increasing the kV does increase the output of the X-ray tube and the ESD, but output at mammographic energies is roughly proportional to kV 3 . In general radiography, output is approximately proportional to kV 2"
+        }
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "stem": "Which of the following are typical features of a mammography set?",
+      "options": [
+        {
+          "response": "",
+          "text": "The automatic exposure control (AEC) detector is placed behind the cassette",
+          "answer": "True",
+          "explanation": "In general radiography, the AEC detector is normally placed between the patient and the film. However, if this were the case in mammography, the AEC device would be visible on the images and for this reason, the AEC detector is placed behind the cassette"
+        },
+        {
+          "response": "",
+          "text": "The anode does not rotate",
+          "answer": "False",
+          "explanation": "If the anode did not rotate, it would not cope with being heated"
+        },
+        {
+          "response": "",
+          "text": "Multiple targets and filters are used",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "A variable field size is used",
+          "answer": "False",
+          "explanation": "Mammographic equipment has fixed field sizes, normally 18 x 24 cm and 24 x 30 cm"
+        },
+        {
+          "response": "",
+          "text": "A small-field digital system is used for stereo localization",
+          "answer": "True",
+          "explanation": "Small-field digital technology is now the standard method used for stereo localization. When a small-field digital system is used for stereo localization, the image is normally available within 30 s of the exposure and no film handling is required. This significantly reduces the procedure time, which means that movement of the patient is a much smaller issue. It also reduces the total time for the procedure"
+        }
+      ]
+    }
+  ]
+
+}

@@ -1,0 +1,1444 @@
+{
+  name: "FRCR Physics MCQs in Clinical Radiology",
+  authors: "Ibrahim Lutfi Shuaib, Hafiz M. Zin, Mohd Zahri Abdul Aziz, Noor Diyana Osman, Rafidah Zainon",
+  slug: "examination-4",
+  questions: [
+    {
+      "questionNumber": 1,
+      "stem": "Regarding image receptor in digital radiography",
+      "options": [
+        {
+          "response": "",
+          "text": "The image receptor is divided into a matrix of pixels",
+          "answer": "True",
+          "explanation": "Image receptor in digital radiography such as flat panel image detector consists of matrix of pixel which is an array of pixels that form the digital image"
+        },
+        {
+          "response": "",
+          "text": "Increasing the number of pixels reduces the spatial resolution",
+          "answer": "False",
+          "explanation": "Increasing the number of pixel or reducing the size of pixel will allow detection of finer details and increases the spatial resolution"
+        },
+        {
+          "response": "",
+          "text": "Fill factor is the percentage of pixel area that is sensitive to radiation",
+          "answer": "True",
+          "explanation": "Fill factor is the ratio of the pixel area that is radiation sensitive to the actual size of the pixel multiplied by 100"
+        },
+        {
+          "response": "",
+          "text": "Signal in pixel array is read out using the associated electronic circuitry",
+          "answer": "True",
+          "explanation": "The electronic circuits transfer the charge from the pixels"
+        },
+        {
+          "response": "",
+          "text": "Each pixel contains a photoconductor",
+          "answer": "True",
+          "explanation": "Photoconductor produces electric charge following radiation interaction in the pixel"
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "stem": "Radiographic contrast",
+      "options": [
+        {
+          "response": "",
+          "text": "is affected by the subject contrast",
+          "answer": "True",
+          "explanation": "Subject contrast is the ratio of radiation intensities transmitted through different areas of the component being evaluated"
+        },
+        {
+          "response": "",
+          "text": "is affected by the detector contrast",
+          "answer": "True",
+          "explanation": "Detector contrast refers to the intensity differences in the resulted image. It is dependent on the detector used such as film or flat panel imager"
+        },
+        {
+          "response": "",
+          "text": "is affected by the linear attenuation coefficients of the structures",
+          "answer": "True",
+          "explanation": "Different structures have different linear attenuation coefficients"
+        },
+        {
+          "response": "",
+          "text": "is enhanced using digital image processing",
+          "answer": "False",
+          "explanation": "Digital radiography has the capability to perform digital processing to enhance image contrast"
+        },
+        {
+          "response": "",
+          "text": "improves with the use of contrast media",
+          "answer": "True",
+          "explanation": "Contrast media affects the attenuation coefficients of the structures"
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "stem": "Regarding scintillation detectors in a dose calibrator",
+      "options": [
+        {
+          "response": "",
+          "text": "Thallium-doped sodium iodide is an example",
+          "answer": "True",
+          "explanation": "Sodium iodide activated with thallium is used for gamma ray energy measurements"
+        },
+        {
+          "response": "",
+          "text": "The type of the scintillating material affects the energy gap",
+          "answer": "True",
+          "explanation": "Size of the energy band (in eV) depends on the type of the material"
+        },
+        {
+          "response": "",
+          "text": "It emits visible light upon absorption of ionising radiation",
+          "answer": "True",
+          "explanation": "Scintillators are materials that emit visible or ultraviolet light after the interaction of ionising radiation with the material"
+        },
+        {
+          "response": "",
+          "text": "Photomultiplier tubes are used to amplify the signal",
+          "answer": "True",
+          "explanation": "Photomultiplier tubes are used to convert light to electrical signal and amplify the signal as well"
+        },
+        {
+          "response": "",
+          "text": "Inorganic scintillator is used",
+          "answer": "True",
+          "explanation": "Inorganic scintillator has high atomic number and high density. Examples are NaI, CsI, Gd2O2S, lithium glasses and ZnS"
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "stem": "Electrons in an atom",
+      "options": [
+        {
+          "response": "",
+          "text": "have a higher mass compared to proton",
+          "answer": "False",
+          "explanation": "Electrons have a mass of 9.12 × 10−31 kg, whereas protons have a mass of 1.67 × 10−27 kg"
+        },
+        {
+          "response": "",
+          "text": "have a positive charge",
+          "answer": "False",
+          "explanation": "Electrons have a negative charge of −1"
+        },
+        {
+          "response": "",
+          "text": "are equal to the number of protons in a non-ionised atom",
+          "answer": "True",
+          "explanation": "The number of electron is the same as the number of proton in a non-ionised atom"
+        },
+        {
+          "response": "",
+          "text": "are equal to the mass number",
+          "answer": "False",
+          "explanation": "Mass number is the sum of proton and neutron"
+        },
+        {
+          "response": "",
+          "text": "orbit the nucleus in specific shells",
+          "answer": "True",
+          "explanation": "Electrons orbit the nucleus in electron orbits according to Bohr model"
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "stem": "Regarding X-rays produced in an X-ray tube",
+      "options": [
+        {
+          "response": "",
+          "text": "The spectrum of the X-rays produced is characteristic of a given target material",
+          "answer": "True",
+          "explanation": "Characteristic X-rays are produced when filament electrons collide with an orbital electron. Each target material has a specific arrangement of the electrons at different energy levels. The collision resulted in the production of X-rays that is characteristic of the material"
+        },
+        {
+          "response": "",
+          "text": "Bremsstrahlung X-ray is produced from filament electron dislodging orbital electrons in the target",
+          "answer": "False",
+          "explanation": "Bremsstrahlung X-ray is produced from filament electrons interacting with the target nucleus"
+        },
+        {
+          "response": "",
+          "text": "An increase in the tube voltage (kV) leads to an increase in X-ray energy",
+          "answer": "False",
+          "explanation": "An increase in the tube voltage does not lead to an increase in the X-ray energy"
+        },
+        {
+          "response": "",
+          "text": "Filament electrons with 90 keV dislodge K-shell electrons in a tungsten target",
+          "answer": "True",
+          "explanation": "The filament electrons have an energy larger than the binding energy of the K-shell electrons in tungsten atoms which is 69.5 keV"
+        },
+        {
+          "response": "",
+          "text": "Characteristic X-rays are the main component of X-rays produced from a tungsten target",
+          "answer": "False",
+          "explanation": "Bremsstrahlung X-rays are the main component of X-rays produced from a tungsten target"
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "stem": "Regarding Compton interaction",
+      "options": [
+        {
+          "response": "",
+          "text": "It involves an outer shell electron",
+          "answer": "True",
+          "explanation": "Compton interaction involves the collision of X-ray with an outer shell electron"
+        },
+        {
+          "response": "",
+          "text": "The probability of interaction is dependent on the number of the atomic number in the absorbing material",
+          "answer": "False",
+          "explanation": "Probability of Compton interaction is dependent on the number of electrons in the absorbing material. The number of electrons per unit mass is the same for all materials irrespective of its atomic number"
+        },
+        {
+          "response": "",
+          "text": "The probability of Compton attenuation decreases as photon energy is increased",
+          "answer": "True",
+          "explanation": "Probability of Compton interaction is inversely proportional to photon energy"
+        },
+        {
+          "response": "",
+          "text": "It causes scattered radiation in the material",
+          "answer": "True",
+          "explanation": "The interaction produces scattered radiation"
+        },
+        {
+          "response": "",
+          "text": "It causes ejection of a recoil electron",
+          "answer": "True",
+          "explanation": "The interaction resulted in the electron orbit to be ejected from its orbit"
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "stem": "The heel effect is",
+      "options": [
+        {
+          "response": "",
+          "text": "due to attenuation of X-rays in the target material",
+          "answer": "True",
+          "explanation": "The heel effect is due to the higher attenuation of X-rays in the thicker side of the anode target"
+        },
+        {
+          "response": "",
+          "text": "greater on the cathode side of the X-ray field",
+          "answer": "True",
+          "explanation": "The anode angulation resulted in the photons emitted on the anode side of the field to have lower intensity as the photons need to penetrate larger target thickness and undergo more attenuation"
+        },
+        {
+          "response": "",
+          "text": "bigger for a smaller anode angle",
+          "answer": "True",
+          "explanation": "The heel effect increases with smaller anode angle or steeper target as the thickness of the target material becomes larger and thus photons have to penetrate thicker target"
+        },
+        {
+          "response": "",
+          "text": "more pronounced at lower kVp",
+          "answer": "True",
+          "explanation": "The heel effect is more pronounced at lower kVp because the photons are less penetrating. The differences in the attenuation in the anode side are more noticeable"
+        },
+        {
+          "response": "",
+          "text": "useful in spine radiographs",
+          "answer": "True",
+          "explanation": "The technique can compensate the difference in patient thickness. Less penetrating X-rays can be positioned on the thinner side of the patient"
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "stem": "Regarding radiation units",
+      "options": [
+        {
+          "response": "",
+          "text": "Equivalent dose is a product of absorbed dose multiplied by the radiation weighting factor and tissue weighting factor",
+          "answer": "True",
+          "explanation": "Equivalent dose is the effective dose multiplied by the tissue weighting factor"
+        },
+        {
+          "response": "",
+          "text": "Effective dose is a product of absorbed dose multiplied by the radiation weighting factor",
+          "answer": "True",
+          "explanation": "Effective dose is the absorbed dose multiplied by the radiation weighting factor"
+        },
+        {
+          "response": "",
+          "text": "Dose limit is the limit of radiation dose for each individual",
+          "answer": "True",
+          "explanation": "Dose limit ensures each individual is not exposed to an excessive amount of ionising radiation"
+        },
+        {
+          "response": "",
+          "text": "Dose area product is the absorbed dose divided by the unit area",
+          "answer": "False",
+          "explanation": "Dose area product is the absorbed dose divided by the unit area"
+        },
+        {
+          "response": "",
+          "text": "The tissue weighting factors are the same for certain organs",
+          "answer": "True",
+          "explanation": "For example, the tissue weighting factor is 0.04 for the bladder, liver, oesophagus and thyroid"
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "stem": "Regarding effects of ionising radiation on tissue",
+      "options": [
+        {
+          "response": "",
+          "text": "Production of photoelectrons causes the effect",
+          "answer": "True",
+          "explanation": "Photoelectric interaction produces secondary electrons in the tissue that resulted in tissue damage through ionisation and excitation of atom"
+        },
+        {
+          "response": "",
+          "text": "It depends on the mitotic rates of a cell",
+          "answer": "False",
+          "explanation": "Cells with high mitotic rate are more affected because the cells are more radiosensitive"
+        },
+        {
+          "response": "",
+          "text": "Gamma rays cause direct damage",
+          "answer": "False",
+          "explanation": "Gamma rays are indirectly ionising radiation and thus cause indirect damage"
+        },
+        {
+          "response": "",
+          "text": "It is caused by damage of DNA by free radicals",
+          "answer": "True",
+          "explanation": "The damage in biological tissue is due to free radical production from interaction of electrons with water in the tissue"
+        },
+        {
+          "response": "",
+          "text": "Younger person has a greater risk of radiation damage compared to adult",
+          "answer": "True",
+          "explanation": "Children are more radiosensitive compared to adults"
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "stem": "Amount of transmission radiation detected by imaging device is decreased by",
+      "options": [
+        {
+          "response": "",
+          "text": "increasing the air gap distance",
+          "answer": "True",
+          "explanation": "Increasing the air gap distance reduces transmission radiation detected by receptors due to geometrical divergence"
+        },
+        {
+          "response": "",
+          "text": "reducing the field area",
+          "answer": "True",
+          "explanation": "High-density collimator filters unnecessary scatter radiation detected from primary beam. Therefore, transmission radiation detected by imaging device is decreased"
+        },
+        {
+          "response": "",
+          "text": "using the compression technique",
+          "answer": "False",
+          "explanation": "Thinner subject exposed to X-rays produced lesser scatter radiation compared to thicker subject. Thus, the amount of transmission radiation detected by imaging device is decreased"
+        },
+        {
+          "response": "",
+          "text": "using an anti-scatter grid",
+          "answer": "True",
+          "explanation": "Anti-scatter grid filters scatter radiation before reaching the imaging device"
+        },
+        {
+          "response": "",
+          "text": "reducing kVp of X-rays",
+          "answer": "True",
+          "explanation": "As the kVp is reduced, the average photon energy is reduced, and most of the photons does not have sufficient energy to reach the imaging device"
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "stem": "Regarding intensifying screens in screen film radiography",
+      "options": [
+        {
+          "response": "",
+          "text": "The traditional phosphor used in intensifying screen is lanthanum oxybromide",
+          "answer": "False",
+          "explanation": "The traditional phosphor used in intensifying screen is calcium tungstate"
+        },
+        {
+          "response": "",
+          "text": "Rare earth screen is efficient in converting X-rays to lights",
+          "answer": "True",
+          "explanation": "Rare earth screen has higher quantum detection efficiency (QDE) compared to calcium tungstate"
+        },
+        {
+          "response": "",
+          "text": "Use of intensifying screens reduces radiation dose to the patient",
+          "answer": "True",
+          "explanation": "Intensifying screen is able to convert one X-ray photon to multiple light photons as output"
+        },
+        {
+          "response": "",
+          "text": "The spectral emission of the screen should match the spectral sensitivity of the film",
+          "answer": "True",
+          "explanation": "For an efficient signal detection, spectral emission of the screen should match the spectral sensitivity of the film"
+        },
+        {
+          "response": "",
+          "text": "Screen material is chosen from a phosphorescence crystal",
+          "answer": "False",
+          "explanation": "Unlike fluorescence, a phosphorescent material does not immediately re-emit the radiation it absorbs. Delay of image emission due to phosphorescence image would be recorded on the next film"
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "stem": "Part of fluoroscopic image intensifier includes",
+      "options": [
+        {
+          "response": "",
+          "text": "focusing electrodes",
+          "answer": "True",
+          "explanation": "Focusing electrodes are used to focus electrons from photocathode to output phosphor"
+        },
+        {
+          "response": "",
+          "text": "zinc cadmium sulphide screen",
+          "answer": "True",
+          "explanation": "Zinc cadmium sulphide was used as an output screen/output phosphor"
+        },
+        {
+          "response": "",
+          "text": "vacuum housing",
+          "answer": "True",
+          "explanation": "A vacuum condition is needed for optimum acceleration of electrons to output phosphor"
+        },
+        {
+          "response": "",
+          "text": "rotating anode",
+          "answer": "False",
+          "explanation": "Rotating anode is a component of X-ray tube"
+        },
+        {
+          "response": "",
+          "text": "polyester base",
+          "answer": "False",
+          "explanation": "Polyester base is a component of film and intensifying screen"
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "stem": "Adjustment of brightness in fluoroscopy is made by",
+      "options": [
+        {
+          "response": "",
+          "text": "controlling kVp",
+          "answer": "True",
+          "explanation": "By controlling kVp, the average photon energy is modified; brightness in fluoroscopy can be controlled"
+        },
+        {
+          "response": "",
+          "text": "changing mA",
+          "answer": "True",
+          "explanation": "mA influences number of photons produced therefore brightness in fluoroscopy"
+        },
+        {
+          "response": "",
+          "text": "using CCD camera",
+          "answer": "False",
+          "explanation": "CCD is used as a video recorder in fluoroscopy, not controlling fluoroscopic image brightness"
+        },
+        {
+          "response": "",
+          "text": "adjusting sensitivity of TV system",
+          "answer": "True",
+          "explanation": "Adjusting sensitivity of TV system means adjusting automatic gain control on TV monitor"
+        },
+        {
+          "response": "",
+          "text": "using automatic brightness control",
+          "answer": "True",
+          "explanation": "Automatic brightness control is the automatic adjustment of the exposure factors such as mA and kVp"
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "stem": "Practical methods in protecting the patients from radiation include",
+      "options": [
+        {
+          "response": "",
+          "text": "collimation should always be to the region of interest",
+          "answer": "True",
+          "explanation": "Tight collimation reduces unnecessary dose to patient"
+        },
+        {
+          "response": "",
+          "text": "magnified field of views is used in fluoroscopy procedure",
+          "answer": "True",
+          "explanation": "Selection of magnification reduces gain of image intensifier"
+        },
+        {
+          "response": "",
+          "text": "supplementary shielding is used to protect sensitive structures within field of view",
+          "answer": "True",
+          "explanation": "When sensitive organs need to be protected, supplementary shield is used"
+        },
+        {
+          "response": "",
+          "text": "image intensifier is kept as far as possible to the patient in fluoroscopy",
+          "answer": "False",
+          "explanation": "Image intensifier should be as close as possible to reduce dose and improve image quality"
+        },
+        {
+          "response": "",
+          "text": "removal of anti-scatter grids for extremity X-ray procedure",
+          "answer": "True",
+          "explanation": "Use of grids for extremity X-ray cases will require higher exposure factors. This procedure does not produce large scatter compared to thicker body part"
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "stem": "The risk of deterministic effect includes",
+      "options": [
+        {
+          "response": "",
+          "text": "sterility",
+          "answer": "True",
+          "explanation": "The sterility effect is a deterministic effect with threshold dose of 2–3 Gy"
+        },
+        {
+          "response": "",
+          "text": "leukaemia",
+          "answer": "False",
+          "explanation": "The leukaemia effect is a stochastic effect"
+        },
+        {
+          "response": "",
+          "text": "formation of cataract",
+          "answer": "True",
+          "explanation": "The cataract effect is a deterministic effect with threshold dose of 5 Gy"
+        },
+        {
+          "response": "",
+          "text": "hair loss",
+          "answer": "True",
+          "explanation": "Hair loss effect is a deterministic effect with threshold dose of 2–5 Gy"
+        },
+        {
+          "response": "",
+          "text": "skin erythema",
+          "answer": "True",
+          "explanation": "Skin erythema is a deterministic effect with threshold dose of 2–5 Gy"
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "stem": "In radioactive decay",
+      "options": [
+        {
+          "response": "",
+          "text": "transition energy is the energy released in a decay event",
+          "answer": "True",
+          "explanation": "The energy released in a decay event is called the transition energy, sometimes designated as Q. Most of this energy is imparted to emitted ­particles and photons, with a small (usually insignificant) fraction being imparted to the recoiling nucleus"
+        },
+        {
+          "response": "",
+          "text": "the source of energy released is a conversion of mass into energy",
+          "answer": "True",
+          "explanation": "The amount of energy emitted will be equal to the amount of energy produced by fusion of hydrogen to helium over that lifetime. E = mc2. Here m is the amount of matter that is converted into energy"
+        },
+        {
+          "response": "",
+          "text": "it results in the transformation of one nuclear species into another",
+          "answer": "True",
+          "explanation": "Particles from one decay are used to transform to another atomic nucleus"
+        },
+        {
+          "response": "",
+          "text": "activity is an average number of radioactive decays per unit time",
+          "answer": "True",
+          "explanation": "The activity of a sample is the average number of disintegrations per second. Its unit is the becquerel (Bq)"
+        },
+        {
+          "response": "",
+          "text": "decay constant is a fraction of nuclei that will decay per unit time",
+          "answer": "True",
+          "explanation": "It is a probability of a nucleus to decay per second"
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "stem": "Concerning gamma camera",
+      "options": [
+        {
+          "response": "",
+          "text": "It is also known as scintillation camera",
+          "answer": "True",
+          "explanation": "A scintillation camera detects radioactive energy that is emitted from the patient’s body and converts it into an image"
+        },
+        {
+          "response": "",
+          "text": "The thickness of the NaI(Tl) crystal determines its detection efficiency",
+          "answer": "True",
+          "explanation": "The detector efficiency is the percentage of X-rays from a source passing though the scintillator that interact and are counted in the final spectrum. Better detection efficiency is obtained with the use of thicker NaI(Tl) crystal"
+        },
+        {
+          "response": "",
+          "text": "A collimator is used to selectively absorb unwanted radiation",
+          "answer": "True",
+          "explanation": "Only photons travelling along the desired path are allowed to pass through the detector"
+        },
+        {
+          "response": "",
+          "text": "Pinhole collimators are best suited for magnification imaging of the thyroid",
+          "answer": "True",
+          "explanation": "Pinhole collimator is used for magnification of small and thin structures"
+        },
+        {
+          "response": "",
+          "text": "Septal materials with low atomic numbers provide best results",
+          "answer": "False",
+          "explanation": "Septal materials with high atomic number and high density provide the best results"
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "stem": "Regarding rules for avoiding internal radiation dose",
+      "options": [
+        {
+          "response": "",
+          "text": "Work should be performed on absorbent pads to catch spills",
+          "answer": "True",
+          "explanation": "Absorbent pads are used to soak up the water-based liquid"
+        },
+        {
+          "response": "",
+          "text": "Containers with sharp edges should not be used for radioactive materials",
+          "answer": "True",
+          "explanation": "This is to avoid any damage to the radioactive materials"
+        },
+        {
+          "response": "",
+          "text": "Lab coats should be worn when handling radioactive sources",
+          "answer": "True",
+          "explanation": "This is to prevent the personnel from any accident during handling of radioactive materials"
+        },
+        {
+          "response": "",
+          "text": "Work with radioactive gases should be performed in ventilated fume hood",
+          "answer": "True",
+          "explanation": "The ventilated fume hood protects the user by pulling air into and through the hood opening, and this inward airflow prevents vapours and gasses from entering the breathing zone of the fume hood user"
+        },
+        {
+          "response": "",
+          "text": "No foodstuff should be stored in the laboratory refrigerators",
+          "answer": "True",
+          "explanation": "Refrigerators used for storing food or beverages must be dedicated to food only and should be located outside of the laboratory"
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "stem": "According to the Ionising Radiations (Medical Exposure) Regulations 2000 (IRMER)",
+      "options": [
+        {
+          "response": "",
+          "text": "The practitioner is required to establish local DRLs for dose audit",
+          "answer": "False",
+          "explanation": "Establishment of the DRLs is the duty of the employer, not the practitioner"
+        },
+        {
+          "response": "",
+          "text": "A registered healthcare professional can act as a referrer",
+          "answer": "True",
+          "explanation": "A registered healthcare professional is entitled to act as a referrer as defined by the employer"
+        },
+        {
+          "response": "",
+          "text": "The employer is required to provide referrer recommendations on referral criteria",
+          "answer": "True",
+          "explanation": "The employer shall establish recommendations on referral criteria for medical exposures, including radiation doses to the referrer"
+        },
+        {
+          "response": "",
+          "text": "No restriction on requested examination is stated for healthcare professionals as a referrer",
+          "answer": "False",
+          "explanation": "Restrictions are applied to the referrer including other healthcare professionals on examination that may be requested. The requested examination shall follow the referral criteria recommended by the employer"
+        },
+        {
+          "response": "",
+          "text": "Medical physics expert is involved in patient dosimetry",
+          "answer": "True",
+          "explanation": "A medical physics expert shall be involved in consultation on dose optimisation including patient dosimetry and quality assurance"
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "stem": "The content of local rules includes",
+      "options": [
+        {
+          "response": "",
+          "text": "contingency plans",
+          "answer": "True",
+          "explanation": "The local rules shall include a summary of contingency plans for any possible radiation accidents that covers the restriction of radiation exposure and the health and safety of persons who may be affected by such accident"
+        },
+        {
+          "response": "",
+          "text": "description of controlled and supervised areas",
+          "answer": "True",
+          "explanation": "The local rules shall adequately describe the identification and detail the description of designated, controlled and supervised areas including the identification of person who may remain in those areas"
+        },
+        {
+          "response": "",
+          "text": "requirements for the use of personal dosimeters",
+          "answer": "True",
+          "explanation": "The local rules also describe the requirements for the use of personal dosimeters to monitor the dose to classified staff"
+        },
+        {
+          "response": "",
+          "text": "description of dose limits for employees",
+          "answer": "False",
+          "explanation": "Local rules only describe the safe methods of working with ionising radiation, not the dose limits"
+        },
+        {
+          "response": "",
+          "text": "arrangements for pregnant patient",
+          "answer": "False",
+          "explanation": "It includes the arrangements for pregnant and breastfeeding staff, not the pregnant patient"
+        }
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "stem": "Concerning the practical aspects of radiation protection for staff",
+      "options": [
+        {
+          "response": "",
+          "text": "A 120 mm thickness of solid brick provides protection equivalent to 1 mm of lead",
+          "answer": "True",
+          "explanation": "A shielding with single thickness of solid brick of 120 mm thickness will provide protection equivalent to 1 mm of lead"
+        },
+        {
+          "response": "",
+          "text": "Under-couch tube is recommended during fluoroscopy examination",
+          "answer": "True",
+          "explanation": "Under-couch tube is recommended during fluoroscopy examination so as to reduce the dose from scattered radiation to the operator"
+        },
+        {
+          "response": "",
+          "text": "A thinner lead apron is recommended for interventional radiology",
+          "answer": "False",
+          "explanation": "A thicker lead apron (0.5 mm thickness rather than 0.25 or 0.35 mm) should be used for interventional radiology. The thickness of lead apron to be used depends on the local risk received from each procedure"
+        },
+        {
+          "response": "",
+          "text": "The primary beam is collimated less than 15% of the FOV on the fluoroscopy monitor",
+          "answer": "False",
+          "explanation": "The primary beam should be collimated only to the region being examined or should not be greater than or within the size of image receptor or no more than 10% larger than the FOV on the monitor"
+        },
+        {
+          "response": "",
+          "text": "A glove of at least 0.25 mm lead equivalence should be worn when palpating a patient",
+          "answer": "True",
+          "explanation": "A glove of at least 0.25 mm should be worn by fluoroscopists to protect their hands in the primary beam when palpating patients"
+        }
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "stem": "Concerning tomographic reconstruction",
+      "options": [
+        {
+          "response": "",
+          "text": "It measures the number of X-ray transmitted through the patient along individual projection lines in CT",
+          "answer": "True",
+          "explanation": "Each ray that is acquired in CT is a transmission measurement through the patient along a line, where the detector measures transmitted X-ray intensity"
+        },
+        {
+          "response": "",
+          "text": "Radon transform is a basis for reconstructing tomographic images from measured projection data",
+          "answer": "True",
+          "explanation": "The radon transform and its inverse provide the mathematical basis for reconstructing tomographic images from measured projection or scattering data"
+        },
+        {
+          "response": "",
+          "text": "Filtered backprojection is referred to as the convolution method",
+          "answer": "True",
+          "explanation": "The filtered backprojection (FBP) algorithm is referred to as the convolution method using a one-dimensional integral equation for the reconstruction of a two-dimensional image"
+        },
+        {
+          "response": "",
+          "text": "Backprojection propagates the measured sinogram back into the image space",
+          "answer": "True",
+          "explanation": "The backprojection describes the propagation of the measured projection data into the image domain"
+        },
+        {
+          "response": "",
+          "text": "It is a technique that allows visualisation of internal structure",
+          "answer": "True",
+          "explanation": "CT allows visualisation of internal structure without any overlapping tissue"
+        }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "stem": "In CT windowing",
+      "options": [
+        {
+          "response": "",
+          "text": "The CT image brightness is adjusted via the window level",
+          "answer": "False",
+          "explanation": "The CT image brightness is adjusted via the window width. It is the measure of the range of CT numbers that an image contains"
+        },
+        {
+          "response": "",
+          "text": "The CT image contrast is adjusted via the window width",
+          "answer": "False",
+          "explanation": "The CT image contrast is adjusted via the window level. A window level is also referred to the window centre and is the midpoint of the range of the CT numbers displayed"
+        },
+        {
+          "response": "",
+          "text": "A wide window displays all the CT numbers",
+          "answer": "True",
+          "explanation": "A wide window displays all the CT numbers which will result in different attenuations between soft tissues to become obscured"
+        },
+        {
+          "response": "",
+          "text": "When the window level is decreased, the CT image will be brighter",
+          "answer": "True",
+          "explanation": "When the window level is decreased, the range of the CT numbers displayed is small; thus, the CT image will be brighter"
+        },
+        {
+          "response": "",
+          "text": "Wide window is best used in lung examination",
+          "answer": "True",
+          "explanation": "Wide window can visualise air and vessels clearly"
+        }
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "stem": "In computed tomography (CT) imaging",
+      "options": [
+        {
+          "response": "",
+          "text": "The CT number of fat is higher than water",
+          "answer": "False",
+          "explanation": "CT number of fat (−60 to −120 HU) is lower than water (0 HU)"
+        },
+        {
+          "response": "",
+          "text": "High level of scatter reaches the CT detectors",
+          "answer": "False",
+          "explanation": "CT is very effective in eliminating scatter via the use of thin collimators. This is the main contributing factor to their superior contrast resolution"
+        },
+        {
+          "response": "",
+          "text": "Windowing is a technique to adjust the greyscale",
+          "answer": "True",
+          "explanation": "Contrast can be adjusted by using windowing technique"
+        },
+        {
+          "response": "",
+          "text": "CT values increase when the atomic number of the material is higher than water",
+          "answer": "True",
+          "explanation": "High atomic number increases the X-ray attenuation value and subsequently increases the CT values"
+        },
+        {
+          "response": "",
+          "text": "Air corresponds to a CT value of 0 HU",
+          "answer": "False",
+          "explanation": "Air corresponds to a CT value of −1000 HU"
+        }
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "stem": "Concerning CT development",
+      "options": [
+        {
+          "response": "",
+          "text": "First-generation scanner used a single detector",
+          "answer": "True",
+          "explanation": "It used a single pencil beam"
+        },
+        {
+          "response": "",
+          "text": "First-generation scanner utilised a 360° spiral motion for imaging",
+          "answer": "False",
+          "explanation": "It used translate-rotate movement of tube detector with pencil beam"
+        },
+        {
+          "response": "",
+          "text": "Second-generation scanner used fan-beam system",
+          "answer": "True",
+          "explanation": "It used translate-rotate movements of tube detector with fan-shaped X-ray beam"
+        },
+        {
+          "response": "",
+          "text": "Third-generation scanner utilised a static detector arc",
+          "answer": "False",
+          "explanation": "Third-generation scanner utilised a rotating detector arc"
+        },
+        {
+          "response": "",
+          "text": "Fourth-generation scanner used a complete stationary detector rings",
+          "answer": "True",
+          "explanation": "It used multiple detectors (more than 2000) arranged in an outer ring which is fixed"
+        }
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "stem": "Regarding single-photon emission computed tomography (SPECT) system",
+      "options": [
+        {
+          "response": "",
+          "text": "It is a multidetector gamma camera approach",
+          "answer": "True",
+          "explanation": "It uses two or three detectors or heads and rotates around the patient’s torso"
+        },
+        {
+          "response": "",
+          "text": "Bismuth germanate oxide is the detector element",
+          "answer": "False",
+          "explanation": "Bismuth germanate oxide (BGO) is a PET detector element. NaI(Tl) is a SPECT detector element"
+        },
+        {
+          "response": "",
+          "text": "Spatial resolution is characterised by the line spread function",
+          "answer": "True",
+          "explanation": "Line spread function is full width at half-maximum (FWHM) of the radiation profile from a point or line source of radiation projected by the collimator onto the detector"
+        },
+        {
+          "response": "",
+          "text": "Bar phantom is used to test spatial resolution of the system",
+          "answer": "True",
+          "explanation": "Four-quadrant bar phantom offers precise determination of camera intrinsic resolution, collimator spatial resolution, field size and linearity"
+        },
+        {
+          "response": "",
+          "text": "Image contrast refers to differences in density in the image that corresponds to different concentrations of activity in the patient",
+          "answer": "True",
+          "explanation": "It is referred to as lesion-to-background uptake or concentration ratio"
+        }
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "stem": "Concerning type of noise in SPECT",
+      "options": [
+        {
+          "response": "",
+          "text": "Random noise caused by random statistical variations in counting rate",
+          "answer": "True",
+          "explanation": "Statistical variations of the count rates give rise to random noise that increases with decreasing information density"
+        },
+        {
+          "response": "",
+          "text": "Random noise refers to the mottled appearance of images",
+          "answer": "True",
+          "explanation": "Random noise (also referred to as statistical noise) is the result of statistical variations in the counts being detected"
+        },
+        {
+          "response": "",
+          "text": "Random noise is caused by imaging system artefacts",
+          "answer": "False",
+          "explanation": "Structured noise is caused by imaging system artefacts"
+        },
+        {
+          "response": "",
+          "text": "Structured noise refers to non-random variations in counting rate superimposed on the object structures of interest",
+          "answer": "True",
+          "explanation": "Structured noise is derived from non-uniformities in the scintillation camera and overlying structures in patient body"
+        },
+        {
+          "response": "",
+          "text": "Respiratory motion contributes to structured noise",
+          "answer": "True",
+          "explanation": "Motion of patients undergoing cardiac SPECT perfusion imaging causes artefacts in the acquired images which may lead to difficulty in interpretation"
+        }
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "stem": "Correctly match difference between positron emission tomography (PET) and single-photon emission computed tomography (SPECT)",
+      "options": [
+        {
+          "response": "",
+          "text": "PET: It involves annihilation coincidence detection | SPECT: It involves gamma rays detection",
+          "answer": "True",
+          "explanation": "PET: annihilation is the process that occurs when an electron collides with a positron to produce two photons. SPECT: it requires delivery of a gamma-emitting radioisotope (a radionuclide) into the patient, normally through injection into the bloodstream"
+        },
+        {
+          "response": "",
+          "text": "PET: It uses 99mTc as a tracer | SPECT: It uses 18F as a tracer",
+          "answer": "False",
+          "explanation": "PET uses 18F as a tracer, while SPECT uses 99mTc as a tracer"
+        },
+        {
+          "response": "",
+          "text": "PET: Tracers have a long half-life | SPECT: Tracers have a short half-life",
+          "answer": "False",
+          "explanation": "Half-life of 18F is 110 min, while half-life of 99mTc is 6 h"
+        },
+        {
+          "response": "",
+          "text": "PET: The energy of annihilation photons is higher than the photon energy of radionuclides used in SPECT | SPECT: The photon energy of radionuclides is lesser than the energy of annihilation photons",
+          "answer": "True",
+          "explanation": "In PET, the annihilation photon energy is 511 keV, while the photon energy of radionuclide in SPECT is 140 keV"
+        },
+        {
+          "response": "",
+          "text": "PET: It provides higher sensitivity in detection of emitted events | SPECT: It provides less sensitivity in detection of emitted events",
+          "answer": "True",
+          "explanation": "PET detects two gamma rays for each decay to trace the line that finds where the emission came from; thus, the sensitivity in PET is higher than in SPECT"
+        }
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "stem": "Regarding nuclear magnetic resonance (NMR) principles",
+      "options": [
+        {
+          "response": "",
+          "text": "The spin-up nuclei have low energy",
+          "answer": "True",
+          "explanation": "The spin-up nuclei have low energy and align their magnetic moments parallel to the external fields"
+        },
+        {
+          "response": "",
+          "text": "The precession frequency of the nuclei is inversely proportional to field strength",
+          "answer": "False",
+          "explanation": "The precession frequency (Larmor frequency) of the nuclei is directly proportional to magnetic field strength"
+        },
+        {
+          "response": "",
+          "text": "The magnetic moments of high-energy nuclei are in the antiparallel direction of the external field",
+          "answer": "True",
+          "explanation": "Nuclei gain energy from applied RF pulse becomes high-energy nuclei. The high-energy nuclei possess enough energy to oppose the magnetic field and align at antiparallel direction to the external field"
+        },
+        {
+          "response": "",
+          "text": "Resonance occurs when applied RF has the same frequency with nucleus precession frequency",
+          "answer": "True",
+          "explanation": "For resonance to occur, an RF pulse of energy at exactly the precessional frequency of the nuclei known as Larmor frequency must be applied"
+        },
+        {
+          "response": "",
+          "text": "The align direction depends on the thermal energy level of the nuclei",
+          "answer": "True",
+          "explanation": "The factors affecting the align direction of the nuclei are the strength of external magnetic field and thermal energy level of the nuclei. In low thermal energy, the nuclei are aligned in antiparallel direction or vice versa"
+        }
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "stem": "The nuclei that routinely used in NMR includes",
+      "options": [
+        {
+          "response": "",
+          "text": "31P",
+          "answer": "True",
+          "explanation": "The NMR-active nuclei contain positively charged protons and have the tendency to align their direction to an applied magnetic field. Examples are 1H, 13C, 15N, 17O, 19F, 23Na and 31P"
+        },
+        {
+          "response": "",
+          "text": "23Na",
+          "answer": "True"
+        },
+        {
+          "response": "",
+          "text": "19F",
+          "answer": "True"
+        },
+        {
+          "response": "",
+          "text": "1H",
+          "answer": "True"
+        },
+        {
+          "response": "",
+          "text": "13C",
+          "answer": "True"
+        }
+      ]
+    },
+    {
+      "questionNumber": 31,
+      "stem": "Regarding contrast media used in MRI",
+      "options": [
+        {
+          "response": "",
+          "text": "Iron in deoxyhaemoglobin acts as paramagnetic contrast agent in functional MRI",
+          "answer": "True",
+          "explanation": "Deoxyhaemoglobin and metoxyhaemoglobin act as paramagnetic contrast agents in MR, while oxyhaemoglobin is a diamagnetic agent. This is the basic of BOLD technique used in fMRI"
+        },
+        {
+          "response": "",
+          "text": "Gadolinium agent causes a shortening of T2",
+          "answer": "True",
+          "explanation": "Gadolinium is a paramagnetic contrast media and shortens both T1 and T2 relaxation times"
+        },
+        {
+          "response": "",
+          "text": "Positive contrast agents appear dark on MRI images",
+          "answer": "False",
+          "explanation": "Positive contrast agents appear bright, while negative contrast agents appear dark on MRI images. Positive contrast agents cause reduction in the T1 relaxation time (increased signal intensity on T1-weighted images). They will appear bright in T1-weighted sequence"
+        },
+        {
+          "response": "",
+          "text": "Air is a negative contrast agent in the rectum",
+          "answer": "True",
+          "explanation": "Air has low magnetic susceptibility and do not produce any MR signal. Thus, air appears dark on MRI images. Negative contrast agents make the intraluminal contents appear dark. For example, in bowel examination, negative contrast agent, such as Gastromark, is mixed with blueberry juice and air, to delineate the large bowel"
+        },
+        {
+          "response": "",
+          "text": "Blood pool contrast agents have superparamagnetic properties",
+          "answer": "True",
+          "explanation": "Blood pool contrast agents are an example of superparamagnetic contrast agents. It is an intravascular contrast agent that will remain in the blood for a prolonged time compared with conventional contrast agents, which diffuse quickly into the interstitial space"
+        }
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "stem": "Regarding MR image quality",
+      "options": [
+        {
+          "response": "",
+          "text": "Random thermal movement in the tissue produces white noise",
+          "answer": "True",
+          "explanation": "Random thermal movement of hydrogen atoms in the tissues induces signal with wide ranges of frequency, known as white noise"
+        },
+        {
+          "response": "",
+          "text": "Spin echo produces greater signal strength compared to gradient echo",
+          "answer": "True",
+          "explanation": "A spin echo (SE) signal is produced by pairs of RF pulses, whereas the gradient echo (GE) signal is produced by a single RF pulse. The applied RF pulse in GE sequence has reduced strength and smaller tip angle (<90°) as compared to SE sequence (180° rephasing pulse). Thus, SE produced reduced signal strength"
+        },
+        {
+          "response": "",
+          "text": "Noise is higher in the areas of low proton density",
+          "answer": "True",
+          "explanation": "Noise is higher in the areas of low PD and low signal"
+        },
+        {
+          "response": "",
+          "text": "SNR is reduced when the number of excitation is increased",
+          "answer": "False",
+          "explanation": "The SNR reduces when the number of excitation (Nex) is reduced"
+        },
+        {
+          "response": "",
+          "text": "The spatial resolution is increased when the phase matrix is increased",
+          "answer": "True",
+          "explanation": "Spatial resolution depends on pixel size, matrix and FOV. Spatial resolution is increased when larger matrix is used and reduced FOV and pixel size"
+        }
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "stem": "Regarding safety in MR scan room",
+      "options": [
+        {
+          "response": "",
+          "text": "The exclusion zone is defined at the boundary of the 5 gauss line",
+          "answer": "True",
+          "explanation": "The exclusion zone is defined at the boundary of five gauss line, the point at which magnetic field begins to affect electromagnetic devices and should clearly marked on the floor or walls"
+        },
+        {
+          "response": "",
+          "text": "The area with magnetic fields less than 0.51 mT is accessible to the public",
+          "answer": "True",
+          "explanation": "Area outside the controlled area where the field is below 0.51 mT is the free access zone for the public"
+        },
+        {
+          "response": "",
+          "text": "The passive shielding is used to block the incoming radiofrequency signals into the MR scan room",
+          "answer": "True",
+          "explanation": "Passive shielding is accomplished by surrounding the magnet coils or lining the magnet room with steel plates. The function is to block the outside RF signals into MR scan room and reduce the area covered by fringe fields"
+        },
+        {
+          "response": "",
+          "text": "The security zone is an area which potentially can cause projectile injuries",
+          "answer": "True",
+          "explanation": "An area that has potential to cause projectile injuries is defined as MR security zone"
+        },
+        {
+          "response": "",
+          "text": "The MR scan room must have only one point of access",
+          "answer": "True",
+          "explanation": "Access to MR scan room must be restricted and should only have one access point and available by passing through zone III (control room)"
+        }
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "stem": "Regarding ultrasound waves",
+      "options": [
+        {
+          "response": "",
+          "text": "It has frequency above 20 kHz",
+          "answer": "True",
+          "explanation": "Ultrasound refers to high-frequency sound waves (above 20 kHz), and it is inaudible to humans"
+        },
+        {
+          "response": "",
+          "text": "It is not an electromagnetic radiation",
+          "answer": "True",
+          "explanation": "It is a longitudinal wave and not electromagnetic wave"
+        },
+        {
+          "response": "",
+          "text": "It undergoes reflection at medium interfaces",
+          "answer": "True",
+          "explanation": "Reflection of ultrasound waves at medium interfaces is due to acoustic differences of acoustic impedance between two materials"
+        },
+        {
+          "response": "",
+          "text": "It requires a medium to travel",
+          "answer": "True",
+          "explanation": "As one of a longitudinal wave, ultrasound requires a medium to propagate"
+        },
+        {
+          "response": "",
+          "text": "It is produced by a transducer that converts electric signal into an ultrasound beam",
+          "answer": "True",
+          "explanation": "Piezoelectric material is used to convert electrical charge to ultrasound wave"
+        }
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "stem": "Regarding piezoelectric crystal",
+      "options": [
+        {
+          "response": "",
+          "text": "It loses its properties when heated above 350 °C",
+          "answer": "True",
+          "explanation": "This specific temperature is known as Curie temperature"
+        },
+        {
+          "response": "",
+          "text": "An alternating voltage is produced when it is subjected to alternating pressures",
+          "answer": "True",
+          "explanation": "AC voltage changes its polarity and causes piezoelectric crystal expanding and contracting alternately"
+        },
+        {
+          "response": "",
+          "text": "It produces a wave with propagation speed approximately 330 ms−1 in air",
+          "answer": "True",
+          "explanation": "In a medium with lesser acoustic impedance, the velocity is slower relatively"
+        },
+        {
+          "response": "",
+          "text": "The thickness of the crystal is inversely proportional to the ultrasound frequency produced",
+          "answer": "True",
+          "explanation": "Higher-ultrasound frequency energy is a result from a thinner piezoelectric crystal"
+        },
+        {
+          "response": "",
+          "text": "It produces a longitudinal wave",
+          "answer": "True",
+          "explanation": "Ultrasound wave requires a material to travel, and it is a longitudinal wave not a transversal wave"
+        }
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "stem": "Amplitude mode echo ranging in ultrasound",
+      "options": [
+        {
+          "response": "",
+          "text": "Is used to examine the eye",
+          "answer": "True",
+          "explanation": "A-mode that provides data on the length of the eye, which is an important information in sight disorders diagnosis"
+        },
+        {
+          "response": "",
+          "text": "Is the most complex form of ultrasound imaging",
+          "answer": "False",
+          "explanation": "It is the simplest form of ultrasound imaging not a most complex form of ultrasound imaging"
+        },
+        {
+          "response": "",
+          "text": "Shows the position of tissue interfaces",
+          "answer": "True",
+          "explanation": "It shows only the position of tissue interface"
+        },
+        {
+          "response": "",
+          "text": "Is used for identification of cyst in the breast",
+          "answer": "True",
+          "explanation": "In A-mode ultrasound, single transducer scans a line through the breast with the echoes plotted on the screen as a function of depth"
+        },
+        {
+          "response": "",
+          "text": "Uses time gain compensation to compensate attenuation in tissue",
+          "answer": "True",
+          "explanation": "Time gain compensation increases amplitude of sound pulses and diminishes as it travels into the body"
+        }
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "stem": "The risk of ultrasound imaging includes",
+      "options": [
+        {
+          "response": "",
+          "text": "Mechanical damage to cell membranes",
+          "answer": "True",
+          "explanation": "Mechanical damage of cell membranes is due to violent acceleration of particle"
+        },
+        {
+          "response": "",
+          "text": "Acoustic streaming of cellular contents in the direction of the beam",
+          "answer": "True",
+          "explanation": "Acoustic streaming of cellular contents in the direction of the beam, affecting cell membrane permeability"
+        },
+        {
+          "response": "",
+          "text": "Cavitation",
+          "answer": "True",
+          "explanation": "Ultrasound imaging causing microbubbles in a liquid to expand"
+        },
+        {
+          "response": "",
+          "text": "Local heating",
+          "answer": "True",
+          "explanation": "Local heating due to frictional, viscous and molecular relaxation process"
+        },
+        {
+          "response": "",
+          "text": "Stochastic effects",
+          "answer": "False",
+          "explanation": "It is caused by ionising radiation"
+        }
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "stem": "Optical imaging technique includes",
+      "options": [
+        {
+          "response": "",
+          "text": "Optical coherence tomography",
+          "answer": "True",
+          "explanation": "The technique is based on light scattering"
+        },
+        {
+          "response": "",
+          "text": "Photoacoustic microscopy",
+          "answer": "True",
+          "explanation": "The technique uses laser pulses to increase tissue temperature that causes emission of photoacoustic waves"
+        },
+        {
+          "response": "",
+          "text": "Bioluminescent imaging",
+          "answer": "True",
+          "explanation": "The technique uses light emitted inside the tissue"
+        },
+        {
+          "response": "",
+          "text": "Positron emission tomography",
+          "answer": "False",
+          "explanation": "The technique uses positron emitters, not an optical technique"
+        },
+        {
+          "response": "",
+          "text": "Tissue spectroscopy",
+          "answer": "True",
+          "explanation": "The technique detects relative changes of light interaction with tissue"
+        }
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "stem": "Concerning functional and molecular imaging (FMI) using MRI",
+      "options": [
+        {
+          "response": "",
+          "text": "Diffusion-weighted imaging is based upon thermal movement of molecules in extracellular space",
+          "answer": "True",
+          "explanation": "Diffusion-weighted imaging (DWI) is based on random thermal movement of molecules (water protons) in extracellular space. The movement and displacement of molecules are characterised by apparent diffusion coefficient (ADC)"
+        },
+        {
+          "response": "",
+          "text": "In MR spectroscopy (MRS), a nuclide must have a high gyromagnetic ratio",
+          "answer": "True",
+          "explanation": "MRS can only be feasible for active nuclei with high gyromagnetic ratio, and they must be abundant in tissues"
+        },
+        {
+          "response": "",
+          "text": "In functional MRI (fMRI), different magnetic properties of oxy- and deoxyhaemoglobin produce magnetic field inhomogeneities",
+          "answer": "True",
+          "explanation": "Oxyhaemoglobin is diamagnetic and deoxyhaemoglobin is paramagnetic. Deoxyhaemoglobin creates an inhomogeneous magnetic field"
+        },
+        {
+          "response": "",
+          "text": "fMRI compares the brain functional images during stimulus and rest phase",
+          "answer": "True",
+          "explanation": "Functional MRI (fMRI) acquires two sets of brain images during stimulus (active) and rest phase. The two images are subtracted to demonstrate the functional brain activity showing the increased blood flow to the activated cortex"
+        },
+        {
+          "response": "",
+          "text": "MRS provides a frequency spectrum based on chemical composition of the tissue",
+          "answer": "True",
+          "explanation": "MRS provides a spectrum of resonant frequencies of tissues based on their molecular and chemical compositions"
+        }
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "stem": "Regarding the principles of FMI",
+      "options": [
+        {
+          "response": "",
+          "text": "For diffusion-weighted (DW) MRI, a low diffusion coefficient is found in hypercellular tissues",
+          "answer": "True",
+          "explanation": "In DWI, image weighting is depending on tissue’s ADC. Hypercellular tissues have restricted diffusion and ADC of the tissue is low"
+        },
+        {
+          "response": "",
+          "text": "The FDG-PET scan is based on glucose metabolism of tumour tissue",
+          "answer": "True",
+          "explanation": "18F-FDG is the marker for the tissue uptake of glucose and is closely correlated with certain types of tissue metabolism. It is widely used clinically for tumour imaging due to increased glucose metabolism in most tumours"
+        },
+        {
+          "response": "",
+          "text": "Tissues with high cellularity display higher signal intensity than dense tissues",
+          "answer": "True",
+          "explanation": "Tissues with high cellularity (higher cell density) display higher signal intensity in DW MRI. Solid tumour usually has higher cellularity compared to normal tissue"
+        },
+        {
+          "response": "",
+          "text": "Microbubbles of less than 10 μm are used as targeted molecular imaging agents in ultrasound",
+          "answer": "True",
+          "explanation": "Microbubbles are used as targeted ultrasound contrast agents (tUCA) for molecular imaging. The size of microbubbles is usually 2–5 μm to allow them to pass through the smallest capillaries, without leakage in the extravascular space"
+        },
+        {
+          "response": "",
+          "text": "Biomarker imaging is the detection of molecular parameters that relate with disease",
+          "answer": "True",
+          "explanation": "Biomarker imaging is the detection of molecular parameters that relate with disease. Biomarker is defined as a characteristic that can be objectively measured as the indicator for normal biological processes, pathogenic processes or pharmacologic responses to a therapeutic intervention"
+        }
+      ]
+    }
+  ]
+
+}

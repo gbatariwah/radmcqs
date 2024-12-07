@@ -1,0 +1,1448 @@
+{
+  name: "FRCR Physics MCQs in Clinical Radiology",
+  authors: "Ibrahim Lutfi Shuaib, Hafiz M. Zin, Mohd Zahri Abdul Aziz, Noor Diyana Osman, Rafidah Zainon",
+  slug: "examination-1",
+  questions: [
+    {
+      "questionNumber": 1,
+      "stem": "Regarding digital radiographic image:",
+      "options": [
+        {
+          "response":"",
+          "text": "A larger pixel size is required for a larger field of view if the number of pixels is the same",
+          "answer": "True",
+          "explanation": "Detector size is a function of the pixel size times the number of pixels"
+        },
+        {
+          "response": "",
+          "text": "Increasing the pixel size increases the spatial resolution",
+          "answer": "False",
+          "explanation": "Increasing the pixel size decreases the spatial resolution. Smaller pixels allow detection of finer details"
+        },
+        {
+          "response": "",
+          "text": "The bit depth determines the number of greyscale range of a pixel",
+          "answer": "True",
+          "explanation": "Bit depth determines the number of bits used to indicate the grey level of a single pixel"
+        },
+        {
+          "response": "",
+          "text": "A 12-bit pixel stores up to 512 levels of grey",
+          "answer": "False",
+          "explanation": "The number of grey levels is equivalent to 2 raised to the power of the bit size (e.g., 2^12 = 4096 levels of grey, 2^9 = 512 levels, 2^8 = 256 levels)"
+        },
+        {
+          "response": "",
+          "text": "Lossless compression of an image causes degradation of the image quality",
+          "answer": "False",
+          "explanation": "Lossless compression uses an algorithm that allows the original image to be perfectly reconstructed from the compressed data"
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "stem": "The technique used to minimise scatter includes",
+      "options": [
+        {
+          "response": "",
+          "text": "collimation of the beam",
+          "answer": "True",
+          "explanation": "Collimating the beam decreases the total tissue area irradiated and the amount of radiation interaction that produces scatter"
+        },
+        {
+          "response": "",
+          "text": "increasing the kVp",
+          "answer": "False",
+          "explanation": "Increasing the kVp lowers photoelectric interaction but increases the Compton scatter interaction, which results in the production of scatter radiation"
+        },
+        {
+          "response": "",
+          "text": "using an air gap between the patient and the detector",
+          "answer": "True",
+          "explanation": "An air gap reduces scatter radiation reaching the detector"
+        },
+        {
+          "response": "",
+          "text": "using compression on the patient",
+          "answer": "True",
+          "explanation": "Compression decreases the total tissue area irradiated; therefore, there is less scatter from the interactions"
+        },
+        {
+          "response": "",
+          "text": "using anti-scatter grids",
+          "answer": "True",
+          "explanation": "The grid reduces the amount of scatter radiation reaching the detector"
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "stem": "Regarding gas-filled detectors used for quality assurance:",
+      "options": [
+        {
+          "response": "",
+          "text": "Dose calibrator is a type of ionisation chamber",
+          "answer": "True",
+          "explanation": "Dose calibrator is a well-type ion chamber used in nuclear medicine to assay the activities of dosages of radiopharmaceuticals to be administered to patients"
+        },
+        {
+          "response": "",
+          "text": "Proportional counter measures energy of the radiation",
+          "answer": "True",
+          "explanation": "Proportional counter operates at an intermediate voltage between ionisation chamber and Geiger-Muller counter which produces detector output proportional to the radiation energy"
+        },
+        {
+          "response": "",
+          "text": "Methane gas is added to reduce gas multiplication effect in a proportional counter",
+          "answer": "True",
+          "explanation": "Due to the high voltage in the proportional region, the accelerated electrons have high kinetic energy that causes spread of additional ionisation along the anode and therefore requires quench gas such as methane to prevent this from happening"
+        },
+        {
+          "response": "",
+          "text": "Geiger-Muller counter discriminates energy of the radiation",
+          "answer": "False",
+          "explanation": "Geiger-Muller counter operates at a voltage range higher than proportional counter and causes gas multiplication effect. The amount of charge collected from each event is independent of the energy deposited in the detector"
+        },
+        {
+          "response": "",
+          "text": "Geiger-Muller counter is used as a dose rate monitor",
+          "answer": "False",
+          "explanation": "The generated signal from a Geiger-Muller counter is the same, regardless of the amount of energy deposited by the interaction. Therefore, it cannot be used as a dose rate monitor"
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "stem": "A nucleus is represented by the symbol, ZA X, where",
+      "options": [
+        {
+          "response": "",
+          "text": "A is the atomic number",
+          "answer": "False",
+          "explanation": "A is the mass number"
+        },
+        {
+          "response": "",
+          "text": "Z is the mass number",
+          "answer": "False",
+          "explanation": "Z is the atomic number"
+        },
+        {
+          "response": "",
+          "text": "the atomic number is equal to the number of protons",
+          "answer": "True",
+          "explanation": "Atomic number is the number of protons found in the nucleus of an atom. It is identical to the charge number of the nucleus"
+        },
+        {
+          "response": "",
+          "text": "the mass number is equal to the total number of protons and electrons",
+          "answer": "False",
+          "explanation": "The mass number is equal to the total number of protons and neutrons"
+        },
+        {
+          "response": "",
+          "text": "the number of neutrons is equal to A−Z",
+          "answer": "True",
+          "explanation": "Neutron is an uncharged elementary particle that has a mass nearly equal to that of the proton. It is present in all known atomic nuclei except hydrogen atom"
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "stem": "Protons in an atom",
+      "options": [
+        {
+          "response": "",
+          "text": "have no mass",
+          "answer": "False",
+          "explanation": "Protons have a mass of 1.67 × 10−27 kg"
+        },
+        {
+          "response": "",
+          "text": "have a positive charge",
+          "answer": "True",
+          "explanation": "Protons have a positive charge of +1"
+        },
+        {
+          "response": "",
+          "text": "are equal to the number of electrons",
+          "answer": "True",
+          "explanation": "Number of protons matches number of electrons in a non-ionised atom"
+        },
+        {
+          "response": "",
+          "text": "are equal to the atomic number",
+          "answer": "True",
+          "explanation": "Number of protons represents the atomic number"
+        },
+        {
+          "response": "",
+          "text": "increase in number, following gamma decay",
+          "answer": "False",
+          "explanation": "There is no change in the number of protons following gamma decay"
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "stem": "X-ray photon",
+      "options": [
+        {
+          "response": "",
+          "text": "is an electromagnetic radiation",
+          "answer": "True",
+          "explanation": "X-ray is a type of electromagnetic radiation produced from an X-ray tube"
+        },
+        {
+          "response": "",
+          "text": "is deflected in a magnetic field",
+          "answer": "False",
+          "explanation": "X-ray has no charge and cannot be deflected in a magnetic field"
+        },
+        {
+          "response": "",
+          "text": "ionises an atom",
+          "answer": "True",
+          "explanation": "X-ray is an ionising radiation"
+        },
+        {
+          "response": "",
+          "text": "travels at light velocity in a vacuum",
+          "answer": "True",
+          "explanation": "X-ray is a type of electromagnetic radiation; therefore, it travels with the velocity of light in a vacuum"
+        },
+        {
+          "response": "",
+          "text": "is produced from gamma decay",
+          "answer": "False",
+          "explanation": "X-ray photon is produced from an X-ray tube. Gamma decay produces gamma photon from a radioactive nucleus"
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "stem": "Rayleigh scatter",
+      "options": [
+        {
+          "response": "",
+          "text": "is called coherent scatter",
+          "answer": "True",
+          "explanation": "Coherent scatter occurs when a photon excites an atom but passes straight through; the photon causes the electrons to vibrate only"
+        },
+        {
+          "response": "",
+          "text": "contributes to patient dose",
+          "answer": "False",
+          "explanation": "Coherent scatter does not contribute to patient’s dose because no energy is deposited during the interaction"
+        },
+        {
+          "response": "",
+          "text": "causes the electrons to be dislodged from the atom",
+          "answer": "False",
+          "explanation": "The electrons only vibrate, not dislodged from the atom"
+        },
+        {
+          "response": "",
+          "text": "is a major type of interaction in diagnostic radiology",
+          "answer": "False",
+          "explanation": "Coherent scatter accounts for only a few percent of total interactions in diagnostic radiology"
+        },
+        {
+          "response": "",
+          "text": "has higher probability to occur in high atomic number material",
+          "answer": "True",
+          "explanation": "Coherent scatter is proportional to the square of atomic number"
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "stem": "Effective dose is",
+      "options": [
+        {
+          "response": "",
+          "text": "dependent on the tissue weighting factor",
+          "answer": "True",
+          "explanation": "Effective dose is equal to absorbed dose multiplied by radiation weighting factor and tissue weighting factor"
+        },
+        {
+          "response": "",
+          "text": "dependent on the type of radiation",
+          "answer": "True",
+          "explanation": "The radiation weighting factors are dependent on the types of radiation"
+        },
+        {
+          "response": "",
+          "text": "measured in Sieverts",
+          "answer": "True",
+          "explanation": "Effective dose is measured in Sievert (Sv)"
+        },
+        {
+          "response": "",
+          "text": "equal to the equivalent dose",
+          "answer": "False",
+          "explanation": "Equivalent dose is equal to absorbed dose multiplied by radiation weighting factor"
+        },
+        {
+          "response": "",
+          "text": "used to measure internal radiation exposure",
+          "answer": "True",
+          "explanation": "Tissue weighting factor incorporates internal radiation exposure"
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "stem": "Regarding the differences between deterministic and stochastic effects:",
+      "options": [
+        {
+          "response": "",
+          "text": "Ulceration of the skin is a stochastic effect",
+          "answer": "False",
+          "explanation": "Ulceration is a deterministic effect and has a threshold dose"
+        },
+        {
+          "response": "",
+          "text": "Stochastic effects have a threshold dose",
+          "answer": "False",
+          "explanation": "Stochastic effects have no threshold dose"
+        },
+        {
+          "response": "",
+          "text": "Sterility is a deterministic effect",
+          "answer": "True",
+          "explanation": "Sterility is a deterministic effect and has a threshold dose"
+        },
+        {
+          "response": "",
+          "text": "Deterministic effects have repair mechanism",
+          "answer": "True",
+          "explanation": "Deterministic effects have repair mechanism below the threshold dose"
+        },
+        {
+          "response": "",
+          "text": "Cataract is a stochastic effect",
+          "answer": "False",
+          "explanation": "Cataract is a deterministic effect and has a threshold dose"
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "stem": "Regarding filters:",
+      "options": [
+        {
+          "response": "",
+          "text": "Combined filters are used in mammography",
+          "answer": "False",
+          "explanation": "Combined filters are not the second filter used in CT units but are used to absorb characteristic radiation from higher atomic number filters"
+        },
+        {
+          "response": "",
+          "text": "Rhodium filter is used in mammography",
+          "answer": "True",
+          "explanation": "Rhodium filters are commonly used in mammography. Molybdenum is another material used"
+        },
+        {
+          "response": "",
+          "text": "Lead is used as a filter in fluoroscopy",
+          "answer": "False",
+          "explanation": "Lead is used as a radiation shielding material, not for filtration"
+        },
+        {
+          "response": "",
+          "text": "Using a filter will reduce the patient’s skin dose",
+          "answer": "True",
+          "explanation": "Filters increase the average energy of the beam by removing lower-energy rays, reducing the skin dose without significantly affecting image contrast"
+        },
+        {
+          "response": "",
+          "text": "Aluminium is the filtering material of choice in general radiography",
+          "answer": "True",
+          "explanation": "Aluminium is a suitable material in general radiography for filtering unnecessary low-energy photons due to its physical characteristics"
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "stem": "Component of direct digital radiography includes",
+      "options": [
+        {
+          "response": "",
+          "text": "image intensifier",
+          "answer": "False",
+          "explanation": "Image intensifier is a component of fluoroscopy, not direct digital radiography"
+        },
+        {
+          "response": "",
+          "text": "image management system",
+          "answer": "True",
+          "explanation": "Image management systems store, organize, and archive images in direct digital radiography"
+        },
+        {
+          "response": "",
+          "text": "digital image processing unit",
+          "answer": "True",
+          "explanation": "Digital image processing uses computer algorithms for image processing on digital images"
+        },
+        {
+          "response": "",
+          "text": "communication interface to patient information system",
+          "answer": "True",
+          "explanation": "A communication method is required to archive patient information systems"
+        },
+        {
+          "response": "",
+          "text": "film digitiser system",
+          "answer": "False",
+          "explanation": "Film digitiser systems are not components of direct digital radiography"
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "stem": "Component of the fluoroscopic image intensifier tube includes",
+      "options": [
+        {
+          "response": "",
+          "text": "input phosphor",
+          "answer": "True",
+          "explanation": "The input phosphor in an image intensifier converts X-rays to visible light"
+        },
+        {
+          "response": "",
+          "text": "photocathode",
+          "answer": "True",
+          "explanation": "The photocathode converts visible light to electrons in an image intensifier"
+        },
+        {
+          "response": "",
+          "text": "electrostatic focusing lens",
+          "answer": "True",
+          "explanation": "Electrostatic focusing lenses direct and accelerate electrons to the output phosphor"
+        },
+        {
+          "response": "",
+          "text": "charge couple device",
+          "answer": "False",
+          "explanation": "A charge-coupled device is a component of flat-panel systems, not image intensifiers"
+        },
+        {
+          "response": "",
+          "text": "thin-film transistor",
+          "answer": "False",
+          "explanation": "Thin-film transistors are components of flat-panel systems, not image intensifiers"
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "stem": "Cause of unsharpness in fluoroscopic image includes",
+      "options": [
+        {
+          "response": "",
+          "text": "thin phosphor layer in output phosphor",
+          "answer": "False",
+          "explanation": "Thin phosphor layers do not cause unsharpness; thick phosphor layers do"
+        },
+        {
+          "response": "",
+          "text": "thick caesium iodide layer in input phosphor",
+          "answer": "True",
+          "explanation": "Thick cesium iodide layers in input phosphors cause geometric unsharpness"
+        },
+        {
+          "response": "",
+          "text": "needle-shaped caesium iodide microcrystal at input phosphor",
+          "answer": "False",
+          "explanation": "Needle-shaped cesium iodide microcrystals improve image sharpness"
+        },
+        {
+          "response": "",
+          "text": "increased distance of the image intensifier from the patient",
+          "answer": "True",
+          "explanation": "Magnification caused by distance contributes to image unsharpness"
+        },
+        {
+          "response": "",
+          "text": "smaller pixel in flat panel detector",
+          "answer": "False",
+          "explanation": "Smaller pixels improve resolution and image sharpness"
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "stem": "Concept used in ALARP includes",
+      "options": [
+        {
+          "response": "",
+          "text": "shielding",
+          "answer": "True",
+          "explanation": "Proper shielding, such as lead, reduces radiation dose to personnel"
+        },
+        {
+          "response": "",
+          "text": "dose limit",
+          "answer": "False",
+          "explanation": "Dose limits are principles of radiation protection, not part of ALARP"
+        },
+        {
+          "response": "",
+          "text": "distance",
+          "answer": "True",
+          "explanation": "Doubling the distance reduces the dose by the inverse square law"
+        },
+        {
+          "response": "",
+          "text": "optimisation",
+          "answer": "False",
+          "explanation": "Optimisation is a principle of radiation protection, not an ALARP concept"
+        },
+        {
+          "response": "",
+          "text": "time",
+          "answer": "True",
+          "explanation": "Reducing time spent with radiation reduces personnel exposure"
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "stem": "The protection to the patient from unnecessary radiation exposure includes",
+      "options": [
+        {
+          "response": "",
+          "text": "use of collimator",
+          "answer": "True",
+          "explanation": "Collimators limit unnecessary radiation exposure to patients"
+        },
+        {
+          "response": "",
+          "text": "high kV technique",
+          "answer": "True",
+          "explanation": "High kV techniques filter lower-energy photons before reaching the patient’s skin"
+        },
+        {
+          "response": "",
+          "text": "increasing source to image distance",
+          "answer": "True",
+          "explanation": "Doubling the distance reduces the radiation dose significantly"
+        },
+        {
+          "response": "",
+          "text": "use of fast screen",
+          "answer": "True",
+          "explanation": "Fast screens provide high output signals with fewer photons, reducing exposure"
+        },
+        {
+          "response": "",
+          "text": "use of grid",
+          "answer": "False",
+          "explanation": "Grids reduce scatter to the image receptor but increase exposure factors and patient dose"
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "stem": "Radionuclides",
+      "options": [
+        {
+          "response": "",
+          "text": "are unstable nuclides",
+          "answer": "True",
+          "explanation": "Radionuclides decay to become stable nuclides"
+        },
+        {
+          "response": "",
+          "text": "are heavy elements",
+          "answer": "True",
+          "explanation": "Most radionuclides are heavy elements"
+        },
+        {
+          "response": "",
+          "text": "undergo radiation decay",
+          "answer": "True",
+          "explanation": "Radionuclides emit radiation during the decay process"
+        },
+        {
+          "response": "",
+          "text": "have a 1:1 ratio of neutrons to protons in heavy elements",
+          "answer": "False",
+          "explanation": "Stable nuclei have an optimal neutron-to-proton ratio, approximately 1:1 for lighter elements and greater for heavy elements"
+        },
+        {
+          "response": "",
+          "text": "are artificially produced",
+          "answer": "True",
+          "explanation": "Most radionuclides are artificially produced and not found naturally"
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "stem": "Regarding planar radionuclide imaging:",
+      "options": [
+        {
+          "response": "",
+          "text": "Gamma camera detector is made of a sodium iodide crystal",
+          "answer": "True",
+          "explanation": "Gamma cameras are made of a sodium iodide crystal that produces a burst of light when gamma rays hit it"
+        },
+        {
+          "response": "",
+          "text": "It involves the use of unsealed sources of radioactivity in the form of radiopharmaceuticals",
+          "answer": "True",
+          "explanation": "Planar radionuclide imaging uses unsealed sources of radiation, either liquids or gases for diagnosis and therapy. These unsealed sources are known as radiopharmaceuticals that emit radiation"
+        },
+        {
+          "response": "",
+          "text": "Extrinsic resolution is the spatial resolution without a collimator in place",
+          "answer": "False",
+          "explanation": "Extrinsic resolution is the spatial resolution with a collimator in place. It is evaluated by using a flood-field image obtained by presenting the collimator-crystal combination with a uniform planar source of activity"
+        },
+        {
+          "response": "",
+          "text": "The collimator spatial resolution is improved by decreasing the diameter of collimator cylinders",
+          "answer": "True",
+          "explanation": "The collimator spatial resolution is stated as Rc = d(1 + b/h), where resolution improves with long holes of small diameter positioned close to the patient"
+        },
+        {
+          "response": "",
+          "text": "The half-life of 99mTc is 8 h",
+          "answer": "False",
+          "explanation": "The half-life of 99mTc is 6 hours. It is a short-lived metastable nuclear isomer used in imaging of the thyroid, colon, bladder, and stomach"
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "stem": "Concerning safety in planar radionuclide imaging:",
+      "options": [
+        {
+          "response": "",
+          "text": "Radioactive materials are stored in designated storage location",
+          "answer": "True",
+          "explanation": "Radioisotopes must be stored in lockable metal cabinets or refrigerators with sufficient shielding to reduce emitted radiation below legal limits and prevent spillage"
+        },
+        {
+          "response": "",
+          "text": "Spills of radioactive materials that present no radiological hazard to persons are cleaned immediately",
+          "answer": "True",
+          "explanation": "Small spills should be cleaned immediately; serious spills may require evacuation before clean-up"
+        },
+        {
+          "response": "",
+          "text": "Occupational workers are trained to maximise the use of radiopharmaceuticals",
+          "answer": "False",
+          "explanation": "Occupational workers are trained to minimise exposure to radiation, not the use of radiopharmaceuticals"
+        },
+        {
+          "response": "",
+          "text": "Application of cosmetics is prohibited during radiopharmaceuticals preparation",
+          "answer": "True",
+          "explanation": "The major objective of radiation safety is to minimise exposure to radioactive material, following the as low as reasonably practicable (ALARP) principle"
+        },
+        {
+          "response": "",
+          "text": "Occupational internal exposures are infrequent",
+          "answer": "True",
+          "explanation": "A worker's occupational dose can include internal exposure from radioactive material taken into the body, usually through inhalation"
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "stem": "Regarding UK radiation protection regulations:",
+      "options": [
+        {
+          "response": "",
+          "text": "Machine maintenance is the responsibility of the operator",
+          "answer": "False",
+          "explanation": "It is the responsibility of the employer to ensure the machine is properly maintained, as per Regulation 10(1) of IRR 99"
+        },
+        {
+          "response": "",
+          "text": "Every controlled area should be governed by a set of local rules",
+          "answer": "True",
+          "explanation": "Controlled and supervised areas must be governed by local rules appropriate to the radiation risks and nature of the work"
+        },
+        {
+          "response": "",
+          "text": "If in a certain area an employee is likely to receive more than 6 mSv per year, it is designated as a controlled area",
+          "answer": "True",
+          "explanation": "Controlled areas are where workers are likely to receive an effective dose greater than 6 mSv per year or an equivalent dose greater than three-tenths of the dose limit"
+        },
+        {
+          "response": "",
+          "text": "It is the responsibility of the employee to utilise radiation protective clothing provided by the employer",
+          "answer": "True",
+          "explanation": "Employees must use personal protective equipment as per Regulation 34(2) of IRR 99"
+        },
+        {
+          "response": "",
+          "text": "The annual dose limit for a trainee aged under 18 years is 6 mSv",
+          "answer": "True",
+          "explanation": "The dose limit for trainees under 18 years old is 6 mSv in any calendar year"
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "stem": "Concerning the Ionising Radiations Regulations (IRR) 1999:",
+      "options": [
+        {
+          "response": "",
+          "text": "A controlled area is for classified workers",
+          "answer": "True",
+          "explanation": "The controlled area is only permitted for classified persons"
+        },
+        {
+          "response": "",
+          "text": "Personal dosimeters are issued for periods no greater than 1 month",
+          "answer": "False",
+          "explanation": "Personal dosimeters are issued for periods not exceeding 3 months, typically on a monthly basis"
+        },
+        {
+          "response": "",
+          "text": "The annual effective dose limit is 20 mSv for employees aged over 18 years",
+          "answer": "True",
+          "explanation": "The dose limit for employees aged 18 years or older is 20 mSv in any calendar year"
+        },
+        {
+          "response": "",
+          "text": "A radiation protection adviser is responsible for managing staff radiation safety in a radiology department",
+          "answer": "False",
+          "explanation": "Employers manage staff radiation safety; RPAs are responsible for technical aspects like installation and monitoring of equipment"
+        },
+        {
+          "response": "",
+          "text": "Local rules are required for a controlled area",
+          "answer": "True",
+          "explanation": "Local rules describe safe working methods in situations involving ionising radiations"
+        }
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "stem": "According to the Ionising Radiation (Medical Exposure) Regulations 2000 (IRMER):",
+      "options": [
+        {
+          "response": "",
+          "text": "all referrers must undergo training",
+          "answer": "False",
+          "explanation": "Training and continuous education are compulsory for employers, practitioners, and operators responsible for medical exposures under Regulation 11(1-5) of IRMER 2000"
+        },
+        {
+          "response": "",
+          "text": "a qualified chiropractor acts as a practitioner",
+          "answer": "True",
+          "explanation": "A practitioner is entitled to take responsibility for individual medical exposures following employer's procedures. Practitioners include registered medical and dental professionals, as well as other health professionals like chiropractors"
+        },
+        {
+          "response": "",
+          "text": "a medical physics expert is to be present for all nuclear medicine exposures",
+          "answer": "True",
+          "explanation": "A medical physics expert must be involved in medical exposures, including dose optimisation, quality assurance, and radiation protection"
+        },
+        {
+          "response": "",
+          "text": "anyone participating in the practical aspects of a medical exposure is an operator",
+          "answer": "True",
+          "explanation": "An operator is responsible for practical aspects such as handling radiological equipment, administering radioactive materials, and maintaining equipment"
+        },
+        {
+          "response": "",
+          "text": "the regulations do not apply to research exposures",
+          "answer": "False",
+          "explanation": "These regulations apply to radiation exposure involving patients or volunteers in research programs, as per Regulation 3 of IRMER 2000"
+        }
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "stem": "Concerning tomographic reconstruction:",
+      "options": [
+        {
+          "response": "",
+          "text": "It allows visualisation of the internal structures of an object",
+          "answer": "True",
+          "explanation": "Tomography is a non-invasive imaging technique for visualising internal structures without superimposing over- and underlying features"
+        },
+        {
+          "response": "",
+          "text": "The radon transform reconstructs tomographic images from measured projection data",
+          "answer": "True",
+          "explanation": "Radon transform provides the mathematical basis for reconstructing tomographic images from measured projection or scattering data"
+        },
+        {
+          "response": "",
+          "text": "X-ray CT measures the number of X-ray photons emitted through the patient along individual projection lines",
+          "answer": "False",
+          "explanation": "X-ray CT measures the number of X-ray photons transmitted through the patient along individual projection lines"
+        },
+        {
+          "response": "",
+          "text": "Backprojection propagates the measured sinogram back into the image space",
+          "answer": "True",
+          "explanation": "Backprojection smears projections across the image, creating a blurry approximation of the original object"
+        },
+        {
+          "response": "",
+          "text": "Direct Fourier is one of the techniques",
+          "answer": "True",
+          "explanation": "Direct Fourier reconstruction is based on the Fourier slice theorem, among other techniques like filtered backprojection"
+        }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "stem": "Reducing the number of projections is desirable for the purpose of",
+      "options": [
+        {
+          "response": "",
+          "text": "increasing scanning time",
+          "answer": "False",
+          "explanation": "Reducing the number of projections decreases scanning time"
+        },
+        {
+          "response": "",
+          "text": "reducing noise",
+          "answer": "True",
+          "explanation": "Iterative reconstruction can maintain image quality with fewer projections compared to filtered backprojection algorithms"
+        },
+        {
+          "response": "",
+          "text": "reducing motion artefact",
+          "answer": "True",
+          "explanation": "Fewer projections reduce scan time and motion artifacts during the scan"
+        },
+        {
+          "response": "",
+          "text": "reducing patient dose",
+          "answer": "True",
+          "explanation": "Reducing projections minimizes patient exposure to radiation"
+        },
+        {
+          "response": "",
+          "text": "increasing number of measurement",
+          "answer": "False",
+          "explanation": "The number of measurements decreases as the number of projections decreases"
+        }
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "stem": "Reducing CT slice thickness results in",
+      "options": [
+        {
+          "response": "",
+          "text": "increased partial volume effect",
+          "answer": "False",
+          "explanation": "Reducing slice thickness reduces the partial volume effect, which averages attenuation values within a voxel"
+        },
+        {
+          "response": "",
+          "text": "low subject contrast",
+          "answer": "False",
+          "explanation": "Subject contrast is determined by X-ray penetration, not slice thickness"
+        },
+        {
+          "response": "",
+          "text": "fewer X-rays incident upon the detector",
+          "answer": "True",
+          "explanation": "Collimator height defines slice thickness, with thinner slices achieved by narrowing the collimator"
+        },
+        {
+          "response": "",
+          "text": "noisier images",
+          "answer": "True",
+          "explanation": "Thinner slices result in fewer X-rays interacting with detectors, increasing statistical fluctuation and image noise"
+        },
+        {
+          "response": "",
+          "text": "changing the beam width",
+          "answer": "True",
+          "explanation": "Changing slice thickness adjusts the beam width and the number of detected X-rays"
+        }
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "stem": "Technique to reduce the CT dose includes",
+      "options": [
+        {
+          "response": "",
+          "text": "limiting the coverage of the scan",
+          "answer": "True",
+          "explanation": "Limiting scan coverage minimizes radiation exposure to tissues outside the area of clinical concern"
+        },
+        {
+          "response": "",
+          "text": "increasing mA",
+          "answer": "False",
+          "explanation": "Increasing mA raises X-ray flux and radiation dose, reducing noise"
+        },
+        {
+          "response": "",
+          "text": "utilisation of body mass index chart",
+          "answer": "True",
+          "explanation": "Dose can be reduced based on patient body habitus, using lower kVp and mA for lower BMI patients"
+        },
+        {
+          "response": "",
+          "text": "proper patient positioning",
+          "answer": "True",
+          "explanation": "Proper patient centering aligns the center of mass with the bow-tie filter, optimizing dose and image quality"
+        },
+        {
+          "response": "",
+          "text": "using the 3D dose modulation",
+          "answer": "True",
+          "explanation": "3D dose modulation adjusts X-ray dose based on patient attenuation in all dimensions"
+        }
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "stem": "Regarding SPECT:",
+      "options": [
+        {
+          "response": "",
+          "text": "Spatial resolution is lower than planar gamma imaging",
+          "answer": "True",
+          "explanation": "Spatial resolution is worse in SPECT compared to planar gamma imaging because the distance between the camera and patient is further in SPECT. Camera head is closer to the patient in planar gamma imaging"
+        },
+        {
+          "response": "",
+          "text": "Multiple camera heads are used",
+          "answer": "True",
+          "explanation": "In SPECT imaging, two or more (multiple) gamma cameras are used"
+        },
+        {
+          "response": "",
+          "text": "Reconstructed resolution improves as the distance of the detector from the patient is increased",
+          "answer": "False",
+          "explanation": "Reconstructed resolution improves as the distance of the detector from the patient is decreased. The detector should be placed as close as possible to the patient to allow more photons to be detected and increase the detection efficiency"
+        },
+        {
+          "response": "",
+          "text": "The detection sensitivity of SPECT system is less than the planar gamma imaging",
+          "answer": "False",
+          "explanation": "The detection sensitivity of the SPECT system is more than planar gamma imaging because SPECT detects photons in multiple directions, as the detector rotates. However, planar imaging detects photons in one direction only"
+        },
+        {
+          "response": "",
+          "text": "Filtered backprojection technique is used to reconstruct the tomographic images",
+          "answer": "True",
+          "explanation": "In SPECT, tomographic reconstruction with filtered backprojection (FBP) or iterative technique is employed"
+        }
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "stem": "Regarding SPECT:",
+      "options": [
+        {
+          "response": "",
+          "text": "The computational time in SPECT reconstruction is longer than CT",
+          "answer": "True",
+          "explanation": "The computational time for image reconstruction in SPECT is longer compared to CT because it involves reconstructing an attenuation map from emission data for attenuation correction"
+        },
+        {
+          "response": "",
+          "text": "SPECT imaging is less susceptible to motion artefacts than CT imaging",
+          "answer": "False",
+          "explanation": "SPECT imaging is more susceptible to motion artifacts than in CT imaging because the acquisition time is longer"
+        },
+        {
+          "response": "",
+          "text": "SPECT allows over- and underlying distribution of radioactivity with improved contrast",
+          "answer": "True",
+          "explanation": "SPECT produces 3D images that eliminate the superimpositions of radioactivity distribution underlying and overlying the regions of interest with improved contrast and image details"
+        },
+        {
+          "response": "",
+          "text": "Radiopharmaceutical used in general planar imaging is used in SPECT procedures",
+          "answer": "True",
+          "explanation": "Both planar and SPECT imaging use radioisotopes that emit gamma rays such as 99mTc"
+        },
+        {
+          "response": "",
+          "text": "Intrinsic uniformity for SPECT camera is a daily QA test",
+          "answer": "True",
+          "explanation": "The intrinsic and extrinsic flood uniformity test for SPECT cameras should be performed daily using two to four million counts"
+        }
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "stem": "Regarding radionuclides for positron emission tomography (PET):",
+      "options": [
+        {
+          "response": "",
+          "text": "It is produced from Mo generator",
+          "answer": "False",
+          "explanation": "Radionuclides for PET are produced from cyclotrons"
+        },
+        {
+          "response": "",
+          "text": "It has significant physiologic potential",
+          "answer": "True",
+          "explanation": "The radionuclide possesses chemical properties that render them particularly useful in studying physiological processes, for example, 11C, 13N, and 15O"
+        },
+        {
+          "response": "",
+          "text": "It replaces atoms in molecules for metabolism",
+          "answer": "True",
+          "explanation": "This includes the measurement of the pharmacokinetics of labeled drugs and the measurement of the effects of drugs on metabolism"
+        },
+        {
+          "response": "",
+          "text": "It allows direct studies of metabolism of tissue",
+          "answer": "True",
+          "explanation": "Radionuclides for PET measure biochemical and physiological processes in vivo quantitatively using radiopharmaceuticals labeled with positron-emitting radionuclides and measuring annihilation radiation using a coincidence technique"
+        },
+        {
+          "response": "",
+          "text": "16O is one of the examples",
+          "answer": "False",
+          "explanation": "Radionuclides for PET include 15O. 16O is a stable isotope of oxygen"
+        }
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "stem": "Regarding nuclear magnetic resonance (NMR):",
+      "options": [
+        {
+          "response": "",
+          "text": "It uses electromagnetic radiation to promote transitions between electric signals",
+          "answer": "False",
+          "explanation": "It uses electromagnetic radiation to promote transitions between nuclear energy levels (resonance)"
+        },
+        {
+          "response": "",
+          "text": "1H is one of the magnet nuclei",
+          "answer": "True",
+          "explanation": "Nuclei are positively charged and spin on an axis; they create a tiny magnetic field. Not all nuclei are suitable for NMR. 1H and 13C are the most important NMR active nuclei in organic chemistry"
+        },
+        {
+          "response": "",
+          "text": "Different atoms within a molecule resonated at the same frequencies",
+          "answer": "False",
+          "explanation": "Different atoms within a molecule resonate at different frequencies"
+        },
+        {
+          "response": "",
+          "text": "It is expected to provide more specific pathophysiologic information than conventional imaging modalities",
+          "answer": "True",
+          "explanation": "Each chemically distinct hydrogen nucleus in each metabolite in a biological sample, such as biofluid, will exhibit an NMR signal at a characteristic resonance frequency, which is measured as a chemical shift relative to a standard compound. Thus, NMR allows metabolite identification in biological fluids"
+        },
+        {
+          "response": "",
+          "text": "It is capable of producing high-quality images without the use of ionising radiation",
+          "answer": "True",
+          "explanation": "The nucleus of the hydrogen atom (which is the most prevalent in the body and has a single unpaired proton) has been most commonly exploited to produce high-quality NMR images"
+        }
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "stem": "Factor which contributes to the decay of transverse magnetisation in NMR includes",
+      "options": [
+        {
+          "response": "",
+          "text": "constant frequency",
+          "answer": "False",
+          "explanation": "Transverse magnetisation is an unstable or excited condition and quickly decays after the termination of the excitation pulse. The decay of transverse magnetisation is a relaxation process, which can be characterised by specific relaxation times or T2 values. Constant frequency is not a factor that contributes to the decay of transverse magnetisation in NMR"
+        },
+        {
+          "response": "",
+          "text": "presence of two spin states",
+          "answer": "False",
+          "explanation": "Energies cause transitions between the nuclear spin states which result in nuclear spin relaxation. The presence of two spin states is not a factor that contributes to the decay of transverse magnetisation in NMR"
+        },
+        {
+          "response": "",
+          "text": "molecular interactions",
+          "answer": "True",
+          "explanation": "Molecular interactions lead to a pure T2 molecular effect"
+        },
+        {
+          "response": "",
+          "text": "variations in magnetic field",
+          "answer": "True",
+          "explanation": "Variations in magnetic field lead to an inhomogeneous T2 effect"
+        },
+        {
+          "response": "",
+          "text": "the spin aligns in one orientation",
+          "answer": "False",
+          "explanation": "The spin aligns in two orientations (up and down)"
+        }
+      ]
+    },
+    {
+      "questionNumber": 31,
+      "stem": "Regarding magnetic resonance imaging (MRI):",
+      "options": [
+        {
+          "response": "",
+          "text": "STIR is used for suppression of fatty tissues",
+          "answer": "True",
+          "explanation": "Short tau inversion recovery (STIR) is a useful sequence for suppressing fat. STIR uses a sequence that consists of short TI (tau), known as the null point, to suppress the signal from fat"
+        },
+        {
+          "response": "",
+          "text": "Gadolinium reduces both T1 and T2 relaxation times",
+          "answer": "True",
+          "explanation": "Gadolinium has paramagnetic properties and improves both longitudinal and transverse relaxations; thereby, it shortens both T1 and T2 relaxation times of tissues in which it accumulates"
+        },
+        {
+          "response": "",
+          "text": "STEAM stands for stimulated echo acquisition mode",
+          "answer": "True",
+          "explanation": "STEAM is one of the single-voxel techniques used to locate the spectrum of measured protons in MR spectroscopy"
+        },
+        {
+          "response": "",
+          "text": "The TR used to obtain T1W images is long",
+          "answer": "False",
+          "explanation": "Short TR and TE are used to obtain T1W images"
+        },
+        {
+          "response": "",
+          "text": "T1 relaxation occurs, closely followed by the initiating of T2 relaxation",
+          "answer": "False",
+          "explanation": "T1 and T2 relaxations happen simultaneously but independently and contribute to image contrast"
+        }
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "stem": "In T2-weighted images",
+      "options": [
+        {
+          "response": "",
+          "text": "the TE used is long",
+          "answer": "True",
+          "explanation": "Echo time (TE) is the time between the application of the radiofrequency pulse and the peak of the induced signal, corresponding to the maximum of echo. TE determines the transverse magnetisation decay and thus controls the amount of T2 weighting"
+        },
+        {
+          "response": "",
+          "text": "the flip angle used is 30°",
+          "answer": "False",
+          "explanation": "A flip angle of 90° is used to obtain T2-weighted images"
+        },
+        {
+          "response": "",
+          "text": "tissue with long T2 decay time appears bright",
+          "answer": "True",
+          "explanation": "Long TE used in T2 sequence allows tissues with long T2 to fully decay (relaxation), and higher signal is received. Tissues with higher signal will appear bright"
+        },
+        {
+          "response": "",
+          "text": "cerebral spinal fluid appears dark",
+          "answer": "False",
+          "explanation": "Cerebrospinal fluid (CSF) has a long T2 time. Long TE used in T2 weighting allows CSF to produce a stronger signal compared to other tissues with short T2. Thus, CSF appears bright on T2-weighted images"
+        },
+        {
+          "response": "",
+          "text": "infectious regions produce low signal",
+          "answer": "False",
+          "explanation": "Pathological processes, such as demyelination or inflammation, often increase water content in tissues. Thus, infectious regions produce higher signals in T2-weighted images"
+        }
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "stem": "Concerning safety in MRI:",
+      "options": [
+        {
+          "response": "",
+          "text": "The radiofrequency deposition is minimised in patients",
+          "answer": "True",
+          "explanation": "Radiofrequency (RF) power transmitted for MR imaging is transformed into heat within the patient’s tissue as a result of resistive losses. The dosimetric term used to describe the absorption of RF radiation is the specific absorption rate (SAR)"
+        },
+        {
+          "response": "",
+          "text": "A limited number of implants are assessed at field strengths of 3 Tesla",
+          "answer": "True",
+          "explanation": "The FDA restricts the amount of heat that can be induced in a given human tissue. The accepted levels are reached more quickly in 3-T scanning, which results in longer scan times to enable the tissue to cool"
+        },
+        {
+          "response": "",
+          "text": "Patient’s skin is insulated from the bore of the magnet",
+          "answer": "True",
+          "explanation": "Insulating material (minimum recommended thickness, 1 cm) should be placed between the patient’s skin and the RF transmitter coil. There should be no direct contact between the patient’s skin and the RF transmitter body coil"
+        },
+        {
+          "response": "",
+          "text": "Subjecting the human body to time-varying electromagnetic fields leads to induced magnet fields",
+          "answer": "False",
+          "explanation": "Subjecting the human body to time-varying electromagnetic fields leads to induced electric fields. At frequencies above 1 MHz, reactive elements become significant, and induced currents can interfere with normal nerve and muscle function"
+        },
+        {
+          "response": "",
+          "text": "Immediate evacuation of the patient is necessary if a quench occurs",
+          "answer": "True",
+          "explanation": "Quenching occurs when there is a sudden loss of absolute zero in the magnet coils, causing helium to escape from the cryogen bath. It may happen accidentally or be manually instigated in an emergency"
+        }
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "stem": "Ultrasound used in medical diagnosis",
+      "options": [
+        {
+          "response": "",
+          "text": "has an average speed in tissue of 1540 m/s",
+          "answer": "True",
+          "explanation": "The average speed of ultrasound is 330 m/s in air, 1540 m/s in tissue, and 3200 m/s in bone"
+        },
+        {
+          "response": "",
+          "text": "causes microcavitation of blood",
+          "answer": "True",
+          "explanation": "Ultrasound can cause tissue damage via cavitation and acoustic streaming"
+        },
+        {
+          "response": "",
+          "text": "has a frequency range of 1–20 Hz",
+          "answer": "False",
+          "explanation": "The frequency range of diagnostic ultrasound is in the MHz range, not in Hz"
+        },
+        {
+          "response": "",
+          "text": "measures blood velocity",
+          "answer": "True",
+          "explanation": "The Doppler principle is utilised to measure blood velocity, using the frequency change of ultrasound waves"
+        },
+        {
+          "response": "",
+          "text": "generates large amount of heat in the imaged tissues",
+          "answer": "False",
+          "explanation": "Medical ultrasound generates negligible amounts of heat in the tissue"
+        }
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "stem": "Piezoelectric materials in ultrasound",
+      "options": [
+        {
+          "response": "",
+          "text": "expand when direct current is applied",
+          "answer": "True",
+          "explanation": "When direct current is applied, piezoelectric material expands or contracts"
+        },
+        {
+          "response": "",
+          "text": "expand and contract when alternating current is applied",
+          "answer": "True",
+          "explanation": "When alternating current is applied, piezoelectric material alternately expands and contracts with the same frequency as the alternating current"
+        },
+        {
+          "response": "",
+          "text": "convert electric current to sound energy",
+          "answer": "True",
+          "explanation": "The contraction and expansion of piezoelectric materials due to electric current produce ultrasound waves"
+        },
+        {
+          "response": "",
+          "text": "act as transmitter and receiver material",
+          "answer": "True",
+          "explanation": "Its ability to convert electric current to sound and vice versa makes piezoelectric material suitable for use as both transmitter and receiver"
+        },
+        {
+          "response": "",
+          "text": "convert sound energy to electric signal",
+          "answer": "True",
+          "explanation": "Piezoelectric materials convert sound energy to electric signals when acting as a receiver"
+        }
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "stem": "Factor affecting visibility of anatomical detail in ultrasound image includes",
+      "options": [
+        {
+          "response": "",
+          "text": "frequency",
+          "answer": "True",
+          "explanation": "The frequency effect on wavelength and pulse length determines blurring and visibility of detail in the axial direction"
+        },
+        {
+          "response": "",
+          "text": "transducer focusing",
+          "answer": "True",
+          "explanation": "The transducer’s focusing characteristics, which determine the lateral size of the pulse, affect visibility in the lateral direction"
+        },
+        {
+          "response": "",
+          "text": "time gain compensation",
+          "answer": "False",
+          "explanation": "TGC (Time Gain Compensation) does not affect the visibility of anatomical detail in ultrasound images"
+        },
+        {
+          "response": "",
+          "text": "pulse rate",
+          "answer": "False",
+          "explanation": "Pulse rate does not affect the visibility of anatomical detail in ultrasound images"
+        },
+        {
+          "response": "",
+          "text": "acoustic impedance",
+          "answer": "True",
+          "explanation": "Higher acoustic impedance of a structure improves image detail"
+        }
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "stem": "Regarding safety in ultrasound imaging:",
+      "options": [
+        {
+          "response": "",
+          "text": "The output level is kept as low as reasonably achievable",
+          "answer": "True",
+          "explanation": "The basic principle in ultrasound safety is to keep the power output as low as reasonably practicable (ALARP) while producing useful diagnostic results"
+        },
+        {
+          "response": "",
+          "text": "The mechanical index (MI) greater than 0.7 generates the risk of cavitation",
+          "answer": "True",
+          "explanation": "The mechanical index (MI) estimates the risk of nonthermal effects like cavitation and streaming. An MI greater than 0.7 poses a cavitation risk"
+        },
+        {
+          "response": "",
+          "text": "The maximum temperature of the probe in contact with the patient is limited to 43 °C",
+          "answer": "True",
+          "explanation": "According to International Standards (IEC 2007), the recommended maximum temperature of the probe in contact with the patient is limited to 43 °C"
+        },
+        {
+          "response": "",
+          "text": "Pulsed Doppler technique produces lesser heating potential than Doppler power mapping",
+          "answer": "False",
+          "explanation": "Pulsed Doppler techniques produce more heating potential than Doppler power mapping because of the higher pulse repetition frequency"
+        },
+        {
+          "response": "",
+          "text": "The use of Doppler ultrasound in the first trimester is restricted",
+          "answer": "False",
+          "explanation": "Doppler examinations should not be used in the first trimester of pregnancy"
+        }
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "stem": "Fluorescent imaging",
+      "options": [
+        {
+          "response": "",
+          "text": "is sensitive for protein detection",
+          "answer": "True",
+          "explanation": "Fluorescent dyes are the most sensitive for detection of total DNA, RNA and protein compared with traditional colorimetric methods"
+        },
+        {
+          "response": "",
+          "text": "has lower stability compared to radioisotopes",
+          "answer": "False",
+          "explanation": "Fluorescent antibodies such as PCR primers can be stored for several months; however, radioisotope-labelled antibodies, for example, phosphorus-32-labelled nucleotides, decay in about a week"
+        },
+        {
+          "response": "",
+          "text": "requires radiation shielding during handling",
+          "answer": "False",
+          "explanation": "Fluorescent dye is not an ionising radiation"
+        },
+        {
+          "response": "",
+          "text": "involves an optical camera",
+          "answer": "True",
+          "explanation": "An optical camera is required to image the fluorescent light"
+        },
+        {
+          "response": "",
+          "text": "detects photon of a wavelength longer than X-ray",
+          "answer": "True",
+          "explanation": "Fluorescent imaging detects visible light which has a longer wavelength than x-rays"
+        }
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "stem": "Concerning functional and molecular imaging (FMI):",
+      "options": [
+        {
+          "response": "",
+          "text": "Optical imaging with fluorescent molecular probes produces images with high spatial resolution",
+          "answer": "True",
+          "explanation": "Optical imaging with fluorescent molecular probes is capable of producing higher spatial resolution images, which are less than 3 mm"
+        },
+        {
+          "response": "",
+          "text": "Cadmium zinc telluride (CZT) semiconductor detectors used in SPECT/MR system are not susceptible to magnetism",
+          "answer": "True",
+          "explanation": "There was negligible effect on magnetic field homogeneity when high or low voltage power was supplied to the CZT detector. Due to its compatibility with MR fields, CZT has been used as the detector for multimodality imaging such as SPECT/MRI"
+        },
+        {
+          "response": "",
+          "text": "Equal distance separation between both gantries during data acquisition leads to the misregistration of the PET/CT images",
+          "answer": "False",
+          "explanation": "Equal distance separation between both gantries should be obtained during data acquisition to avoid misregistration of the PET/CT images"
+        },
+        {
+          "response": "",
+          "text": "PET studies demonstrate higher sensitivities for detection of coronary artery disease than SPECT",
+          "answer": "True",
+          "explanation": "PET studies demonstrate higher sensitivity, specificity, and accuracy for detection of coronary artery disease (CAD) than SPECT and PET/CT"
+        },
+        {
+          "response": "",
+          "text": "The reconstructed slice of PET images is thicker than CT slice for a precise PET/CT image fusion",
+          "answer": "False",
+          "explanation": "The reconstructed slice of PET images should be similar to CT slices for a precise PET/CT image fusion"
+        }
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "stem": "Regarding FMI:",
+      "options": [
+        {
+          "response": "",
+          "text": "MR spectroscopic imaging (MRSI) detects tumour in the brain based on changes in lactate concentration",
+          "answer": "True",
+          "explanation": "MR spectroscopic imaging (MRSI) detects tumors in the brain based on changes in lactate and choline concentration"
+        },
+        {
+          "response": "",
+          "text": "Kinetic modelling is used to provide information about varying aspects of biological processes in dynamic studies",
+          "answer": "True",
+          "explanation": "The combination of dynamic imaging with computational approaches, particularly the kinetic modeling method, is useful for quantitation of biophysical properties of molecules and processes such as protein interaction in cells"
+        },
+        {
+          "response": "",
+          "text": "In diffusion weighted (DW)-MRI study, tissues with high cellularity display higher signal intensity than dense tissues",
+          "answer": "True",
+          "explanation": "In DW imaging (DWI), tissues with high cellularity have low apparent diffusion coefficient (ADC), and thus they will have high signal"
+        },
+        {
+          "response": "",
+          "text": "In fasting state, the level of muscle FDG uptake is higher than the tumour FDG uptake",
+          "answer": "False",
+          "explanation": "In the fasting state, the level of tumor FDG uptake is higher than the muscle FDG uptake"
+        },
+        {
+          "response": "",
+          "text": "Metabolic activity serves as an imaging biomarker in PET imaging",
+          "answer": "True",
+          "explanation": "The typical imaging biomarkers used to measure the molecular characteristics in PET imaging are metabolic activity, receptor expression, and enzymatic activity"
+        }
+      ]
+    }
+  ]
+
+}

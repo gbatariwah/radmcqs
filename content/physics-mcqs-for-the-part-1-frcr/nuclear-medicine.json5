@@ -1,0 +1,1087 @@
+{
+  name: "Physics MCQs for the Part 1 FRCR",
+  authors: "Shahzad Ilyas",
+  slug: "nuclear-medicine",
+  questions: [
+    {
+      "questionNumber": 1,
+      "stem": "Which of the following are true with regard to isotopes of a given element?",
+      "options": [
+        {
+          "response": "",
+          "text": "They have the same number of nucleons",
+          "answer": "False",
+          "explanation": "Nucleon is a collective term for neutrons and protons. Isotopes of the same element have the same number of protons but a different number of neutrons"
+        },
+        {
+          "response": "",
+          "text": "They have the same atomic mass",
+          "answer": "False",
+          "explanation": "Atomic mass is equal to the number of protons and neutrons in a nucleus. Isotopes differ in the number of neutrons and therefore have different atomic mass numbers"
+        },
+        {
+          "response": "",
+          "text": "They differ in densities",
+          "answer": "True",
+          "explanation": "Isotopes differ in many of their physical properties including their densities"
+        },
+        {
+          "response": "",
+          "text": "They have the same number of protons but a different number of electrons",
+          "answer": "False",
+          "explanation": "The number of orbiting electrons (negative charge) is equal to the number of protons (positive charge)"
+        },
+        {
+          "response": "",
+          "text": "They have the same position on the periodic table",
+          "answer": "True",
+          "explanation": "Elements are positioned in the periodic table according to their atomic number (number of protons), which remains the same for isotopes of the same element"
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "stem": "Which of the following statements are correct, when referring to an atom?",
+      "options": [
+        {
+          "response": "",
+          "text": "The valence shell is responsible for radioactivity",
+          "answer": "False",
+          "explanation": "The valence shell is the outer electron shell and influences the chemical and thermal properties of an atom. Radioactivity involves the nucleus"
+        },
+        {
+          "response": "",
+          "text": "Radioactivity results from an imbalance in the number of protons and electrons",
+          "answer": "False",
+          "explanation": "Radioactivity occurs as a result of unstable nuclei (radionuclide) that have an excess or deficit of neutrons"
+        },
+        {
+          "response": "",
+          "text": "All atoms have an equal number of protons and neutrons",
+          "answer": "False",
+          "explanation": "For example, hydrogen has one proton only and no neutrons"
+        },
+        {
+          "response": "",
+          "text": "Neutrons have a negative charge",
+          "answer": "False",
+          "explanation": "Neutrons have no charge. Protons have a positive charge and electrons have a negative charge"
+        },
+        {
+          "response": "",
+          "text": "Radon contributes to our background radiation",
+          "answer": "True",
+          "explanation": "Radon is an example of a naturally occurring radionuclide"
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "stem": "The production of radionuclides can involve",
+      "options": [
+        {
+          "response": "",
+          "text": "The addition of a neutron into a stable nucleus",
+          "answer": "True",
+          "explanation": "This is one of the methods by which radionuclides are produced. The process takes place in a nuclear reactor"
+        },
+        {
+          "response": "",
+          "text": "Capturing a negative electron from the K-shell (electron capture)",
+          "answer": "False",
+          "explanation": "Electron capture is a form of radioactive decay"
+        },
+        {
+          "response": "",
+          "text": "Addition of a proton into the nucleus using a nuclear reactor",
+          "answer": "False",
+          "explanation": "The forceful addition of a proton into the nucleus causing the ejection of a neutron is also one of the methods by which radionuclides are produced. However, this process takes place in a cyclotron, which accelerates charged particles, e.g. protons, onto the target material"
+        },
+        {
+          "response": "",
+          "text": "The use of a cyclotron",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Removal of electrons from the inner shell",
+          "answer": "False",
+          "explanation": "Radioactivity involves the nucleus"
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "stem": "Concerning radionuclide production",
+      "options": [
+        {
+          "response": "",
+          "text": "Radionuclides used in medicine are generally found naturally",
+          "answer": "False",
+          "explanation": "Radionuclides used in medicine are produced artificially"
+        },
+        {
+          "response": "",
+          "text": "In a cyclotron, protons are forced into the nucleus",
+          "answer": "True",
+          "explanation": "A cyclotron accelerates protons (and other charged particles) onto the target material, resulting in the addition of the proton into the nucleus, causing a neutron to be ejected"
+        },
+        {
+          "response": "",
+          "text": "In a nuclear reactor, the addition of a neutron into the nucleus results in an increase in atomic number",
+          "answer": "False",
+          "explanation": "Atomic number is equal to the number of protons, which is unchanged in this particular process unless the addition of a neutron causes nuclear instability and the expulsion of a proton, in which case the atomic number will decrease"
+        },
+        {
+          "response": "",
+          "text": "Radionuclides produced in a cyclotron can be separated from the stable (carrier) element",
+          "answer": "True",
+          "explanation": "Radionuclides produced in a cyclotron can be separated from their carrier as they have different atomic numbers and hence different chemical properties"
+        },
+        {
+          "response": "",
+          "text": "Radionuclides produced in a nuclear reactor by neutron capture alone can be separated from the stable (carrier) element",
+          "answer": "False",
+          "explanation": "Radionuclides produced in a nuclear reactor by neutron capture cannot be separated from the stable compound (carrier) as they have the same atomic number and hence the same chemical properties"
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "stem": "Regarding radioactive decay",
+      "options": [
+        {
+          "response": "",
+          "text": "K-electron capture is a type of radioactive decay process",
+          "answer": "True",
+          "explanation": "Neutron deficient radionuclides increase their number of neutrons relative to protons by capturing an electron from the K-shell"
+        },
+        {
+          "response": "",
+          "text": "It is a stochastic process",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "It can occur following an increase in electron numbers",
+          "answer": "False",
+          "explanation": "Radioactive decay occurs due to the nuclei being unstable as a result of either an excess or a deficiency in the number of neutrons or protons"
+        },
+        {
+          "response": "",
+          "text": "It results in absorption of energy from the surrounding atoms",
+          "answer": "False",
+          "explanation": "Radioactive decay is not an energy-dependent process and occurs independently"
+        },
+        {
+          "response": "",
+          "text": "It always results in a stable daughter nucleus",
+          "answer": "False",
+          "explanation": "Although radioactive decay can result in a stable daughter nucleus, a metastable or unstable daughter nucleus may also be formed"
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "stem": "Which of the following are correct with regard to beta-negative (β−) decay?",
+      "options": [
+        {
+          "response": "",
+          "text": "It involves the ejection of a positron (positive electron)",
+          "answer": "False",
+          "explanation": "Radionuclides lose energy and become stable in beta decay by a neutron changing to a proton plus an electron. The electron is ejected from the nucleus with high energy and is referred to as a negative beta particle"
+        },
+        {
+          "response": "",
+          "text": "It results in increased atomic number",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "It results in increased atomic mass",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "It results in a daughter nucleus with a high energy state",
+          "answer": "True",
+          "explanation": "The daughter nucleus is produced with excess energy and loses this as gamma photons"
+        },
+        {
+          "response": "",
+          "text": "It occurs in a neutron-deficient radionuclide",
+          "answer": "False",
+          "explanation": "Beta-negative (b-) decay occurs in a radionuclide with neutron excess"
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "stem": "Concerning the properties of nuclear isomers",
+      "options": [
+        {
+          "response": "",
+          "text": "They have different atomic numbers",
+          "answer": "False",
+          "explanation": "In some radionuclides, following beta decay, the gamma ray is not emitted immediately. The radionuclides before and after emission of the gamma rays are said to be isomers, which have different energy states and half-lives, but the same atomic and mass numbers"
+        },
+        {
+          "response": "",
+          "text": "They have the same atomic mass",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "They have the same half-life",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "They have different energy states",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The metastable isomer is formed following the release of the gamma ray",
+          "answer": "False",
+          "explanation": "The isomer before the release of the gamma ray is said to be metastable"
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "stem": "Which of the following are correct with regard to beta-positive (β+) decay?",
+      "options": [
+        {
+          "response": "",
+          "text": "It occurs in a radionuclide with a neutron excess",
+          "answer": "False",
+          "explanation": "b+ decay occurs in radionuclides with a neutron deficit"
+        },
+        {
+          "response": "",
+          "text": "Radionuclides become stable by a neutron changing to a proton",
+          "answer": "False",
+          "explanation": "Radionuclides lose energy and become stable in b+ decay by a proton changing to a neutron plus a positive electron (known as a positron). The positron is ejected from the nucleus with high energy"
+        },
+        {
+          "response": "",
+          "text": "It results in reduced atomic number",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "It results in increased atomic mass",
+          "answer": "False",
+          "explanation": "The conversion of a proton to a neutron results in the atomic mass being conserved"
+        },
+        {
+          "response": "",
+          "text": "It results in ejection of a positron",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "stem": "Following electron capture",
+      "options": [
+        {
+          "response": "",
+          "text": "The number of protons increases",
+          "answer": "False",
+          "explanation": "A radionuclide with a neutron deficit may increase its number of neutrons by capturing an electron from the K-shell, which combines with a proton to form a neutron"
+        },
+        {
+          "response": "",
+          "text": "The atom is negatively charged",
+          "answer": "False",
+          "explanation": "The neutron (no charge) is formed from the combination of a negative electron and a positive proton, leaving no net change in the charge"
+        },
+        {
+          "response": "",
+          "text": "The atomic mass stays the same",
+          "answer": "True",
+          "explanation": "The conversion of a proton to a neutron results in the atomic mass being conserved"
+        },
+        {
+          "response": "",
+          "text": "The atomic number is reduced",
+          "answer": "True",
+          "explanation": "Atomic number is equal to the number of protons"
+        },
+        {
+          "response": "",
+          "text": "Bremsstrahlung radiation is released",
+          "answer": "False",
+          "explanation": "The daughter nuclide emits characteristic X-ray radiation as a result of an electron from an outer shell filling the vacancy in the K-shell"
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "stem": "Which of the following are true regarding gamma rays?",
+      "options": [
+        {
+          "response": "",
+          "text": "They are released following the interaction of electrons with a tungsten target",
+          "answer": "False",
+          "explanation": "Electromagnetic radiation is identified according to its source. Electrons interacting with a tungsten target, in an X-ray tube, form X-rays. Gamma rays are formed as a result of radioactive decay in the nucleus"
+        },
+        {
+          "response": "",
+          "text": "They have a mass",
+          "answer": "False",
+          "explanation": "Gamma rays have similar properties to X-rays, both of which have no mass"
+        },
+        {
+          "response": "",
+          "text": "They form a line spectrum, representing energy levels that are specific to the nuclide that emits them",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "They have a frequency proportional to their energy",
+          "answer": "True",
+          "explanation": "Similar to X-rays, frequency is proportional to photon energy, which is inversely proportional to wavelength"
+        },
+        {
+          "response": "",
+          "text": "They can be absorbed within the emitting atom",
+          "answer": "True",
+          "explanation": "Gamma rays can interact with an inner-shell electron displacing it from the atom (conversion electron). The vacancy is filled with an electron from the outer shell leading to X-ray emission. This process is known as ‘internal conversion.’"
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "stem": "Regarding beta radiation",
+      "options": [
+        {
+          "response": "",
+          "text": "It is made up of photons",
+          "answer": "False",
+          "explanation": "Beta radiation is made up of electrons. Negative electrons are known as negative beta particles and positive electrons are known as positrons"
+        },
+        {
+          "response": "",
+          "text": "It is emitted with a continuous spectrum of energy",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The maximum energy of the electron is dependent on the radionuclide material",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The distance travelled by a beta particle is inversely proportional to the density of the material through which it is travelling",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Beta rays travel in a straight line",
+          "answer": "False",
+          "explanation": "Like other secondary electrons, beta rays follow a random path in matter"
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "stem": "The following are true regarding beta particles and their interactions",
+      "options": [
+        {
+          "response": "",
+          "text": "Both electrons and positrons have a mass",
+          "answer": "True",
+          "explanation": "Like electrons, positrons have a relative atomic mass of 1/1840"
+        },
+        {
+          "response": "",
+          "text": "Beta particles result in a trail of ionized atoms",
+          "answer": "True",
+          "explanation": "Beta particles are secondary electrons that travel through matter resulting in a trail of ions"
+        },
+        {
+          "response": "",
+          "text": "The collision of two positrons results in complete annihilation of the two particles",
+          "answer": "False",
+          "explanation": "The collision of a positron with a negative electron results in the two charges neutralizing each other and the two masses being converted to energy (annihilation)"
+        },
+        {
+          "response": "",
+          "text": "Positron annihilation results in the release of gamma photons",
+          "answer": "True",
+          "explanation": "The process of annihilation results in the release of gamma photons, which travel in opposite directions to each other"
+        },
+        {
+          "response": "",
+          "text": "Beta particles increase the temperature of the surrounding tissue",
+          "answer": "True",
+          "explanation": "As these secondary electrons travel through tissue, some of their kinetic energy is transformed to heat energy"
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "stem": "Which of the following are true regarding radioactive decay?",
+      "options": [
+        {
+          "response": "",
+          "text": "The unit of radioactive decay is the becquerel (Bq)",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Beta-particle emitters used in nuclear medicine can only be produced in a nuclear reactor",
+          "answer": "False",
+          "explanation": "For example, Re-188 is generator produced"
+        },
+        {
+          "response": "",
+          "text": "Radioactive decay rate is measured by absorbed energy (kg of tissue)⁻¹ min⁻¹",
+          "answer": "False",
+          "explanation": "This is a measurement of radiation dose, not activity"
+        },
+        {
+          "response": "",
+          "text": "The lower the number of radioactive atoms in a sample, the greater the count rate",
+          "answer": "False",
+          "explanation": "Count rate is proportional to the number of atoms in a sample"
+        },
+        {
+          "response": "",
+          "text": "A radionuclide will always undergo radioactive decay within the known half-life of the isotope",
+          "answer": "False",
+          "explanation": "Radioactive decay is a stochastic process; however, within a half-life there is a 50% chance of a particular atom of a radioactive material decaying"
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "stem": "Which of the following are true regarding radioactivity?",
+      "options": [
+        {
+          "response": "",
+          "text": "The radioactivity decay of a radionuclide decreases by equal fractions (%) in equal intervals of time",
+          "answer": "True",
+          "explanation": "This is referred to as the exponential law"
+        },
+        {
+          "response": "",
+          "text": "The rate of decay (activity of the radioactive material) is proportional to the count rate",
+          "answer": "True",
+          "explanation": "The higher the rate of decay, the higher the number of gamma and beta particles produced"
+        },
+        {
+          "response": "",
+          "text": "The count rate is always less than the radioactive decay rate",
+          "answer": "False",
+          "explanation": "Some isotopes have multiple decay patterns producing a range of gamma rays. Examples include Ga-67 and I-131"
+        },
+        {
+          "response": "",
+          "text": "The radioactive sample eventually decays completely, resulting in no activity",
+          "answer": "False",
+          "explanation": "The activity of a radionuclide decreases exponentially and hence never reaches zero"
+        },
+        {
+          "response": "",
+          "text": "The lower the number of radioactive atoms in a sample, the lower the rate of decay",
+          "answer": "True",
+          "explanation": "The number of radioactive atoms in a sample is proportional to the rate of decay"
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "stem": "Regarding the half-life of a radionuclide",
+      "options": [
+        {
+          "response": "",
+          "text": "It allows an estimation of how long it will take for a given sample to decay to half its activity",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The time taken for a given quantity to decay to half its activity reduces as the sample gets smaller",
+          "answer": "False",
+          "explanation": "The activity of a radioactive sample decreases by equal fractions in equal time intervals (exponential law)"
+        },
+        {
+          "response": "",
+          "text": "Isotopes with a short half-life are considered more radioactive than those with longer half-lives",
+          "answer": "False",
+          "explanation": "The degree of radioactivity depends on the quantity of radioactive material at any given moment"
+        },
+        {
+          "response": "",
+          "text": "Radionuclides produced in a cyclotron are known to have shorter half-lives than those produced in a generator",
+          "answer": "False",
+          "explanation": "Although cyclotron-produced radioisotopes generally have short half-lives, some such as Ga-67 and In-111 have longer half-lives than Tc-99m"
+        },
+        {
+          "response": "",
+          "text": "Tc-99m has a half-life of about 6 h",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "stem": "Which of the following are true regarding the biological half-life of a radiopharmaceutical?",
+      "options": [
+        {
+          "response": "",
+          "text": "It is dependent on the rate of radioactive decay of the radiopharmaceutical within the body",
+          "answer": "False",
+          "explanation": "Biological half-life is dependent on the rate of elimination of the radiopharmaceutical from the body"
+        },
+        {
+          "response": "",
+          "text": "It may increase as a result of organ failure",
+          "answer": "True",
+          "explanation": "A radiopharmaceutical is eliminated from the body by organ-dependent processes such as metabolism (liver) and excretion (kidneys)"
+        },
+        {
+          "response": "",
+          "text": "It is used to calculate the effective half-life",
+          "answer": "True",
+          "explanation": "1/effective half-life ¼ 1/physical half-life þ 1/biological half-life"
+        },
+        {
+          "response": "",
+          "text": "It is shorter than the effective half-life",
+          "answer": "False",
+          "explanation": "The effective half-life is shorter than the biological or physical half-life"
+        },
+        {
+          "response": "",
+          "text": "It is the same for a given radiopharmaceutical in every individual",
+          "answer": "False",
+          "explanation": "The biological half-life is dependent on the pharmaceutical agent used, as well as patient factors (e.g. disease process, renal failure) and therefore differs among individuals"
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "stem": "Which of the following are true regarding the physical half-life of a radiopharmaceutical?",
+      "options": [
+        {
+          "response": "",
+          "text": "It is the rate at which a radiopharmaceutical agent is physically eliminated from the body",
+          "answer": "False",
+          "explanation": "The physical half-life is the time taken for a radiopharmaceutical to decay to half its original value"
+        },
+        {
+          "response": "",
+          "text": "Body temperature must be taken into consideration when estimating the physical half-life of a radiopharmaceutical within a patient’s body",
+          "answer": "False",
+          "explanation": "The physical half-life is a fixed characteristic of the radiopharmaceutical and is unaffected by factors such as heat and chemical reactions"
+        },
+        {
+          "response": "",
+          "text": "It is used to calculate how much radiopharmaceutical agent to prepare depending on its time of use",
+          "answer": "True",
+          "explanation": "The exponential decay graph can be used to calculate how much activity should be prepared in order to use at a particular time later on"
+        },
+        {
+          "response": "",
+          "text": "It differs according to the pharmaceutical agent used",
+          "answer": "False",
+          "explanation": "The physical half-life is dependent on the decay of the radionuclide and is not influenced by the pharmaceutical agent used"
+        },
+        {
+          "response": "",
+          "text": "It increases when placed in an acidic solution",
+          "answer": "False",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "stem": "Regarding the effective half-life of a radionuclide",
+      "options": [
+        {
+          "response": "",
+          "text": "It takes into account the biological and physical half-lives",
+          "answer": "True",
+          "explanation": "The effective half-life is calculated from both the biological and physical half-lives"
+        },
+        {
+          "response": "",
+          "text": "It decreases as a result of renal failure",
+          "answer": "False",
+          "explanation": "The effective half-life may not depend on renal excretion e.g. Kr-81m, and, even if it does, renal failure results in an increased biological half-life and therefore an increased effective half-life"
+        },
+        {
+          "response": "",
+          "text": "The dose received by an organ is proportional to the effective half-life",
+          "answer": "True",
+          "explanation": "The dose to an organ increases in proportion to the effective half-life"
+        },
+        {
+          "response": "",
+          "text": "It differs among individuals for a given radiopharmaceutical",
+          "answer": "True",
+          "explanation": "This is mainly due to the fact that the biological half-life varies among individuals according to their disease state and physiological factors"
+        },
+        {
+          "response": "",
+          "text": "It is generally increased in patients with liver failure",
+          "answer": "False",
+          "explanation": "This will only be the case in those radiopharmaceuticals that are excreted by the biliary system"
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "stem": "Desirable properties of a radionuclide for imaging include",
+      "options": [
+        {
+          "response": "",
+          "text": "High levels of cross-reactivity with blood proteins",
+          "answer": "False",
+          "explanation": "This would result in high blood pool activity, which may reduce uptake in the target organ"
+        },
+        {
+          "response": "",
+          "text": "A half-life measured in hours, not minutes or days",
+          "answer": "True",
+          "explanation": "The half-life should ideally be a few hours, roughly equal to the time from injection to scanning"
+        },
+        {
+          "response": "",
+          "text": "It decays to a stable daughter",
+          "answer": "True",
+          "explanation": "Decay should be to a stable daughter in order to minimize the dose to the patient"
+        },
+        {
+          "response": "",
+          "text": "Low activity per unit volume",
+          "answer": "False",
+          "explanation": "A radionuclide should have a high specific activity, i.e. high activity per unit volume"
+        },
+        {
+          "response": "",
+          "text": "Emission of beta particles",
+          "answer": "False",
+          "explanation": "Beta particles act as secondary electrons and deposit an unnecessary dose in patients"
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "stem": "Which of the following are desirable properties of gamma rays produced by radionuclides for imaging?",
+      "options": [
+        {
+          "response": "",
+          "text": "The energy of the photon should be more than 100 keV",
+          "answer": "True",
+          "explanation": "Below 100 keV, scatter and attenuation within the patient become problematic, e.g. Tl-201"
+        },
+        {
+          "response": "",
+          "text": "Emission of polyenergetic gamma rays",
+          "answer": "False",
+          "explanation": "The pulse height analyser filters out scatter by accepting gamma rays that fall within a small energy window; therefore monoenergetic gamma rays are preferable"
+        },
+        {
+          "response": "",
+          "text": "High energy",
+          "answer": "False",
+          "explanation": "High-energy gamma rays are difficult to collimate and a proportion will also pass straight through the crystal of the gamma camera without being detected"
+        },
+        {
+          "response": "",
+          "text": "Low energy",
+          "answer": "False",
+          "explanation": "Low-energy gamma rays are absorbed by the patient and do not reach the gamma camera"
+        },
+        {
+          "response": "",
+          "text": "Emission of pure gamma rays",
+          "answer": "True",
+          "explanation": "Gamma rays result in the formation of the image, whereas the beta particles deposit an unnecessary dose in the patient"
+        }
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "stem": "Which of the following are desirable properties of a pharmaceutical agent for imaging?",
+      "options": [
+        {
+          "response": "",
+          "text": "It easily accumulates in all tissues",
+          "answer": "False",
+          "explanation": "It should only accumulate in the target tissue"
+        },
+        {
+          "response": "",
+          "text": "It has a long biological half-life",
+          "answer": "False",
+          "explanation": "The biological half-life should be suited to the duration of the test but should not be unduly long in order to reduce the dose to the patient"
+        },
+        {
+          "response": "",
+          "text": "It should be stable after labelling with a radionuclide",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "It emits gamma rays",
+          "answer": "False",
+          "explanation": "The function of the pharmaceutical agent is to concentrate in the target tissue, whereas the radionuclide will emit gamma rays"
+        },
+        {
+          "response": "",
+          "text": "It has a high affinity for the target organ or tissue",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "stem": "Concerning Tc-99m",
+      "options": [
+        {
+          "response": "",
+          "text": "It is the daughter nucleus of Mo-99 and is produced following the emission of gamma rays",
+          "answer": "False",
+          "explanation": "The parent compound of Tc-99m is Mo-99, but it is produced following the emission of a negative beta particle. Tc-99m subsequently emits gamma rays to form its isomer Tc-99"
+        },
+        {
+          "response": "",
+          "text": "Tc-99m and Tc-99 differ in their half-lives",
+          "answer": "True",
+          "explanation": "Tc-99m and Tc-99 are isomers and differ in their half-lives and energy states. They have the same atomic and mass numbers"
+        },
+        {
+          "response": "",
+          "text": "It emits gamma rays with 140 keV",
+          "answer": "True",
+          "explanation": "Tc-99m emits gamma rays with 140 keV, which are suitable for imaging"
+        },
+        {
+          "response": "",
+          "text": "Pertechnetate (TcO4−) is used in imaging to localize Meckel’s diverticulum",
+          "answer": "True",
+          "explanation": "TcO4- is trapped in the thyroid gland and the salivary glands, but is also taken up by the gastric mucosa or by ectopic gastric mucosa (Meckel’s diverticulum)"
+        },
+        {
+          "response": "",
+          "text": "It emits beta particles",
+          "answer": "False",
+          "explanation": "Tc-99m results in the emission of pure gamma rays"
+        }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "stem": "Which of the following are true regarding the sensitivity of collimators?",
+      "options": [
+        {
+          "response": "",
+          "text": "It is a measure of the fraction of total gamma rays falling on the collimator that pass through the holes to the crystal",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Increasing the number of holes increases the sensitivity",
+          "answer": "True",
+          "explanation": "Increasing the number of holes results in a higher fraction of gamma rays passing through the collimator"
+        },
+        {
+          "response": "",
+          "text": "Increasing the sensitivity reduces the patient dose",
+          "answer": "True",
+          "explanation": "The higher the sensitivity, i.e. the higher the number of gamma rays passing through the collimator to form the image, the lower the amount of radionuclide needed and hence the lower the patient’s dose, but this is usually at the expense of the resolution"
+        },
+        {
+          "response": "",
+          "text": "Narrower holes result in increased sensitivity",
+          "answer": "False",
+          "explanation": "Wider holes allow a higher fraction of gamma rays to pass through"
+        },
+        {
+          "response": "",
+          "text": "Longer holes reduce sensitivity",
+          "answer": "True",
+          "explanation": "Longer holes result in a narrower angle of acceptance resulting in more gamma rays being stopped by the collimator"
+        }
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "stem": "Regarding collimators",
+      "options": [
+        {
+          "response": "",
+          "text": "For parallel hole collimators, the field of view and sensitivity do not change with distance",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Sensitivity is inversely proportional to the spatial resolution",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Convergent collimators result in an inverted image",
+          "answer": "False",
+          "explanation": "Pinhole collimators, which are used to image superficial organs, e.g. the thyroid, result in an inverted and magnified image. Convergent collimators result in magnification of the image but do not invert it"
+        },
+        {
+          "response": "",
+          "text": "Divergent collimators allow the use of a small crystal to image a large field of view",
+          "answer": "True",
+          "explanation": "This is especially useful in mobile cameras, where a small crystal can image a large field of view, e.g. the lungs"
+        },
+        {
+          "response": "",
+          "text": "Spatial resolution improves by reducing the distance from the patient",
+          "answer": "True",
+          "explanation": "Other factors that improve spatial resolution include longer and narrower holes"
+        }
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "stem": "Which of the following concerning gamma cameras are true?",
+      "options": [
+        {
+          "response": "",
+          "text": "The primary purpose of the collimator is to filter out low-energy gamma rays",
+          "answer": "False",
+          "explanation": "The primary function of the collimator is to delineate the gamma source"
+        },
+        {
+          "response": "",
+          "text": "Photomultipliers convert light into photoelectrons",
+          "answer": "True",
+          "explanation": "Each photomultiplier consists of a photocathode that absorbs light and emits photoelectrons. These are accelerated towards an anode and multiply on the way by colliding with dynodes"
+        },
+        {
+          "response": "",
+          "text": "The pulse height analyser reduces noise",
+          "answer": "True",
+          "explanation": "Gamma rays as a result of scatter have a low energy, which is filtered out by the pulse height analyser"
+        },
+        {
+          "response": "",
+          "text": "Low-energy gamma rays result from photoelectric absorption in the crystal and patient",
+          "answer": "False",
+          "explanation": "Low-energy gamma rays result from Compton attenuation in the patient and crystal"
+        },
+        {
+          "response": "",
+          "text": "Spatial resolution can be improved by using collimators with wider holes",
+          "answer": "False",
+          "explanation": "Spatial resolution is improved by using collimators with narrower and longer holes"
+        }
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "stem": "Regarding the crystal used in gamma cameras",
+      "options": [
+        {
+          "response": "",
+          "text": "It is usually made of NaI due to its robust qualities",
+          "answer": "False",
+          "explanation": "The crystal used in gamma cameras is usually made up of NaI but is fragile and can be damaged by both water and heat"
+        },
+        {
+          "response": "",
+          "text": "It absorbs gamma rays mainly by photoelectric absorption",
+          "answer": "True",
+          "explanation": "As a result of photoelectric absorption, the crystal absorbs the majority of gamma rays from Tc-99m"
+        },
+        {
+          "response": "",
+          "text": "The absorption of a single gamma proton results in the production of a single light photon",
+          "answer": "False",
+          "explanation": "The absorption of a single gamma photon produces thousands of light photons, which spread out in all directions"
+        },
+        {
+          "response": "",
+          "text": "Using a thicker crystal improves intrinsic resolution",
+          "answer": "False",
+          "explanation": "Using a thicker crystal improves sensitivity but reduces intrinsic resolution"
+        },
+        {
+          "response": "",
+          "text": "A crack in the crystal results in a linear defect on a uniform background",
+          "answer": "True",
+          "explanation": "A sheet phantom (filled with Co-57) is used to test the detector, which should give a uniform response to a uniform field. A defective photomultiplier is seen as reduced counts, and a cracked crystal shows a linear defect"
+        }
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "stem": "Which of the following are true regarding spatial resolution?",
+      "options": [
+        {
+          "response": "",
+          "text": "Intrinsic resolution refers to resolution from the camera and collimator",
+          "answer": "False",
+          "explanation": "Intrinsic resolution refers to the camera in the absence of the collimator"
+        },
+        {
+          "response": "",
+          "text": "The addition of a collimator decreases intrinsic resolution further",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The larger the patient, the worse the spatial resolution",
+          "answer": "True",
+          "explanation": "The larger the patient, the greater the amount of attenuation and scatter, resulting in reduced spatial resolution"
+        },
+        {
+          "response": "",
+          "text": "Spatial resolution can be tested using a bar test pattern",
+          "answer": "True",
+          "explanation": "This is made up of lead stripes on a uniform sheet source"
+        },
+        {
+          "response": "",
+          "text": "Spatial resolution can be tested by imaging a line source",
+          "answer": "True",
+          "explanation": "This usually consists of a tube containing Tc-99m"
+        }
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "stem": "Concerning the sensitivity of gamma cameras (system sensitivity)",
+      "options": [
+        {
+          "response": "",
+          "text": "It is a function of both intrinsic and collimator efficiency",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "At high keV, the intrinsic sensitivity is almost 100%",
+          "answer": "False",
+          "explanation": "Below 100 keV, the intrinsic sensitivity is almost 100%, above which it depends on the thickness of the crystal"
+        },
+        {
+          "response": "",
+          "text": "Using a thicker crystal increases sensitivity",
+          "answer": "True",
+          "explanation": "Using a thicker crystal improves sensitivity but reduces spatial resolution"
+        },
+        {
+          "response": "",
+          "text": "It is measured using a bar test",
+          "answer": "False",
+          "explanation": "Sensitivity is measured using a known amount of activity in a small source"
+        },
+        {
+          "response": "",
+          "text": "It is expressed as total counts per second per megabecquerel of activity (cps MBq−1)",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "stem": "Single-photon emission tomography (SPECT) is different to conventional gamma imaging in which of the following ways?",
+      "options": [
+        {
+          "response": "",
+          "text": "It results in improved target-to-background ratios",
+          "answer": "True",
+          "explanation": "SPECT results in separation of overlying structures, which results in better visualization of the target tissues"
+        },
+        {
+          "response": "",
+          "text": "It results in improved spatial resolution",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "It uses a rotating gamma camera",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "It results in a higher number of counts for a given acquisition time",
+          "answer": "False",
+          "explanation": "The gamma camera rotates around the patient and only stops for short periods, resulting in a reduced number of gamma photons being detected and hence a lower count level being registered. Some cameras use continuous acquisition modes, but this will just result in an equal number of counts being obtained, not more"
+        },
+        {
+          "response": "",
+          "text": "It results in images that can be reconstructed to form 3D images",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "stem": "Which of the following are true with regard to positron emission tomography (PET)?",
+      "options": [
+        {
+          "response": "",
+          "text": "It detects single gamma rays produced following the collision of a positron with a negative beta particle",
+          "answer": "False",
+          "explanation": "Following the collision of a positron with an electron, two gamma photons (511 keV) are produced, which travel in opposite directions. The simultaneous detection of these photons along the line of response will lead to the registration of the event"
+        },
+        {
+          "response": "",
+          "text": "The radionuclides used in PET are normally produced in a cyclotron",
+          "answer": "True",
+          "explanation": "The tracer used most commonly is glucose labelled with Fl-18 (18-FDG), which has a very short half-life. Generators can also be used to produce radionuclides, for example the Ge-68/Ga-68 generator"
+        },
+        {
+          "response": "",
+          "text": "It results in lower noise levels than conventional gamma imaging",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "It provides detailed anatomical information",
+          "answer": "False",
+          "explanation": "PET images provide functional and physiological information and are therefore often fused with computed tomography (CT) or magnetic resonance imaging (MRI) to provide anatomical information"
+        },
+        {
+          "response": "",
+          "text": "Scintillation detectors are usually made of NaI",
+          "answer": "False",
+          "explanation": "Scintillation detectors are most commonly made up of bismuth germanate or lutetium yttrium orthosilicate (LYSO), which have a high detection efficiency and are able to absorb and convert photons with 511 keV into light"
+        }
+      ]
+    }
+  ]
+}

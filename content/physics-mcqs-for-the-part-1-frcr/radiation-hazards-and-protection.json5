@@ -1,0 +1,1088 @@
+{
+  name: "Physics MCQs for the Part 1 FRCR",
+  authors: "Shahzad Ilyas",
+  slug: "radiation-hazards-and-protection",
+  questions: [
+    {
+      "questionNumber": 1,
+      "stem": "Concerning radiation damage to tissues, which of the following are correct?",
+      "options": [
+        {
+          "response": "",
+          "text": "It is caused directly by photoelectrons",
+          "answer": "True",
+          "explanation": "When secondary electrons (e.g. photoelectrons and recoil electrons) pass through tissue, they result in ionization and excitation of atoms resulting in tissue damage"
+        },
+        {
+          "response": "",
+          "text": "Cells with high mitotic rates are less affected",
+          "answer": "False",
+          "explanation": "Cells with higher mitotic levels are more prone to radiation damage"
+        },
+        {
+          "response": "",
+          "text": "It is caused by free radicals",
+          "answer": "True",
+          "explanation": "Ionization by secondary electrons, results in damage to biological tissue either by rupturing covalent bonds or by the production of free radicals, which result in oxidation of organic molecules"
+        },
+        {
+          "response": "",
+          "text": "Secondary electrons cause damage to tissue in a linear pattern",
+          "answer": "False",
+          "explanation": "Secondary electrons have a tortuous path, as negative electrons easily deflect them, leaving a track of ionized atoms behind"
+        },
+        {
+          "response": "",
+          "text": "It is caused directly by X-rays",
+          "answer": "False",
+          "explanation": "X-rays and gamma rays result in ionization of atoms via secondary electrons and are therefore indirectly ionizing agents"
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "stem": "Which of the following are true regarding dosimetry?",
+      "options": [
+        {
+          "response": "",
+          "text": "Kerma takes into account the type of tissue being irradiated",
+          "answer": "False",
+          "explanation": "Kerma is the kinetic energy of the secondary electrons released per unit mass of the irradiated material. It does not factor in the type of material being irradiated"
+        },
+        {
+          "response": "",
+          "text": "The absorbed dose is measured in grays (Gy)",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The equivalent dose takes into account the radiation weighting factor (wR)",
+          "answer": "True",
+          "explanation": "Equivalent dose = absorbed dose x radiation weighting factor (wR ). It takes into account the absorbed dose and the type of radiation, e.g. X-ray, gamma ray or beta particle"
+        },
+        {
+          "response": "",
+          "text": "The effective dose is measured in Gy",
+          "answer": "False",
+          "explanation": "The effective dose is measured in sieverts (Sv)"
+        },
+        {
+          "response": "",
+          "text": "1 Gy ¼ 1 J g−1",
+          "answer": "False",
+          "explanation": "1 Gy = 1 J kg-1"
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "stem": "Regarding radiation dose",
+      "options": [
+        {
+          "response": "",
+          "text": "Linear energy transfer (LET) is the total energy deposited by a particle along its entire path",
+          "answer": "False",
+          "explanation": "LET is the sum of the energy deposited in tissue per unit path length it travels"
+        },
+        {
+          "response": "",
+          "text": "An alpha particle has a lower LET than an electron",
+          "answer": "False",
+          "explanation": "Alpha particles are much heavier than electrons and hence for the same initial energy as an electron, they travel a much shorter distance and therefore disperse more energy per unit area travelled"
+        },
+        {
+          "response": "",
+          "text": "Particles with high LET are more hazardous than low-LET particles",
+          "answer": "True",
+          "explanation": "High-LET particles disperse more energy per unit area travelled, resulting in more non-repairable damage"
+        },
+        {
+          "response": "",
+          "text": "The effective dose takes into account the radiosensitivity of the tissues",
+          "answer": "True",
+          "explanation": "The effective dose incorporates factors to account for the variable radiosensitivity of organs and tissues"
+        },
+        {
+          "response": "",
+          "text": "1 Sv ¼ 1 J kg−1",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "stem": "Which of the following are correct regarding deterministic effects of radiation?",
+      "options": [
+        {
+          "response": "",
+          "text": "It has a minimum threshold below which it does not occur",
+          "answer": "True",
+          "explanation": "Deterministic effect is characterized as having a threshold dose below which the effect will not occur"
+        },
+        {
+          "response": "",
+          "text": "The severity of the effect increases with dose",
+          "answer": "True",
+          "explanation": "Once the threshold has been exceeded, increasing the dose results in the severity of the disease increasing"
+        },
+        {
+          "response": "",
+          "text": "The probability of the effect occurring increases with dose",
+          "answer": "False",
+          "explanation": "The effect occurs once the threshold is exceeded"
+        },
+        {
+          "response": "",
+          "text": "Breast cancer is a type of deterministic effect",
+          "answer": "False",
+          "explanation": "This is a type of stochastic effect"
+        },
+        {
+          "response": "",
+          "text": "Skin erythema is a type of deterministic effect",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "stem": "Which of the following are correct regarding the stochastic effects of radiation?",
+      "options": [
+        {
+          "response": "",
+          "text": "They can be hereditary in nature",
+          "answer": "True",
+          "explanation": "They may occur in descendants of individuals exposed as a result of lesions in the germinal cells"
+        },
+        {
+          "response": "",
+          "text": "They arise as a result of chance",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The probability of the effect occurring increases with dose",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Increasing the dose results in an increase in the severity of the disease",
+          "answer": "False",
+          "explanation": "This is true of deterministic effects. Stochastic effects either occur or do not occur. Their severity is not affected by the dose"
+        },
+        {
+          "response": "",
+          "text": "There is no threshold dose for stochastic effects",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "stem": "Which of the following are types of stochastic effects?",
+      "options": [
+        {
+          "response": "",
+          "text": "Skin erythema",
+          "answer": "False",
+          "explanation": "This is a deterministic effect"
+        },
+        {
+          "response": "",
+          "text": "Infertility",
+          "answer": "False",
+          "explanation": "This is a deterministic effect"
+        },
+        {
+          "response": "",
+          "text": "Breast cancer",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Cataracts",
+          "answer": "False",
+          "explanation": "This is a deterministic effect"
+        },
+        {
+          "response": "",
+          "text": "Leukaemia",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "stem": "Which of the following are correct regarding the principles of radiation protection?",
+      "options": [
+        {
+          "response": "",
+          "text": "The dose to the patient should not exceed a certain limit",
+          "answer": "False",
+          "explanation": "The dose to the patient should be as low as reasonably achievable (ALARA principle) in order to make sure that the patient receives maximum benefit with minimum risk"
+        },
+        {
+          "response": "",
+          "text": "Dose limits apply to workers",
+          "answer": "True",
+          "explanation": "Dose limits apply to workers, such that a dose in excess of these values is deemed not to be justified, no matter how great the benefit"
+        },
+        {
+          "response": "",
+          "text": "The Ionising Radiation Regulations 1999 (IRR99) is concerned with radiation protection of patients",
+          "answer": "False",
+          "explanation": "The IRR99 is not concerned with radiation protection of patients. Patient protection was introduced into UK law in the Ionising Radiation (Medical Exposure) Regulations 2000 (IRMER)"
+        },
+        {
+          "response": "",
+          "text": "The Ionising Radiation (Medical Exposure) Regulations 2000 (IRMER) is enforced by the Care Quality Commission",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The IRR99 is enforced by the Health and Safety Executive (HSE)",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "stem": "According to the Ionising Radiation Regulations 1999 (IRR99), which of the following are the responsibility of the employer?",
+      "options": [
+        {
+          "response": "",
+          "text": "The employer should consult a radiation protection advisor on compliance with the regulations",
+          "answer": "True",
+          "explanation": "IRR99 Regulation 13: every employer must consult a Radiation Protection Adviser on compliance with the regulations"
+        },
+        {
+          "response": "",
+          "text": "The employer is responsible for designation of the controlled area",
+          "answer": "True",
+          "explanation": "IRR99 Regulation 17: the employer should provide the local rules describing the controlled area and the working practice for these areas"
+        },
+        {
+          "response": "",
+          "text": "The employer is responsible for quality assurance of the procedures and protocols",
+          "answer": "False",
+          "explanation": "Quality assurance of radiation equipment is a requirement of the IRR99, not procedures and protocols. The quality assurance requirements of the Ionising Radiation (Medical Exposure) Regulations 2000 (IRMER) are concerned with procedures and protocols and periodic audit of compliance"
+        },
+        {
+          "response": "",
+          "text": "The employer is required to employ a medical physics expert (MPE)",
+          "answer": "False",
+          "explanation": "To have expert advice and ensure that an MPE is involved with medical exposure is a part of the IRMER"
+        },
+        {
+          "response": "",
+          "text": "The employer should notify the appropriate authority if the dose to the patient is much greater than intended because of equipment fault",
+          "answer": "True",
+          "explanation": "Incidents involving equipment faults are covered under the IRR99"
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "stem": "Local rules might include",
+      "options": [
+        {
+          "response": "",
+          "text": "Identification of who is permitted to operate the equipment",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Identification of who can refer a patient for X-ray",
+          "answer": "False",
+          "explanation": "Identification of the referrer is a part of the IRMER"
+        },
+        {
+          "response": "",
+          "text": "Identification of those who may remain in the controlled area",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Setting the dose limit for controlled and supervised areas",
+          "answer": "False",
+          "explanation": "Local rules include the description of controlled and supervised areas, not the dose limit"
+        },
+        {
+          "response": "",
+          "text": "Notifying the authority if the wrong patient is radiated",
+          "answer": "False",
+          "explanation": "This is covered under the IRMER"
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "stem": "Regarding workers and dose limits",
+      "options": [
+        {
+          "response": "",
+          "text": "The dose limit for carers is the same as for the public",
+          "answer": "False",
+          "explanation": "The IRR99 permits the dose limit to be relaxed for carers who are willingly exposed to doses higher than the limits set for the public"
+        },
+        {
+          "response": "",
+          "text": "Trainees under the age of 18 must not receive an effective dose of more than 6 Sv",
+          "answer": "False",
+          "explanation": "A non-classified worker (trainee) under the age of 18 should not receive a dose more than 6 mSv, not 6 Sv. Millisieverts (mSv) is commonly used to measure the effective dose in diagnostic medical procedures (1 mSv = 10x3 Sv)"
+        },
+        {
+          "response": "",
+          "text": "Workers must be designated as classified if their annual dose limit exceeds 20 mSv",
+          "answer": "False",
+          "explanation": "Workers are designated as classified if their annual dose limit exceeds 6 mSv. The effective dose limit for classified workers is 20 mSv"
+        },
+        {
+          "response": "",
+          "text": "Classified workers must be over 18 years of age",
+          "answer": "True",
+          "explanation": "Classified workers must be over 18 years of age and certified as being medically fit, prior to employment, to work as a classified person"
+        },
+        {
+          "response": "",
+          "text": "It is mandatory to monitor the dose of all staff members who work with radiation",
+          "answer": "False",
+          "explanation": "The IRR99 makes it mandatory to monitor the dose of classified workers only. In practice, the employer monitors the majority of staff working in a controlled area to monitor and keep dose limits within acceptable limits"
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "stem": "Which of the following could be radiation protection supervisor (RPS) duties?",
+      "options": [
+        {
+          "response": "",
+          "text": "Overall responsibility for radiation protection",
+          "answer": "False",
+          "explanation": "Overall responsibility for radiation protection rests with the employer"
+        },
+        {
+          "response": "",
+          "text": "Investigation of instances of excessive dose",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Ensuring staff follow the local rules",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Ensuring that an effective quality assurance programme is in place",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Risk assessment, e.g. for pregnant staff",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "stem": "Which of the following have been addressed in Ionising Radiation (Medical Exposure) Regulations 2000 (IRMER)?",
+      "options": [
+        {
+          "response": "",
+          "text": "Regulation of medico-legal exposures",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Establishment of diagnostic reference levels (DRLs)",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Clinical evaluation of the outcome of every exposure and recording the dose",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Monitoring the classified person’s dose",
+          "answer": "False",
+          "explanation": "This is covered under the IRR99"
+        },
+        {
+          "response": "",
+          "text": "Setting a dose limit for pregnant staff",
+          "answer": "False",
+          "explanation": "This is covered under the IRR99"
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "stem": "An X-ray set fails to terminate properly during a chest X-ray examination because of automatic exposure control (AEC) failure. However, the back-up timer works and an investigation revealed that the patient received an unintended dose of ten times that intended. Which of the following statements are correct?",
+      "options": [
+        {
+          "response": "",
+          "text": "It is necessary to inform the Health and Safety Executive (HSE)",
+          "answer": "False",
+          "explanation": "Regulation 23: if a patient has received a dose much greater than intended as a result of a defect or fault of the equipment, the HSE should be informed. A much greater than intended dose is defined as a multiplying factor of the intended dose in different types of examination. For chest X-ray, a dose of 20 times the intended dose is defined as much greater than intended"
+        },
+        {
+          "response": "",
+          "text": "It is necessary to inform the Healthcare Commission",
+          "answer": "False",
+          "explanation": "If the overexposure is secondary to equipment failure, the HSE should be informed"
+        },
+        {
+          "response": "",
+          "text": "The patient must not be informed of the incident",
+          "answer": "False",
+          "explanation": "The patient could be informed. However, when the dose is below the limit, it is not necessary to inform the patient"
+        },
+        {
+          "response": "",
+          "text": "A record of the investigation must be kept for 50 years",
+          "answer": "False",
+          "explanation": "A record of assessment must be kept for 2 years"
+        },
+        {
+          "response": "",
+          "text": "The equipment should not be put back into use until the service engineer checks the equipment",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "stem": "It is a legal requirement",
+      "options": [
+        {
+          "response": "",
+          "text": "To report incidences when the wrong patient is given a medical exposure",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "To carry out quality assurance measurements on diagnostic X-ray equipment",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "To carry out representative patient dosimetry measurements",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "To stop working with ionizing radiation if you have received a dose over the dose limit",
+          "answer": "False",
+          "explanation": "Regulation 26: the employer must ensure that employees do not, during the remainder of the calendar year, receive a dose greater than the proportion of any dose limit that is equal to the fraction of the remaining dose limit period"
+        },
+        {
+          "response": "",
+          "text": "For employees to report suspected incidents involving radiation",
+          "answer": "True",
+          "explanation": "Employees should inform either the radiation protection supervisor (RPS) or their employer regarding these incidents"
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "stem": "Which of the following statements are correct regarding a patient’s dose and the dose–area product (DAP)?",
+      "options": [
+        {
+          "response": "",
+          "text": "The DAP can easily be measured and is directly related to the radiation risk",
+          "answer": "False",
+          "explanation": "The DAP can easily be measured, but it is not directly related to the radiation risk"
+        },
+        {
+          "response": "",
+          "text": "The DAP can be converted to the absorbed dose using a conversion factor",
+          "answer": "False",
+          "explanation": "The DAP can be converted to the effective dose using the conversion factor"
+        },
+        {
+          "response": "",
+          "text": "The conversion factors depend only on the region of the body, not the kV or filtration",
+          "answer": "False",
+          "explanation": "Conversion factors depend on the region of the body and to a lesser extent on kV and beam filtration"
+        },
+        {
+          "response": "",
+          "text": "For the same region of the body, the conversion factor is the same for anterior–posterior (AP) and posterior–anterior (PA) views",
+          "answer": "False",
+          "explanation": "Conversion factors for PA examinations are less than AP examinations of the same region, because generally the organs and tissues with higher weighting factors are located anteriorly"
+        },
+        {
+          "response": "",
+          "text": "The entrance surface dose in the lateral spine view is more than that of the AP view",
+          "answer": "True",
+          "explanation": "The entrance surface dose in the lateral spine view could be around 10 mGy, while it is only around 4.3 mGy in the AP view"
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "stem": "Regarding dose and hazards from X-rays",
+      "options": [
+        {
+          "response": "",
+          "text": "The dose from radiation scattered from the patient reduces roughly in proportion to the reduction in the area of the irradiated field",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "A 0.25 mm lead apron will attenuate the scatter radiation by a factor of about 100",
+          "answer": "False",
+          "explanation": "A 0.25 mm apron transmits 5% of the scatter radiation"
+        },
+        {
+          "response": "",
+          "text": "Doubling the area of the X-ray beam approximately doubles the skin dose rate",
+          "answer": "False",
+          "explanation": "The skin dose rate will remain the same. However, the skin dose itself will increase"
+        },
+        {
+          "response": "",
+          "text": "The effective dose to the patient can be measured directly using a thermoluminescent dosimeter (TLD)",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Someone in the primary beam at 2 m from the X-ray set could receive the effective dose limit in a few seconds",
+          "answer": "True",
+          "explanation": "A few seconds is long enough for the primary X-ray beam to reach the dose limit"
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "stem": "With regard to diagnostic reference levels (DRLs), which of the following are true?",
+      "options": [
+        {
+          "response": "",
+          "text": "They are defined as the maximum dose for a particular examination",
+          "answer": "False",
+          "explanation": "DRLs are defined as doses for typical examinations of that type. They can be thought of as performance standards against which individual patient doses can be judged"
+        },
+        {
+          "response": "",
+          "text": "They are adjusted according to the patient’s body habitus",
+          "answer": "False",
+          "explanation": "They are set for standard-sized patients"
+        },
+        {
+          "response": "",
+          "text": "They are set at the local level by the employer",
+          "answer": "True",
+          "explanation": "They are set locally by performing patient dose audits"
+        },
+        {
+          "response": "",
+          "text": "They can be assessed in terms of screening time",
+          "answer": "True",
+          "explanation": "DRLs are set in terms of measurable quantities such as screening time, dose–area product and entrance surface dose"
+        },
+        {
+          "response": "",
+          "text": "If the DRL is exceeded, this must be reported to the Healthcare Commission",
+          "answer": "False",
+          "explanation": "The patient dose may exceed the DRL for that examination, especially if the patient is overweight"
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "stem": "Which of the following are true regarding film badges in personal dosimetry?",
+      "options": [
+        {
+          "response": "",
+          "text": "The film is highly energy dependent because of the intensifier",
+          "answer": "False",
+          "explanation": "The film is highly energy dependent because of the high atomic number of silver and bromide. There is no intensifier in the film badge dosimeter"
+        },
+        {
+          "response": "",
+          "text": "The film has two different emulsions on each side",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The film can detect beta radiation and radioactive splash",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The aluminium filter will stop beta particles and the cadmium filter stops alpha particles",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "As the film provides a permanent record of exposure, it can be used for more than 6 months",
+          "answer": "False",
+          "explanation": "The film is subject to environmental effects such as heat, making it unsuitable for monitoring over long periods"
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "stem": "Which of the following are correct regarding thermoluminescent dosimeters (TLDs)?",
+      "options": [
+        {
+          "response": "",
+          "text": "A TLD is not susceptible to environmental effects, especially high temperature",
+          "answer": "False",
+          "explanation": "High temperatures can remove all the information from the TLD"
+        },
+        {
+          "response": "",
+          "text": "A TLD shows a linear response to illumination and can be read only once",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "TLD sensitivity is not significantly better than film",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "A TLD needs a filter",
+          "answer": "True",
+          "explanation": "They are used in conjunction with filters set in the badge holder"
+        },
+        {
+          "response": "",
+          "text": "They can give readings down to 0.01 mSv",
+          "answer": "False",
+          "explanation": "Optically simulated luminescent dosimeters can give readings down to 0.01 mSv. TLD sensitivity is similar to that of films (0.1 mSv)"
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "stem": "Which of the following are correct regarding electronic dosimeters?",
+      "options": [
+        {
+          "response": "",
+          "text": "They are not highly energy dependent",
+          "answer": "False",
+          "explanation": "Their response is highly energy dependent"
+        },
+        {
+          "response": "",
+          "text": "Their sensitivity can be 100 times that of a film badge",
+          "answer": "True",
+          "explanation": "They are able to measure down to 1 mSv, while film sensitivity is not better than 0.1 mSv"
+        },
+        {
+          "response": "",
+          "text": "They can be gas-filled tubes",
+          "answer": "True",
+          "explanation": "They can be based on Geiger-Müller tubes (gas-filled tubes)"
+        },
+        {
+          "response": "",
+          "text": "They do not need a filter",
+          "answer": "False",
+          "explanation": "They are placed behind a filter to give an accurate reading"
+        },
+        {
+          "response": "",
+          "text": "They are useful in identifying methods of dose reduction for procedures with a potential high dose to staff",
+          "answer": "True",
+          "explanation": "Because they provide a direct reading, they are useful for dose reduction for high-dose procedures"
+        }
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "stem": "The approximate protection requirements for the walls/screens of a typical diagnostic X-ray room would be",
+      "options": [
+        {
+          "response": "",
+          "text": "2 mm of lead",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "2 cm of glass",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "2 cm of barium plaster",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "2 cm of concrete",
+          "answer": "False",
+          "explanation": "Generally, 150 mm solid concrete provides sufficient shielding"
+        },
+        {
+          "response": "",
+          "text": "24 cm of brick",
+          "answer": "True",
+          "explanation": "120 mm solid brick ¼ 1 mm lead"
+        }
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "stem": "Regarding dose limits",
+      "options": [
+        {
+          "response": "",
+          "text": "The annual dose limit to the abdomen of women of reproductive capacity is 13 mSv",
+          "answer": "False",
+          "explanation": "The dose limit in 3 consecutive months is 13 mSv"
+        },
+        {
+          "response": "",
+          "text": "The dose limit for the abdomen over the period of pregnancy for a pregnant employee working with diagnostic X-rays is 1 mSv",
+          "answer": "False",
+          "explanation": "The fetus dose limit is 1 mSv and it can be assumed that the fetal dose is no greater than 50% of the dose on the surface of the abdomen in diagnostic X-rays; thus, the dose limit for the abdomen could be around 2 mSv"
+        },
+        {
+          "response": "",
+          "text": "The annual dose limit for the forearm in employees is ten times more than in members of the public",
+          "answer": "True",
+          "explanation": "The dose limit for the hand, forearm, ankle and skin is 500 mSv for employees and 50 mSv for members of the public"
+        },
+        {
+          "response": "",
+          "text": "The annual dose limit for a trainee is 6 mSv",
+          "answer": "True",
+          "explanation": "Dose limits for trainees are three-tenths that of general employees"
+        },
+        {
+          "response": "",
+          "text": "The dose limit for the lens of the eye for an employee at the age of 17 is 50 mSv year^(-1)",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "stem": "In terms of classification of staff and designated areas, which of the following are true?",
+      "options": [
+        {
+          "response": "",
+          "text": "If an employee works in a supervised area, his external dose rate could be between 2.5 and 7.5 mSv h^(-1) averaged over the working day",
+          "answer": "True",
+          "explanation": "In a supervised area, the dose rate is between 2.5 and 7.5 mSv h-1 averaged over the working day, while in a controlled area the dose rate could exceed 7.5 mSv h-1 "
+        },
+        {
+          "response": "",
+          "text": "If an employee works in a controlled area it means that the dose to the lens of his eyes could be more than 45 mSv",
+          "answer": "True",
+          "explanation": "The dose limit for the lens of the eyes is 150 mSv and a person working in a controlled area is likely to receive a radiation dose greater than three-tenths of any dose limit"
+        },
+        {
+          "response": "",
+          "text": "In a supervised area, it is likely that any person could exceed the dose limit for a member of the public",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Of the staff in the radiology department, 99% do not exceed the dose limit of a member of the public in any year",
+          "answer": "True",
+          "explanation": "Less than 1% of the staff in the radiology department whose dose is monitored receive more than 1 mSv in any year (dose limit for a member of the public)"
+        },
+        {
+          "response": "",
+          "text": "If the finger monitoring of a radiologist showed that he received 150 mSv over the period of a month, it means he needs monthly dose monitoring and an annual health check",
+          "answer": "True",
+          "explanation": "A finger dose of more than 150 mSv per year means that the person should be classified. The monitoring period for classified workers is 1 month and they must have an annual health check and the records of these should be kept for 50 years"
+        }
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "stem": "Regarding justification and optimization",
+      "options": [
+        {
+          "response": "",
+          "text": "Both referrer and practitioner must be registered medical professionals",
+          "answer": "False",
+          "explanation": "Other healthcare professionals can act as a referrer"
+        },
+        {
+          "response": "",
+          "text": "Both referrer and practitioner must have adequate training in radiation hazards",
+          "answer": "False",
+          "explanation": "Both practitioner and operator must have adequate training"
+        },
+        {
+          "response": "",
+          "text": "The authorization is only given by the practitioner",
+          "answer": "False",
+          "explanation": "In special circumstances, the operator is given permission to authorize an examination"
+        },
+        {
+          "response": "",
+          "text": "It is the responsibility of only the referrer and operator to make an enquiry about pregnancy",
+          "answer": "False",
+          "explanation": "It is also the responsibility of the practitioner"
+        },
+        {
+          "response": "",
+          "text": "Dentists, cardiologists and radiographers can act as referrer, practitioner and operator",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "stem": "A female worker who is operating an X-ray set when pregnant",
+      "options": [
+        {
+          "response": "",
+          "text": "Is advised to inform her employer in writing that she is pregnant",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Should report her pregnancy to the Health and Safety Executive",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Has a significantly increased risk of having a child with a genetic abnormality if she continues operating the X-ray set",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Will almost certainly have to alter her working practice",
+          "answer": "False",
+          "explanation": "This is not true for the healthcare professional in a diagnostic setting"
+        },
+        {
+          "response": "",
+          "text": "Should desist from operating an X-ray set for the duration of the pregnancy",
+          "answer": "False",
+          "explanation": "The dose limit during pregnancy is set such that it is equal to the limit for a member of the public, and for a diagnostic setting, it is highly unlikely to exceed this limit"
+        }
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "stem": "According to the recommendations for standard X-ray equipment",
+      "options": [
+        {
+          "response": "",
+          "text": "Leakage of radiation from the tube should be less than 0.1 mGy in 1 h at a distance of 1 m",
+          "answer": "False",
+          "explanation": "Leakage radiation from the X-ray tube is than 2% of the dose received by staff in the room. Scatter radiation from Compton interaction within the patient is the main radiation dose to staff"
+        },
+        {
+          "response": "",
+          "text": "The total filtration in a dental setting should not be less than 1.5 mm of Al",
+          "answer": "True",
+          "explanation": "In a general radiology setting, filtration should not be less than 2.5 mm of Al"
+        },
+        {
+          "response": "",
+          "text": "The collimator should be capable of restricting the field size to 10 cm x 10 cm",
+          "answer": "False",
+          "explanation": "The collimator should be capable of restricting field size down to 5 cm x 5 cm"
+        },
+        {
+          "response": "",
+          "text": "The lead apron should not be less than 45 cm wide and 40 cm long",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "For mobile equipment, the operator can stand at least 1 m from the tube",
+          "answer": "False",
+          "explanation": "The operator should stand at least 2 m from the tube and X-ray source"
+        }
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "stem": "Which of the following statements are correct with regard to typical doses for radiological examination?",
+      "options": [
+        {
+          "response": "",
+          "text": "A technetium-99m (99mTc) lung perfusion study results in the same dose to the patient as a technetium-99m bone scan",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Lumbar spine radiographs result in a higher dose to the patient than chest radiographs",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "A barium enema typically results in a dose of 7 mSv",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "A patient dose audit is part of the equipment quality assurance programme",
+          "answer": "True",
+          "explanation": "The Ionising Radiation Regulations 1999 (IRR99) require that patient dose assessment be part of the equipment quality assurance programme, making it important to audit patient dose"
+        },
+        {
+          "response": "",
+          "text": "A computed tomography (CT) scan of the abdomen and pelvis results in a typical dose of 5 mSv",
+          "answer": "False",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "stem": "Regarding radioactive substances, which of the following are correct?",
+      "options": [
+        {
+          "response": "",
+          "text": "The Environment Permitting Regulations 2010 are concerned with protection of hospital workers",
+          "answer": "False",
+          "explanation": "The Environment Permitting Regulations 2010 are concerned with protection of the environment, with the enforcing body being the Environment Agency of England and Wales"
+        },
+        {
+          "response": "",
+          "text": "Medicines (Administration of Radioactive Substances) Regulations 1978 are concerned with the protection of patients from radioactive substances",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The Health and Safety Commission (HSC) is the governing body that issues the certificate for administration of radioactive substances",
+          "answer": "False",
+          "explanation": "The Administration of Radioactive Substance Advisory Committee (ARSAC) gives the certificate for administration of radioactive substances"
+        },
+        {
+          "response": "",
+          "text": "Emptying the bladder reduces the dose to the gonads and pelvis",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The Administration of Radioactive Substances Advisory Committee (ARSAC) produces diagnostic reference levels (DRLs) or dose limits that should not normally be exceeded",
+          "answer": "True",
+          "explanation": "In nuclear medicine, the dose is kept within the DRLs set by the ARSAC"
+        }
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "stem": "In nuclear medicine",
+      "options": [
+        {
+          "response": "",
+          "text": "Radiopharmaceuticals with a shorter half-life result in a lower patient dose",
+          "answer": "True",
+          "explanation": "The dose to an organ increases in proportion to the following: i. The effective half-life ii. The fraction taken up by the organ iii. The activity administered to the patient iv. The energy of alpha and beta radiation emitted"
+        },
+        {
+          "response": "",
+          "text": "When preparing radiopharmaceuticals, syringes with a heavy metal sleeve block almost all radiation to the fingers",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Breast-feeding should be avoided for 72 h following administration of a radionuclide",
+          "answer": "False",
+          "explanation": "Breast-feeding should be avoided for 24 h"
+        },
+        {
+          "response": "",
+          "text": "An ARSAC certificate is valid for 5 years",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The dose to the patient is directly proportional to the number of images taken",
+          "answer": "False",
+          "explanation": "The number of images taken is independent of the dose to the patient in nuclear medicine examination"
+        }
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "stem": "With regard to radiation protection of staff",
+      "options": [
+        {
+          "response": "",
+          "text": "The main radiation dose to staff in the room is from leakage radiation from the X-ray tube",
+          "answer": "False",
+          "explanation": "Leakage radiation from the X-ray tube is than 2% of the dose received by staff in the room. Scatter radiation from Compton interaction within the patient is the main radiation dose to staff"
+        },
+        {
+          "response": "",
+          "text": "Standing close to the patient avoids scatter within the room and hence reduces the radiation dose",
+          "answer": "False",
+          "explanation": "The principles of radiation protection are: i. Time: the shorter the exposure time, the lower the dose received ii. Distance: the inverse square law states that the intensity of the beam reduces from a source as distance increases iii. The thicker/denser the material, the better the shielding it provides"
+        },
+        {
+          "response": "",
+          "text": "Wearing lead aprons protects against the primary beam",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Under the Ionising Radiation (Medical Exposure) Regulations 2000 (IRMER), the equivalent dose to the lens of a classified worker should not exceed 150 mSv per annum",
+          "answer": "False",
+          "explanation": "The Ionising Radiation Regulations 1999 (IRR99) are concerned with setting dose limits for worker, not the IRMER. The equivalent dose limit for the lens of a classified worker should not exceed 150 mSv per annum"
+        },
+        {
+          "response": "",
+          "text": "Lead goggles can protect against cataracts",
+          "answer": "True",
+          "explanation": "Lead goggles are often used by interventionists"
+        }
+      ]
+    }
+  ]
+
+}

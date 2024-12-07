@@ -1,0 +1,1088 @@
+{
+  name: "Physics MCQs for the Part 1 FRCR",
+  authors: "Shahzad Ilyas",
+  slug: "imaging-with-ultrasound",
+  questions: [
+    {
+      "questionNumber": 1,
+      "stem": "Regarding the properties of ultrasound",
+      "options": [
+        {
+          "response": "",
+          "text": "Ultrasound propagates through tissue as a longitudinal wave",
+          "answer": "True",
+          "explanation": "This means that local movement of the tissue particles is in the same direction as the wave propagation"
+        },
+        {
+          "response": "",
+          "text": "The velocity of the ultrasound wave is equal to the velocity of the particles of the tissue through which it propagates",
+          "answer": "False",
+          "explanation": "The velocity of the ultrasound wave is independent of the velocity of the particles of the medium"
+        },
+        {
+          "response": "",
+          "text": "The wavelength of ultrasound in tissue in the range of frequencies used in diagnostic imaging is 1–5 mm",
+          "answer": "False",
+          "explanation": "It ranges from approximately 0.77 mm (at 2 MHz frequency) to 0.1 mm (at 15 MHz frequency)"
+        },
+        {
+          "response": "",
+          "text": "An ultrasound wave undergoes reflection and refraction but not Rayleigh scattering",
+          "answer": "False",
+          "explanation": "It undergoes all these processes. Rayleigh scattering occurs when a wave is scattered from small structures with dimensions less than the ultrasound wavelength, such as red blood cells or microbubbles"
+        },
+        {
+          "response": "",
+          "text": "Attenuation of the ultrasound wave by 10 dB corresponds to a tenfold decrease in ultrasound intensity",
+          "answer": "True",
+          "explanation": "10 dB (1 Bel) corresponds to a change by one order of magnitude"
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "stem": "Ultrasound velocity",
+      "options": [
+        {
+          "response": "",
+          "text": "Is equal to the ultrasound frequency divided by the wavelength",
+          "answer": "False",
+          "explanation": "It is a product of the frequency and wavelength"
+        },
+        {
+          "response": "",
+          "text": "Increases with frequency in a given medium",
+          "answer": "False",
+          "explanation": "Velocity in a given medium is virtually independent of the frequency. With velocity being constant, an increase in the frequency causes a proportional decrease in wavelength"
+        },
+        {
+          "response": "",
+          "text": "Is proportional to the square root of the material density",
+          "answer": "False",
+          "explanation": "It is inversely proportional to the square root of the material density"
+        },
+        {
+          "response": "",
+          "text": "Is higher in compressible materials",
+          "answer": "False",
+          "explanation": "Ultrasound travels faster in stiff, non-compressible media"
+        },
+        {
+          "response": "",
+          "text": "Is lower in tissues with a higher fat or water content",
+          "answer": "True",
+          "explanation": "The velocity of ultrasound in fat and water is lower than in an average soft tissue"
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "stem": "Which of the following are true about acoustic impedance?",
+      "options": [
+        {
+          "response": "",
+          "text": "It is measured in kg m 2",
+          "answer": "False",
+          "explanation": "The acoustic impedance is a product of ultrasound velocity (in m s-1 ) and density of the medium (in kg m-3 ). Therefore, its unit is kg m-2 s-1 , which is also termed rayl after Lord Rayleigh"
+        },
+        {
+          "response": "",
+          "text": "The acoustic impedance of fat is lower than most other tissues",
+          "answer": "True",
+          "explanation": "The lower velocity of ultrasound in fat combined with fat being of lower density leads to a lower acoustic impedance"
+        },
+        {
+          "response": "",
+          "text": "The acoustic impedance of air is almost zero",
+          "answer": "True",
+          "explanation": "This is mainly due to its low density"
+        },
+        {
+          "response": "",
+          "text": "It is independent of temperature",
+          "answer": "False",
+          "explanation": "It changes with temperature as the material density and stiffness may change"
+        },
+        {
+          "response": "",
+          "text": "The intensity of ultrasound is directly proportional to the acoustic impedance and to the wave amplitude",
+          "answer": "False",
+          "explanation": "It is proportional to the acoustic impedance and to the square of the amplitude"
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "stem": "Concerning the reflection of ultrasound waves",
+      "options": [
+        {
+          "response": "",
+          "text": "Specular reflection occurs when the size of the reflector is much larger than the ultrasound wavelength",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The angle of specular reflection depends on the differences in acoustic impedance of tissues forming the boundary and is described by Snell’s law",
+          "answer": "False",
+          "explanation": "The angle of specular reflection is, by definition, equal to the angle of incidence. Snell’s law governs the process of refraction"
+        },
+        {
+          "response": "",
+          "text": "For a normal angle of incidence, approximately 30–40% of ultrasound is transmitted at an interface between bone and soft tissue",
+          "answer": "False",
+          "explanation": "Approximately 30–40% is reflected, and 60–70% is transmitted"
+        },
+        {
+          "response": "",
+          "text": "The degree of ultrasound reflection at an interface between different soft tissues (for example, fat–muscle interface) is up to 10%",
+          "answer": "False",
+          "explanation": "Only up to 1–2% is reflected"
+        },
+        {
+          "response": "",
+          "text": "The echotexture of the liver parenchyma is due to scattering",
+          "answer": "True",
+          "explanation": "Hence, the echotexture of the liver is independent of the sonication angle"
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "stem": "Regarding ultrasound refraction",
+      "options": [
+        {
+          "response": "",
+          "text": "The angle of refraction depends on the velocities of ultrasound in the media on both sides of the boundary",
+          "answer": "True",
+          "explanation": "The ratio of sines of the angles of incidence and refraction is equal to the ratio of velocities in the two tissues forming the boundary. This is known as Snell’s law"
+        },
+        {
+          "response": "",
+          "text": "Ultrasound traversing an interface between muscle and bone will bend towards the normal",
+          "answer": "False",
+          "explanation": "The velocity of ultrasound in bone is higher, so the angle of refraction will be larger than the angle of incidence. The beam will bend away from normal (line perpendicular to the boundary)"
+        },
+        {
+          "response": "",
+          "text": "The critical angle is the angle of incidence at which the refracted beam travels parallel to the boundary",
+          "answer": "True",
+          "explanation": "The angle of refraction in this case equals 90 degrees "
+        },
+        {
+          "response": "",
+          "text": "Refraction plays an important role in the phenomenon of acoustic enhancement behind a fluid-filled structure",
+          "answer": "False",
+          "explanation": "Acoustic enhancement is an attenuation artefact. Refraction does not play a role here"
+        },
+        {
+          "response": "",
+          "text": "Refraction is one of the principal causes of artefacts in ultrasound imaging",
+          "answer": "True",
+          "explanation": "It may change the apparent position of objects (misregistration) and cause critical angle shadowing at interfaces that are at steep angles to the direction of the ultrasound beam (such as the lateral margins of well-defined structures)"
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "stem": "Concerning the attenuation of ultrasound",
+      "options": [
+        {
+          "response": "",
+          "text": "In contrast to the attenuation of X-rays, it is not an exponential process",
+          "answer": "False",
+          "explanation": "The attenuation of ultrasound is also exponential"
+        },
+        {
+          "response": "",
+          "text": "It is mostly due to loss of energy from the primary beam due to scattering and reflection",
+          "answer": "False",
+          "explanation": "Attenuation is mostly caused by energy absorption by frictional and viscous forces in the medium, with some contribution from scattering and partial reflection"
+        },
+        {
+          "response": "",
+          "text": "In a particular medium, it depends on the frequency of the ultrasound",
+          "answer": "True",
+          "explanation": "The attenuation coefficient of most tissues increases linearly with the frequency, and for soft tissues is typically in the range of 0.3–0.6 dB cm-1 MHz-1 "
+        },
+        {
+          "response": "",
+          "text": "The attenuation coefficient of water is similar to that of non-clotted blood",
+          "answer": "False",
+          "explanation": "Water attenuates ultrasound waves to a lesser degree than blood"
+        },
+        {
+          "response": "",
+          "text": "A thickness of tissue equal to the half-value layer (HVL) attenuates the ultrasound beam by 3 dB",
+          "answer": "True",
+          "explanation": "In the logarithmic scale, log 0.5 ¼ 0.3 Bel ¼ 3 dB"
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "stem": "Concerning the construction of a single ultrasound transducer probe",
+      "options": [
+        {
+          "response": "",
+          "text": "It contains a piezoelectric crystal usually made of lead zirconate titanate (PZT)",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "During the manufacturing process, the crystal is heated above the Curie point and is polarized by an external voltage, which is maintained until the temperature falls below the Curie point",
+          "answer": "True",
+          "explanation": "This orientates the internal dipoles in one direction, giving the crystal its piezoelectric properties. Once the crystal is cooled below the Curie temperature, this orientation is preserved, even in the absence of an external voltage. Heating above the Curie point in the absence of an external voltage would result in destruction of this polarization and elimination of the piezoelectric properties"
+        },
+        {
+          "response": "",
+          "text": "At the resonant frequency, the transducer produces ultrasound of a wavelength equal to half the thickness of the crystal",
+          "answer": "False",
+          "explanation": "The wavelength produced at the resonant frequency is double the crystal thickness"
+        },
+        {
+          "response": "",
+          "text": "To match the properties of the piezoelectric element and the tissue, a matching layer is applied to the surface of the PZT with the acoustic impedance being a geometric mean of PZT and tissue, and thickness equal to half the wavelength produced at the resonant frequency",
+          "answer": "False",
+          "explanation": "The thickness of the matching plate equals a quarter of the wavelength"
+        },
+        {
+          "response": "",
+          "text": "The acoustic impedance of the backing layer used to dampen the transducer needs to be identical to that of the piezoelectric crystal",
+          "answer": "False",
+          "explanation": "In this case, all the sound energy would be completely absorbed in the backing layer. Therefore, a backing layer of impedance slightly lower than that of the PZT is used"
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "stem": "Concerning the Q factor of an ultrasound transducer",
+      "options": [
+        {
+          "response": "",
+          "text": "A low Q transducer has a narrow bandwidth",
+          "answer": "False",
+          "explanation": "As the Q factor is the ratio of the resonant frequency to the transducer bandwidth, a low Q value indicates a wide bandwidth"
+        },
+        {
+          "response": "",
+          "text": "A heavily damped transducer has a low Q factor",
+          "answer": "True",
+          "explanation": "A heavily damped transducer produces a pulse of short duration. The shorter the pulse, the wider the spectrum of frequencies produced (bandwidth). Therefore, a heavily damped transducer has a low Q factor"
+        },
+        {
+          "response": "",
+          "text": "A low Q transducer can achieve better axial resolution than a high Q transducer of the same frequency",
+          "answer": "True",
+          "explanation": "A low Q transducer is highly damped and produces a pulse of short duration and therefore of low spatial pulse length (SPL). The shorter the SPL, the better the axial resolution"
+        },
+        {
+          "response": "",
+          "text": "High Q transducers are preferred for continuous-wave imaging",
+          "answer": "True",
+          "explanation": "Continuous-wave imaging requires a transducer with high persistence of sound (‘ringing’). Such a transducer needs to be lightly damped, and therefore of a high Q factor"
+        },
+        {
+          "response": "",
+          "text": "Continuous-wave Doppler imaging requires a receiving transducer that is lightly damped",
+          "answer": "True",
+          "explanation": "A high Q transducer has a narrow bandwidth, which is optimal for detection of the relatively small frequency changes caused by the blood flow"
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "stem": "Regarding an ultrasound beam produced by a single transducer",
+      "options": [
+        {
+          "response": "",
+          "text": "It initially propagates as a plane wave with a diameter similar to the transducer diameter",
+          "answer": "True",
+          "explanation": "This is because every point on the transducer surface produces a spherical wavelet (as described by Huygens’ principle); these wavelets undergo constructive and destructive interference producing a planar wave front. This part of the beam is called a ‘near field’"
+        },
+        {
+          "response": "",
+          "text": "The length of the near field is proportional to the radius of the transducer and the ultrasound wavelength",
+          "answer": "False",
+          "explanation": "It is proportional to the squared radius of the transducer and inversely proportional to wavelength; the near field extends further in the case of big transducers emitting high-frequency ultrasound"
+        },
+        {
+          "response": "",
+          "text": "The area where the beam starts to diverge is termed the Fresnel region",
+          "answer": "False",
+          "explanation": "The beam starts to diverge in the far field (Fraunhofer region). The Fresnel region is another name for the near field"
+        },
+        {
+          "response": "",
+          "text": "The angle of divergence is proportional to the ultrasound wavelength",
+          "answer": "True",
+          "explanation": "The sine of this angle is proportional to the ratio of wavelength and transducer diameter. Therefore, a large transducer of high frequency has a less divergent beam in the far field"
+        },
+        {
+          "response": "",
+          "text": "A beam from a single transducer cannot be focused, as focusing is only possible in array transducers",
+          "answer": "False",
+          "explanation": "It cannot be focused electronically; however, it can be focused to one set depth using a curved piezoelectric crystal or a plastic acoustic lens at the transducer face"
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "stem": "Concerning resolution in ultrasound imaging",
+      "options": [
+        {
+          "response": "",
+          "text": "Azimuthal resolution is the ability to separate two objects lying along the line of the ultrasound beam",
+          "answer": "False",
+          "explanation": "This is a definition of axial (depth) resolution. Azimuthal (lateral) resolution is the ability to resolve two objects lying side by side at the same depth"
+        },
+        {
+          "response": "",
+          "text": "Axial resolution is equal to twice the spatial pulse length (SPL)",
+          "answer": "False",
+          "explanation": "Axial resolution equals half of the SPL, where SPL is the product of wavelength and number of cycles in the ultrasound pulse"
+        },
+        {
+          "response": "",
+          "text": "Axial resolution can be improved by using a transducer with a high frequency and a low Q",
+          "answer": "True",
+          "explanation": "Higher frequency equals shorter wavelength, while a damped transducer produces a shorter pulse. Both decrease the SPL and therefore improve axial resolution"
+        },
+        {
+          "response": "",
+          "text": "Azimuthal resolution is independent of depth",
+          "answer": "False",
+          "explanation": "Azimuthal resolution is dependent on the beam width, which varies with depth. For an unfocused transducer, the beam is narrowest, and resolution best, within the near field–far field interface. For a focused transducer, the best resolution is achieved at the focal region"
+        },
+        {
+          "response": "",
+          "text": "In the focal area, axial and azimuthal resolutions are equal",
+          "answer": "False",
+          "explanation": "Axial resolution is a component of pulse length, while azimuthal resolution is a component of beam width. As the beam width is larger than the pulse length, the azimuthal resolution is always worse"
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "stem": "Regarding the operation of array transducers",
+      "options": [
+        {
+          "response": "",
+          "text": "To obtain a focused beam, the innermost element of the annular array is energized first",
+          "answer": "False",
+          "explanation": "The outermost element is energized first and the innermost element last"
+        },
+        {
+          "response": "",
+          "text": "Focusing in a linear array is achieved by first energizing the outermost elements of the active group",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The shorter the time delay between energizing the elements of the array, the shorter the focal distance",
+          "answer": "False",
+          "explanation": "A short focal distance is obtained by using a long delay between energizing the outer- and innermost elements of the active group"
+        },
+        {
+          "response": "",
+          "text": "In contrast to annular probes, array transducers do not give rise to grating lobes",
+          "answer": "False",
+          "explanation": "Grating lobes are weak replicas of the main ultrasound beam, which are unique to array transducers. They are caused by the regular, periodic spacing of the array elements, and arise when the size of the individual elements is larger than half the wavelength. Subdicing (dividing array elements into parts smaller than 0.5l) may be used to prevent their formation"
+        },
+        {
+          "response": "",
+          "text": "An ultrasound beam formed from a linear array may be steered from side to side by using the apodization technique",
+          "answer": "False",
+          "explanation": "Apodization is a technique used to prevent side lobe formation by applying less power to the outermost elements. Beam steering is achieved by energizing elements in succession beginning from one edge of the active group"
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "stem": "Concerning ultrasound scanning modes",
+      "options": [
+        {
+          "response": "",
+          "text": "The returning ultrasound echoes are depicted in the A-mode as a series of dots whose brightness is proportional to the echo amplitude",
+          "answer": "False",
+          "explanation": "They are depicted as vertical lines with an amplitude proportional to the echo strength on a time scale. A series of dots varying in brightness along multiple scan lines is used in B-mode imaging"
+        },
+        {
+          "response": "",
+          "text": "Real-time B-mode imaging requires a mechanical sector scanner or an array transducer",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "In the M-mode, the echoes are displayed as lines of bright dots on a time line",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "‘Duplex scanning’ refers to simultaneous B-mode and M-mode imaging",
+          "answer": "False",
+          "explanation": "It refers to simultaneous B-mode and spectral (pulsed-wave) Doppler imaging"
+        },
+        {
+          "response": "",
+          "text": "3D scanning always requires a dedicated 3D probe that is able to steer the ultrasound beam in two orthogonal directions",
+          "answer": "False",
+          "explanation": "It can also be performed with a 2D probe using a freehand technique. However, the position of the probe needs to be constantly registered, for example using optical or magnetic tracking"
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "stem": "Regarding real-time B-mode imaging",
+      "options": [
+        {
+          "response": "",
+          "text": "A typical number of scan lines in B-mode imaging of the abdomen is 256",
+          "answer": "False",
+          "explanation": "Such a high number of lines is unnecessary, as the lateral resolution is limited anyway. A typical line density is about 100 or slightly more as a compromise between achievable frame rate and scanning depth"
+        },
+        {
+          "response": "",
+          "text": "To avoid flicker, the frame rate should be at least 20–25 frames per second (fps)",
+          "answer": "True",
+          "explanation": "The limit of temporal resolution of a human eye is about 40 ms, so ideally the frame rate should be above 25 fps. Below 20 fps, flicker (seeing images as separate in time) becomes obvious"
+        },
+        {
+          "response": "",
+          "text": "The maximum scan line density at a frame rate of 25 fps and a pulse repetition frequency (PRF) of 2 kHz is 50",
+          "answer": "False",
+          "explanation": "With a PRF of 2 kHz, an ultrasound pulse is sent 2000 times per second. If 25 frames are to be obtained per second, each of them can have 2000/25 ¼ 80 lines"
+        },
+        {
+          "response": "",
+          "text": "The maximum depth of view at a frame rate of 30 fps and a scan line density of 100 is approximately 33 cm",
+          "answer": "False",
+          "explanation": "In 1 s, ultrasound needs to travel double the distance d (from the probe to the depth of view and then back) as many times as the number of scan lines multiplied by frame rate. Therefore, it travels a total distance of 2 x d x frame rate x number of scan lines with an average velocity of 1540 m s-1Therefore, the depth of field can be calculated as d ¼ 1540/(2 x frame rate x number of scan lines) ¼ 1540/(2 x 30 x 100) x 1540/6000 x 0.25 (m)"
+        },
+        {
+          "response": "",
+          "text": "The maximum achievable frame rate with a line density of 100 and a depth of view of 15 cm is approximately 50 fps",
+          "answer": "True",
+          "explanation": "As per the above equation, the frame rate can be calculated as 1540/(2 x depth of view x number of scan lines) ¼ 1540/30 x 50 (fps)"
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "stem": "Concerning tissue harmonic imaging (THI)",
+      "options": [
+        {
+          "response": "",
+          "text": "It usually uses echoes with frequencies that are integral multiples of the fundamental frequency",
+          "answer": "True",
+          "explanation": "Usually, the second harmonic (2f0 ) reaches a useful amplitude and is used, but super-harmonics (3f0 , 4f0 ) can also be recorded with modern transducers"
+        },
+        {
+          "response": "",
+          "text": "It requires a narrow bandwidth transducer",
+          "answer": "False",
+          "explanation": "Harmonic imaging requires a wide bandwidth transducer, which has the functionality to transmit at f0 and receive at 2f0 (or higher multiples)"
+        },
+        {
+          "response": "",
+          "text": "The basal frequency can be suppressed by using a pulse inversion technique",
+          "answer": "True",
+          "explanation": "If every other pulse is inverted, odd harmonics (including the basal frequency) can be suppressed"
+        },
+        {
+          "response": "",
+          "text": "The azimuthal resolution suffers in comparison with standard ultrasound imaging techniques",
+          "answer": "False",
+          "explanation": "The azimuthal (lateral) resolution is improved due to a narrower beam width"
+        },
+        {
+          "response": "",
+          "text": "Reverberation artefacts and side lobe artefacts are reduced",
+          "answer": "True",
+          "explanation": "This is one of the main advantages of using THI"
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "stem": "Regarding the Doppler effect",
+      "options": [
+        {
+          "response": "",
+          "text": "It is a change in the velocity of the sound reflected from a moving object",
+          "answer": "False",
+          "explanation": "It is a change in the frequency of the sound reflected from a moving object (known as the Doppler shift frequency)"
+        },
+        {
+          "response": "",
+          "text": "For an object moving away from the transducer, the Doppler shift is negative",
+          "answer": "True",
+          "explanation": "The recorded frequency will be lower than the original frequency"
+        },
+        {
+          "response": "",
+          "text": "For a given angle of insonation, the Doppler shift frequency depends only on the original sound frequency and the velocity of the reflector",
+          "answer": "False",
+          "explanation": "It also depends on the velocity of sound in a given medium according to the following equation: f x 2f0 v c cosQ where f0 is the original frequency, v is the velocity of the object, c is the velocity of sound and y is the angle of insonation"
+        },
+        {
+          "response": "",
+          "text": "The Doppler shift frequencies in medical ultrasound imaging are in the audible range",
+          "answer": "True",
+          "explanation": "They are in the frequency range of 100 Hz–8 kHz"
+        },
+        {
+          "response": "",
+          "text": "With other parameters being equal, the maximum Doppler shift will be recorded when a transducer is perpendicular to the object path",
+          "answer": "False",
+          "explanation": "As the recorded Doppler shift is proportional to the cosine of the angle of insonation (the angle between the object path and the transducer), no Doppler shift would be recorded in this case (y ¼ 90 degrees ; cos 90 degrees  ¼ 0). The maximum change in frequency would be seen by a transducer parallel to the object path (y ¼ 0 degrees ; cos 0 degrees  ¼ 1)"
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "stem": "In relation to continuous-wave Doppler imaging",
+      "options": [
+        {
+          "response": "",
+          "text": "It uses a transducer with two slightly angled crystals",
+          "answer": "True",
+          "explanation": "It uses two separate crystals with overlapping beams, which act as a receiver and a transmitter"
+        },
+        {
+          "response": "",
+          "text": "A good range resolution can be achieved",
+          "answer": "False",
+          "explanation": "There is no depth discrimination"
+        },
+        {
+          "response": "",
+          "text": "High velocities can be measured accurately",
+          "answer": "True",
+          "explanation": "This is the main advantage of the continuous-wave Doppler"
+        },
+        {
+          "response": "",
+          "text": "It cannot be used in pregnancy due to the high energy deposited by the continuous ultrasound wave",
+          "answer": "False",
+          "explanation": "Monitoring the fetal heartbeat is one of its main applications"
+        },
+        {
+          "response": "",
+          "text": "A continuous Doppler signal is usually presented to the user as an audible sound",
+          "answer": "True",
+          "explanation": "A continuous-wave Doppler is mainly used in simple handheld systems that present the signal this way. The original frequency is removed from the received frequency leaving the Doppler shift (‘beat’) in the audible range. The pitch of the sound is proportional to the velocity of the object"
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "stem": "Concerning pulsed-wave Doppler imaging",
+      "options": [
+        {
+          "response": "",
+          "text": "It uses a single transducer that alternates between transmission and reception",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "It shows a 2D map of flow with the flow towards the transducer demonstrated in red, and away from the transducer in blue",
+          "answer": "False",
+          "explanation": "A pulsed-wave Doppler displays spectral information about flow in a specific sample volume against time (sonogram). Colour flow imaging displays a 2D map of the flow"
+        },
+        {
+          "response": "",
+          "text": "It allows the measurement of high-velocity flow",
+          "answer": "False",
+          "explanation": "The main shortcoming of the pulsed-wave Doppler is a limited range of measured velocities due to aliasing, as governed by the Nyquist limit"
+        },
+        {
+          "response": "",
+          "text": "Range resolution is achieved through a range gating",
+          "answer": "True",
+          "explanation": "The transducer sends a Doppler pulse and waits for the returning echoes. The apparatus only accepts the echoes arising in the specified sampling volume that arrive within a specific time-of-flight window"
+        },
+        {
+          "response": "",
+          "text": "The maximum depth of sampling depends on the pulse repetition frequency (PRF)",
+          "answer": "True",
+          "explanation": "As in the standard B-mode imaging, there needs to be sufficient time for the ultrasound pulse to reach the sampling depth and return to the transducer. Therefore, maximum sampling depth is 0.5 x c/PRF (where c is the speed of sound)"
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "stem": "Regarding aliasing in pulsed-wave Doppler imaging",
+      "options": [
+        {
+          "response": "",
+          "text": "It occurs when the Doppler shift frequency exceeds 2 PRF (pulse repetition frequency)",
+          "answer": "False",
+          "explanation": "According to the Nyquist criterion, the waveform measured (shift frequency in this case) needs to be sampled at least twice in each period (time between pulses). Therefore, aliasing occurs when the Doppler shift exceeds half of the sampling frequency (PRF), not double"
+        },
+        {
+          "response": "",
+          "text": "It limits the range of velocities that can accurately be measured to 1.5–2 m/s",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The risk of aliasing is higher at higher Doppler frequencies",
+          "answer": "True",
+          "explanation": "At higher frequencies, the Doppler shift (which is proportional to frequency) will be larger and more likely to exceed 0.5 PRF"
+        },
+        {
+          "response": "",
+          "text": "It can be reduced by using a higher PRF, lowering the frequency or increasing the angle of insonation",
+          "answer": "True",
+          "explanation": "At higher PRF, the Doppler shift that can be measured without aliasing is proportionately higher. Lowering the frequency or increasing the angle of insonation decreases the Doppler shift frequency, so it is less likely to exceed the Nyquist criterion"
+        },
+        {
+          "response": "",
+          "text": "The problem of aliasing can partially be overcome by using a high PRF mode",
+          "answer": "True",
+          "explanation": "In this mode, the next Doppler pulse is sent before the echo from the previous pulse is received. This allows measuring of higher flow velocities, but introduces range ambiguity (loss of range resolution)"
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "stem": "Concerning parameters and indices used in Doppler imaging",
+      "options": [
+        {
+          "response": "",
+          "text": "To detect slow flow, it may be necessary to increase the Doppler frequency or decrease the pulse repetition frequency (PRF)",
+          "answer": "True",
+          "explanation": "An increase in Doppler frequency results in a larger frequency shift, which is easier to detect. Decreasing the PRF increases the sensitivity to small frequency shifts"
+        },
+        {
+          "response": "",
+          "text": "Increasing the wall filter is helpful in the detection of slow flow",
+          "answer": "False",
+          "explanation": "The wall filter (high-pass filter) eliminates frequencies below a certain value and is used to eliminate low-frequency signals caused by movement of the vessel wall. However, low-frequency shifts from slow flow are also eliminated. Therefore, to improve sensitivity to slow flow, the wall filter needs to be reduced"
+        },
+        {
+          "response": "",
+          "text": "The signal-to-noise ratio (SNR) may be improved by using a high-pass filter",
+          "answer": "False",
+          "explanation": "It can be improved by a low-pass filter that allows only frequencies below a certain threshold to pass, and cuts off high frequencies. As noise is usually high frequency, this improves SNR"
+        },
+        {
+          "response": "",
+          "text": "The resistance index (RI) is calculated as (peak systolic flow – end diastolic flow)/(peak systolic flow)",
+          "answer": "True",
+          "explanation": "Another important parameter is the pulsatility index (PI) defined as (peak systolic flow – minimum flow)/(time-averaged maximum flow)"
+        },
+        {
+          "response": "",
+          "text": "Examples of vessels with a low RI include the renal artery, the uterine artery in pregnancy, and the external carotid artery",
+          "answer": "False",
+          "explanation": "The internal, not external, carotid artery is of low resistance"
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "stem": "Regarding colour flow imaging (CFI) and power Doppler imaging",
+      "options": [
+        {
+          "response": "",
+          "text": "Image acquisition in CFI is based on the continuous-wave Doppler",
+          "answer": "False",
+          "explanation": "CFI uses pulsed-wave Doppler acquisition. Multiple pulses are sent over multiple lines and Doppler shifts are obtained from multiple gates along these lines. Information is presented on a 2D map of flow usually superimposed on a B-mode picture, with colour-coded direction of flow. To speed up data acquisition and processing, phase-shift autocorrelation or time domain correlation is used together with faster analysis algorithms"
+        },
+        {
+          "response": "",
+          "text": "CFI is not susceptible to aliasing",
+          "answer": "False",
+          "explanation": "The same Nyquist criterion applies as with spectral pulsed-wave Doppler imaging"
+        },
+        {
+          "response": "",
+          "text": "On modern ultrasound equipment, the frame rate achieved in colour flow mode is the same as the frame rate in the corresponding pure B-mode imaging",
+          "answer": "False",
+          "explanation": "The frame rate in CFI is always lower than in pure B-mode imaging, as multiple pulses (typically 2–20) are sent for each scan line. The Doppler pulses will also need to be interleaved with B-mode imaging pulses, further decreasing the frame rate"
+        },
+        {
+          "response": "",
+          "text": "In power Doppler imaging, the sensitivity to motion is not dependent on the Doppler angle",
+          "answer": "True",
+          "explanation": "Power Doppler (energy Doppler) imaging ignores information about the direction and velocity of flow and displays information dependent only on the flow amplitude. This does not change significantly with the angle of insonation"
+        },
+        {
+          "response": "",
+          "text": "CFI is more susceptible to flash artefacts than power Doppler imaging",
+          "answer": "False",
+          "explanation": "As the name implies, flash artefacts are bursts of signal resulting from the motion of tissue. As power Doppler imaging is more sensitive to motion, flash artefacts are more likely to occur"
+        }
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "stem": "Concerning artefacts in ultrasound imaging",
+      "options": [
+        {
+          "response": "",
+          "text": "A slice thickness artefact may result in the appearance of low-level echoes in small cysts",
+          "answer": "True",
+          "explanation": "This is due to the ultrasound beam having a specified thickness in the elevation plane (perpendicular to the scan plane). If this thickness is comparable with the size of the cyst, the image may contain echoes from overlapping adjacent tissue. This is similar to partial volume artefacts in computed tomography (CT) imaging, and can be reduced by using a transducer that is able to focus in the elevation plane"
+        },
+        {
+          "response": "",
+          "text": "Comet-tail artefacts differ from ring-down artefacts by the banded appearance of the latter",
+          "answer": "False",
+          "explanation": "The former have a characteristic banded appearance"
+        },
+        {
+          "response": "",
+          "text": "Compound imaging helps visualize renal calculi",
+          "answer": "False",
+          "explanation": "Compound imaging is a technique in which an electronically steered beam acquires several overlapping scans from different angles. This helps eliminate artefacts and improves visualization of structures with curved and irregular borders. However, it also eliminates acoustic shadowing, which in this case is a helpful diagnostic clue"
+        },
+        {
+          "response": "",
+          "text": "The artefact when liver appears to lie on the upper side of the diaphragm is an example of a reverberation artefact",
+          "answer": "False",
+          "explanation": "It is an example of a mirror image artefact (double reflection)"
+        },
+        {
+          "response": "",
+          "text": "A clutter artefact is found at the interface between Fresnel and Fraunhofer zones, where the ultrasound beam starts to diverge",
+          "answer": "False",
+          "explanation": "Clutter is an unwanted signal appearing in the near field close to the transducer surface, caused by vibration of the piezoelectric element and side lobes. It is greatly reduced in harmonic imaging"
+        }
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "stem": "Microbubbles used as ultrasound contrast agents",
+      "options": [
+        {
+          "response": "",
+          "text": "Have a gaseous core",
+          "answer": "True",
+          "explanation": "The core is either air or inert gas (e.g. nitrogen, perfluoropropane, perfluorocarbon) encapsulated in an albumin or lipid shell"
+        },
+        {
+          "response": "",
+          "text": "Are similar in diameter to neutrophils",
+          "answer": "False",
+          "explanation": "The diameter of microbubbles is usually 1–4 mm (up to 7 mm), so they are slightly smaller or comparable in size to red blood cells (6–8 mm) and much smaller than neutrophils (12–15 mm). This allows them to cross pulmonary capillaries and produce systemic enhancement after intravenous injection"
+        },
+        {
+          "response": "",
+          "text": "Have resonance frequency in a low MHz range",
+          "answer": "True",
+          "explanation": "Their resonance frequency happens to fall within the range of frequencies used in clinical ultrasound, which is why they are useful in imaging"
+        },
+        {
+          "response": "",
+          "text": "Mainly accumulate in the blood pool",
+          "answer": "True",
+          "explanation": "However, certain microbubbles can also be taken up by the reticular endothelial system (RES) of the liver and spleen (passive targeting)"
+        },
+        {
+          "response": "",
+          "text": "Can be destroyed by ultrasound waves",
+          "answer": "True",
+          "explanation": "Ultrasound waves of high energy cause disruption and collapse of the microbubbles"
+        }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "stem": "Concerning detection of microbubbles and their applications",
+      "options": [
+        {
+          "response": "",
+          "text": "The main use for microbubbles is to enhance Doppler ultrasound imaging",
+          "answer": "False",
+          "explanation": "Due to their high degree of echogenicity, microbubbles indeed enhance the Doppler signal (‘Doppler rescue’), which was the original application of these agents, and sometimes continues to be used in transcranial imaging. However, the main application is currently in contrast-specific imaging techniques utilizing non-linear resonance and production of harmonic frequencies"
+        },
+        {
+          "response": "",
+          "text": "As microbubbles are quickly destroyed by insonation, they can only be imaged intermittently",
+          "answer": "False",
+          "explanation": "Real-time imaging with a low mechanical index (MI) is possible"
+        },
+        {
+          "response": "",
+          "text": "Stimulated acoustic emission (SAE) utilizes high-energy Doppler pulses",
+          "answer": "True",
+          "explanation": "SAE is the appearance of a random colour pattern when microbubbles burst after insonation with high-energy Doppler pulses. According to the guidelines of the European Federation of Societies for Ultrasound in Medicine and Biology, high MI techniques are not routinely recommended due to a difficult examination technique and the superiority of real-time, low MI imaging"
+        },
+        {
+          "response": "",
+          "text": "Characterization of liver lesions with microbubbles is usually based on their enhancement pattern",
+          "answer": "True",
+          "explanation": "Scanning with a low MI allows characterization of the lesion enhancement and washout in the arterial and portal phases in real time, and has almost completely superseded high MI techniques (SAE)"
+        },
+        {
+          "response": "",
+          "text": "Microbubbles can be used for targeted drug delivery",
+          "answer": "True",
+          "explanation": "They can be laden with drugs and caused to burst by insonation at a specific target site"
+        }
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "stem": "Concerning perfluorocarbon nanoparticles as ultrasound contrast agents",
+      "options": [
+        {
+          "response": "",
+          "text": "Similarly to microbubbles, they have a gaseous core but are smaller in size (<1 mm)",
+          "answer": "False",
+          "explanation": "Nanoparticles have a non-gaseous core (perfluorocarbon emulsion) enclosed in a lipid shell"
+        },
+        {
+          "response": "",
+          "text": "They have a longer half-life in comparison with microbubbles",
+          "answer": "True",
+          "explanation": "They stay in circulation longer as their liquid composition renders them more resistant to mechanical stress"
+        },
+        {
+          "response": "",
+          "text": "Like microbubbles, they exhibit non-linear resonance with the production of harmonics",
+          "answer": "False",
+          "explanation": "They do not demonstrate a non-linear response and do not produce harmonics"
+        },
+        {
+          "response": "",
+          "text": "They show a strong acoustic signal while in the blood pool",
+          "answer": "False",
+          "explanation": "They have a low intrinsic echogenicity and cause detectable ultrasound enhancement only after accumulation. Therefore, they can be specifically targeted (e.g. to fibrin in thrombi) and imaged at the target site without any interference from the blood pool"
+        },
+        {
+          "response": "",
+          "text": "They have the potential to be used as multi-modality contrast agents",
+          "answer": "True",
+          "explanation": "They can be additionally labelled with technetium for detection by single-photon emission CT (SPECT), or with gadolinium for magnetic resonance imaging (MRI) detection. Thanks to their fluorine content, 19F spectroscopy is also possible"
+        }
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "stem": "Regarding electrical safety and quality assurance (QA) in ultrasound",
+      "options": [
+        {
+          "response": "",
+          "text": "Electrical safety tests of the ultrasound unit should be performed annually",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "QA of the ultrasound unit should be performed semi-annually",
+          "answer": "False",
+          "explanation": "The Royal College of Radiologists recommends in its ‘Standards for Ultrasound Equipment’ that testing should be performed annually or biannually"
+        },
+        {
+          "response": "",
+          "text": "The resolution in B-mode imaging may be tested with a string phantom",
+          "answer": "False",
+          "explanation": "Resolution is usually tested using a test object containing a set of filament targets in a tissue-mimicking material phantom. A string phantom is used for testing the velocity in a Doppler mode"
+        },
+        {
+          "response": "",
+          "text": "Phantoms used for B-mode imaging are usually filled with distilled water",
+          "answer": "False",
+          "explanation": "They need to be filled with a material in which the speed of sound (1540 m s-1), attenuation (0.5 dB cm-1 MHz-1 ) and density (1050 kg m-3) are close to that in a soft tissue"
+        },
+        {
+          "response": "",
+          "text": "The power output of the transducer may be measured with a radiation force balance",
+          "answer": "True",
+          "explanation": "The ultrasound emitted from a transducer exerts a force proportional to the output power, which can be ‘weighed’ on a special balance. A power of 1 W corresponds to approximately 68 mg"
+        }
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "stem": "Concerning safety limits and indices used in ultrasound",
+      "options": [
+        {
+          "response": "",
+          "text": "The time-averaged ultrasound intensity should nowhere exceed 100 mW cm²",
+          "answer": "True",
+          "explanation": "This is approximately 1000 times greater than the typical intensity in the focal region"
+        },
+        {
+          "response": "",
+          "text": "The total sound energy (intensity × dwell time) should nowhere exceed 100 J cm²",
+          "answer": "False",
+          "explanation": "It should not exceed 50 J cm-2"
+        },
+        {
+          "response": "",
+          "text": "The thermal index (TI) is the ratio of the power emitted to the power required to increase the whole body temperature by 1°C",
+          "answer": "False",
+          "explanation": "TI applies to the temperature rise in the insonated tissue, not the whole body"
+        },
+        {
+          "response": "",
+          "text": "The mechanical index (MI) is the peak rarefaction pressure divided by the square root of the ultrasound frequency",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Both TI and MI must always be displayed on the ultrasound control panel",
+          "answer": "False",
+          "explanation": "They need to be displayed if the equipment is capable of exceeding a TI or MI of 1.0 in the selected scanning mode (B-mode, spectral Doppler, etc.). In such cases, the indices must be displayed regardless of their value (i.e. even if they are below 1.0)"
+        }
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "stem": "Concerning the thermal effects of ultrasound",
+      "options": [
+        {
+          "response": "",
+          "text": "Potential sources of heating are the absorption of ultrasound waves and heat produced at the transducer surface",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "A temperature rise of less than 1°C is considered to present no hazard to human tissue including the embryo and fetus, even if maintained indefinitely",
+          "answer": "False",
+          "explanation": "According to the British Medical Ultrasound Society, a diagnostic exposure that produces a maximum temperature rise of no more than 1.5 degrees C above normal physiological levels (37 degrees C) may be used clinically without reservation on thermal grounds"
+        },
+        {
+          "response": "",
+          "text": "According to International Standards IEC (2007), the maximum temperature of the probe in contact with the patient should not exceed 43°C when used internally, or 50°C when used externally",
+          "answer": "False",
+          "explanation": "The temperature of a probe touching the patient either externally or internally should be limited to 43 degrees C. The 50 degrees C temperature limit applies to a probe running in air"
+        },
+        {
+          "response": "",
+          "text": "Doppler techniques pose greater heating risks when compared with B-mode imaging",
+          "answer": "True",
+          "explanation": "Doppler imaging involves greater ultrasound intensities"
+        },
+        {
+          "response": "",
+          "text": "Spectral Doppler poses less heating risk compared with colour flow imaging",
+          "answer": "False",
+          "explanation": "There is a higher risk of heating in spectral Doppler as the beam is held in a fixed position"
+        }
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "stem": "Concerning the non-thermal effects of ultrasound",
+      "options": [
+        {
+          "response": "",
+          "text": "In general, non-inertial cavitation is not a big problem in ultrasound",
+          "answer": "False",
+          "explanation": "Non-inertial (stable) cavitation is an oscillation of a pre-existing bubble subject to a pressure wave. It develops over several cycles and would require insonation with a continuous ultrasound wave held in one position, which rarely happens in practice. Inertial (transient) cavitation (growth and collapse of a bubble within a few cycles creating shock waves and an extreme local temperature rise) has more potential for damage"
+        },
+        {
+          "response": "",
+          "text": "The risk of cavitation is increased in the presence of microbubble contrast media",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "In the presence of microbubbles, there is a risk of cavitation while scanning with a mechanical index (MI) in excess of 1.0",
+          "answer": "False",
+          "explanation": "Such a risk exists at an MI above 0.7"
+        },
+        {
+          "response": "",
+          "text": "Organs at risk of cavitation-related damage in the absence of contrast media include the intestine and lungs both in the prenatal and postnatal period",
+          "answer": "False",
+          "explanation": "In an aerated lung, there is indeed a risk of cavitation-induced haemorrhage (e.g. during transoesophageal scanning). As the fetal lung is not aerated, it is not prone to such damage"
+        },
+        {
+          "response": "",
+          "text": "Acoustic streaming has the potential to cause tissue damage with an MI above 2.0",
+          "answer": "False",
+          "explanation": "Acoustic streaming (movement of fluid along an ultrasound beam, or ‘quartz wind’) is unlikely to cause adverse effects"
+        }
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "stem": "Regarding the recommendations of the British Medical Ultrasound Society for obstetric and neonatal ultrasound",
+      "options": [
+        {
+          "response": "",
+          "text": "In obstetric scanning up to 10 weeks after the last menstrual period, the operator should monitor the thermal index for bone (TIB)",
+          "answer": "False",
+          "explanation": "The thermal index for soft tissue (TIS) should be monitored. The TIS assumes that only soft tissue is insonated. At 10 weeks after the last menstrual period, ossification of the fetal spine starts and the TIB should be monitored"
+        },
+        {
+          "response": "",
+          "text": "There are no time restrictions on scanning with a thermal index (TI) <1.0",
+          "answer": "False",
+          "explanation": "Scanning with a TI between 0.7 and 1.0 is restricted to 60 min. There are no time restrictions for a TI <0.7"
+        },
+        {
+          "response": "",
+          "text": "Scanning of the embryo or fetus is not recommended, however briefly, with a TI >3.0",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "General neonatal scanning is not recommended, however briefly, with a TI >3.0",
+          "answer": "False",
+          "explanation": "Scanning of the central nervous system (transcranial or spinal ultrasound) is not recommended with a TI >3.0. In this case, the thermal index for cranial imaging (TIC) should be monitored. General neonatal scanning is not recommended with a TI >6.0. Note that, although allowed, scanning with a TI just below these values is unlikely to be of clinical use due to the time restrictions (e.g. general scanning with a TI between 4 and 5 is allowed for 15 s, and with a TI between 5 and 6 for 5 s only)"
+        },
+        {
+          "response": "",
+          "text": "In neonates, the possibility of lung or intestine damage occurs with a mechanical index (MI) >0.7",
+          "answer": "False",
+          "explanation": "This possibility exists with an MI >0.3"
+        }
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "stem": "Regarding the recommendations of the British Medical Ultrasound Society for non-obstetric, non-neonatal ultrasound",
+      "options": [
+        {
+          "response": "",
+          "text": "Scanning of the eye is not recommended with a thermal index (TI) >1.0, however briefly",
+          "answer": "True",
+          "explanation": "Note that the thermal index for soft tissue (TIS) should be monitored"
+        },
+        {
+          "response": "",
+          "text": "There are no time restrictions on scanning with a TI <1.0",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Scanning of the central nervous system is not recommended with a TI >3.0, and a general ultrasound examination with a TI >6.0",
+          "answer": "True",
+          "explanation": "Note that these values are the same as for neonatal ultrasound. The thermal index for cranial imaging (TIC) and thermal index for bone (TIB) should be used for central nervous system and general scanning, respectively"
+        },
+        {
+          "response": "",
+          "text": "Consent is required from patients scanned by ultrasound trainees only in the case of transvaginal ultrasound",
+          "answer": "False",
+          "explanation": "Consent is required of all patients, with verbal consent being generally acceptable. The British Medical Ultrasound Society recommends that, in the case of healthy volunteers, consent should ideally be expressed in a written form"
+        },
+        {
+          "response": "",
+          "text": "It is recommended that the total time of the examination performed by ultrasound trainees is normally no more than triple that needed to carry out a diagnostic scan",
+          "answer": "False",
+          "explanation": "The time should not exceed double that needed for a diagnostic examination"
+        }
+      ]
+    }
+  ]
+
+}

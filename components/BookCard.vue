@@ -25,13 +25,13 @@ const covers = Object.fromEntries(
 
 <template>
   <div class="flex flex-col items-center">
-    <nuxt-link :to="`/${book.type}/${book.slug}`" >
-      <img :src="covers[book.slug]" :alt="book.slug" class="rounded-lg" />
+    <nuxt-link :to="book.type ? `/${book.type}/${book.slug}` : `/${book.slug}`">
+      <img :src="covers[book.slug]" :alt="book.slug" class="rounded-lg h-56" />
     </nuxt-link>
 
     <p class="py-2 flex flex-col gap-1">
       <nuxt-link
-        :to="`/${book.type}/${book.slug}`"
+        :to="book.type ? `/${book.type}/${book.slug}` : `/${book.slug}`"
         class="font-[oswald] tracking-wider font-medium text-center"
       >
         {{ book.title }}

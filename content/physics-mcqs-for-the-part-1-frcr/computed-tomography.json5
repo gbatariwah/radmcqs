@@ -1,0 +1,1088 @@
+{
+  name: "Physics MCQs for the Part 1 FRCR",
+  authors: "Shahzad Ilyas",
+  slug: "computed-tomography",
+  questions: [
+    {
+      "questionNumber": 1,
+      "stem": "Regarding computed tomography (CT) number (CTn)",
+      "options": [
+        {
+          "response": "",
+          "text": "It represents the linear attenuation coefficient of each tissue",
+          "answer": "False",
+          "explanation": "CT number represents the average linear attenuation coefficient in the voxel"
+        },
+        {
+          "response": "",
+          "text": "It is directly proportional to mwater",
+          "answer": "False",
+          "explanation": "CTn ¼ 1000 x mt - mw/mw , where mt and mw are the attention coefficients of tissue and water, respectively"
+        },
+        {
+          "response": "",
+          "text": "It depends on kV, but not on filtration",
+          "answer": "False",
+          "explanation": "CTn is dependent on: Heterogeneity of the tissue, Variation in the attenuation coefficient of each tissue relative to water, kV, Filtration of the X-ray beam"
+        },
+        {
+          "response": "",
+          "text": "It is between 20 and 30 for brain white matter",
+          "answer": "True",
+          "explanation": "CTn of brain white matter ¼ 20–30; CTn of grey matter ¼ 35–45"
+        },
+        {
+          "response": "",
+          "text": "Air and water can be used for calibration of CTn",
+          "answer": "True",
+          "explanation": "Air and water can be used for calibration"
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "stem": "Regarding the partial volume effect",
+      "options": [
+        {
+          "response": "",
+          "text": "A thin high-contrast object at an oblique angle is less visible",
+          "answer": "False",
+          "explanation": "A thin high-contrast object at an oblique angle appears larger"
+        },
+        {
+          "response": "",
+          "text": "Because of the partial volume effect, a small high-contrast object that is smaller than the display pixel size is not visible",
+          "answer": "False",
+          "explanation": "A small high-contrast object that is smaller than the displayed pixel size can still be seen"
+        },
+        {
+          "response": "",
+          "text": "It reduces the visibility of low-contrast detail",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "It depends on the thickness of the tissue",
+          "answer": "False",
+          "explanation": "The partial volume effect depends on the thickness of the transaxial slice, not the tissue"
+        },
+        {
+          "response": "",
+          "text": "It depends on the thickness of the transaxial slice",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "stem": "In CT",
+      "options": [
+        {
+          "response": "",
+          "text": "The total number of detectors is around 500–1000 in each row",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The gantry cannot tilt in the cranio-caudal direction",
+          "answer": "False",
+          "explanation": "The gantry can tilt by up to 30 degrees about the vertical"
+        },
+        {
+          "response": "",
+          "text": "A bone algorithm improves the spatial resolution",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The anode–cathode axis is perpendicular to the z-axis to reduce the heel effect",
+          "answer": "False",
+          "explanation": "The anode–cathode axis is parallel to the z-axis to minimize the anode heel effect"
+        },
+        {
+          "response": "",
+          "text": "The main filter is usually 3 mm of aluminium",
+          "answer": "False",
+          "explanation": "Filtration typically comprises 6 mm of aluminium. In first-generation scanners, copper was also added to remove low-energy photons"
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "stem": "In CT geometry",
+      "options": [
+        {
+          "response": "",
+          "text": "There are typically two focal spots and the smallest is 0.6 mm",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The heating capacity is 0.4 MJ",
+          "answer": "False",
+          "explanation": "The heating capacity is around 4 MJ"
+        },
+        {
+          "response": "",
+          "text": "The filter in first-generation scanners was copper to remove high-energy photons and aluminium for low-energy photons",
+          "answer": "False",
+          "explanation": "In first-generation scanners, cooper was used to remove low-energy photons"
+        },
+        {
+          "response": "",
+          "text": "Post-patient collimation is necessary in a multi-slice scanner to get an accurate thickness",
+          "answer": "False",
+          "explanation": "In a single-slice scanner, post-patient collimation is used to reduce scatter when the slice thickness is less than the collimator and also to get an accurate thickness"
+        },
+        {
+          "response": "",
+          "text": "A bow tie filter is used to reduce scatter at the periphery of the image",
+          "answer": "False",
+          "explanation": "The main purpose of the bow tie filter is to equalize the dose throughout an elliptical shaped body"
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "stem": "Regarding CT generations",
+      "options": [
+        {
+          "response": "",
+          "text": "In first-generation scanners, the gantry rotated 360° as well as the single detector",
+          "answer": "False",
+          "explanation": "In first-generation scanners, the X-ray source and single detector both moved across the scanning plane at 180 degrees rotation"
+        },
+        {
+          "response": "",
+          "text": "The second-generation scanner is a rotate–translate scanner",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "In second-generation scanners, the detectors can cover the whole cross-section in one radiation",
+          "answer": "False",
+          "explanation": "In second-generation scanners, there are around 30 detectors, which are not enough for the whole cross-section"
+        },
+        {
+          "response": "",
+          "text": "In third-generation scanners, the patient-to-detector distance is greater than in other generation scanners",
+          "answer": "False",
+          "explanation": "In fourth-generation scanners, the patient-to-detector distance is greater than in other generations"
+        },
+        {
+          "response": "",
+          "text": "In third-generation scanners, data acquisition is continuous",
+          "answer": "True",
+          "explanation": "In third-generation scanners, data collection is continuous for the full 360 degrees"
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "stem": "Regarding fourth-generation CT scanners",
+      "options": [
+        {
+          "response": "",
+          "text": "The dose is less than in other generations",
+          "answer": "False",
+          "explanation": "Fourth-generation CT uses rotate–stationary scanners. The advantages are: detector stability, simpler reconstruction and readjustment of calibration through the scanning cycle. The disadvantages are: an increase in the number of detectors by a factor of 6, it is prohibitive in multi-slice CT, and there is a higher dose because of the increased distance between the patient and the detectors"
+        },
+        {
+          "response": "",
+          "text": "The number of detectors is increased by a factor of 8",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "They need simpler reconstruction",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The calibration can be readjusted through each scanning cycle",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "They are the best for cardiac imaging",
+          "answer": "False",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "stem": "Regarding detectors in CT",
+      "options": [
+        {
+          "response": "",
+          "text": "The larger the detectors, the better the spatial resolution",
+          "answer": "False",
+          "explanation": "For good spatial resolution, the detectors should be small"
+        },
+        {
+          "response": "",
+          "text": "They should have negligible afterglow and a narrow dynamic range",
+          "answer": "False",
+          "explanation": "The detectors should have fast response and negligible afterglow and also a wide dynamic range"
+        },
+        {
+          "response": "",
+          "text": "In single-slice scanners, the ionization chamber is elongated in the direction of the X-ray beam to increase the efficiency",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "In multi-slice scanners, the scintillant is often bismuth germanate",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Solid detectors are less sensitive but more stable in comparison with gas chambers",
+          "answer": "True",
+          "explanation": "Solid detectors have a linear response and negligible afterglow. They are very small and stable, but less sensitive in comparison with ionization chambers"
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "stem": "Regarding CT",
+      "options": [
+        {
+          "response": "",
+          "text": "In scanograms, the scatter is high and spatial resolution is poor",
+          "answer": "False",
+          "explanation": "In scanograms (topograms), the scatter is minimal and spatial resolution is poor"
+        },
+        {
+          "response": "",
+          "text": "CT fluoroscopy is a low kV technique in which the table does not move",
+          "answer": "True",
+          "explanation": "In CT fluoroscopy, the gantry rotates 180 degrees without the table moving, and it is a low kV technique"
+        },
+        {
+          "response": "",
+          "text": "In CT fluoroscopy, both the effective dose and the skin dose are less than in normal CT",
+          "answer": "False",
+          "explanation": "In CT fluoroscopy the effective dose is less but the skin dose is higher because it is confined to a narrow region"
+        },
+        {
+          "response": "",
+          "text": "A scanogram is another name for a scout view",
+          "answer": "True",
+          "explanation": "A scanogram is another name for a scout view"
+        },
+        {
+          "response": "",
+          "text": "CT fluoroscopy is used for biopsy needle placement",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "stem": "Regarding pitch in CT",
+      "options": [
+        {
+          "response": "",
+          "text": "The table movement over the slice width is the row pitch in a multi-slice scanner",
+          "answer": "True",
+          "explanation": "Slice pitch ¼ row pitch ¼ table movement/slice width"
+        },
+        {
+          "response": "",
+          "text": "If the length of area to be scanned is 600 mm and the slice pitch is 2 with a slice thickness of 15 mm, 20 rotations are needed to cover the whole field of view",
+          "answer": "False",
+          "explanation": "The number of rotations ¼ [600/(2 x 15)] þ 2 (extra rotations for start and end points) ¼ 22"
+        },
+        {
+          "response": "",
+          "text": "The beam pitch is usually between 2 and 3 to reduce the patient’s dose",
+          "answer": "False",
+          "explanation": "The beam pitch in CT is between 1 and 2. A pitch above 2 is not acceptable"
+        },
+        {
+          "response": "",
+          "text": "The beam pitch is always equal to or smaller than the slice pitch",
+          "answer": "True",
+          "explanation": "Beam pitch ¼ table movement/collimation length, and slice pitch ¼ table movement/slice width. As the collimation is never smaller than the slice width, the beam pitch is always equal to or smaller than the slice pitch"
+        },
+        {
+          "response": "",
+          "text": "In 12 rows of 2 mm detectors, the slice thickness could be 1, 2, 4, 6 or 12",
+          "answer": "False",
+          "explanation": "When the detector size is 2 mm, the slice thickness cannot be smaller than 2 mm. The slice thickness could 2, 4, 6 or 12"
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "stem": "Which of these statements are true?",
+      "options": [
+        {
+          "response": "",
+          "text": "The number of measurements for reconstruction is dependent on the number of detectors",
+          "answer": "True",
+          "explanation": "Number of measurements for reconstruction of the image ¼ number of detectors x number of scans at 360 degrees"
+        },
+        {
+          "response": "",
+          "text": "Filter back projection is the most common image reconstruction technique used",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "In filter back projection, the effect of the neighbouring beam on each pixel is directly proportional to their distance",
+          "answer": "False",
+          "explanation": "The effect of the neighbouring beam is inversely proportional to the distance"
+        },
+        {
+          "response": "",
+          "text": "The partial volume effect is greater in spiral CT",
+          "answer": "False",
+          "explanation": "The advantages of helical/spiral CT are: high speed, reduced misregistration, continuous data acquisition, a single exposure and reduced partial volume effect. In spiral CT, less contrast medium is required but more heat loading or capacity is needed"
+        },
+        {
+          "response": "",
+          "text": "Helical/spiral CT needs more heat capacity",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "stem": "Regarding spatial resolution",
+      "options": [
+        {
+          "response": "",
+          "text": "CT has a better spatial resolution compared with film-screen radiography",
+          "answer": "False",
+          "explanation": "The spatial resolution in CT is 20 line pairs cm-1 while in film-screen radiography it is 8–12 line pairs mm-1"
+        },
+        {
+          "response": "",
+          "text": "It is 3–5 line pairs mm−1 in digital imaging",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "It depends on the width of the projection path",
+          "answer": "True",
+          "explanation": "Spatial resolution in CT depends on the following: * The matrix and field of view * An algorithm: like bone reconstruction, this enhances the edge of high-contrast structures and increases the spatial resolution at the cost of increased noise * The width of the projection path, which is affected by focal spot size/source to isocentre and source to detector distance/size of the sensitive area of the detector * The number of projections sampled in each rotation. In the z direction, this depends on slice thickness or pitch: the higher the pitch, the less the spatial resolution. This effect is less important in a multi-slice scanner"
+        },
+        {
+          "response": "",
+          "text": "The source-to-detector distance affects unsharpness but not the spatial resolution",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "If the matrix is 512 × 512 and the field of view is 60 cm, then the spatial resolution would be 4 line pairs mm−1",
+          "answer": "True",
+          "explanation": "Spatial resolution ¼ 1/(2 x pixel size) and pixel size ¼ field of view/matrix ¼ 1/(2 x 60/512) ¼ 4.3; therefore, the spatial resolution is around 4 line pairs mm-1 "
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "stem": "Regarding image quality",
+      "options": [
+        {
+          "response": "",
+          "text": "Bone reconstruction will increase the spatial resolution and reduce the noise",
+          "answer": "False",
+          "explanation": "Bone reconstruction enhances the edges of high-contrast structures. It increases the spatial resolution at the cost of increased noise"
+        },
+        {
+          "response": "",
+          "text": "Spatial resolution depends on focal spot size",
+          "answer": "True",
+          "explanation": "See Q11"
+        },
+        {
+          "response": "",
+          "text": "The number of projections sampled in each rotation will affect the spatial resolution",
+          "answer": "True",
+          "explanation": "See Q11"
+        },
+        {
+          "response": "",
+          "text": "The higher the pitch, the better the spatial resolution",
+          "answer": "False",
+          "explanation": "See Q11"
+        },
+        {
+          "response": "",
+          "text": "Both contrast resolution and spatial resolution are better in CT than film-screen radiography",
+          "answer": "False",
+          "explanation": "CT has a better contrast resolution compared with film-screen radiography, but the spatial resolution in CT is less"
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "stem": "Regarding noise",
+      "options": [
+        {
+          "response": "",
+          "text": "It reduces the contrast resolution of small objects",
+          "answer": "True",
+          "explanation": "Noise reduces both contrast resolution of small objects and spatial resolution of low-contrast objects"
+        },
+        {
+          "response": "",
+          "text": "It reduces the spatial resolution of high-contrast objects",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "It is inversely proportional to the speed of image acquisition",
+          "answer": "False",
+          "explanation": "An increase in speed means fewer incident photons and higher noise, so it is directly proportional to the noise"
+        },
+        {
+          "response": "",
+          "text": "With a constant patient dose, a higher kV increases the noise and reduces the contrast",
+          "answer": "False",
+          "explanation": "To keep the patient dose constant, when the kV increases the mA will be reduced, but the number of photons detected would still be increased in comparison with a low kV scan and noise will consequently be reduced in relation to signal. However, a high kV reduces the contrast"
+        },
+        {
+          "response": "",
+          "text": "A larger matrix increases the noise",
+          "answer": "True",
+          "explanation": "A reduced field of view or increased matrix size ¼ smaller pixels ¼ increased noise"
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "stem": "Regarding slice thickness in CT",
+      "options": [
+        {
+          "response": "",
+          "text": "Increasing the slice width increases the noise",
+          "answer": "False",
+          "explanation": "Increasing the slice thickness reduces noise but reduces spatial resolution and increases the partial volume effect at the same time"
+        },
+        {
+          "response": "",
+          "text": "Increasing the slice thickness reduces the spatial resolution",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Reducing the slice thickness increases the partial volume effect",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The slice thickness cannot be less than the detector width",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "In single-slice CT, the pitch does not affect the noise",
+          "answer": "True",
+          "explanation": "In a single-slice scanner, the pitch does not affect the noise, but it affects spatial resolution and the partial volume effect, while in multi-slice scanners, increasing the pitch increases the noise"
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "stem": "Regarding noise and the signal-to-noise ratio (SNR) in CT",
+      "options": [
+        {
+          "response": "",
+          "text": "SNR is inversely proportional to slice width",
+          "answer": "False",
+          "explanation": "The SNR is proportional to the square root of the slice width"
+        },
+        {
+          "response": "",
+          "text": "SNR is proportional to the square root of mA and kV",
+          "answer": "False",
+          "explanation": "It is proportional only to the square root of mA"
+        },
+        {
+          "response": "",
+          "text": "The noise becomes more apparent as the window width is reduced",
+          "answer": "True",
+          "explanation": "Reduction of window width makes noise more apparent but does not change the SNR"
+        },
+        {
+          "response": "",
+          "text": "The window width does not affect SNR",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Electronic noise is produced by the reconstruction system",
+          "answer": "False",
+          "explanation": "Electronic noise is produced by the measuring system while structural noise is from the reconstruction system"
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "stem": "Which of the following are correct regarding image quality in CT?",
+      "options": [
+        {
+          "response": "",
+          "text": "Structural noise is the least significant type of noise in CT",
+          "answer": "False",
+          "explanation": "Electronic noise is the least significant type of noise in CT"
+        },
+        {
+          "response": "",
+          "text": "Narrowing the window width reveals low-contrast objects",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The cone beam effect is more significant with an increasing number of total detectors",
+          "answer": "True",
+          "explanation": "The cone beam effect is more significant with an increasing number of slices or number of total detectors"
+        },
+        {
+          "response": "",
+          "text": "3D reconstruction displays the maximum voxel values along each ray path",
+          "answer": "False",
+          "explanation": "In 3D reconstruction, instead of displaying the maximum voxel values along each ray path, the ranges of CT numbers may be displayed with varying degrees of opacity"
+        },
+        {
+          "response": "",
+          "text": "A smaller matrix size means less spatial resolution and less noise",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "stem": "Regarding artefacts in CT",
+      "options": [
+        {
+          "response": "",
+          "text": "Bands of black and white through a cross-section are secondary to motion artefacts",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "To overcome streak artefacts, a bow tie filter should be used",
+          "answer": "False",
+          "explanation": "To overcome high-attenuation (streak) artefacts, a metal correction algorithm should be used"
+        },
+        {
+          "response": "",
+          "text": "In beam hardening, the attenuation coefficient decreases at the periphery of the image",
+          "answer": "False",
+          "explanation": "In beam hardening, the low-energy photons are filtered so the attenuation coefficient and CT number decrease in the middle part of the image between high-contrast materials"
+        },
+        {
+          "response": "",
+          "text": "The cupping effect is a result of photon starvation",
+          "answer": "False",
+          "explanation": "Cupping is the effect of beam hardening"
+        },
+        {
+          "response": "",
+          "text": "Horizontal streaks across the image can be the effect of photon starvation",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "stem": "Which of the following are correct regarding image acquisition in CT?",
+      "options": [
+        {
+          "response": "",
+          "text": "Multi-slice scanners are more susceptible to ring artefacts",
+          "answer": "False",
+          "explanation": "In multi-slice scanners, a larger change in sensitivity of the detector is needed to cause ring artefacts, so it is less susceptible"
+        },
+        {
+          "response": "",
+          "text": "The cone beam effect causes blurry boundaries between high-contrast details",
+          "answer": "True",
+          "explanation": "Blurry boundaries between high-contrast details results from the cone beam effect"
+        },
+        {
+          "response": "",
+          "text": "The distance between the X-ray source and the patient will affect spatial resolution",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "All the detectors in each row in CT are of the same size",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "A 180° arc is used in cardiac CT for data collection",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "stem": "Regarding CT dosimetry",
+      "options": [
+        {
+          "response": "",
+          "text": "The CT dose index (CTDI) is dependent on filtering",
+          "answer": "True",
+          "explanation": "The CTDI depends on mA, kV and filtering, but is independent of the slice width"
+        },
+        {
+          "response": "",
+          "text": "An increase in kV does not affect the CTDI but increases the dose at a specific point, z (Dz)",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "At a constant mA, the dose is inversely proportional to pitch",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "mA affects the CTDI but not Dz (dose at point z)",
+          "answer": "False",
+          "explanation": "Dz is proportional to mA, rotation, slice width and 1/pitch"
+        },
+        {
+          "response": "",
+          "text": "If the true profile width is equal to a nominal width, CTDI is independent of the slice width",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "stem": "Regarding the CT dose index (CTDI)",
+      "options": [
+        {
+          "response": "",
+          "text": "Practically, the weighted CTDI (CTDIw) is 1/3 CTDIcentre + 2/3 CTDIaverage periphery",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The average absorbed dose is CTDIw × pitch",
+          "answer": "False",
+          "explanation": "CTDI vol ¼ CTDI w/pitch ¼ average absorbed dose within the scan volume"
+        },
+        {
+          "response": "",
+          "text": "The maximum skin dose for a CT head is equal to CTDIw",
+          "answer": "True",
+          "explanation": "Maximum skin dose is equal to CTDI w for a CT head, but it is 20% higher for a body CT"
+        },
+        {
+          "response": "",
+          "text": "CTDI is a measure of the dose from a single rotation of the gantry",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "A pencil ionization chamber is used to measure CTDI",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "stem": "Regarding dose in CT",
+      "options": [
+        {
+          "response": "",
+          "text": "In a body CT, the maximum skin dose is higher than the weighted CTDI (CTDIw)",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "CTDI is higher in a CT head than a CT body",
+          "answer": "True",
+          "explanation": "CTDI: head CT > abdo-pelvis CT > chest CT"
+        },
+        {
+          "response": "",
+          "text": "CTDI is the best indicator of dose to an individual patient",
+          "answer": "False",
+          "explanation": "CTDI measures the dose efficiency. It is mainly for comparison between different models/protocols; it does not measure the dose for individual patients"
+        },
+        {
+          "response": "",
+          "text": "The skin dose in CT is higher than in prolonged fluoroscopy",
+          "answer": "False",
+          "explanation": "Skin dose: prolonged fluoroscopy > CT > plain film"
+        },
+        {
+          "response": "",
+          "text": "CTDIvol is an approximation of the average skin dose",
+          "answer": "False",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "stem": "Regarding the dose–length product (DLP)",
+      "options": [
+        {
+          "response": "",
+          "text": "It is dependent on the number of rotations",
+          "answer": "True",
+          "explanation": "DLP depends on the number of rotations, collimation length and pitch"
+        },
+        {
+          "response": "",
+          "text": "DLP is defined as weighted CT dose index (CTDIw) × L (scan length)",
+          "answer": "False",
+          "explanation": "DLP ¼ CTDI vol x L"
+        },
+        {
+          "response": "",
+          "text": "Collimation does not affect DLP but influences the effective dose",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "DLP is usually higher for a head CT compared with an abdomen CT",
+          "answer": "True",
+          "explanation": "DLP: head CT > abdo-pelvis CT > chest CT"
+        },
+        {
+          "response": "",
+          "text": "At constant mA, DLP is directly proportional to pitch",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "stem": "Which of the following are correct regarding dose–length product (DLP), patient dose and conversion coefficient?",
+      "options": [
+        {
+          "response": "",
+          "text": "The absorbed dose can be derived from DLP",
+          "answer": "False",
+          "explanation": "The effective dose can be derived from DLP"
+        },
+        {
+          "response": "",
+          "text": "The conversion coefficient depends on the body region",
+          "answer": "True",
+          "explanation": "The conversion coefficient depends on the body region and scanner design"
+        },
+        {
+          "response": "",
+          "text": "The conversion coefficient is E (effective dose) × DLP",
+          "answer": "False",
+          "explanation": "Conversion coefficient ¼ E/DLP"
+        },
+        {
+          "response": "",
+          "text": "A high tissue weighting factor reduces the conversion coefficient",
+          "answer": "False",
+          "explanation": "A high tissue weighting factor increases the conversion coefficient: it is higher in the abdomen than in the chest and lowest in the head"
+        },
+        {
+          "response": "",
+          "text": "The scanner design affects the conversion coefficient",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "stem": "Regarding factors influencing the dose",
+      "options": [
+        {
+          "response": "",
+          "text": "At a constant mA, a high kV means a higher skin surface dose and a higher absorbed dose",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "When mA is doubled, the dose is doubled and the noise would be halved",
+          "answer": "False",
+          "explanation": "mA is in direct relation to the dose but noise is proportional to √mA, so the dose will be doubled and the noise will be √2"
+        },
+        {
+          "response": "",
+          "text": "Automated modulation of mA according to the thickness of the patient to keep the noise near constant will reduce the dose compared with the constant mA technique",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "If the voxel dimensions are halved to keep the signal-to-noise ratio (SNR) constant, the dose will increase eightfold",
+          "answer": "True",
+          "explanation": "If the pixels are halved, then the incident photon will be (1/2) 3 ; therefore, for the same signal-to-dose ratio, the dose needs to be eight times higher"
+        },
+        {
+          "response": "",
+          "text": "If the SNR is doubled, the dose would be quadrupled",
+          "answer": "True",
+          "explanation": "mA and therefore dose is proportional to (SNR) 2 ; thus, (SNR x 2)2 ¼ 4 x dose"
+        }
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "stem": "Regarding the dose in single-slice versus multi-slice scanners",
+      "options": [
+        {
+          "response": "",
+          "text": "Dose is independent of the slice width in a single-slice scanner",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "In a single-slice scanner, if mA remains constant, then the thicker the slice width, the lower the dose",
+          "answer": "False",
+          "explanation": "Slice thickness does not affect the dose if mA remains the same; it means that the noise is higher"
+        },
+        {
+          "response": "",
+          "text": "In a helical scanner, the field of view affects the dose directly",
+          "answer": "False",
+          "explanation": "Neither reconstruction nor the field of view affect the dose directly. They do influence the noise and subsequently the mA"
+        },
+        {
+          "response": "",
+          "text": "Post-patient collimation can reduce the dose in a single-slice scanner",
+          "answer": "False",
+          "explanation": "Post-patient collimation increases the patient’s dose"
+        },
+        {
+          "response": "",
+          "text": "The dose is higher in a helical compared with an axial scanner",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "stem": "The dose in a multi-slice scanner is higher than in a single-slice scanner because of",
+      "options": [
+        {
+          "response": "",
+          "text": "The length of the detector",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Overcollimation",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "A higher pitch",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "A shorter scanning time",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "A thinner slice",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "stem": "Regarding the CT dose index (CTDI)",
+      "options": [
+        {
+          "response": "",
+          "text": "CTDIvol is measured in mGy",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "For measurement of the weighted CTDI (CTDIw) for body scanning, a 16 cm diameter phantom is used",
+          "answer": "False",
+          "explanation": "A 16 cm diameter phantom is used for the head and a 32 cm diameter phantom is used for the body"
+        },
+        {
+          "response": "",
+          "text": "The EDLP (normalized effective dose) is measured in mSv mGy−1 cm",
+          "answer": "False",
+          "explanation": "E DLP is measured in mSv mGy-1 cm-1 . The effective dose is derived from E DLP x DLP"
+        },
+        {
+          "response": "",
+          "text": "The effective dose in CT can be calculated using ionizing chambers",
+          "answer": "False",
+          "explanation": "Effective doses in CT can be calculated using special computer programs. A special ionization chamber detector is used to measure CTDI"
+        },
+        {
+          "response": "",
+          "text": "If CTDIw (body) is 10 mGy per 100 mAs; for imaging 25 cm of chest with 150 mAs and a pitch of 1.25, the DLP would be 300 mGy cm",
+          "answer": "True",
+          "explanation": "DLP: CTDI w x 1/pitch x length; therefore, CTDI w for 150 mAs is 15 mGy ¼ 15 x 1/1.25 x 25 ¼ 300 mGy cm"
+        }
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "stem": "In CT, which of these statements are correct?",
+      "options": [
+        {
+          "response": "",
+          "text": "The effective dose of an abdomen and pelvis CT is nearly ten times that of an abdominal radiograph",
+          "answer": "True",
+          "explanation": "The effective dose of an abdomen and pelvis CT is 7 mSv and an abdominal radiograph is 0.6 mSv"
+        },
+        {
+          "response": "",
+          "text": "The dose in a chest CT is around 2–3 mSv",
+          "answer": "False",
+          "explanation": "The effective dose of a chest CT is around 6 mSv"
+        },
+        {
+          "response": "",
+          "text": "The lung window is a narrow window centred on a low-level CT number",
+          "answer": "False",
+          "explanation": "Lung window: width 1000, length –500. The wide window, centred on a low CT number, allows a wide range of CT numbers in the lung to be depicted. However, contrast in the soft tissues of the mediastinum and chest wall is poor"
+        },
+        {
+          "response": "",
+          "text": "Tilting the gantry in a head CT will increase the beam hardening artefacts",
+          "answer": "False",
+          "explanation": "Strategies to minimize beam hardening artefacts include: * patient positioning: for example, tilting the gantry for head scans to avoid imaging through regions of densest bone or dental fillings * iterative beam hardening corrections: these may be incorporated into the reconstruction on some scanners. From an initial reconstruction, the image is segmented to identify areas of bone. The beam hardening effects of the bone are modelled and used to pre-correct the data. This process may be repeated iteratively to produce a final image essentially free from beam hardening artefacts. However, the reconstructing time is consequently increased"
+        },
+        {
+          "response": "",
+          "text": "The most common method of avoiding photon starvation artefacts is mA modulation",
+          "answer": "True",
+          "explanation": "The most common method of avoiding photon starvation artefacts is to employ tube current modulation (or ‘mA modulation’). In many modern scanners, the tube current (mA) can be varied as the gantry rotates around the patient. A higher mA is used for the more attenuating projections and a lower mA for the less attenuating projections. The mA to be used is calculated either in advance from analysis of the scout view or during the scan via a feedback system from the detector"
+        }
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "stem": "Which of these artefacts manifest as streak artefacts?",
+      "options": [
+        {
+          "response": "",
+          "text": "Photon starvation",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Inadequate field of view",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Partial volume effect",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Cone beam effect",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Motion",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "stem": "Regarding resolution in CT",
+      "options": [
+        {
+          "response": "",
+          "text": "Quarter detector offset means the central line of the detector is offset from the centre of rotation by one-quarter of the width of the detector element",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Interleaved sampling is the effect of the quarter detector offset",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Quarter detector offset produces a more blurry image",
+          "answer": "False",
+          "explanation": "Interleaved sampling gives a finer angular spacing of projections. This helps to reduce artefacts that arise when the projections are too sparsely spaced"
+        },
+        {
+          "response": "",
+          "text": "A flying focal spot is used to improve the resolution",
+          "answer": "True",
+          "explanation": "The position of the focal spot on the anode is varied rapidly in the transaxial plane. This can be used to effectively double the number of projections sampled and will improve resolution"
+        },
+        {
+          "response": "",
+          "text": "Isotropic resolution means the resolution in the isocentre is always the same",
+          "answer": "False",
+          "explanation": "Isotropic resolution means the resolution is the same in all directions"
+        }
+      ]
+    }
+  ]
+
+}

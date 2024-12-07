@@ -1,0 +1,1088 @@
+{
+  name: "Physics MCQs for the Part 1 FRCR",
+  authors: "Shahzad Ilyas",
+  slug: "basic-physics",
+  questions: [
+    {
+      "questionNumber": 1,
+      "stem": "Which of the following statements regarding protons are correct?",
+      "options": [
+        {
+          "response": "",
+          "text": "They have a negative charge",
+          "answer": "False",
+          "explanation": "Protons have a positive charge. Electrons have a negative charge"
+        },
+        {
+          "response": "",
+          "text": "They are equal to the number of electrons in a non-ionized atom",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "They are equal to the atomic number in a non-ionized atom",
+          "answer": "True",
+          "explanation": "Protons (atomic number (Z)) þ neutrons (A – Z) ¼ mass number (A))"
+        },
+        {
+          "response": "",
+          "text": "They have no mass",
+          "answer": "False",
+          "explanation": "Both protons and neutrons have a mass. Electrons have a negligible mass"
+        },
+        {
+          "response": "",
+          "text": "They increase in number relative to neutrons, following electron capture",
+          "answer": "False",
+          "explanation": "Following electron capture the nucleus may increase its number of neutrons relative to protons by capturing an electron from the K-shell (p þ e ! n)"
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "stem": "The binding energy of electrons",
+      "options": [
+        {
+          "response": "",
+          "text": "Is the energy expended in moving an electron from an inner to an outer shell",
+          "answer": "False",
+          "explanation": "Binding energy is the energy expended in completely removing the electron from the atom, against a positive force of the nucleus"
+        },
+        {
+          "response": "",
+          "text": "Is higher for an L-shell electron than an M-shell electron",
+          "answer": "True",
+          "explanation": "The nucleus exerts a stronger pull on the inner electrons than the outer electrons"
+        },
+        {
+          "response": "",
+          "text": "Is influenced by the number of neutrons within an atom",
+          "answer": "False",
+          "explanation": "Neutrons have a charge of zero and hence do not affect the binding energy of electrons"
+        },
+        {
+          "response": "",
+          "text": "Determines Bremsstrahlung photon energy",
+          "answer": "False",
+          "explanation": "Bremsstrahlung radiation is produced from filament electrons that penetrate the K-shell and approach the nucleus. Characteristic radiation is formed when an electron shifts from an outer to an inner shell, releasing a photon with energy equal to the difference in the binding energy of the two shells"
+        },
+        {
+          "response": "",
+          "text": "Determines the energy of the photoelectron produced following photoelectric absorption",
+          "answer": "True",
+          "explanation": "In photoelectric absorption, when a photon collides with an electron from an inner shell, it ejects the electron, which is then termed a photoelectron. Kinetic energy of photoelectron (Ek for K-shell) ¼ photon energy – binding energy"
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "stem": "Which of the following are correct regarding electromagnetic radiation?",
+      "options": [
+        {
+          "response": "",
+          "text": "Gamma rays are a form of electromagnetic radiation",
+          "answer": "True",
+          "explanation": "Electromagnetic radiation is named according to how it is produced, e.g. X-rays (X-ray tube), gamma rays (radioactive nuclei)"
+        },
+        {
+          "response": "",
+          "text": "The particles have a mass equivalent to that of neutrons",
+          "answer": "False",
+          "explanation": "The different types of electromagnetic radiation differ in their properties and are made up of photons, which do not have a mass or electric charge"
+        },
+        {
+          "response": "",
+          "text": "In a vacuum, the velocity of the particles differs depending on their individual properties",
+          "answer": "False",
+          "explanation": "All forms of electromagnetic radiation travel with the velocity of light in a vacuum"
+        },
+        {
+          "response": "",
+          "text": "It results in a sinusoidal graph when magnetic field strength is plotted against time",
+          "answer": "True",
+          "explanation": "Electromagnetic radiation produces a sinusoidal graph when electric or magnetic field strength is plotted against time or distance, travelling with velocity (C). The peak field strength is called the amplitude (A)"
+        },
+        {
+          "response": "",
+          "text": "The frequency is the interval between two successive crests",
+          "answer": "False",
+          "explanation": "Frequency (f) is the number of crests passing a point in a second. The interval between successive crests is called the period"
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "stem": "Regarding electromagnetic beam radiation",
+      "options": [
+        {
+          "response": "",
+          "text": "Energy fluence is the number of photons per unit area of a beam",
+          "answer": "False",
+          "explanation": "Photon fluence is the number of photons through a cross-section of the beam (i.e. per unit area). Adding the particle energies gives the total amount of energy per unit area and is called energy fluence"
+        },
+        {
+          "response": "",
+          "text": "Beam intensity is the total amount of energy per unit area travelling per unit time",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Wavelength is inversely proportional to frequency",
+          "answer": "True",
+          "explanation": "Wavelength is the distance between crests, when field strength is plotted against distance. Frequency multiplied by wavelength equals velocity (λ x f = V)"
+        },
+        {
+          "response": "",
+          "text": "Frequency is inversely proportional to photon energy (keV)",
+          "answer": "False",
+          "explanation": "Frequency is proportional to photon energy; the content of proportionality is called Planck’s constant"
+        },
+        {
+          "response": "",
+          "text": "Photon energy is inversely proportional to wavelength",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "stem": "Concerning electromagnetic rays",
+      "options": [
+        {
+          "response": "",
+          "text": "They travel parallel to each other in a straight line",
+          "answer": "False",
+          "explanation": "Electromagnetic rays originate from a point source and diverge out, travelling in a straight line, unless attenuated"
+        },
+        {
+          "response": "",
+          "text": "Beam intensity is proportional to the square of the amplitude",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The area of the beam is proportional to the square of the distance as it travels away from a point source",
+          "answer": "True",
+          "explanation": "The inverse square law states that the intensity of radiation emitted from a point source will reduce in intensity, proportional to the square of the distance from that point, i.e. the area covered by the beam increases as the rays are diverging from a point; however, the number of photons remains the same and hence their intensity reduces"
+        },
+        {
+          "response": "",
+          "text": "Beam intensity is proportional to the square of the distance as it travels away from a point source",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The inverse square law is useful for estimating the intensity of a beam once it has passed through a copper filter",
+          "answer": "False",
+          "explanation": "Important points to remember regarding the inverse square law are: i. Radiation comes from a point source. ii. There is no absorption or scatter of radiation between source and point of measurement"
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "stem": "Which of the following statements are correct regarding an X-ray tube?",
+      "options": [
+        {
+          "response": "",
+          "text": "The tube current (mA) is increased by increasing the filament voltage",
+          "answer": "True",
+          "explanation": "The filament is heated by passing an electrical current through it, known as the tube current, which subsequently emits electrons"
+        },
+        {
+          "response": "",
+          "text": "An increase in the tube voltage (kV) leads to a proportional increase in tube current (mA)",
+          "answer": "False",
+          "explanation": "The tube voltage affects the kinetic energy of each electron (keV), not the tube current, i.e. number of electrons"
+        },
+        {
+          "response": "",
+          "text": "Electrons are generated by heating the anode, which is usually made from tungsten",
+          "answer": "False",
+          "explanation": "Electrons are released by heating the cathode filament"
+        },
+        {
+          "response": "",
+          "text": "The kinetic energy of electrons (keV) in the X-ray tube is dependent on the tube voltage (kV)",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The collision of electrons with a tungsten target mainly results in the production of X-ray radiation",
+          "answer": "False",
+          "explanation": "The collision of electrons with tungsten results mainly in the production of heat, due to interaction with outer electrons"
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "stem": "Which of the following are true regarding the production of X-ray photons when using a tungsten target?",
+      "options": [
+        {
+          "response": "",
+          "text": "The majority of X-rays emitted are a result of characteristic radiation",
+          "answer": "False",
+          "explanation": "Approximately 80% of X-rays emitted by a tube are Bremsstrahlung radiation"
+        },
+        {
+          "response": "",
+          "text": "The kinetic energy of electrons (keV) interacting with the target is equal to the kV between the anode and cathode of the X-ray tube",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Filament electrons with 90 keV can dislodge K-shell electrons in the target",
+          "answer": "True",
+          "explanation": "The kinetic energy of filament electrons needs to exceed the binding energy of K-shell electrons (70 keV for tungsten)"
+        },
+        {
+          "response": "",
+          "text": "The energy of Ka radiation is greater than Kb radiation",
+          "answer": "False",
+          "explanation": "For tungsten: Ka radiation ¼ K-shell binding energy (70 keV) – L-shell binding energy (12 keV) ¼ 58 keV. Kb radiation ¼ K-shell binding energy (70 keV) – M-shell binding energy (2 keV) ¼ 68 keV"
+        },
+        {
+          "response": "",
+          "text": "L-shell radiation makes up 25% of characteristic radiation emitted from the tube",
+          "answer": "False",
+          "explanation": "As the binding energy of L-shell electrons is equal to 12 keV, the photon energy produced when an electron from an outer shell occupies the gap is too small to leave the tube (i.e. less than 10 keV)"
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "stem": "Concerning characteristic radiation",
+      "options": [
+        {
+          "response": "",
+          "text": "It results in photons with a fixed energy, for a given material",
+          "answer": "True",
+          "explanation": "Characteristic radiation results in the end production of photons that have the same energy, constituting a line spectrum, i.e. the difference in binding energies between the two shells, which is constant for a given material"
+        },
+        {
+          "response": "",
+          "text": "It mainly involves filament electrons dislodging L-shell electrons",
+          "answer": "False",
+          "explanation": "It mainly involves filament electrons dislodging K-shell electrons"
+        },
+        {
+          "response": "",
+          "text": "Photon energy is directly proportional to the tube voltage",
+          "answer": "False",
+          "explanation": "The tube voltage and filament voltage increase the rate of production of photons, but do not influence the photon energy, which is dependent on the atomic number of the target material"
+        },
+        {
+          "response": "",
+          "text": "The rate of production of characteristic radiation is directly proportional to the filament voltage",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Atomic number influences photon energy of K-radiation",
+          "answer": "True",
+          "explanation": "An increase in atomic number results in an increase in the binding energy of electrons and hence K-radiation"
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "stem": "Concerning Bremsstrahlung radiation",
+      "options": [
+        {
+          "response": "",
+          "text": "It results mainly from filament electrons colliding with the nucleus",
+          "answer": "False",
+          "explanation": "Bremsstrahlung radiation mainly results from filament electrons penetrating the K-shell and being deflected by the nucleus, resulting in a loss of some of its energy in the form of a single photon"
+        },
+        {
+          "response": "",
+          "text": "It can result in photons that are equivalent in energy to the tube voltage",
+          "answer": "True",
+          "explanation": "Rarely, an electron can collide with the nucleus, which completely stops it, resulting in a photon with the same energy as the applied tube voltage"
+        },
+        {
+          "response": "",
+          "text": "It results in X-ray photons of the same energy, which are dependent on the target material",
+          "answer": "False",
+          "explanation": "This is true for characteristic radiation. However, Bremsstrahlung radiation produces photons with varying energies, resulting in a continuous spectrum"
+        },
+        {
+          "response": "",
+          "text": "An increase in atomic number of the target material results in an increase in the energy of photons",
+          "answer": "False",
+          "explanation": "Increasing the atomic number of the target material results in an increase in the number of photons, but does not affect the photon energy, which is dependent on the energy of the electrons (keV)"
+        },
+        {
+          "response": "",
+          "text": "A reduction in atomic number results in reduced photon production",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "stem": "Which of the following are true with regard to X-ray photon production?",
+      "options": [
+        {
+          "response": "",
+          "text": "The area of a continuous spectrum graph represents the total output of all X-ray photons emitted as a result of characteristic radiation",
+          "answer": "False",
+          "explanation": "The area of a continuous spectrum graph represents the total output of X-ray photons emitted as a result of Bremsstrahlung radiation, not characteristic radiation"
+        },
+        {
+          "response": "",
+          "text": "Increasing the tube voltage (kV) results in the continuous spectrum shifting to the right and the line spectrum increasing in height",
+          "answer": "True",
+          "explanation": "Increasing the tube voltage increases the frequency of photon production as a result of characteristic radiation; however, it does not influence photon energy, which is dependent on the target material. Photons produced by Bremsstrahlung radiation increase in both their frequency and energy (keV)"
+        },
+        {
+          "response": "",
+          "text": "One-quarter of the photons from Bremsstrahlung radiation that reach the patient are less than 20 keV",
+          "answer": "False",
+          "explanation": "Photons with an energy of less than 20 keV are absorbed by the glass tube and do not reach the patient"
+        },
+        {
+          "response": "",
+          "text": "Increasing the filament voltage causes Bremsstrahlung and characteristic radiation graphs to increase in height",
+          "answer": "True",
+          "explanation": "Increasing the filament voltage increases the number of electrons colliding with the target material causing an increase in the number of photons produced by both characteristic and Bremsstrahlung radiation"
+        },
+        {
+          "response": "",
+          "text": "Reducing the filament voltage has no effect on the maximum photon energy produced by characteristic or Bremsstrahlung radiation",
+          "answer": "True",
+          "explanation": "Filament voltage does not influence photon energy in either characteristic or Bremsstrahlung radiation"
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "stem": "Concerning the interaction of X-ray photons with matter",
+      "options": [
+        {
+          "response": "",
+          "text": "It is possible to predict the fraction of photons that will be absorbed or scattered, when passing through a given material",
+          "answer": "False",
+          "explanation": "X-ray absorption and scatter are stochastic processes"
+        },
+        {
+          "response": "",
+          "text": "Attenuation is represented by the number of photons absorbed or scattered by matter",
+          "answer": "True",
+          "explanation": "Attenuation is the total number of photons that have been removed, as a result of scatter or absorption, from the primary beam after passing through the attenuated material"
+        },
+        {
+          "response": "",
+          "text": "Scattered photons help form the primary image on the film",
+          "answer": "False",
+          "explanation": "The X-rays transmitted through the patient form the primary image, while the scattered X-rays obscure it"
+        },
+        {
+          "response": "",
+          "text": "The half-value layer (HVL) of a material is the thickness needed to reduce the number of photons in a beam by half",
+          "answer": "False",
+          "explanation": "The HVL is the thickness of a material that will reduce the intensity of a mono-energetic beam to half its value, not the number of photons"
+        },
+        {
+          "response": "",
+          "text": "The HVL is inversely proportional to the linear attenuation coefficient (LAC) of a material",
+          "answer": "True",
+          "explanation": "The LAC is the probability that a photon interacts (absorbed or scattered) per unit length it travels in a specific material. Hence, the greater the LAC, the lower the HVL of the material"
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "stem": "Concerning factors affecting absorption and scatter of X-rays",
+      "options": [
+        {
+          "response": "",
+          "text": "An increase in the density of a material results in an increase in the linear attenuation coefficient (LAC)",
+          "answer": "True",
+          "explanation": "An increase in density results in a higher probability that a photon will interact with an electron as it passes through the material"
+        },
+        {
+          "response": "",
+          "text": "Increasing the atomic number of a material increases its half-value layer (HVL)",
+          "answer": "False",
+          "explanation": "An increase in atomic number results in a higher probability that a photon will interact with an electron (photoelectric effect) as it passes through the material and hence reduces the HVL"
+        },
+        {
+          "response": "",
+          "text": "Reducing the tube voltage increases the LAC",
+          "answer": "True",
+          "explanation": "A reduction in tube voltage results in reduced photon energy, which means it is more likely to get attenuated as it passes through the material"
+        },
+        {
+          "response": "",
+          "text": "Increasing the filament voltage reduces the HVL of a material",
+          "answer": "False",
+          "explanation": "Filament voltage increases the number of photons but not photon energy"
+        },
+        {
+          "response": "",
+          "text": "A narrow beam has a higher scatter-to-transmission ratio than a wide beam",
+          "answer": "False",
+          "explanation": "A narrow beam results in a smaller amount of scatter"
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "stem": "Concerning an X-ray beam",
+      "options": [
+        {
+          "response": "",
+          "text": "It reduces in equal quantities as it passes through material of equal thickness",
+          "answer": "False",
+          "explanation": "This is only true for a mono-energetic beam. X-ray beams consist of photons with varying energies (poly-energetic)"
+        },
+        {
+          "response": "",
+          "text": "No matter how thick the material, it is not possible to completely absorb the primary X-ray beam",
+          "answer": "True",
+          "explanation": "This is known as the exponential law"
+        },
+        {
+          "response": "",
+          "text": "Beam hardening results from a reduced number of photons being removed from the primary beam",
+          "answer": "False",
+          "explanation": "Beam hardening results from the low-energy photons being attenuated proportionally more than the high-energy photons as the beam travels through a material"
+        },
+        {
+          "response": "",
+          "text": "For a heterogeneous beam, the half-value layer (HVL) increases as the beam passes through the material",
+          "answer": "True",
+          "explanation": "As a result of beam hardening the penetrating power of the beam increases, resulting in an increase in the HVL"
+        },
+        {
+          "response": "",
+          "text": "Wearing lead gloves protects the operator’s fingers from the X-ray beam",
+          "answer": "False",
+          "explanation": "Protective equipment does not provide protection against the primary beam, only the attenuated rays"
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "stem": "Which of the following are correct with regard to attenuation of X-ray photons?",
+      "options": [
+        {
+          "response": "",
+          "text": "The Compton effect refers to the interaction of X-ray photons with free electrons",
+          "answer": "True",
+          "explanation": "The Compton effect is the interaction of X-ray photons with loosely bound or free electrons"
+        },
+        {
+          "response": "",
+          "text": "Attenuation is the difference between the incident beam and the attenuated beam",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Photoelectric absorption refers to the interaction of X-ray photons with loosely bound electrons",
+          "answer": "False",
+          "explanation": "Photoelectric absorption is the interaction of X-ray photons with an inner shell or ‘bound’ electron"
+        },
+        {
+          "response": "",
+          "text": "An increase in atomic number increases the linear attenuation coefficient (LAC)",
+          "answer": "True",
+          "explanation": "An increase in atomic number results in a higher probability that a photon will interact with an electron (photoelectric effect) as it passes through the material"
+        },
+        {
+          "response": "",
+          "text": "Elastic scatter results in no loss of energy",
+          "answer": "True",
+          "explanation": "This also known as coherent scatter and occurs when the photon does not have enough energy to overcome the binding energy of an electron shell and hence ‘bounces’ off without the loss of energy"
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "stem": "Concerning Compton interaction, which of the following are correct?",
+      "options": [
+        {
+          "response": "",
+          "text": "It involves the collision of X-ray photons with any electron",
+          "answer": "False",
+          "explanation": "Compton interaction refers to the interaction of incident photons with free or loosely bound electrons only"
+        },
+        {
+          "response": "",
+          "text": "The probability that Compton attenuation will occur decreases as photon energy is increased",
+          "answer": "True",
+          "explanation": "Attenuation generally decreases with increasing photon energies. However, the rate of decrease is much higher for photoelectric than for Compton attenuation"
+        },
+        {
+          "response": "",
+          "text": "Increasing the tube voltage results in a higher proportion of side scatter",
+          "answer": "False",
+          "explanation": "Increasing the tube voltage results in increased photon energy (keV) that in turn causes less side scatter"
+        },
+        {
+          "response": "",
+          "text": "The higher the scatter angle, the greater the penetration of the recoil electrons",
+          "answer": "True",
+          "explanation": "The greater the scatter angle, the greater the energy and range of the recoil electrons"
+        },
+        {
+          "response": "",
+          "text": "An increase in the incident photon energy results in scatter photons with greater energy",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "stem": "Regarding the photoelectric effect",
+      "options": [
+        {
+          "response": "",
+          "text": "It results in the production of Bremsstrahlung radiation",
+          "answer": "False",
+          "explanation": "The photoelectric effect involves an incident photon removing a bound electron from its shell, resulting in the hole created being filled by electrons from outer shells, causing the emission of characteristic radiation"
+        },
+        {
+          "response": "",
+          "text": "It results in the production of scattered photons, the energy of which is dependent on the initial photon energy (keV)",
+          "answer": "False",
+          "explanation": "Unlike the Compton effect, the energy of the incident photon is completely absorbed after colliding with the electron and the photon disappears, resulting in no scatter photons"
+        },
+        {
+          "response": "",
+          "text": "X-rays passing through barium cause greater scatter than those passing through human tissues",
+          "answer": "True",
+          "explanation": "Barium has a higher atomic number than human tissue and therefore produces characteristic radiation as a result of the photoelectric effect, with sufficient energy to exit the patient and act as scatter"
+        },
+        {
+          "response": "",
+          "text": "Ejection of a K-shell electron by an incident photon results in the production of an Auger electron",
+          "answer": "False",
+          "explanation": "Ejection of the electron results in the production of characteristic radiation and an ejected electron (called a photoelectron)"
+        },
+        {
+          "response": "",
+          "text": "Auger electrons are produced as an indirect result of photoelectric radiation",
+          "answer": "True",
+          "explanation": "The characteristic radiation produced as a result of the photoelectric effect is absorbed almost immediately in material with a low atomic number, resulting in the ejection of a further low-energy electron (Auger electron)"
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "stem": "Concerning factors influencing attenuation",
+      "options": [
+        {
+          "response": "",
+          "text": "In material with a low atomic number, the photoelectric effect results in complete absorption",
+          "answer": "True",
+          "explanation": "Characteristic radiation produced as a result of the photoelectric effect, in material with a low atomic number, has low photon energy and is absorbed almost immediately by the material"
+        },
+        {
+          "response": "",
+          "text": "The energy of the incident photon must be greater than the binding energy of the electron in photoelectric absorption",
+          "answer": "True",
+          "explanation": "Incident photon energy must be greater than the binding energy of the electron to eject it from its shell"
+        },
+        {
+          "response": "",
+          "text": "An increase in the incident photon energy results in recoil electrons with lower penetration",
+          "answer": "False",
+          "explanation": "An increase in photon energy results in recoil electrons with higher energy and penetration"
+        },
+        {
+          "response": "",
+          "text": "Reducing the tube voltage (kV) results in less scatter reaching the film",
+          "answer": "True",
+          "explanation": "Reducing the tube voltage causes a reduction in photon energy, having a two-fold effect: i. There is more sideways scatter and less forward scatter towards the film ii. The scatter rays are less penetrating"
+        },
+        {
+          "response": "",
+          "text": "The kinetic energy of the photoelectron ejected as a result of the photoelectric effect is not dependent on the atomic number of the material",
+          "answer": "False",
+          "explanation": "The energy of the incident photon, in the photoelectric effect, is taken up in removing the electron (binding energy) and the rest becomes the kinetic energy of that electron. Kinetic energy of photoelectron ¼ photon energy – binding energy (Ek or EL). Hence, a higher atomic number results in a higher binding energy and therefore a photoelectron with a lower energy"
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "stem": "Which of the following are true regarding the linear attenuation coefficient (LAC)?",
+      "options": [
+        {
+          "response": "",
+          "text": "The photoelectric LAC is directly proportional to photon energy",
+          "answer": "False",
+          "explanation": "The probability that photoelectric absorption will occur decreases as the photon energy is reduced"
+        },
+        {
+          "response": "",
+          "text": "The total LAC is dependent on the physical density of the material",
+          "answer": "True",
+          "explanation": "Total LAC ¼ Compton LAC þ photoelectric LAC. The density of the material influences both types of attenuation"
+        },
+        {
+          "response": "",
+          "text": "The Compton LAC is dependent on atomic number",
+          "answer": "False",
+          "explanation": "It is independent of the atomic number as it only involves interaction with free electrons"
+        },
+        {
+          "response": "",
+          "text": "The photoelectric LAC increases as the atomic number increases",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The Compton LAC is dependent on the electron density",
+          "answer": "True",
+          "explanation": "The probability that the Compton effect will occur is proportional to the physical density of the material, as well as to the electron density"
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "stem": "Concerning absorption edges",
+      "options": [
+        {
+          "response": "",
+          "text": "K-edge binding energy is lower than L-edge binding energy",
+          "answer": "True",
+          "explanation": "99mTc decays primarily by isomeric transition, emitting a 140 keV gamma ray"
+        },
+        {
+          "response": "",
+          "text": "Between the K-shell and L-shell, the increase in photoelectric attenuation is proportional to the photon energy",
+          "answer": "True",
+          "explanation": "201Tl has a higher energy gamma emission, leading to increased patient dose"
+        },
+        {
+          "response": "",
+          "text": "For tungsten, the K-shell binding energy (Ek) is equal to 74 keV",
+          "answer": "True",
+          "explanation": "A higher energy gamma ray can penetrate tissues better, reducing scatter and improving image quality, while minimizing patient dose"
+        },
+        {
+          "response": "",
+          "text": "There is a sudden increase in attenuation when photon energy reaches L-shell binding energy (EL)",
+          "answer": "True",
+          "explanation": "Different 99mTc radiopharmaceuticals have varying biological distributions and clearance rates"
+        },
+        {
+          "response": "",
+          "text": "When choosing a filter, it is important to make sure that the peak of the X-ray spectrum lies on the high-energy side of its absorption edge",
+          "answer": "True",
+          "explanation": "Encouraging fluid intake helps to accelerate the clearance of radionuclides from the body, reducing radiation exposure"
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "stem": "Which of the following are true with regard to materials and attenuation?",
+      "options": [
+        {
+          "response": "",
+          "text": "Following the Compton effect, the wavelength change of the X-ray photon depends on the atomic number of the material",
+          "answer": "False",
+          "explanation": "The wavelength change in Compton scattering depends on the scattering angle, not the atomic number of the material"
+        },
+        {
+          "response": "",
+          "text": "Photoelectric absorption is the predominating mode of interaction in modalities using high-energy photons",
+          "answer": "False",
+          "explanation": "Photoelectric absorption dominates at lower energies, typically below 100 keV"
+        },
+        {
+          "response": "",
+          "text": "The Compton effect is the predominating mode of interaction in soft tissues",
+          "answer": "True",
+          "explanation": "Compton scattering is the predominant interaction in soft tissues, especially at diagnostic X-ray energies"
+        },
+        {
+          "response": "",
+          "text": "Photoelectric absorption is the predominating mode of interaction in air",
+          "answer": "False",
+          "explanation": "Photoelectric absorption is less likely in low-density materials like air"
+        },
+        {
+          "response": "",
+          "text": "The Compton effect is the predominating mode of interaction in contrast medium",
+          "answer": "True",
+          "explanation": "Contrast agents increase the likelihood of photoelectric absorption, leading to increased attenuation"
+        }
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "stem": "Regarding secondary electrons",
+      "options": [
+        {
+          "response": "",
+          "text": "Positrons are negatively charged electrons that result from radioactive decay",
+          "answer": "False",
+          "explanation": "Positrons are positively charged antiparticles of electrons"
+        },
+        {
+          "response": "",
+          "text": "Beta particles can ionize atoms",
+          "answer": "True",
+          "explanation": "Beta particles, being high-energy electrons, can ionize atoms through collisions"
+        },
+        {
+          "response": "",
+          "text": "The collision of two positrons results in two gamma photons, each with 511 keV",
+          "answer": "True",
+          "explanation": "When a positron and an electron annihilate, they produce two 511 keV gamma photons traveling in opposite directions"
+        },
+        {
+          "response": "",
+          "text": "The range of the secondary electron is inversely proportional to the material density",
+          "answer": "True",
+          "explanation": "The range of a secondary electron is inversely proportional to the density of the medium it travels through"
+        },
+        {
+          "response": "",
+          "text": "Secondary electrons result in biological damage of tissues",
+          "answer": "True",
+          "explanation": "Secondary electrons, through ionization and excitation, can cause biological damage to tissues"
+        }
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "stem": "Which of the following are true with regard to filtration?",
+      "options": [
+        {
+          "response": "",
+          "text": "The aim of filtration is to make the beam intensity more uniform by removing the very high-energy rays",
+          "answer": "False",
+          "explanation": "Filtration primarily removes low-energy photons, making the beam more penetrating"
+        },
+        {
+          "response": "",
+          "text": "The tube housing acts as a valuable filter",
+          "answer": "True",
+          "explanation": "The tube housing itself acts as a filter, absorbing low-energy X-rays"
+        },
+        {
+          "response": "",
+          "text": "The predominant attenuation process in a filter should be photoelectric absorption",
+          "answer": "True",
+          "explanation": "Photoelectric absorption is desirable in filters to remove low-energy photons"
+        },
+        {
+          "response": "",
+          "text": "At 80 kV, the half-value layer (HVL) of a beam with 2.5 mm Al filtration is typically measured as 2–3 mm Al",
+          "answer": "True",
+          "explanation": "The HVL is a measure of beam quality and is influenced by filtration"
+        },
+        {
+          "response": "",
+          "text": "The thickness of copper required to reduce the intensity of an X-ray beam by a factor of 2 is greater than the required thickness of aluminium needed to have the same effect",
+          "answer": "True",
+          "explanation": "Copper is denser than aluminum, so a thinner layer of copper is needed to achieve the same level of attenuation as a thicker layer of aluminum"
+        }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "stem": "Concerning the effects of filtration",
+      "options": [
+        {
+          "response": "",
+          "text": "It increases the intensity of the beam",
+          "answer": "False",
+          "explanation": "Filtration reduces the intensity by removing low-energy photons"
+        },
+        {
+          "response": "",
+          "text": "It increases the half-value layer (HVL) of the beam",
+          "answer": "True",
+          "explanation": "Filtration increases the average energy of the beam, leading to a higher HVL"
+        },
+        {
+          "response": "",
+          "text": "It reduces the peak photon energy",
+          "answer": "False",
+          "explanation": "Filtration does not change the peak photon energy"
+        },
+        {
+          "response": "",
+          "text": "It reduces the effective photon energy",
+          "answer": "True",
+          "explanation": "Filtration increases the effective energy of the beam"
+        },
+        {
+          "response": "",
+          "text": "It increases skin exit/entry dose ratio",
+          "answer": "False",
+          "explanation": "Filtration reduces skin dose by removing low-energy photons"
+        }
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "stem": "Decreasing the tube voltage (kV) results in which of the following?",
+      "options": [
+        {
+          "response": "",
+          "text": "It reduces the number of electrons colliding with the target",
+          "answer": "True",
+          "explanation": "Lower kV reduces the energy of electrons striking the target"
+        },
+        {
+          "response": "",
+          "text": "It reduces the photon fluence",
+          "answer": "True",
+          "explanation": "Fewer high-energy photons are produced at lower kV"
+        },
+        {
+          "response": "",
+          "text": "It reduces the beam intensity",
+          "answer": "True",
+          "explanation": "Reduced photon production leads to lower beam intensity"
+        },
+        {
+          "response": "",
+          "text": "It results in the increase of the half-value layer (HVL) for a given material",
+          "answer": "False",
+          "explanation": "Lower kV typically results in a lower HVL"
+        },
+        {
+          "response": "",
+          "text": "The rate of photoelectric attenuation increases more than the rate of Compton attenuation",
+          "answer": "True",
+          "explanation": "Photoelectric absorption increases more rapidly with decreasing energy compared to Compton scattering"
+        }
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "stem": "Which of the following increase X-ray beam intensity at a given point from a source?",
+      "options": [
+        {
+          "response": "",
+          "text": "Increasing the filter thickness",
+          "answer": "False",
+          "explanation": "Increasing filtration reduces beam intensity"
+        },
+        {
+          "response": "",
+          "text": "Increasing the tube current",
+          "answer": "True",
+          "explanation": "Higher tube current increases the number of electrons, leading to more X-ray production"
+        },
+        {
+          "response": "",
+          "text": "Increasing the distance",
+          "answer": "False",
+          "explanation": "Increasing distance reduces beam intensity due to inverse square law"
+        },
+        {
+          "response": "",
+          "text": "Increasing the tube voltage",
+          "answer": "True",
+          "explanation": "Higher kV increases the energy of electrons and produces more X-rays"
+        },
+        {
+          "response": "",
+          "text": "Reducing the atomic number of the target material",
+          "answer": "False",
+          "explanation": "Higher atomic number targets produce more X-rays"
+        }
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "stem": "Regarding the atom, which of the following are true?",
+      "options": [
+        {
+          "response": "",
+          "text": "The mass number is equal to the number of nucleons",
+          "answer": "True",
+          "explanation": "The mass number is the sum of protons and neutrons"
+        },
+        {
+          "response": "",
+          "text": "Positrons are found within the nucleus",
+          "answer": "False",
+          "explanation": "Positrons are particles emitted during certain radioactive decays"
+        },
+        {
+          "response": "",
+          "text": "The inner shell influences the chemical properties of an atom",
+          "answer": "False",
+          "explanation": "Inner shells affect nuclear stability, not chemical properties"
+        },
+        {
+          "response": "",
+          "text": "The outermost shell with electrons is known as the valence shell",
+          "answer": "True",
+          "explanation": "The valence shell determines an atom's chemical reactivity"
+        },
+        {
+          "response": "",
+          "text": "Radioactivity is dependent on the nucleus",
+          "answer": "True",
+          "explanation": "Radioactivity is a nuclear phenomenon, related to the instability of certain nuclei"
+        }
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "stem": "Which of the following are correct with regard to X-ray production?",
+      "options": [
+        {
+          "response": "",
+          "text": "Increasing the tube voltage increases the heat production at the target",
+          "answer": "True",
+          "explanation": "Increasing the tube voltage increases the kinetic energy of the electrons, leading to increased heat production at the target"
+        },
+        {
+          "response": "",
+          "text": "Reducing the actual focal spot reduces the heat load on the target",
+          "answer": "True",
+          "explanation": "Reducing the actual focal spot size reduces the area of the target bombarded by electrons, thereby reducing the heat load"
+        },
+        {
+          "response": "",
+          "text": "Increasing the target angle increases the target heat rating for a given effective spot size",
+          "answer": "True",
+          "explanation": "Increasing the target angle spreads the electron beam over a larger area of the target, increasing the heat dissipation capacity"
+        },
+        {
+          "response": "",
+          "text": "Increasing the target angle increases the effective focal spot",
+          "answer": "False",
+          "explanation": "Increasing the target angle decreases the effective focal spot size, not increases it"
+        },
+        {
+          "response": "",
+          "text": "A rotating anode can take a higher heat load than a stationary anode",
+          "answer": "True",
+          "explanation": "A rotating anode distributes heat over a larger area, allowing it to dissipate heat more efficiently and handle higher heat loads"
+        }
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "stem": "The nucleons in an atom",
+      "options": [
+        {
+          "response": "",
+          "text": "Reduce following beta-positive (bþ) decay",
+          "answer": "False",
+          "explanation": "Beta-positive decay results in a decrease in the number of protons, not nucleons"
+        },
+        {
+          "response": "",
+          "text": "Are equal to the atomic number",
+          "answer": "False",
+          "explanation": "The number of nucleons (protons + neutrons) is equal to the mass number, not the atomic number"
+        },
+        {
+          "response": "",
+          "text": "Are equal to the difference between mass number and the number of protons",
+          "answer": "True",
+          "explanation": "Nucleons = Mass number - Number of protons"
+        },
+        {
+          "response": "",
+          "text": "May have a negative charge",
+          "answer": "False",
+          "explanation": "Nucleons are protons and neutrons, which are both positively charged or neutral. They do not have a negative charge"
+        },
+        {
+          "response": "",
+          "text": "Affect the binding energy of electrons",
+          "answer": "False",
+          "explanation": "Nucleons affect the nuclear forces and stability, but they do not directly affect the binding energy of electrons"
+        }
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "stem": "Regarding photons",
+      "options": [
+        {
+          "response": "",
+          "text": "X-ray photons are produced following K-electron capture",
+          "answer": "True",
+          "explanation": "X-rays are produced when an electron transitions from a higher energy level to a lower energy level, which can occur during K-electron capture"
+        },
+        {
+          "response": "",
+          "text": "Collision of a positron with a negative beta particle results in the production of gamma photons",
+          "answer": "True",
+          "explanation": "When a positron and an electron annihilate, they produce two gamma photons traveling in opposite directions"
+        },
+        {
+          "response": "",
+          "text": "X-ray photons are produced following photoelectric absorption",
+          "answer": "False",
+          "explanation": "Photoelectric absorption results in the complete absorption of the photon's energy by an atom, not the production of X-rays"
+        },
+        {
+          "response": "",
+          "text": "They can be scattered only sideways or backwards following Compton attenuation",
+          "answer": "False",
+          "explanation": "Compton scattering can result in photons being scattered at any angle, not just sideways or backwards"
+        },
+        {
+          "response": "",
+          "text": "They have a mass",
+          "answer": "False",
+          "explanation": "Photons are massless particles of electromagnetic radiation"
+        }
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "stem": "Regarding radioactivity",
+      "options": [
+        {
+          "response": "",
+          "text": "Decay of radionuclides with a neutron excess produces a daughter nucleus with a higher atomic number",
+          "answer": "False",
+          "explanation": "Beta-minus decay, not beta-positive decay, results in a daughter nucleus with a higher atomic number"
+        },
+        {
+          "response": "",
+          "text": "The rate of decay can be increased by heating the radionuclide",
+          "answer": "False",
+          "explanation": "The rate of decay of a radionuclide is a fixed property and cannot be increased by heating"
+        },
+        {
+          "response": "",
+          "text": "Isomers have the same half-life",
+          "answer": "False",
+          "explanation": "Isomers have different energy states and different half-lives"
+        },
+        {
+          "response": "",
+          "text": "Decay of radionuclides with a neutron deficit produces a daughter nucleus with a lower atomic number",
+          "answer": "True",
+          "explanation": "Beta-positive decay results in a decrease in the number of protons, leading to a daughter nucleus with a lower atomic number"
+        },
+        {
+          "response": "",
+          "text": "Positron annihilation results in energy being converted to mass",
+          "answer": "False",
+          "explanation": "Positron annihilation results in the conversion of mass (the mass of the positron and electron) into energy, in the form of two gamma photons"
+        }
+      ]
+    }
+  ]
+
+}

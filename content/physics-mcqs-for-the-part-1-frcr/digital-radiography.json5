@@ -1,0 +1,1477 @@
+{
+  name: "Physics MCQs for the Part 1 FRCR",
+  authors: "Shahzad Ilyas",
+  slug: "digital-radiography",
+  questions: [
+    {
+      "questionNumber": 1,
+      "stem": "Concerning a digital radiography system",
+      "options": [
+        {
+          "response": "",
+          "text": "An early step in image acquisition is conversion of data from an analogue to digital format",
+          "answer": "True",
+          "explanation": "The image from the detector is converted by the analogue-to-digital converter (ADC) into a digital format before being transferred to the computer system"
+        },
+        {
+          "response": "",
+          "text": "The size of the image detector is not important, as the final image may be manipulated electronically",
+          "answer": "False",
+          "explanation": "Unlike film-screen radiography where the size of the film can be changed depending on the examination, the detector in digital radiography must be large enough to cover the range of examinations that will be performed on the same system"
+        },
+        {
+          "response": "",
+          "text": "Detector sensitivity must be high",
+          "answer": "True",
+          "explanation": "This is to ensure that minimal doses are required"
+        },
+        {
+          "response": "",
+          "text": "Pixel size influences image resolution",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Noise is less significant than with film-screen radiography",
+          "answer": "False",
+          "explanation": "Noise occurs in all imaging systems and contributes to the final image quality"
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "stem": "The requirements of a digital radiography system are",
+      "options": [
+        {
+          "response": "",
+          "text": "Good X-ray sensitivity",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "A small field size",
+          "answer": "False",
+          "explanation": "A large field size is required"
+        },
+        {
+          "response": "",
+          "text": "A digital-to-analogue converter (DAC)",
+          "answer": "False",
+          "explanation": "As the image display is usually in a digital format (such as a liquid crystal display (LCD)), conversion back to an analogue signal is not required"
+        },
+        {
+          "response": "",
+          "text": "A narrow dynamic range",
+          "answer": "False",
+          "explanation": "A wide dynamic range is required to cover the range of exposures that will be necessary when performing a range of different examinations"
+        },
+        {
+          "response": "",
+          "text": "A locally based archive",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "stem": "Concerning the digital radiographic image",
+      "options": [
+        {
+          "response": "",
+          "text": "It is represented numerically in digital form",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The image is divided into a matrix consisting of multiple pixels",
+          "answer": "True",
+          "explanation": "A pixel has an assigned value, which represents the signal intensity within the corresponding part of the image. The matrix size refers to the total number of pixels"
+        },
+        {
+          "response": "",
+          "text": "The greater the sampling frequency, the greater the spatial resolution",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Decreasing the detector sampling frequency may reduce detector sensitivity",
+          "answer": "False",
+          "explanation": "Increasing the detector sampling frequency will reduce sensitivity. This is due to a decrease in the relative proportion of the pixel that is sensitive to image detection (known as the ‘fill factor’)"
+        },
+        {
+          "response": "",
+          "text": "The image may be read out directly from the detector electronically",
+          "answer": "True",
+          "explanation": "In solid-state designs of detector, the micro-circuitry may be integrated with the X-ray absorption layer"
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "stem": "Concerning the digital radiographic image",
+      "options": [
+        {
+          "response": "",
+          "text": "Signal digitization expresses the image as continuous grey-scale values",
+          "answer": "False",
+          "explanation": "They are expressed as discrete grey-scale values. It is the analogue input that is continuous"
+        },
+        {
+          "response": "",
+          "text": "The function of the analogue-to-digital converter (ADC) is to digitize the input while maintaining resolution of the information",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "A binary system is used for signal digitization",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Eight bits is typically sufficient for most images",
+          "answer": "False",
+          "explanation": "Eight bits may be sufficient for images with high noise (e.g. radionuclide imaging), but for imaging requiring greater resolution, 12 bits or more are required"
+        },
+        {
+          "response": "",
+          "text": "Data compression for storage may lead to loss of data",
+          "answer": "True",
+          "explanation": "Greater compression can lead to loss of data (using ‘irreversible algorithms’)"
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "stem": "The number of bytes of a digital image is dependent upon",
+      "options": [
+        {
+          "response": "",
+          "text": "The number of pixels within the image",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Pixel size, assuming matrix size is constant",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The magnification of the image",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The bit size per pixel",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The sampling frequency, assuming receptor size is constant",
+          "answer": "True",
+          "explanation": "Data content increases due to an increase in matrix size"
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "stem": "Concerning image acquisition in computed radiography",
+      "options": [
+        {
+          "response": "",
+          "text": "It depends on fluorescence within the X-ray screen",
+          "answer": "False",
+          "explanation": "It depends on photo-stimulated phosphorescence. Fluorescence describes the emission of light immediately after the phosphor is exposed to X-rays, while phosphorescence describes delayed emission, which is the property exploited in computed radiography"
+        },
+        {
+          "response": "",
+          "text": "An image plate is used",
+          "answer": "True",
+          "explanation": "This is the name for the screen comprising barium fluorohalide crystals (halogen elements of bromine, iodine and chlorine) with europium ions, which are usually embedded in a light-reflective layer"
+        },
+        {
+          "response": "",
+          "text": "The equipment chosen will depend on the degree of resolution required",
+          "answer": "True",
+          "explanation": "High-resolution image plates are designed with a thinner layer of phosphor crystals without a light-reflective layer. The compromise with these plates is that they will require a higher dose to obtain an adequate image"
+        },
+        {
+          "response": "",
+          "text": "The latent image is stored by electrons located within the valence bands of the phosphor",
+          "answer": "False",
+          "explanation": "Electrons located in ‘electron traps’ within the phosphor store the latent image. These represent energy levels, which differ from those in which the electrons usually exist (the valence bands) prior to irradiation"
+        },
+        {
+          "response": "",
+          "text": "It requires electrons to return to their resting state for the image to be obtained",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "stem": "Concerning the computed radiography image plate",
+      "options": [
+        {
+          "response": "",
+          "text": "A laser input is required to erase residual signal from the image plate",
+          "answer": "False",
+          "explanation": "The laser provides energy in the form of red light to allow electrons to return to the conduction band within the phosphor resulting in the emission of energy (in the form of blue light). It is this light that is then detected and converted into a signal"
+        },
+        {
+          "response": "",
+          "text": "It reduces the generation of scatter",
+          "answer": "False",
+          "explanation": "The method in which the image is acquired does not affect the generation of scatter"
+        },
+        {
+          "response": "",
+          "text": "It may be used for tomography",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Unprocessed image plates will retain the latent image",
+          "answer": "True",
+          "explanation": "However, the image will decay over time if unprocessed, as the excited electrons return to their resting state"
+        },
+        {
+          "response": "",
+          "text": "It has a narrow dynamic range",
+          "answer": "False",
+          "explanation": "The plates are able to record a much greater range of photon intensity than is possible with film-screen radiography"
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "stem": "Concerning signal processing with computed radiography",
+      "options": [
+        {
+          "response": "",
+          "text": "The signal-to-dose relationship differs from that of film-screen radiography",
+          "answer": "True",
+          "explanation": "The relationship differs from the characteristic curve of conventional radiography. Essentially, the response demonstrates wide latitude"
+        },
+        {
+          "response": "",
+          "text": "Contrast within the final computed radiography image may be greater than is achievable with film-screen radiography",
+          "answer": "True",
+          "explanation": "Even though the computed radiography response demonstrates wide latitude, post-processing of the data may allow better contrast to be seen within the image. This may include rejection of signals outside the useful range and edge enhancement"
+        },
+        {
+          "response": "",
+          "text": "It demonstrates better spatial resolution than film-screen radiography",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Increasing pixel size improves resolution",
+          "answer": "False",
+          "explanation": "The opposite is true"
+        },
+        {
+          "response": "",
+          "text": "Image plate processing does not affect resolution",
+          "answer": "False",
+          "explanation": "The laser light, which is used for processing of the latent image, may be spread out over the phosphor, increasing the area over which light is emitted. This effect is increased with increasing size of the phosphor crystals. The diameter of the laser beam also affects resolution"
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "stem": "Concerning the modulation transfer function (MTF)",
+      "options": [
+        {
+          "response": "",
+          "text": "The MTF relates to the ability of the digital imaging system to demonstrate spatial resolution within the final image",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The lower the MTF, the greater the spatial resolution demonstrated",
+          "answer": "False",
+          "explanation": "The greater the MTF, the greater the spatial resolution demonstrated. The MTF is a ratio of the output and input modulation of the signal, and generally decreases as the frequency of the signal increases, i.e. as the MTF approaches zero, then this will be the maximum spatial frequency of that particular system (limiting spatial resolution)"
+        },
+        {
+          "response": "",
+          "text": "The MTF of a detail film-screen system is greater at higher spatial frequencies than for a computed radiography system",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The typical limiting spatial resolution of a computed radiography system is 5 line pairs mm 1",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "High-resolution computed radiography systems may achieve an MTF of 1.5",
+          "answer": "False",
+          "explanation": "As the MTF is a ratio of output:input, its maximum value can never be greater than 1"
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "stem": "Concerning artefacts in computed radiography",
+      "options": [
+        {
+          "response": "",
+          "text": "A ghost image refers to inadequate exposure of the image plate",
+          "answer": "False",
+          "explanation": "This is when the image plate has been incompletely erased since the previous exposure"
+        },
+        {
+          "response": "",
+          "text": "Artefacts from stationary grids do not occur",
+          "answer": "False",
+          "explanation": "Grids may be used in computed radiography as in film-screen radiography with the same effect on resultant image quality"
+        },
+        {
+          "response": "",
+          "text": "Artefacts may be related to incorrect imaging processing techniques",
+          "answer": "True",
+          "explanation": "For example, applying incorrect parameters involved in analysis of the intensity values to produce a specific gradation curve for a particular image"
+        },
+        {
+          "response": "",
+          "text": "Laser-stimulated emission may be contributory",
+          "answer": "True",
+          "explanation": "This may produce excessive shading across the image if not functioning correctly"
+        },
+        {
+          "response": "",
+          "text": "Repeat exposures are not required for artefact correction",
+          "answer": "False",
+          "explanation": "If the problem is related to a faulty image plate, then data processing techniques will not be able to improve the diagnostic quality of the final image if the artefact is significant"
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "stem": "Concerning noise in computed radiography",
+      "options": [
+        {
+          "response": "",
+          "text": "It has a similar effect on image quality as in film-screen radiography",
+          "answer": "True",
+          "explanation": "Whatever the image acquisition technique (image plate or film), the presence of noise will reduce the ability to delineate areas of low contrast within the final image"
+        },
+        {
+          "response": "",
+          "text": "It is unrelated to the type of image plate used",
+          "answer": "False",
+          "explanation": "Noise is partly related to the efficiency of X-ray absorption by the image plate. A greater absorption efficiency will result in a better signal-to-noise ratio (SNR)"
+        },
+        {
+          "response": "",
+          "text": "It is unrelated to the patient dose",
+          "answer": "False",
+          "explanation": "As with film-screen radiography, increasing the dose and the quantity of incident radiation will increase the SNR within the overall image"
+        },
+        {
+          "response": "",
+          "text": "Edge enhancement increases noise",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "It may be reduced by low-pass spatial filtering",
+          "answer": "True",
+          "explanation": "Neighbouring pixels with varying grey-scale values outside a particular range can be suppressed, resulting in an averaging of values and a smoothing out of the final image"
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "stem": "Concerning computed radiography image acquisition",
+      "options": [
+        {
+          "response": "",
+          "text": "The detective quantum efficiency (DQE) is a measure of how efficiently the detector records information within the X-ray beam",
+          "answer": "True",
+          "explanation": "It is calculated as a ratio of the output signal-to-noise ratio (SNR) to the input SNR. The more efficient the system at recording this information, the greater the DQE"
+        },
+        {
+          "response": "",
+          "text": "The DQE for some computed radiography systems approaches 1",
+          "answer": "False",
+          "explanation": "The ratio is in the region of 0.4. A value of 1 implies that 100% of the X-ray information is recorded"
+        },
+        {
+          "response": "",
+          "text": "The greater the resolution of the image plate, the greater the DQE",
+          "answer": "False",
+          "explanation": "The opposite is true. Image plates of greater resolution will have a lower X-ray absorption efficiency due to a thinner phosphor layer and the absence of a light-reflective layer"
+        },
+        {
+          "response": "",
+          "text": "The DQE is increased with dual-read image plates",
+          "answer": "True",
+          "explanation": "This allows laser-stimulated emission to occur simultaneously with summation of the output, increasing sensitivity"
+        },
+        {
+          "response": "",
+          "text": "Improved DQE can lead to a reduction in patient dose",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "stem": "Concerning the exposure index in computed radiography",
+      "options": [
+        {
+          "response": "",
+          "text": "The exposure index is a measure of the dose incident on the image plate",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The exposure index varies among different manufacturers",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Doubling the dose doubles the resulting exposure index",
+          "answer": "False",
+          "explanation": "Different manufacturers of computed radiography systems will have different formulas for calculating the exposure index, and the relationship is not linear"
+        },
+        {
+          "response": "",
+          "text": "Knowledge of typical exposure indices can help identify overexposures",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The exposure index depends solely on the dose given",
+          "answer": "False",
+          "explanation": "It is also related to the X-ray beam energy including filtration, the degree of scatter and the nature of the examination performed"
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "stem": "Concerning flat-panel digital radiography",
+      "options": [
+        {
+          "response": "",
+          "text": "It is still dependent on separate exposure and readout stages",
+          "answer": "False",
+          "explanation": "This is one of the main advantages of digital radiography"
+        },
+        {
+          "response": "",
+          "text": "It requires the use of a silicon-based transistor",
+          "answer": "True",
+          "explanation": "An amorphous silicon-based thin film transistor is used"
+        },
+        {
+          "response": "",
+          "text": "Indirect conversion digital receptors are dependent on a scintillator for image acquisition",
+          "answer": "True",
+          "explanation": "This is typically caesium iodide"
+        },
+        {
+          "response": "",
+          "text": "The X-ray absorption efficiency of indirect digital receptors is less than with computed radiography",
+          "answer": "False",
+          "explanation": "It is greater"
+        },
+        {
+          "response": "",
+          "text": "An indirect conversion digital receptor is dependent on the conversion of light into electrical charge",
+          "answer": "True",
+          "explanation": "Light from the scintillator is detected by a photodiode (one per pixel), which produces electrical charge. The charge is then stored within a capacitor. The thin-film transistor is then able to convert this charge into an electrical signal, which is then digitized into the image"
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "stem": "Concerning indirect conversion digital radiography",
+      "options": [
+        {
+          "response": "",
+          "text": "It typically uses a fixed-size detector",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "It has a digital quantum efficiency (DQE) greater than that with computed radiography image plates",
+          "answer": "True",
+          "explanation": "The DQE is 0.6 versus 0.4"
+        },
+        {
+          "response": "",
+          "text": "It typically has a radiographic speed of less than 400",
+          "answer": "False",
+          "explanation": "The high speed relates to the amplification of the signal by the scintillator and the conversion gain by the photodiode"
+        },
+        {
+          "response": "",
+          "text": "It differs from direct conversion detectors due to the use of an X-ray scintillator",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "It has a resolution of approximately 3–4 line pairs mm 1",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "stem": "Concerning the construction of direct conversion detectors",
+      "options": [
+        {
+          "response": "",
+          "text": "The photoconductor produces electrical charge when irradiated",
+          "answer": "True",
+          "explanation": "The commonly used photoconductor is amorphous selenium"
+        },
+        {
+          "response": "",
+          "text": "It is still dependent on a silicon-based transistor",
+          "answer": "True",
+          "explanation": "The photoconductor is usually bound to the amorphous silicon transistor array"
+        },
+        {
+          "response": "",
+          "text": "A potential difference is applied across the photoconductor to increase the charge formed per X-ray photon",
+          "answer": "False",
+          "explanation": "Electrodes are placed across the photoconductor, which draws the released electrons and positively charged holes to the anode and cathode, respectively. The potential does not affect the absorption of the X-ray or the charge formed per photon"
+        },
+        {
+          "response": "",
+          "text": "The signal for image formation is carried by the negative charge (electrons)",
+          "answer": "False",
+          "explanation": "It is the positively charged holes that accumulate in the storage capacitors associated with each pixel. It is this charge that then forms the latent image by being digitized and transferred to the computer system"
+        },
+        {
+          "response": "",
+          "text": "It is designed to be compatible with more than one radiographic machine",
+          "answer": "False",
+          "explanation": "This is one of the main disadvantages"
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "stem": "Which of the following are true regarding the differences between indirect and direct conversion detectors?",
+      "options": [
+        {
+          "response": "",
+          "text": "The detective quantum efficiency (DQE) of direct conversion detectors is greater than that of indirect conversion detectors",
+          "answer": "False",
+          "explanation": "The DQE of indirect conversion is greater"
+        },
+        {
+          "response": "",
+          "text": "The difference in DQE is due to the difference in the K-edges of caesium iodide and selenium",
+          "answer": "True",
+          "explanation": "The K-edge of selenium is only 13 keV, which is less than the mean photon energy range used in general radiography. Much less of the incident X-ray beam will therefore be absorbed than with caesium iodide, which has K-edges of 36 keV and 33 keV"
+        },
+        {
+          "response": "",
+          "text": "Lower patient doses are possible with direct than with indirect conversion detectors",
+          "answer": "False",
+          "explanation": "For the reasons mentioned in (b), the opposite is true. To achieve the same image quality, a higher patient dose is required with direct detectors"
+        },
+        {
+          "response": "",
+          "text": "For the same patient dose, a greater signal-to-noise ratio is possible with indirect than with direct detectors",
+          "answer": "True",
+          "explanation": "Again, this is related to differences in the DQE"
+        },
+        {
+          "response": "",
+          "text": "Spatial resolution is greater with direct than indirect conversion detectors",
+          "answer": "True",
+          "explanation": "Another measure of this is the modulation transfer factor, which is greater with direct than indirect conversion detectors. The differences relate to the direct transfer of electrical charge within the selenium, driven by the potential difference applied. With indirect detectors there is the possibility of light scatter within the scintillator, which increases unsharpness"
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "stem": "Which of the following are true regarding the differences between computed and digital radiography?",
+      "options": [
+        {
+          "response": "",
+          "text": "The detective quantum efficiency (DQE) is greater with digital radiography than with computed radiography",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The patient dose may be less with digital radiography than with computed radiography",
+          "answer": "True",
+          "explanation": "This relates to differences in the DQE"
+        },
+        {
+          "response": "",
+          "text": "Spatial resolution is greater with digital radiography than with computed radiography",
+          "answer": "False",
+          "explanation": "When using high-resolution image plates and a narrow laser beam for stimulated emission, a higher resolution is achievable with computed radiography"
+        },
+        {
+          "response": "",
+          "text": "Initial costs are greater with computed radiography",
+          "answer": "False",
+          "explanation": "They are greater with digital radiography, as each radiographic machine needs its own detector, whereas with computed radiography the image plates may be used between existing machines. Costs may be saved later, however, as the patient throughput may be greater with digital radiography"
+        },
+        {
+          "response": "",
+          "text": "Both demonstrate a wide dynamic range",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "stem": "Regarding the post-processing of digital radiography images",
+      "options": [
+        {
+          "response": "",
+          "text": "Irregular shading across the image field is an irreversible artefact",
+          "answer": "False",
+          "explanation": "This refers to the variation in X-ray sensitivity, which may occur across the detector and be seen in the resultant image. This can be adjusted using gain calibration (so is not irreversible)"
+        },
+        {
+          "response": "",
+          "text": "Defective pixels within the matrix may not alter the final image quality",
+          "answer": "True",
+          "explanation": "This is compensated for by a process known as flat-field calibration. However, if there are a significant number of defective pixels, then image quality/accuracy may be compromised"
+        },
+        {
+          "response": "",
+          "text": "The wide dynamic range of unprocessed data can result in loss of image quality",
+          "answer": "True",
+          "explanation": "If data are unprocessed, then the imaging display device may not be able to demonstrate the full range of intensities obtained. This is overcome by a process known as auto-ranging, which processes the data to display only the most important part of the response range relevant to the particular examination performed"
+        },
+        {
+          "response": "",
+          "text": "Auto-ranging is operator dependent",
+          "answer": "False",
+          "explanation": "It is an automatic process that is performed by software once details of the projection performed have been entered into the system, e.g. chest radiograph"
+        },
+        {
+          "response": "",
+          "text": "Auto-ranging improves spatial resolution",
+          "answer": "False",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "stem": "Concerning digital enhancement",
+      "options": [
+        {
+          "response": "",
+          "text": "Digital enhancement may be operator-dependent",
+          "answer": "True",
+          "explanation": "This may be performed automatically based on the patient characteristics and the projection performed. It can also be manipulated directly by the operator"
+        },
+        {
+          "response": "",
+          "text": "Grey-scale modification can be used to improve spatial resolution",
+          "answer": "False",
+          "explanation": "It can improve contrast and brightness within the image"
+        },
+        {
+          "response": "",
+          "text": "Grey-scale modification uses a look-up table (LUT) technique",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Unsharp masking can help distinguish fine detail within the image",
+          "answer": "True",
+          "explanation": "It improves the spatial resolution within the image"
+        },
+        {
+          "response": "",
+          "text": "Unsharp masking may increase noise",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "stem": "Concerning the display of digital images",
+      "options": [
+        {
+          "response": "",
+          "text": "The cathode ray tube is dependent on a scanning photon beam",
+          "answer": "False",
+          "explanation": "It is a scanning electron beam, which is directed at a phosphor, which produces the visible image. The intensity of the beam is varied, depending on the input of the signal"
+        },
+        {
+          "response": "",
+          "text": "Over time, cathode ray tubes reliably maintain image quality",
+          "answer": "False",
+          "explanation": "After prolonged use, the image quality degrades, e.g. loss of contrast and problems with the phosphor"
+        },
+        {
+          "response": "",
+          "text": "Liquid crystal displays (LCDs) exploit variations in light polarization within the crystal for image visualization",
+          "answer": "True",
+          "explanation": "The crystals vary in their degree of polarization when a voltage is placed across them. Each pixel can therefore be manipulated to vary the level of light transmission depending on the input of the signal to that pixel. The resultant image is a summation of all of the pixels"
+        },
+        {
+          "response": "",
+          "text": "Once the image is digitized, it is not possible to view it as a hard copy",
+          "answer": "False",
+          "explanation": "A hardcopy may still be obtained using a laser hardware imager"
+        },
+        {
+          "response": "",
+          "text": "Image reproduction is less reliable with flat-panel monitors than with cathode ray tubes",
+          "answer": "False",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "stem": "Regarding the image associated with digital radiography",
+      "options": [
+        {
+          "response": "",
+          "text": "A good-quality image may amount to over 10 Mb of data",
+          "answer": "True",
+          "explanation": "With a typical digital matrix size of 3000 x 3000 and 2 bytes of data per pixel (at a minimum), then this is at least 18 Mb (matrix size x number of bytes) of data with a single image"
+        },
+        {
+          "response": "",
+          "text": "Images of a smaller matrix size will tolerate greater compression than images with a larger matrix size",
+          "answer": "False",
+          "explanation": "The reverse is true"
+        },
+        {
+          "response": "",
+          "text": "An image detector based on a charge-coupled device (CCD) photosensor is an alternative to the thin-film transistor",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Digital radiography uses smaller matrix sizes than are used in computed tomography",
+          "answer": "False",
+          "explanation": "Digital radiography uses larger matrix sizes"
+        },
+        {
+          "response": "",
+          "text": "The image may be saved as a JPEG",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "stem": "Concerning picture archiving and communications systems (PACS)",
+      "options": [
+        {
+          "response": "",
+          "text": "PACS eliminate the need for film storage",
+          "answer": "True",
+          "explanation": "Although storage for hard-copy films is no longer required, it should be noted that data storage then becomes an issue"
+        },
+        {
+          "response": "",
+          "text": "Their correct use is guided by the Data Protection Act (1998)",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Primary diagnostic clinical interpretation generally should not be performed from any workstation",
+          "answer": "True",
+          "explanation": "Reporting workstations usually have high-quality liquid crystal displays (LCDs), which are calibrated to the Digital Imaging and Communications in Medicine (DICOM) standard for that imaging modality. Within the hospital, PACS may be accessed from any PC connected to PACS via the hospital network. As images may be displayed on standard PC monitors, then reporting should be avoided at these workstations (in addition, the viewing environment may not be optimal)"
+        },
+        {
+          "response": "",
+          "text": "Images cannot be accessed simultaneously from different locations",
+          "answer": "False",
+          "explanation": "They can, which is one of the main advantages of PACS over hard-copy images"
+        },
+        {
+          "response": "",
+          "text": "Data compression can help reduce the storage requirements associated with PACS",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "stem": "Concerning picture archiving and communications systems (PACS)",
+      "options": [
+        {
+          "response": "",
+          "text": "Typically, only one archive is used for image storage",
+          "answer": "False",
+          "explanation": "There usually is more than one. A short-term archive exists for rapid accessing of images. A longer-term archive exists where the images are still available, but accessing them requires a longer period. This may be associated with data compression for storage"
+        },
+        {
+          "response": "",
+          "text": "The PACS workflow manager is responsible for the retrieval of images from the archive",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "For effective functioning, PACS requires connection with the hospital information systems (HIS)",
+          "answer": "True",
+          "explanation": "This allows the linking of patient administrative data along with the radiology information system (RIS)"
+        },
+        {
+          "response": "",
+          "text": "PACS is dependent on the HL7 standard for information transfer from the hospital information system",
+          "answer": "True",
+          "explanation": "HL7 is a standard for the transfer of information regarding patient demographics, results and information from hospital systems"
+        },
+        {
+          "response": "",
+          "text": "The cost savings compared with hard-copy storage are definite",
+          "answer": "False",
+          "explanation": "Although the costs associated with film and its storage are removed, the maintenance and upgrades to the PACS system (along with data storage) are continued, making the cost saving less evident"
+        }
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "stem": "Concerning the Digital Imaging and Communications in Medicine (DICOM) service",
+      "options": [
+        {
+          "response": "",
+          "text": "It functions to keep the image file along with the corresponding patient identifying data as separate",
+          "answer": "False",
+          "explanation": "DICOM is a standard for the handling and transmission of data associated with medical imaging. One of the benefits is to keep data for the image filed alongside information relating to the imaging modality and patient-identifying information"
+        },
+        {
+          "response": "",
+          "text": "It allows medical imaging devices from different manufacturers to be used with a single PACS",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The ‘modality worklist’ service may increase the risk of data input errors",
+          "answer": "False",
+          "explanation": "This service retrieves the scheduled worklist from the hospital information system (HIS) regarding examinations to be performed (hence reducing the need for repeated data entry) and may reduce data input errors"
+        },
+        {
+          "response": "",
+          "text": "The ‘modality push/pull’ service allows image storage and retrieval to and from PACS",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The ‘modality performed procedure step’ service provides information about the status of an examination",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "stem": "Concerning quality assurance in digital radiography",
+      "options": [
+        {
+          "response": "",
+          "text": "Post-imaging processing removes the requirement for quality assurance",
+          "answer": "False",
+          "explanation": "It is still required"
+        },
+        {
+          "response": "",
+          "text": "There are no guidelines for the recommended specification of the display device required for diagnostic reporting",
+          "answer": "False",
+          "explanation": "The Royal College of Radiologists (RCR) IT guidance (Picture archiving and communication systems (PACS) and quality assurance, 2008) recommends an ideal screen resolution of 3 megapixels and a screen size of at least 50 cm with at least a 10-bit grey scale"
+        },
+        {
+          "response": "",
+          "text": "Image display devices should undergo resolution and grey-scale contrast ratio monitoring every 3 months",
+          "answer": "True",
+          "explanation": "See the RCR IT guidance (Picture archiving and communication systems (PACS) and quality assurance, 2008)"
+        },
+        {
+          "response": "",
+          "text": "Suboptimal images may be restricted on PACS from general clinical viewing until they have been quality assured",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The consistent presentation of images is implemented using the grey-scale standard display function (GSDF)",
+          "answer": "True",
+          "explanation": "This is a standard look-up table against which different display devices should be calibrated to allow for varying device performances"
+        }
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "stem": "When comparing film-screen and digital image receptors, film-screen radiography",
+      "options": [
+        {
+          "response": "",
+          "text": "Has a narrower latitude",
+          "answer": "True",
+          "explanation": "Film-screen radiography has a narrower dynamic range"
+        },
+        {
+          "response": "",
+          "text": "Has a higher spatial resolution",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Separates acquisition and display into separate steps",
+          "answer": "False",
+          "explanation": "Separation of these stages is the characteristic of digital radiography, which allows flexibility in the post-acquisition processing that may be performed"
+        },
+        {
+          "response": "",
+          "text": "Has a greater detective quantum efficiency (DQE)",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Generally requires a greater radiation dose for the same exposure",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "stem": "Concerning digital and computed radiography imaging systems",
+      "options": [
+        {
+          "response": "",
+          "text": "They have a similar dynamic range",
+          "answer": "True",
+          "explanation": "Computed radiography has a dynamic range in the order of 10,000:1. Digital radiography has a dynamic range in the order of 1000:1 to 10,000:1. For both, the low end of the system is determined by noise. In digital radiography, the high end of the range is determined by the charge-holding capacity of the detector elements"
+        },
+        {
+          "response": "",
+          "text": "They are both unaffected by random noise",
+          "answer": "False",
+          "explanation": "They are both affected by this. This is noise associated with the image receptor, which typically cannot be corrected for (so-called electronic noise)"
+        },
+        {
+          "response": "",
+          "text": "With an analogue-to-digital converter (ADC), insufficient bits do not affect signal coding",
+          "answer": "False",
+          "explanation": "This is related to an insufficient number of grey-scale values that can be demonstrated"
+        },
+        {
+          "response": "",
+          "text": "Digital and computed radiography imaging systems benefit from a reduction in image acquisition time compared with film-screen radiography",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Computer-aided detection (CAD) may be employed with digital images",
+          "answer": "True",
+          "explanation": "Post-image acquisition analysis and processing can help with diagnosis of pathology"
+        }
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "stem": "Regarding spatial resolution in computed and digital imaging systems",
+      "options": [
+        {
+          "response": "",
+          "text": "It is affected in indirect digital systems by the spread of light photons within the scintillator",
+          "answer": "True",
+          "explanation": "This may be minimized by arranging the caesium iodide into narrow parallel columns, reducing the degree of reflection that may occur"
+        },
+        {
+          "response": "",
+          "text": "It is unaffected in digital radiography by the size of the detector elements within the thin-film transistor",
+          "answer": "False",
+          "explanation": "The larger the detector element, the more light or X-ray photons are detected by that element so that structures smaller than the detector size cannot be distinguished separately"
+        },
+        {
+          "response": "",
+          "text": "In computed radiography, spatial resolution is unrelated to the thickness of the phosphor",
+          "answer": "False",
+          "explanation": "Increasing the thickness of the phosphor will increase the scattering of the laser light during image plate read-out"
+        },
+        {
+          "response": "",
+          "text": "For both computed and digital radiography, pixel size affects spatial resolution",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The modulation transfer function (MTF) is an objective measure of spatial resolution",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "stem": "Concerning digital radiography",
+      "options": [
+        {
+          "response": "",
+          "text": "It does not require the use of an anti-scatter grid",
+          "answer": "False",
+          "explanation": "Scatter of radiation occurs irrespective of the imaging system employed"
+        },
+        {
+          "response": "",
+          "text": "Fixed system noise may be reduced by post-processing",
+          "answer": "True",
+          "explanation": "This is a type of internal source of noise (different to X-ray quantum noise) associated with the image receptor. Its contribution to the final image may be corrected for by using a control to obtain average values for the fixed system noise. This can then be used as a map to remove its contribution from subsequent images"
+        },
+        {
+          "response": "",
+          "text": "Detector artefacts may occur as a result of variations in image receptor sensitivity",
+          "answer": "True",
+          "explanation": "This may occur as a result of the manufacturing process. Compensation may occur by taking the average values from adjacent receptors and substituting these"
+        },
+        {
+          "response": "",
+          "text": "Automatic exposure control is not used with digital radiography",
+          "answer": "False",
+          "explanation": "It can be used"
+        },
+        {
+          "response": "",
+          "text": "It requires specific post-processing parameters for paediatric patients",
+          "answer": "True",
+          "explanation": "Due to decreased patient size, the image will have a different dynamic range than with adult patients and so digital enhancement needs to be varied to compensate for this"
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "stem": "Concerning the construction of direct conversion detectors",
+      "options": [
+        {
+          "response": "",
+          "text": "The photoconductor produces electrical charge when irradiated"
+        },
+        {
+          "response": "",
+          "text": "It is still dependent on a silicon-based transistor"
+        },
+        {
+          "response": "",
+          "text": "A potential difference is applied across the photoconductor to increase the charge formed per X-ray photon"
+        },
+        {
+          "response": "",
+          "text": "The signal for image formation is carried by the negative charge (electrons)"
+        },
+        {
+          "response": "",
+          "text": "It is designed to be compatible with more than one radiographic machine"
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "stem": "Which of the following are true regarding the differences between indirect and direct conversion detectors?",
+      "options": [
+        {
+          "response": "",
+          "text": "The detective quantum efficiency (DQE) of direct conversion detectors is greater than that of indirect conversion detectors"
+        },
+        {
+          "response": "",
+          "text": "The difference in DQE is due to the difference in the K-edges of caesium iodide and selenium"
+        },
+        {
+          "response": "",
+          "text": "Lower patient doses are possible with direct than with indirect conversion detectors"
+        },
+        {
+          "response": "",
+          "text": "For the same patient dose, a greater signal-to-noise ratio is possible with indirect than with direct detectors"
+        },
+        {
+          "response": "",
+          "text": "Spatial resolution is greater with direct than indirect conversion detectors"
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "stem": "Which of the following are true regarding the differences between computed and digital radiography?",
+      "options": [
+        {
+          "response": "",
+          "text": "The detective quantum efficiency (DQE) is greater with digital radiography than with computed radiography"
+        },
+        {
+          "response": "",
+          "text": "The patient dose may be less with digital radiography than with computed radiography"
+        },
+        {
+          "response": "",
+          "text": "Spatial resolution is greater with digital radiography than with computed radiography"
+        },
+        {
+          "response": "",
+          "text": "Initial costs are greater with computed radiography"
+        },
+        {
+          "response": "",
+          "text": "Both demonstrate a wide dynamic range"
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "stem": "Regarding the post-processing of digital radiography images",
+      "options": [
+        {
+          "response": "",
+          "text": "Irregular shading across the image field is an irreversible artefact"
+        },
+        {
+          "response": "",
+          "text": "Defective pixels within the matrix may not alter the final image quality"
+        },
+        {
+          "response": "",
+          "text": "The wide dynamic range of unprocessed data can result in loss of image quality"
+        },
+        {
+          "response": "",
+          "text": "Auto-ranging is operator dependent"
+        },
+        {
+          "response": "",
+          "text": "Auto-ranging improves spatial resolution"
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "stem": "Concerning digital enhancement",
+      "options": [
+        {
+          "response": "",
+          "text": "Digital enhancement may be operator-dependent"
+        },
+        {
+          "response": "",
+          "text": "Grey-scale modification can be used to improve spatial resolution"
+        },
+        {
+          "response": "",
+          "text": "Grey-scale modification uses a look-up table (LUT) technique"
+        },
+        {
+          "response": "",
+          "text": "Unsharp masking can help distinguish fine detail within the image"
+        },
+        {
+          "response": "",
+          "text": "Unsharp masking may increase noise"
+        }
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "stem": "Concerning the display of digital images",
+      "options": [
+        {
+          "response": "",
+          "text": "The cathode ray tube is dependent on a scanning photon beam"
+        },
+        {
+          "response": "",
+          "text": "Over time, cathode ray tubes reliably maintain image quality"
+        },
+        {
+          "response": "",
+          "text": "Liquid crystal displays (LCDs) exploit variations in light polarization within the crystal for image visualization"
+        },
+        {
+          "response": "",
+          "text": "Once the image is digitized, it is not possible to view it as a hard copy"
+        },
+        {
+          "response": "",
+          "text": "Image reproduction is less reliable with flat-panel monitors than with cathode ray tubes"
+        }
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "stem": "Regarding the image associated with digital radiography",
+      "options": [
+        {
+          "response": "",
+          "text": "A good-quality image may amount to over 10 Mb of data"
+        },
+        {
+          "response": "",
+          "text": "Images of a smaller matrix size will tolerate greater compression than images with a larger matrix size"
+        },
+        {
+          "response": "",
+          "text": "An image detector based on a charge-coupled device (CCD) photosensor is an alternative to the thin-film transistor"
+        },
+        {
+          "response": "",
+          "text": "Digital radiography uses smaller matrix sizes than are used in computed tomography"
+        },
+        {
+          "response": "",
+          "text": "The image may be saved as a JPEG"
+        }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "stem": "Concerning picture archiving and communications systems (PACS)",
+      "options": [
+        {
+          "response": "",
+          "text": "PACS eliminate the need for film storage"
+        },
+        {
+          "response": "",
+          "text": "Their correct use is guided by the Data Protection Act (1998)"
+        },
+        {
+          "response": "",
+          "text": "Primary diagnostic clinical interpretation generally should not be performed from any workstation"
+        },
+        {
+          "response": "",
+          "text": "Images cannot be accessed simultaneously from different locations"
+        },
+        {
+          "response": "",
+          "text": "Data compression can help reduce the storage requirements associated with PACS"
+        }
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "stem": "Concerning picture archiving and communications systems (PACS)",
+      "options": [
+        {
+          "response": "",
+          "text": "Typically, only one archive is used for image storage"
+        },
+        {
+          "response": "",
+          "text": "The PACS workflow manager is responsible for the retrieval of images from the archive"
+        },
+        {
+          "response": "",
+          "text": "For effective functioning, PACS requires connection with the hospital information systems (HIS)"
+        },
+        {
+          "response": "",
+          "text": "PACS is dependent on the HL7 standard for information transfer from the hospital information system"
+        },
+        {
+          "response": "",
+          "text": "The cost savings compared with hard-copy storage are definite"
+        }
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "stem": "Concerning the Digital Imaging and Communications in Medicine (DICOM) service",
+      "options": [
+        {
+          "response": "",
+          "text": "It functions to keep the image file along with the corresponding patient identifying data as separate"
+        },
+        {
+          "response": "",
+          "text": "It allows medical imaging devices from different manufacturers to be used with a single PACS"
+        },
+        {
+          "response": "",
+          "text": "The ‘modality worklist’ service may increase the risk of data input errors"
+        },
+        {
+          "response": "",
+          "text": "The ‘modality push/pull’ service allows image storage and retrieval to and from PACS"
+        },
+        {
+          "response": "",
+          "text": "The ‘modality performed procedure step’ service provides information about the status of an examination"
+        }
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "stem": "Concerning quality assurance in digital radiography",
+      "options": [
+        {
+          "response": "",
+          "text": "Post-imaging processing removes the requirement for quality assurance"
+        },
+        {
+          "response": "",
+          "text": "There are no guidelines for the recommended specification of the display device required for diagnostic reporting"
+        },
+        {
+          "response": "",
+          "text": "Image display devices should undergo resolution and grey-scale contrast ratio monitoring every 3 months"
+        },
+        {
+          "response": "",
+          "text": "Suboptimal images may be restricted on PACS from general clinical viewing until they have been quality assured"
+        },
+        {
+          "response": "",
+          "text": "The consistent presentation of images is implemented using the grey-scale standard display function (GSDF)"
+        }
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "stem": "When comparing film-screen and digital image receptors, film-screen radiography",
+      "options": [
+        {
+          "response": "",
+          "text": "Has a narrower latitude"
+        },
+        {
+          "response": "",
+          "text": "Has a higher spatial resolution"
+        },
+        {
+          "response": "",
+          "text": "Separates acquisition and display into separate steps"
+        },
+        {
+          "response": "",
+          "text": "Has a greater detective quantum efficiency (DQE)"
+        },
+        {
+          "response": "",
+          "text": "Generally requires a greater radiation dose for the same exposure"
+        }
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "stem": "Concerning digital and computed radiography imaging systems",
+      "options": [
+        {
+          "response": "",
+          "text": "They have a similar dynamic range"
+        },
+        {
+          "response": "",
+          "text": "They are both unaffected by random noise"
+        },
+        {
+          "response": "",
+          "text": "With an analogue-to-digital converter (ADC), insufficient bits do not affect signal coding"
+        },
+        {
+          "response": "",
+          "text": "Digital and computed radiography imaging systems benefit from a reduction in image acquisition time compared with film-screen radiography"
+        },
+        {
+          "response": "",
+          "text": "Computer-aided detection (CAD) may be employed with digital images"
+        }
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "stem": "Regarding spatial resolution in computed and digital imaging systems",
+      "options": [
+        {
+          "response": "",
+          "text": "It is affected in indirect digital systems by the spread of light photons within the scintillator"
+        },
+        {
+          "response": "",
+          "text": "It is unaffected in digital radiography by the size of the detector elements within the thin-film transistor"
+        },
+        {
+          "response": "",
+          "text": "In computed radiography, spatial resolution is unrelated to the thickness of the phosphor"
+        },
+        {
+          "response": "",
+          "text": "For both computed and digital radiography, pixel size affects spatial resolution"
+        },
+        {
+          "response": "",
+          "text": "The modulation transfer function (MTF) is an objective measure of spatial resolution"
+        }
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "stem": "Concerning digital radiography",
+      "options": [
+        {
+          "response": "",
+          "text": "It does not require the use of an anti-scatter grid"
+        },
+        {
+          "response": "",
+          "text": "Fixed system noise may be reduced by post-processing"
+        },
+        {
+          "response": "",
+          "text": "Detector artefacts may occur as a result of variations in image receptor sensitivity"
+        },
+        {
+          "response": "",
+          "text": "Automatic exposure control is not used with digital radiography"
+        },
+        {
+          "response": "",
+          "text": "It requires specific post-processing parameters for paediatric patients"
+        }
+      ]
+    }
+  ]
+}

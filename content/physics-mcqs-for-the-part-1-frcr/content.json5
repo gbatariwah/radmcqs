@@ -1,0 +1,47 @@
+{
+  title: "Physics MCQs for the Part 1 FRCR",
+  slug: "physics-mcqs-for-the-part-1-frcr",
+  author: "Shahzad Ilyas",
+  edition: 1,
+  sections: [
+    {
+      "name": "Basic Physics",
+      "slug": "basic-physics"
+    },
+    {
+      "name": "Radiation Hazards and Protection",
+      "slug": "radiation-hazards-and-protection"
+    },
+    {
+      "name": "Imaging with X-rays",
+      "slug": "imaging-with-x-rays"
+    },
+    {
+      "name": "Film-Screen Radiography",
+      "slug": "film-screen-radiography"
+    },
+    {
+      "name": "Digital Radiography",
+      "slug": "digital-radiography"
+    },
+    {
+      "name": "Fluoroscopy and Mammography",
+      "slug": "fluoroscopy-and-mammography"
+    },{
+      "name": "Nuclear medicine",
+      "slug": "nuclear-medicine"
+    },
+    {
+      "name": "Computed Tomography",
+      "slug": "computed-tomography"
+    },
+    {
+      "name": "Imaging with Ultrasound",
+      "slug": "imaging-with-ultrasound"
+    },
+    {
+      "name": "Magnetic Resonance Imaging",
+      "slug": "magnetic-resonance-imaging"
+    }
+  ]
+}

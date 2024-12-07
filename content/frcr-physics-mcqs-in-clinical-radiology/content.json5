@@ -1,0 +1,44 @@
+{
+  title: "FRCR Physics MCQs in Clinical Radiology",
+  slug: "frcr-physics-mcqs-in-clinical-radiology",
+  author: "Ibrahim Lutfi Shuaib, Hafiz M. Zin, Mohd Zahri Abdul Aziz, Noor Diyana Osman, Rafidah Zainon",
+  edition: 1,
+  sections: [
+    {
+      name: "Examination 1",
+      slug: "examination-1",
+    },
+    {
+      name: "Examination 2",
+      slug: "examination-2",
+    },
+    {
+      name: "Examination 3",
+      slug: "examination-3",
+    },
+    {
+      name: "Examination 4",
+      slug: "examination-4",
+    },
+    {
+      name: "Examination 5",
+      slug: "examination-5",
+    },
+    {
+      name: "Examination 6",
+      slug: "examination-6",
+    },
+    {
+      name: "Examination 7",
+      slug: "examination-7",
+    },
+    {
+      name: "Examination 8",
+      slug: "examination-8",
+    },
+    {
+      name: "Examination 9",
+      slug: "examination-9",
+    },
+  ],
+}

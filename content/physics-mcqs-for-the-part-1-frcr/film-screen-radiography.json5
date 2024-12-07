@@ -1,0 +1,1088 @@
+{
+  name: "Physics MCQs for the Part 1 FRCR",
+  authors: "Shahzad Ilyas",
+  slug: "film-screen-radiography",
+  questions: [
+    {
+      "questionNumber": 1,
+      "stem": "Concerning the construction and processing of radiographic film",
+      "options": [
+        {
+          "response": "",
+          "text": "Most films typically have a single layer of emulsion",
+          "answer": "False",
+          "explanation": "Most films usually have a double layer of emulsion attached to a polyester film base. This allows increased speed as two intensifying screens can be used. Mammography films usually are single-layered"
+        },
+        {
+          "response": "",
+          "text": "An emulsion of silver iodide is most commonly used",
+          "answer": "False",
+          "explanation": "Silver bromide is most commonly used"
+        },
+        {
+          "response": "",
+          "text": "The grain size of the emulsion is directly related to the speed of the film",
+          "answer": "True",
+          "explanation": "The larger the grain size, the faster the film. Larger grains provide a larger target for the light photons and so fewer photons are required to produce the image"
+        },
+        {
+          "response": "",
+          "text": "Production of the latent image occurs independently of the cation component of the emulsion",
+          "answer": "False",
+          "explanation": "Both the anion (bromide) and cation (silver) are required to produce the latent image: the bromide is the electron donor and the silver ion becomes deposited and later converted to the black silver atom to produce the image"
+        },
+        {
+          "response": "",
+          "text": "Altering the order of the processing of exposed film does not significantly affect the overall image quality",
+          "answer": "False",
+          "explanation": "Post-processing is vital in converting the latent image to a visible image. This requires the conversion of silver ions to visible silver atoms (electron gain) from electron donors (e.g. phenidone and hydroquinone), a process known as film development. Unexposed grains also need to be removed from the film (to render the film stable in light) and the process of development halted to prevent fogging, a process known as fixing"
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "stem": "Concerning the properties of radiographic film",
+      "options": [
+        {
+          "response": "",
+          "text": "Optical density is a measure of film blackening based on the degree of transmission of incident light on the film",
+          "answer": "True",
+          "explanation": "Optical density ¼ log 10 Io/In, where Io is the intensity of incident light and In is the intensity of transmitted light"
+        },
+        {
+          "response": "",
+          "text": "Using double-sided emulsion has no effect on optical density",
+          "answer": "False",
+          "explanation": "The optical densities for each layer are cumulative so that, for the same level of exposure, the densities are increased compared with using a single layer"
+        },
+        {
+          "response": "",
+          "text": "The greater the optical density of a film, the lower the intensity of the transmitted light beam",
+          "answer": "True",
+          "explanation": "Referring back to the equation in (a), if the optical density ¼ 1, then only 10% of light is transmitted, as log 10 10 ¼ 1. Likewise, if optical density ¼ 2, then only 1% of light is transmitted (log 10 100 ¼ 2)"
+        },
+        {
+          "response": "",
+          "text": "A useful range of optical densities is approximately 0.25–4",
+          "answer": "False",
+          "explanation": "Optical densities of around 2 may be seen with normal illumination; however, an optical density of 3 appears very dark and requires the use of a focal bright light to see through it. An optical density of 4 means that only 1/10,000 of the incident light has been transmitted, so the film will appear black"
+        },
+        {
+          "response": "",
+          "text": "Different optical densities in areas within the same film are what produce image contrast when viewing the image",
+          "answer": "True",
+          "explanation": "Contrast may be measured as the difference in optical densities: OD 1 – OD 2 . This difference will be produced by the nature of the tissue being imaged"
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "stem": "Concerning the properties of radiographic film, with reference to the characteristic curve",
+      "options": [
+        {
+          "response": "",
+          "text": "‘Base plus fog’ refers to the optical density of unexposed, undeveloped emulsion",
+          "answer": "False",
+          "explanation": "This refers to the inherent optical density of the film material plus unexposed developed emulsion. This should be less than 0.2. However, film that has been stored for too long a period or at too high a temperature may have higher values, in which case it should not be used"
+        },
+        {
+          "response": "",
+          "text": "Films with high speed are less sensitive to changes in exposure",
+          "answer": "False",
+          "explanation": "Film speed is a measure of film sensitivity when exposed, i.e. a high-speed film requires less exposure to produce a certain optical density than a film of low speed"
+        },
+        {
+          "response": "",
+          "text": "Film latitude refers to the range of exposures producing film darkening within the useful optical density range",
+          "answer": "True",
+          "explanation": "Films with narrow latitude require a smaller range of exposures to achieve darkening over the useful optical density range, i.e. they provide good contrast between tissues. Wide-latitude films are the reverse, requiring a greater range of exposures to achieve this range"
+        },
+        {
+          "response": "",
+          "text": "An increase in film gamma decreases film latitude",
+          "answer": "True",
+          "explanation": "Film gamma refers to the slope of the linear part of the characteristic curve and is the ratio of the differences between optical density and film exposure at two given points on the slope. If gamma increases, then film latitude decreases and contrast increases. These are inherent properties of any given film"
+        },
+        {
+          "response": "",
+          "text": "Film speed is increased by using double-layered emulsion",
+          "answer": "True",
+          "explanation": "The optical densities for each layer are cumulative so that, for a given exposure, the total optical densities will be greater than using a single layer. This assumes that the total thickness of emulsion is doubled"
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "stem": "Concerning the use of intensifying screens",
+      "options": [
+        {
+          "response": "",
+          "text": "Most radiographic films in clinical practice do not require the use of intensifying screens",
+          "answer": "False",
+          "explanation": "This is only true for dental films. Most films do require intensifying screens for image acquisition, and this acts to reduce the radiation dose required by 30–300-fold"
+        },
+        {
+          "response": "",
+          "text": "Intensifying screens increase the optical density, which may be obtained over a fixed range of exposures",
+          "answer": "True",
+          "explanation": "They increase not only the gradient of the characteristic curve (film gamma), but also the speed of the film"
+        },
+        {
+          "response": "",
+          "text": "A material that increases the likelihood of Compton scattering should be used for constructing the screen",
+          "answer": "False",
+          "explanation": "Ideally a material that increases the likelihood of photoelectric absorption (which is related to the cube of the atomic number (Z3 )) should be used. Materials such as tungsten or rare earth metals are selected (lanthanum, Z ¼ 57, and gadolinium, Z ¼ 64)"
+        },
+        {
+          "response": "",
+          "text": "Intensifying screens are able to convert approximately 50% of X-ray energy into light",
+          "answer": "False",
+          "explanation": "The actual value is much lower, in the region of 10–15% for the earth metals and less than 5% for calcium tungstate"
+        },
+        {
+          "response": "",
+          "text": "Overall image sharpness is not affected by the use of a screen",
+          "answer": "False",
+          "explanation": "Overall image sharpness is particularly affected when thicker screens are used, as the light rays produced within the screen are able to travel over a further distance and in different directions before reaching the film. This also means that the light may be absorbed before reaching the film. This effect can be minimized by using two thinner screens with double-sided film"
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "stem": "Concerning the use of grids",
+      "options": [
+        {
+          "response": "",
+          "text": "Grids are always required for adequate production of the radiographic image",
+          "answer": "False",
+          "explanation": "Grids are useful as they help to reduce the effect of scatter and improve the quality of the image and so are generally used. However, in some settings, a grid is not used when the effect of scatter is reduced (e.g. when there is less tissue for the photons to travel through, such as during paediatric imaging)"
+        },
+        {
+          "response": "",
+          "text": "Grids increase the mA required to produce an adequately exposed image",
+          "answer": "True",
+          "explanation": "As some photons are blocked from reaching the radiographic film, a greater dose will be required to produce the same optical density of the film than if a grid was not used"
+        },
+        {
+          "response": "",
+          "text": "A reduction in the grid thickness will increase the amount of scatter that is removed",
+          "answer": "False",
+          "explanation": "This change will decrease the amount of scatter that is removed. Increasing the distance between each of the lead grid strips will also have the same effect. The ratio of the thickness, h, and the horizontal distance between the strips, d, form the grid ratio ¼ h/d. Hence, grids with higher grid ratios are more effective at removing scatter"
+        },
+        {
+          "response": "",
+          "text": "The grid factor is a measure of how much the grid will affect magnification of the image",
+          "answer": "False",
+          "explanation": "A grid will have no effect on magnification. The grid factor indicates the increase in exposure (and hence dose) that is required when a grid is used compared with not using a grid"
+        },
+        {
+          "response": "",
+          "text": "Reducing the distance of the patient from the film can help to reduce the effect of scatter",
+          "answer": "False",
+          "explanation": "Increasing the object-to-film distance can help to reduce scatter. This is known as an air gap and helps reduce scatter by the principle of the inverse square law. It can act as an alternative to using a grid"
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "stem": "Concerning noise within a radiographic image",
+      "options": [
+        {
+          "response": "",
+          "text": "The level of noise decreases with increased patient dose",
+          "answer": "False",
+          "explanation": "Noise will increase as a proportion of the number of photons (n) that are detected in the image (as noise ¼ √n)"
+        },
+        {
+          "response": "",
+          "text": "The signal-to-noise ratio (SNR) increases with increased patient dose",
+          "answer": "True",
+          "explanation": "Although the amount of noise will increase with increasing patient dose, the actual SNR increases and so improves image quality"
+        },
+        {
+          "response": "",
+          "text": "When imaging tissues with low inherent contrast (such as in mammography), the effect of noise is less significant",
+          "answer": "False",
+          "explanation": "Noise is more significant. Differentiating between the nature of soft-tissue structures is more important when there is less inherent contrast within the tissues being imaged. Therefore, noise will prevent this differentiation"
+        },
+        {
+          "response": "",
+          "text": "When imaging tissues with high inherent contrast, the effect of noise is less significant",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The effect of noise can be reduced by using a film with high gamma",
+          "answer": "False",
+          "explanation": "The higher film gamma produces more radiographic contrast within the film for the same exposure, but also has the same effect on the noise, which is displayed in the image"
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "stem": "Concerning unsharpness within a radiographic image",
+      "options": [
+        {
+          "response": "",
+          "text": "Unsharpness is not affected by the thickness of a film screen",
+          "answer": "False",
+          "explanation": "X-rays produce light photons within the screen, which can then spread out in all directions and so decrease the unsharpness. This effect will be increased if a thicker screen is used, as there is a greater distance over which the light photon can travel"
+        },
+        {
+          "response": "",
+          "text": "Film-screen unsharpness is generally not important for most X-ray examinations",
+          "answer": "False",
+          "explanation": "This depends on what is being imaged. It becomes less important when imaging thicker sections of the body or regions where fine detail is less important, e.g. radiograph of the pelvis. When imaging extremities with a requirement for fine detail, a thinner screen is used (although this will require an increased dose for the same optical density)"
+        },
+        {
+          "response": "",
+          "text": "Crossover contributes more to overall unsharpness than parallax",
+          "answer": "True",
+          "explanation": "The use of double-sided screens with double film has the added advantages of overcoming the use of a single thicker screen and the cumulative effect of optical densities, but introduces the problem of crossover where the light from one screen produces an image in the opposite emulsion and vice versa. Parallax may contribute to unsharpness if the image is viewed obliquely (which is often not the case)"
+        },
+        {
+          "response": "",
+          "text": "Geometric unsharpness is decreased by using a smaller focal spot",
+          "answer": "True",
+          "explanation": "A small focal spot decreases the size of the penumbra at the edge of the image"
+        },
+        {
+          "response": "",
+          "text": "Geometric unsharpness is increased by decreasing the object-to-film distance",
+          "answer": "False",
+          "explanation": "Decreasing the object-to-film distance reduces the size of the penumbra. Increasing the distance between the focal spot and the object also decreases geometric unsharpness"
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "stem": "Concerning unsharpness within a radiographic image",
+      "options": [
+        {
+          "response": "",
+          "text": "A shorter exposure time will help reduce movement unsharpness",
+          "answer": "True",
+          "explanation": "However, this will be at the expense of requiring a higher mA"
+        },
+        {
+          "response": "",
+          "text": "In the clinical setting, movement unsharpness cannot be significantly reduced",
+          "answer": "False",
+          "explanation": "This may be achieved in two ways. Firstly, by immobilization of the target, as is performed with mammography where definition of structures is of increased importance. Secondly, by performing radiographs during breath holding, which minimizes the effects of respiration"
+        },
+        {
+          "response": "",
+          "text": "Unsharpness affects the overall spatial resolution of the image",
+          "answer": "True",
+          "explanation": "The three main sources of unsharpness (screen, geometric and movement) all affect the resolution of the image (resolution is the overall ability within the imaging system to detect two objects separately from one another)"
+        },
+        {
+          "response": "",
+          "text": "A film with a double layer of emulsion increases unsharpness",
+          "answer": "False",
+          "explanation": "This assumes that the overall thickness of the emulsion has not increased but is split equally between the two layers"
+        },
+        {
+          "response": "",
+          "text": "Unsharpness is minimized by increased film-screen separation",
+          "answer": "False",
+          "explanation": "Close opposition of the film and screen is a requirement to minimize unsharpness"
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "stem": "Factors affecting image quality",
+      "options": [
+        {
+          "response": "",
+          "text": "Increasing the mA will increase the quality of the image",
+          "answer": "True",
+          "explanation": "Increasing the mA increases the signal-to-noise ratio (SNR) at the expense of increasing the patient dose"
+        },
+        {
+          "response": "",
+          "text": "Increasing grain size within the film improves the resolution",
+          "answer": "False",
+          "explanation": "Larger grains mean less are present within a certain volume so it therefore becomes more difficult to distinguish changes in optical density over a certain area"
+        },
+        {
+          "response": "",
+          "text": "Increasing crystal size within a screen decreases the resolution",
+          "answer": "True",
+          "explanation": "Larger crystals will emit more photons, which have the potential to travel in multiple directions before reaching the film. This will increase the unsharpness within the image"
+        },
+        {
+          "response": "",
+          "text": "Increasing crystal size within a screen decreases the dose",
+          "answer": "True",
+          "explanation": "Larger crystals will emit more light photons than a screen of the same thickness with smaller crystals (this holds true if the fluorescent material of the two screens is the same and has the same conversion factor)"
+        },
+        {
+          "response": "",
+          "text": "Resolution and noise may be altered independently of one another",
+          "answer": "True",
+          "explanation": "Decreasing crystal size within the screen will improve the resolution but decrease the SNR within the image. However, this may be overcome by increasing the dose"
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "stem": "With regard to factors affecting image quality",
+      "options": [
+        {
+          "response": "",
+          "text": "Increasing the kV decreases the probability of photons interacting within the target",
+          "answer": "True",
+          "explanation": "The probability of the photoelectric effect decreases with the cube of the photon energy. Compton scatter does not change significantly with increasing photon energy"
+        },
+        {
+          "response": "",
+          "text": "Scattered photons will have less energy at higher peak kV (kVp) values due to greater loss of energy",
+          "answer": "False",
+          "explanation": "Overall, they will still have more energy"
+        },
+        {
+          "response": "",
+          "text": "Increasing kVp means that contrast is improved",
+          "answer": "False",
+          "explanation": "Using a greater kVp means the scattered photons have more energy and are more likely to reach the film, which will reduce the contrast. In addition, if the intended absorption by the tissues being imaged is reduced due to reduced photoelectric effect, this will also reduce the contrast within the image"
+        },
+        {
+          "response": "",
+          "text": "The effect on resolution of using a screen with large crystals may be compensated for by using a film with small grains",
+          "answer": "False",
+          "explanation": "Resolution is affected most by the part of the imaging system that demonstrates limited resolution"
+        },
+        {
+          "response": "",
+          "text": "In practice, it is the film/screen combination that is usually varied rather than the kV",
+          "answer": "False",
+          "explanation": "kV is one of the three main variables that is changed to influence image quality (mA and exposure time being the other two)"
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "stem": "With regard to factors affecting image quality",
+      "options": [
+        {
+          "response": "",
+          "text": "Using a low kV is useful when it is important to keep the radiation dose to a minimum",
+          "answer": "False",
+          "explanation": "Although the dose should always be kept to a minimum level, sufficient to make the test adequate, a low kV is used when it is important to achieve sufficient contrast, e.g. for mammography (note that this then requires a higher entrance surface dose than if a higher kV was used)"
+        },
+        {
+          "response": "",
+          "text": "The latitude describes the dynamic range of the imaging system",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Compression may help improve contrast at the expense of increased dose",
+          "answer": "False",
+          "explanation": "Compression will improve the contrast by reducing scatter, but also reduces the dose as the tissues are less thick, increasing radiation transmission"
+        },
+        {
+          "response": "",
+          "text": "Unless the mA is increased, the improvement in contrast when using a grid will not be seen",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Using a screen with a greater conversion factor while maintaining the mA increases quantum mottle",
+          "answer": "False",
+          "explanation": "The overall number of photons is increased due to the greater conversion factor of the screen. Therefore, the signal-to-noise ratio is increased"
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "stem": "Concerning factors affecting the entrance surface dose (ESD)",
+      "options": [
+        {
+          "response": "",
+          "text": "The orientation of the patient to the film (anterior–posterior (AP) vs lateral) does not alter the ESD",
+          "answer": "False",
+          "explanation": "The ESD will need to increase to ensure adequate transmission of the X-ray photons as the thickness of the tissue being imaged increases to produce a satisfactory image. Other factors that may also influence this will depend on the nature of the tissue being imaged, e.g. an AP lumbar spine image requires a greater dose than an AP thoracic spine image"
+        },
+        {
+          "response": "",
+          "text": "Changes in focus-to-film distance (FFD) do not alter the ESD because changes in mA are required to maintain an adequate film dose",
+          "answer": "False",
+          "explanation": "Although the mA must be increased as the FFD is increased, there is an overall reduction in the ESD due to the relationship of X-ray intensity to distance being an inverse square law"
+        },
+        {
+          "response": "",
+          "text": "Increasing the kV reduces the ESD, assuming mA is constant",
+          "answer": "False",
+          "explanation": "Increasing the photon energy means that the beam is more penetrating and more photons will reach the image receptor. Therefore, the ESD may be reduced but only if mA is reduced concurrently"
+        },
+        {
+          "response": "",
+          "text": "Filtration reduces the patient dose by decreasing the likelihood of the Compton effect",
+          "answer": "False",
+          "explanation": "It reduces the patient dose by removing those low-energy photons that would not have contributed to the image (and would just be absorbed by the tissue). This is due to a reduction of the photoelectric effect rather than the Compton effect, which is constant at all photon energies"
+        },
+        {
+          "response": "",
+          "text": "Unintentional absorption of X-rays after they have already passed through the tissue will not affect the ESD, assuming mA is constant",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "stem": "Concerning quality assurance in film-screen radiography",
+      "options": [
+        {
+          "response": "",
+          "text": "It requires a check of every exposure to ensure that it is adequate",
+          "answer": "False",
+          "explanation": "Quality assurance is a system that tries to ensure, by having a system of checks in place, that an adequate image is obtained. However, this does not require every exposure to be assessed"
+        },
+        {
+          "response": "",
+          "text": "Quality assurance is not covered in legislation, although good practice demands that it be enforced",
+          "answer": "False",
+          "explanation": "It constitutes part of the Ionising Radiation Regulations (IRR) 1999"
+        },
+        {
+          "response": "",
+          "text": "Regulations are in place that dictate what test should be performed",
+          "answer": "False",
+          "explanation": "The regulations state that quality assurance should be performed, rather than what the actual test should be"
+        },
+        {
+          "response": "",
+          "text": "Quality assurance tests generally have cut-off levels at which equipment should not be used",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Sensitometry may be used to test the performance of a film-screen system",
+          "answer": "True",
+          "explanation": "This measures optical densities at various repeatable exposure settings. If the densities produced are outside a certain range, this indicates that image quality may be compromised"
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "stem": "Concerning quality assurance in film-screen radiography",
+      "options": [
+        {
+          "response": "",
+          "text": "It is insufficient to test only the film speed and contrast index",
+          "answer": "True",
+          "explanation": "The base plus fog level and maximum density (Dmax) also need to be tested. These may be affected by long-term storage of the film at incorrect temperatures"
+        },
+        {
+          "response": "",
+          "text": "A gradual change in the speed of the film is more likely to be related to problems during the processing of film than to problems with the film batch",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Screens should be changed routinely at yearly intervals",
+          "answer": "False",
+          "explanation": "There is no set time as to when they need to be changed. When the sensitivity of a screen has reduced by 20%, then generally it should be changed. This may be tested by producing test films at set kV and mAs values and comparing the optical density produced"
+        },
+        {
+          "response": "",
+          "text": "The tube potential may be tested by assessing the kV of the X-ray beam",
+          "answer": "True",
+          "explanation": "Although the tube potential is not usually measured directly, an electronic meter may be used to demonstrate the kV and its variation with the exposure time using an oscilloscope"
+        },
+        {
+          "response": "",
+          "text": "X-ray output should increase with increasing kV",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "stem": "Concerning quality assurance in film-screen radiography",
+      "options": [
+        {
+          "response": "",
+          "text": "The testing of filtration within the system is not routinely performed",
+          "answer": "False",
+          "explanation": "The amount of filtration is most important when the diagnostic information depends on fine contrast being demonstrated between the tissues being imaged (e.g. in mammography). This contrast may be lost if there is beam hardening if filtration is too great"
+        },
+        {
+          "response": "",
+          "text": "Total filtration should be equivalent to at least 1.5 mm of aluminium",
+          "answer": "False",
+          "explanation": "It should be equivalent to 2.5 mm of aluminium"
+        },
+        {
+          "response": "",
+          "text": "Assessment of optical density is the main measure of correct automatic exposure control (AEC) functioning",
+          "answer": "True",
+          "explanation": "The AEC functions by terminating the exposure once a film has a received dose sufficient to produce an adequate film. Therefore, the optical density of test films can be monitored as the level at which the AEC is set and then varied while monitoring the dose. Test subject thickness (usually Perspex) may also be altered at the same time"
+        },
+        {
+          "response": "",
+          "text": "Focal spot size may be estimated using the pinhole method",
+          "answer": "True",
+          "explanation": "This technique produces a magnified image of the focal spot. The focal spot size can then be calculated by determining the magnification by knowing the focus-to-film and pinhole-to-film distances"
+        },
+        {
+          "response": "",
+          "text": "A lower-than-expected output dose measurement is unrelated to exposure time",
+          "answer": "False",
+          "explanation": "Along with changing the tube potential and tube current, a shorter exposure time may also reduce the output"
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "stem": "Concerning intensifying screens",
+      "options": [
+        {
+          "response": "",
+          "text": "They typically measure 1 cm in thickness",
+          "answer": "False",
+          "explanation": "The thickness is much less, usually 1–2 mm"
+        },
+        {
+          "response": "",
+          "text": "They are usually made of calcium tungstate phosphor",
+          "answer": "False",
+          "explanation": "They are usually made of the rare earth metals such as gadolinium oxysulphide or lanthanum oxybromide"
+        },
+        {
+          "response": "",
+          "text": "They convert the pattern of X-ray intensities into one of light, which is detected by the film",
+          "answer": "True",
+          "explanation": "To produce an image on film without a screen would require high levels of radiation due to its relative insensitivity. Screens are used to reduce the dose required to produce an adequate image"
+        },
+        {
+          "response": "",
+          "text": "Films and screens should be matched",
+          "answer": "True",
+          "explanation": "The colour of the emitted light will vary depending on the phosphor used within the screen. The film should therefore be sensitive to the emitted light to ensure that the image is obtained. For example, gadolinium oxysulphide emits green light, whereas lanthanum oxybromide emits blue light"
+        },
+        {
+          "response": "",
+          "text": "A phosphor with a K-edge value similar to the mean photon energy should be selected",
+          "answer": "True",
+          "explanation": "This ensures that there is increased attenuation of the radiation spectrum, whose intensity may then be converted into one of light and thus represented as an image on the radiographic film"
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "stem": "Concerning developing conditions",
+      "options": [
+        {
+          "response": "",
+          "text": "Decreasing the temperature of the developer increases the film speed",
+          "answer": "False",
+          "explanation": "It decreases film speed"
+        },
+        {
+          "response": "",
+          "text": "Increasing the temperature of the developer increases the fog level",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Increasing the development time reduces the fog level",
+          "answer": "False",
+          "explanation": "It increases the fog level by developing unexposed grains"
+        },
+        {
+          "response": "",
+          "text": "Decreasing the developer concentration reduces the fog level",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Increasing the developer concentration or developing time will increase the film speed",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "stem": "Concerning linear tomography",
+      "options": [
+        {
+          "response": "",
+          "text": "It is able to clearly demonstrate structures at various depths within the patient in the same image",
+          "answer": "False",
+          "explanation": "It is only able to demonstrate structures within a selected slice at any one time"
+        },
+        {
+          "response": "",
+          "text": "It is able to reduce the effect of superimposition of structures within the image",
+          "answer": "True",
+          "explanation": "The structures located above and below the selected slice are deliberately blurred out. The structures within the selected slice are sharply imaged. This is in contrast to conventional film-screen radiography where all structures within the direction of the X-ray beam appear superimposed on another (e.g. a chest radiograph with ribs, soft tissue and lung all appearing in the same image)"
+        },
+        {
+          "response": "",
+          "text": "It relies on the simultaneous movement of the X-ray tube and patient",
+          "answer": "False",
+          "explanation": "The patient remains fixed in position. It is the cassette tray and X-ray tube that move in opposite directions to one another"
+        },
+        {
+          "response": "",
+          "text": "Increasing the tomographic angle increases the thickness of the cut",
+          "answer": "False",
+          "explanation": "Decreasing the angle increases the thickness of the cut. When the tomographic angle is zero, the image would be the same as an anterior–posterior radiograph"
+        },
+        {
+          "response": "",
+          "text": "Section thickness decreases as the distance from the pivot to the film increases",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "stem": "Concerning linear tomography",
+      "options": [
+        {
+          "response": "",
+          "text": "The thickness of the plane in focus may be in the order of several mm",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The level of the imaged plane within the patient is altered by raising or lowering the pivot position",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Blurring increases with decreasing distance from the focal plane",
+          "answer": "False",
+          "explanation": "It is those structures closest to the focal plane that are most sharply imaged"
+        },
+        {
+          "response": "",
+          "text": "The tomographic angle is usually in the order of 40°",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Contrast is improved by imaging thin slices",
+          "answer": "False",
+          "explanation": "Contrast is reduced"
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "stem": "Concerning resolution within the image",
+      "options": [
+        {
+          "response": "",
+          "text": "Spatial resolution is the ability to distinguish adjacent objects as being separate",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Spatial resolution may be measured in line pairs mm⁻¹",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The spatial resolution of X-ray films is less than that of an image intensifier",
+          "answer": "False",
+          "explanation": "It is much greater (e.g. 2–4 line pairs mm-1 for fluoroscopy compared with more than 10 line pairs mm-1 with X-ray films)"
+        },
+        {
+          "response": "",
+          "text": "The spatial resolution of X-ray films is greater than that of computed tomography",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Spatial resolution may be determined by the properties of the radiographic film",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "stem": "Duplitized (two layers of emulsion) radiographic films",
+      "options": [
+        {
+          "response": "",
+          "text": "Reduce the radiation dose to produce an adequate image",
+          "answer": "True",
+          "explanation": "This assumes that the overall thickness of the emulsion is doubled"
+        },
+        {
+          "response": "",
+          "text": "Increase the fog level",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "May take longer to process",
+          "answer": "True",
+          "explanation": "It may take longer for the processing substances to penetrate all the emulsion, if the overall total emulsion thickness has increased"
+        },
+        {
+          "response": "",
+          "text": "Have increased scatter compared with a film with a single layer of emulsion",
+          "answer": "False",
+          "explanation": "It has no effect"
+        },
+        {
+          "response": "",
+          "text": "Are less expensive to manufacture than film with a single layer of emulsion",
+          "answer": "False",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "stem": "Concerning silver halide emulsion",
+      "options": [
+        {
+          "response": "",
+          "text": "It is the halide that donates electrons when irradiated",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "It provides silver atoms for conversion to silver ions",
+          "answer": "False",
+          "explanation": "The reverse is true: the silver ions are converted to atoms, which provide the blackness within the final image"
+        },
+        {
+          "response": "",
+          "text": "It is unaffected by fixing agents during processing",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "It is insensitive to visible light",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "It consists of silver combined with one of the halogen elements",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "stem": "An air gap",
+      "options": [
+        {
+          "response": "",
+          "text": "Describes the distance between the patient and the X-ray focus",
+          "answer": "False",
+          "explanation": "It is the distance between the patient and the film"
+        },
+        {
+          "response": "",
+          "text": "Reduces contrast",
+          "answer": "False",
+          "explanation": "It improves contrast by reducing the amount of scattered radiation that is able to reach the film"
+        },
+        {
+          "response": "",
+          "text": "Reduces the dose",
+          "answer": "False",
+          "explanation": "As less of the primary radiation reaches the film (as a result of the inverse square law), this requires an increase in the kV/mA to compensate"
+        },
+        {
+          "response": "",
+          "text": "Will cause magnification of the final image",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Is an alternative to using a grid",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "stem": "Scatter may be reduced by",
+      "options": [
+        {
+          "response": "",
+          "text": "Tissue compression",
+          "answer": "True",
+          "explanation": "There is less tissue that can act to scatter the radiation"
+        },
+        {
+          "response": "",
+          "text": "Increasing the kV",
+          "answer": "False",
+          "explanation": "Increasing the kV means that any scattered radiation is more penetrating and may reach the film"
+        },
+        {
+          "response": "",
+          "text": "Increasing the distance between the patient and the film",
+          "answer": "True",
+          "explanation": "This is known as an air gap"
+        },
+        {
+          "response": "",
+          "text": "Placing a grid between the X-ray focus and the patient",
+          "answer": "False",
+          "explanation": "Although grids are used to reduce scatter, they are placed between the patient and the film"
+        },
+        {
+          "response": "",
+          "text": "Using collimation",
+          "answer": "True",
+          "explanation": "This reduces the amount of tissue being irradiated and so reduces scatter"
+        }
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "stem": "Concerning grids",
+      "options": [
+        {
+          "response": "",
+          "text": "They may be focused or unfocused",
+          "answer": "True",
+          "explanation": "This describes the orientation of the lead strips in relation to the path of the X-ray beam. As X-rays are divergent from their source, focused grids have their strips tilted to allow more of the primary radiation to pass through the grid"
+        },
+        {
+          "response": "",
+          "text": "They may produce artefacts on the final image",
+          "answer": "True",
+          "explanation": "Shadows from the lead strips may be superimposed on the final image"
+        },
+        {
+          "response": "",
+          "text": "Stationary grids are commonly employed",
+          "answer": "False",
+          "explanation": "As described above, shadows may be projected onto the final image. This effect may be reduced by using moving grids, which oscillate during the exposure. These are more commonly used than stationary grids"
+        },
+        {
+          "response": "",
+          "text": "The higher the grid factor, the greater the exposure required to produce a film of the same radiographic density",
+          "answer": "True",
+          "explanation": "This is a ratio of the exposures required with and without a grid"
+        },
+        {
+          "response": "",
+          "text": "The effect of grids on scatter depends mainly on the grid ratio",
+          "answer": "True",
+          "explanation": "The grid ratio describes the effect of the grid in reducing scatter. The higher the grid ratio, the more scatter will be removed"
+        }
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "stem": "Concerning screens",
+      "options": [
+        {
+          "response": "",
+          "text": "The intensification factor (IF) describes the reduction in exposure when using a screen",
+          "answer": "True",
+          "explanation": "It is a ratio of the exposure without a screen compared with the exposure with a screen"
+        },
+        {
+          "response": "",
+          "text": "Using smaller crystals increases the screen speed",
+          "answer": "False",
+          "explanation": "It decreases the screen speed"
+        },
+        {
+          "response": "",
+          "text": "The IF is not directly related to the kV",
+          "answer": "True",
+          "explanation": "It is a property of the screen"
+        },
+        {
+          "response": "",
+          "text": "Screen speed is related to the conversion efficiency of the phosphor",
+          "answer": "True",
+          "explanation": "A better conversion efficiency will increase the speed"
+        },
+        {
+          "response": "",
+          "text": "Screen speed is decreased with the rare earth metals",
+          "answer": "False",
+          "explanation": "It is increased, as they have K-edges, which are in the spectrum of the mean photon energy, thus increasing the photoelectric effect"
+        }
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "stem": "The following improve contrast",
+      "options": [
+        {
+          "response": "",
+          "text": "Collimation",
+          "answer": "True",
+          "explanation": "Collimation improves contrast by reducing scatter"
+        },
+        {
+          "response": "",
+          "text": "A higher kV",
+          "answer": "False",
+          "explanation": "Higher kV means there is more scatter and less difference in absorption between tissues"
+        },
+        {
+          "response": "",
+          "text": "Reduced beam filtration (for a given kV)",
+          "answer": "True",
+          "explanation": "This is due to a reduction of the overall mean energy of the X-ray beam"
+        },
+        {
+          "response": "",
+          "text": "Films with higher gamma",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "The use of contrast media",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "stem": "Concerning entrance surface doses (ESDs) in adults (national diagnostic reference levels, 2007)",
+      "options": [
+        {
+          "response": "",
+          "text": "Chest posterior–anterior (PA) radiograph = 0.2 mGy",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Abdominal radiograph = 2 mGy",
+          "answer": "False",
+          "explanation": "It is 6 mGy"
+        },
+        {
+          "response": "",
+          "text": "A lumbar spine anterior–posterior (AP) radiograph is greater than a pelvis AP radiograph",
+          "answer": "True",
+          "explanation": "(6 mGy versus 4 mGy)"
+        },
+        {
+          "response": "",
+          "text": "Imaging the vertebral column typically requires a greater dose for the AP view compared with the lateral (LAT) view",
+          "answer": "False",
+          "explanation": "The reverse is true and is related to the amount of tissue that the X-ray beam needs to pass through"
+        },
+        {
+          "response": "",
+          "text": "A LAT view of the skull is greater than a PA view",
+          "answer": "False",
+          "explanation": "The skull has a greater sagittal length than coronal length"
+        }
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "stem": "Factors that reduce the dose to the patient include",
+      "options": [
+        {
+          "response": "",
+          "text": "Increased filtration",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Reduced collimation",
+          "answer": "False",
+          "explanation": "Better collimation prevents unnecessary exposure to tissues and also acts to reduce scatter"
+        },
+        {
+          "response": "",
+          "text": "Using a grid with paediatric patients",
+          "answer": "False",
+          "explanation": "As younger patients are smaller, a lower kV may be used and so scatter will be less and grids can be avoided. Because grids reduce the intensity of the main radiation beam, a grid will result in an increased dose to the patient by increasing the required mA"
+        },
+        {
+          "response": "",
+          "text": "Using an intensifying screen",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Increasing the X-ray focus-to-patient distance",
+          "answer": "True",
+          "explanation": "However, this can lead to a reduction in magnification"
+        }
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "stem": "Increasing the tube potential",
+      "options": [
+        {
+          "response": "",
+          "text": "Improves film contrast",
+          "answer": "False",
+          "explanation": "It decreases film contrast by reducing the probability of photoelectric absorption in tissues and increasing the scattered radiation contributing to the final image"
+        },
+        {
+          "response": "",
+          "text": "Increases the dose to the patient",
+          "answer": "False",
+          "explanation": "The beam is more penetrating; therefore, less radiation is required to produce an adequate image"
+        },
+        {
+          "response": "",
+          "text": "Reduces the exposure time",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "response": "",
+          "text": "Increases geometric unsharpness",
+          "answer": "False",
+          "explanation": "It has no effect"
+        },
+        {
+          "response": "",
+          "text": "Has no effect on motion unsharpness",
+          "answer": "False",
+          "explanation": "Using a higher kV reduces the required exposure time so it can indirectly reduce motion unsharpness"
+        }
+      ]
+    }
+  ]
+
+}
