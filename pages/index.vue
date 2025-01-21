@@ -3,13 +3,13 @@ const collection = [
   {
     type: "Clinical Radiology",
     books: [
-      // {
-      //   title: "Marrow QBank 2024",
-      //   slug: "marrow-qbank",
-      //   edition: "2024",
-      //   color: "green",
-      //   type: "",
-      // },
+      {
+        title: "Marrow QBank 2024",
+        slug: "marrow-qbank",
+        edition: "2024 Edition",
+        color: "green",
+        type: "sbas",
+      },
       {
         title:
           "FRCR Part 2a: Single Best Answer (Sba) Questions for the New Format",
@@ -60,12 +60,26 @@ const collection = [
     type: "Anatomy & Physics",
     books: [
       {
+        title: "Get Through First FRCR: MCQs for the Physics Module",
+        slug: "get-through-first-frcr",
+        edition: 1,
+        color: "violet",
+        type: "mcqs",
+      },{
+        title: "MCQs for the First FRCR",
+        slug: "mcqs-for-the-first-frcr",
+        edition: 1,
+        color: "pink",
+        type: "mcqs",
+      },
+      {
         title: "FRCR Physics MCQs in Clinical Radiology",
         slug: "frcr-physics-mcqs-in-clinical-radiology",
         edition: 1,
         color: "gray",
         type: "mcqs",
-      }, {
+      },
+      {
         title: "Physics MCQs for the Part 1 FRCR",
         slug: "physics-mcqs-for-the-part-1-frcr",
         edition: 1,

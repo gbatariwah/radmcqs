@@ -1,0 +1,1048 @@
+{
+  name: "Get Through First FRCR: MCQs for the Physics Module",
+  authors: "Andrew Baird, Grant Mair, Andrew Nisbet,",
+  slug: "radionuclide-imaging",
+  questions: [
+    {
+      "questionNumber": 1,
+      "stem": "Regarding radioactivity",
+      "options": [
+        {
+          "text": "All stable nuclei have equal numbers of protons and neutrons",
+          "response": "",
+          "answer": "False",
+          "explanation": "This is mostly true for light nuclei, except hydrogen. Heavy stable nuclei have an excess of neutrons; for example, those with atomic numbers greater than that of calcium (Z = 20) have more neutrons than protons. Also, not all isotopes with equal numbers are stable; F-18 used in PET scanning has nine protons and nine neutrons"
+        },
+        {
+          "text": "Isotopes are nuclides of the same element which have differing numbers of neutrons",
+          "response": "",
+          "answer": "True",
+          "explanation": "The element is characterized by the number of protons in the nucleus"
+        },
+        {
+          "text": "Radionuclides are by definition unstable",
+          "response": "",
+          "answer": "True",
+          "explanation": "They achieve stability through decay"
+        },
+        {
+          "text": "Most radioactive substances occur naturally",
+          "response": "",
+          "answer": "False",
+          "explanation": "Approximately 2700 are known, most of which are man-made"
+        },
+        {
+          "text": "The Systèm International (SI) unit of radioactivity is the becquerel (Bq)",
+          "response": "",
+          "answer": "True",
+          "explanation": "1 Bq = 1 disintegration per second"
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "stem": "Concerning isotopes",
+      "options": [
+        {
+          "text": "Radionuclides occur naturally and are present in the body at all times",
+          "response": "",
+          "answer": "True",
+          "explanation": "Potassium-40 is present within our food and thus our bodies, and contributes approximately 7% of our average background radiation"
+        },
+        {
+          "text": "They will always have the same position in the periodic table",
+          "response": "",
+          "answer": "True",
+          "explanation": "With the same atomic number they are nuclides of the same element; this infers they also share chemical properties"
+        },
+        {
+          "text": "The atomic mass number is the same for all isotopes of a given element",
+          "response": "",
+          "answer": "False",
+          "explanation": "All isotopes of the same element have an equal atomic number. The atomic mass number defines different isotopes"
+        },
+        {
+          "text": "Neutron deficit is defined as a nucleus with fewer neutrons than protons",
+          "response": "",
+          "answer": "False",
+          "explanation": "A neutron deficit is where an isotope could move to a lower energy level by increasing the number of neutrons or decreasing the number of protons. This may occur in an atom with fewer neutrons than protons, but hydrogen would be an example of a stable element with fewer neutrons that is not in neutron deficit"
+        },
+        {
+          "text": "99Technetium (Tc-99) has a physical half-life of 6 hours",
+          "response": "",
+          "answer": "False",
+          "explanation": "Tc-99 has a half-life of 200,000 years. Tc-99m has a half-life of 6 hours"
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "stem": "Radioactive decay",
+      "options": [
+        {
+          "text": "Can occur in nuclides with either a neutron excess or a neutron deficit",
+          "response": "",
+          "answer": "True",
+          "explanation": "With a neutron excess, the nuclide will undergo β– decay; with a neutron deficit, positron emission or electron capture can occur"
+        },
+        {
+          "text": "In b2 decay, the mass of the nuclide is unchanged but the atomic number will have increased",
+          "response": "",
+          "answer": "True",
+          "explanation": "An extra neutron in the nucleus has been transformed into a proton (increased atomic number) and a negatively charged β particle is emitted"
+        },
+        {
+          "text": "Isomeric transition means only the energy state of the nuclide changes",
+          "response": "",
+          "answer": "True",
+          "explanation": "Following β– decay the nucleus may be in a higher energy state. If this is not released immediately, then the nucleus is said to be metastable and will de-energize at a later stage through the release of a gamma ray"
+        },
+        {
+          "text": "A neutron deficit can be balanced by combining a K-shell electron with a proton to create an extra neutron",
+          "answer": "True",
+          "explanation": "This is known as electron capture and leads to the release of\ncharacteristic radiation as the hole in the K-shell is filled from one of\nthe outer shells"
+        },
+        {
+          "text": "Emitted gamma rays will vary in their energy from different atoms of the same radionuclide",
+          "answer": "False",
+          "explanation": "Gamma rays have characteristic energy for a given radionuclide. Beta\nrays are emitted with a spectrum of energy up to Emax, which is\ncharacteristic for the radionuclide"
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "stem": "In radioactive decay of a nucleus the following result in a decrease in atomic mass number",
+      "options": [
+        {
+          "text": "K-shell capture",
+          "response": "",
+          "answer": "False",
+          "explanation": "K-shell capture is an example of neutron deficit decay where a proton captures an electron from the K-shell to convert into a neutron. P + e– = N. The atomic number has decreased, but the atomic mass number has remained the same"
+        },
+        {
+          "text": "Positron emission",
+          "response": "",
+          "answer": "False",
+          "explanation": "Positron emission is an example of neutron deficit decay, where the proton emits a positron to give off its charge and convert to a neutron. P = N + β+. The atomic number has decreased, but the atomic mass number has remained the same"
+        },
+        {
+          "text": "Alpha particle emission",
+          "response": "",
+          "answer": "True",
+          "explanation": "An alpha particle is two protons and two neutrons. This reduces the atomic number of the atom by two and the atomic mass number by four"
+        },
+        {
+          "text": "Beta particle emission",
+          "response": "",
+          "answer": "False",
+          "explanation": "β– emission is an example of proton deficit decay where a neutron emits its charge in the form of an electron. N = P + e–. The atomic number has increased, but the atomic mass number has remained the same. Positron emission is another type of beta emission"
+        },
+        {
+          "text": "Isomeric transition",
+          "response": "",
+          "answer": "False",
+          "explanation": "Isomeric transition is the emission of a gamma ray from a metastable isomer, such as Tc-99m. As no particle is emitted, both the atomic number and atomic mass number remain the same"
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "stem": "Regarding positrons",
+      "options": [
+        {
+          "text": "A positron has an identical charge to a proton",
+          "response": "",
+          "answer": "True",
+          "explanation": "Both positrons and protons have identical positive charge"
+        },
+        {
+          "text": "A positron has an identical mass to a photon",
+          "response": "",
+          "answer": "False",
+          "explanation": "Positrons have very little mass compared to protons, being equal to electrons in mass. A photon can be considered to have no mass"
+        },
+        {
+          "text": "Positrons are captured by the positron emission tomography (PET) scanner detector array to produce a three-dimensional (3D) map of nucleus decay",
+          "response": "",
+          "answer": "False",
+          "explanation": "A positron collides with and annihilates an electron, producing two gamma rays of 511 keV travelling in opposite directions. The PET scanner detects these gamma rays"
+        },
+        {
+          "text": "Positrons are an example of b emission",
+          "response": "",
+          "answer": "True",
+          "explanation": "Both positrons and electrons are beta particles, sometimes labelled as β+ and β– respectively"
+        },
+        {
+          "text": "Positrons are likely to be emitted by a nucleus with a proton deficit",
+          "response": "",
+          "answer": "False",
+          "explanation": "Positrons can be emitted when a proton converts to a neutron, a type of decay in a neutron deficit atom"
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "stem": "Regarding half-life",
+      "options": [
+        {
+          "text": "Radioactive decay is a predictable process; it can be calculated when a given atom will undergo transformation",
+          "response": "",
+          "answer": "False",
+          "explanation": "Decay does occur predictably, but by the laws of chance, i.e. it is known how long a proportion of the atoms in a sample will take to decay but not in which individual atoms this will occur"
+        },
+        {
+          "text": "Decay occurs linearly",
+          "response": "",
+          "answer": "False",
+          "explanation": "It occurs exponentially; over a given time (half-life) half of the atoms in a sample will have transformed, over the same subsequent time period the sample will have again reduced by half, etc"
+        },
+        {
+          "text": "In clinical use of radionuclides, only the physical half-life is important",
+          "response": "",
+          "answer": "False",
+          "explanation": "The physical half-life (tphys) only accounts for the decay of the radionuclide. When a radionuclide is attached to a pharmaceutical and injected into a patient, we must also consider how this compound is removed from the body (biological half-life, tbiol)"
+        },
+        {
+          "text": "If the physical half-life is 6 hours and the biological half-life is 3 hours, in 6 hours the total activity of a radiopharmaceutical will have fallen by a factor of 8",
+          "response": "",
+          "answer": "False",
+          "explanation": "Using the formula 1/teff = 1/tbiol + 1/tphys we calculate the effective half-life (teff) to be 2 hours in this example. In 6 hours therefore the total activity will have reduced by 8 (2^3)"
+        },
+        {
+          "text": "In clinical use a half-life of several days is desirable",
+          "response": "",
+          "answer": "False",
+          "explanation": "Ideally the half-life should approximate the length of the test undertaken. If the radionuclide is active in the patient for a long time after sampling is completed then they have received an unnecessary dose"
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "stem": "Concerning the decay of radionuclides",
+      "options": [
+        {
+          "text": "When I-131 decays to Xe-131 a positive beta particle is released",
+          "response": "",
+          "answer": "False",
+          "explanation": "I-131 has a neutron excess and decays to Xe-131 by releasing a proton and a negative beta particle"
+        },
+        {
+          "text": "Molybdenum-99 (Mo-99) decays by isomeric transition into 99Technetium metastable (Tc-99m)",
+          "response": "",
+          "answer": "False",
+          "explanation": "Mo-99 decays to form Tc-99m, which is a metastable radioisotope that undergoes isomeric transition"
+        },
+        {
+          "text": "Positrons emitted by the decay of Flourine-18 (F-18) have energy of approximately 511 keV",
+          "response": "",
+          "answer": "False",
+          "explanation": "The energy of positrons depends on the radionuclide. They are positive electrons which travel about 2 mm in tissue before colliding with a negative free electron. This results in the release of 2 photons at 180° trajectories, each with an energy of approximately 511 keV"
+        },
+        {
+          "text": "It is possible for radiopharmaceuticals labelled with Tc-99m to have an effective half-life of over 24 hours",
+          "response": "",
+          "answer": "False",
+          "explanation": "The effective half-life cannot be greater than the physical half-life, which in the case of Tc-99m is 6 hours"
+        },
+        {
+          "text": "Activity of a radionuclide is described by the number of nuclei decaying per second",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is the definition of the SI unit of radioactivity, the becquerel (Bq)"
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "stem": "Radionuclides",
+      "options": [
+        {
+          "text": "Are generally safe to be injected directly into the patient",
+          "response": "",
+          "answer": "False",
+          "explanation": "Radionuclides are attached to pharmaceuticals to create compounds\ncalled radiopharmaceuticals. Ideally these should localize in the tissue of\ninterest, be eliminated from the body with a half-life similar to the\nlength of the study, and have a low toxicity."
+        },
+        {
+          "text": "Ideally emit alpha particles when used in a clinical setting",
+          "response": "",
+          "answer": "False",
+          "explanation": "Alpha particles have a very short range in tissue, meaning they would not\nescape the patient; this would make detection difficult and transfer a\nvery high dose to the patient. Ideally a radiopharmaceutical would emit\ngamma rays"
+        },
+        {
+          "text": "For medical use can be created locally in a cyclotron",
+          "response": "",
+          "answer": "True",
+          "explanation": "F-18 with a half-life of 110 min is produced this way"
+        },
+        {
+          "text": "That are isotopes of their parent nuclide are easily separated for clinical use",
+          "answer": "False",
+          "explanation": "As they are isotopes they have the same chemical and metabolic\nproperties; this makes separation of a pure radionuclide difficult"
+        },
+        {
+          "text": "Are not radioactive until they are injected into the patient",
+          "answer": "False",
+          "explanation": "They should always be handled with care, e.g. lead shielded containers\nand syringes, prepared behind a lead screen"
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "stem": "Concerning the production of radionuclides",
+      "options": [
+        {
+          "text": "Mo-99 is manufactured in a cyclotron",
+          "response": "",
+          "answer": "False",
+          "explanation": "Mo-99 is manufactured in a nuclear reactor by adding an extra neutron to the nucleus and creating a neutron excess. In a cyclotron, a proton is accelerated into a stable nucleus, forcing out a neutron and creating a neutron deficit"
+        },
+        {
+          "text": "Creating a radionuclide with a neutron deficit does not change the atomic number",
+          "response": "",
+          "answer": "False",
+          "explanation": "The atomic number increases by 1"
+        },
+        {
+          "text": "Radionuclides for use in medical imaging can be obtained from spent fuel rods from industrial nuclear reactors",
+          "response": "",
+          "answer": "True",
+          "explanation": "Mo-99 can be collected in this manner"
+        },
+        {
+          "text": "F-18 has a half-life of 2 days",
+          "response": "",
+          "answer": "False",
+          "explanation": "F-18 has a half-life of 110 min. It is used in PET scanning"
+        },
+        {
+          "text": "Tc-99m has a half-life of 200 000 years",
+          "response": "",
+          "answer": "False",
+          "explanation": "Tc-99m is a metastable isotope with a half-life of 6 hours. It decays to Tc-99 which has a half-life of 200,000 years"
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "stem": "Concerning radiopharmaceuticals",
+      "options": [
+        {
+          "text": "The biological half-life of the pharmaceutical tagged with the radioisotope should never be longer than 60 min",
+          "response": "",
+          "answer": "True",
+          "explanation": "The effective half-life is the result of both the physical decay of the isotope and the biological excretion of the radiopharmaceutical"
+        },
+        {
+          "text": "The generator for manufacturing Tc-99m has to be replaced once a month",
+          "response": "",
+          "answer": "False",
+          "explanation": "The reciprocal of the effective half-life is equal to the reciprocal of the physical half-life plus the reciprocal of the biological half-life: 1/t eff = 1/t phys + 1/t biol"
+        },
+        {
+          "text": "Tc-99m is used widely in radionuclide imaging because it can be tagged to a variety of compounds and is a pure beta emitter",
+          "response": "",
+          "answer": "True",
+          "explanation": "This energy level is high enough to leave the patient, but not so high that detection is difficult"
+        },
+        {
+          "text": "Patients often self-inject radiopharmaceuticals to reduce radiation dose to staff",
+          "response": "",
+          "answer": "True",
+          "explanation": "Alpha and beta particles lack the penetration to leave the patient and have a high linear energy transfer and so are more biologically damaging to the patient for no diagnostic advantage. In particular, alpha emitters should always be avoided due to their very high relative biological effectiveness (RBE)"
+        },
+        {
+          "text": "Only an Administration of Radioactive Substances Advisory Committee (ARSAC) certificate holder can handle and administer radiopharmaceuticals",
+          "response": "",
+          "answer": "True",
+          "explanation": "This helps to reduce exposure to the bladder and surrounding tissues. Obviously in a study to show reflux into the kidneys where the bladder needs to be full, this advice would not be given until after the scan"
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "stem": "Radiopharmaceuticals",
+      "options": [
+        {
+          "text": "The effective half-life is always shorter than the physical half-life",
+          "response": "",
+          "answer": "False",
+          "explanation": "The biological half-life depends on the rate of metabolism and excretion of the substance. There are no exact limits. It needs to be long enough to enable a suitable diagnostic investigation, but as short as possible to reduce patient dose"
+        },
+        {
+          "text": "The effective half-life is the product of the physical half-life and the biological half-life",
+          "response": "",
+          "answer": "False",
+          "explanation": "The parent compound of Tc-99m is Mo-99, which has a half-life of 67 hours. The activity therefore diminishes at a rate that requires the generator to be replaced once every week"
+        },
+        {
+          "text": "A diagnostic radiopharmaceutical should ideally emit monoenergetic gamma rays of 50 – 300 keV",
+          "response": "",
+          "answer": "False",
+          "explanation": "Tc-99m is used widely because it can be tagged to a variety of compounds and because it is a pure gamma emitter"
+        },
+        {
+          "text": "A diagnostic radiopharmaceutical should ideally not emit alpha or beta particles",
+          "response": "",
+          "answer": "False",
+          "explanation": "That would be bad practice! Lead-lined syringes are used to reduce dose to staff"
+        },
+        {
+          "text": "For intravenous radiopharmaceuticals, patients are normally advised to empty their bladders frequently",
+          "response": "",
+          "answer": "False",
+          "explanation": "An ARSAC certificate is required for individual doctors who are permitted to undertake radionuclide imaging studies. However, the ARSAC certificate holder may authorize other suitably qualified individuals to prepare and administer the radiopharmaceuticals on their behalf"
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "stem": "Tc-99m",
+      "options": [
+        {
+          "text": "Has an atomic number of 99",
+          "response": "",
+          "answer": "False",
+          "explanation": "This is the mass number. Its atomic number is 43"
+        },
+        {
+          "text": "Is created from Mo-99 when it undergoes b2 decay",
+          "response": "",
+          "answer": "True",
+          "explanation": "This occurs in a technetium generator with a half-life of 67 hours"
+        },
+        {
+          "text": "Decays to its isomer Tc-99 with a half-life of 6 hours and the release of a 140 keV gamma ray",
+          "response": "",
+          "answer": "True",
+          "explanation": "These features make it very useful clinically"
+        },
+        {
+          "text": "Is stable once it has undergone isomeric transition",
+          "response": "",
+          "answer": "False",
+          "explanation": "Tc-99 has a very long half-life (200,000 years) and is not therefore stable"
+        },
+        {
+          "text": "May be used in both dimercaptosuccinic acid (DMSA) and mercaptoacetyl triglycine (MAG3) renal scanning",
+          "response": "",
+          "answer": "True",
+          "explanation": "It can also be used in imaging the brain, heart, lung ventilation, biliary tree, liver, bony skeleton, spleen, etc"
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "stem": "Regarding the gamma camera used for planar imaging",
+      "options": [
+        {
+          "text": "Simultaneously creates images of radioactive distribution in many planes",
+          "response": "",
+          "answer": "False",
+          "explanation": "Planar implies the image is captured in only one plane; compare this with tomography using radionuclides, e.g. in SPECT and PET"
+        },
+        {
+          "text": "They can only detect gamma radiation",
+          "response": "",
+          "answer": "False",
+          "explanation": "A gamma camera is merely a crystal of NaI which has luminescent properties; other forms of radiation will stimulate it, but the PHA limits their inclusion in the image if they are not of the expected energy"
+        },
+        {
+          "text": "Sodium iodide (NaI) is sensitive to the gamma radiation of Tc-99m",
+          "response": "",
+          "answer": "True",
+          "explanation": "This makes it suitable for use in gamma cameras used clinically, but other scintillants could be used"
+        },
+        {
+          "text": "The position of an incident gamma photon in the camera crystal is determined by a few large photomultiplier tubes",
+          "response": "",
+          "answer": "False",
+          "explanation": "There are around 100 photomultipliers; these determine the position and intensity of incident radiation"
+        },
+        {
+          "text": "A photomultiplier transforms light photons into electrons which can be read as an electrical signal that represents light intensity",
+          "response": "",
+          "answer": "True",
+          "explanation": "5-10 light photons create a single electron; this is amplified around a million times to create a pulse of electricity that can be measured. The magnitude of this pulse is proportional to the energy of the original gamma ray"
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "stem": "Concerning the structure and function of a gamma camera",
+      "options": [
+        {
+          "text": "The lead collimator contains septa that are 3 mm thick",
+          "response": "",
+          "answer": "False",
+          "explanation": "The septa are typically 0.3 mm thick. The half-value layer of lead for Tc-99m is 0.3 mm"
+        },
+        {
+          "text": "The detector array consists of multiple small NaI phosphor crystals coalesced into one",
+          "response": "",
+          "answer": "False",
+          "explanation": "There is one large NaI crystal, which is typically 9-12 mm thick"
+        },
+        {
+          "text": "Ideally patients should be situated a few metres from the crystal to reduce photon divergence",
+          "response": "",
+          "answer": "False",
+          "explanation": "Patients should be as close as possible to the crystal to maximize the radiation detected"
+        },
+        {
+          "text": "Photomultipliers are used to increase the intensity of the light photon emitted by the crystal",
+          "response": "",
+          "answer": "False",
+          "explanation": "The light photon strikes a photocathode which causes the release of an electron. This electron is then amplified through a series of dynodes in a photomultiplier to produce a recordable voltage"
+        },
+        {
+          "text": "The use of a divergent hole collimator enables a larger field of view (FOV)",
+          "response": "",
+          "answer": "True",
+          "explanation": "It has the effect of minimizing the image allowing a smaller camera to be used"
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "stem": "The gamma camera",
+      "options": [
+        {
+          "text": "The collimator is used to reduce scatter from the patient",
+          "response": "",
+          "answer": "False",
+          "explanation": "The collimator acts to ensure that the majority of the photons that pass through are travelling parallel to the direction of the columns. This is the closest thing possible to a usable lens, and without the collimator the image would be considerably more blurred"
+        },
+        {
+          "text": "The NaI crystal is entirely covered in aluminium on all sides to prevent light entry",
+          "response": "",
+          "answer": "False",
+          "explanation": "The NaI crystal is normally covered by aluminium on all sides apart from the side of the photomultiplier tubes. If it was covered on all sides it would not be possible to detect the light emitted following detection of a gamma photon"
+        },
+        {
+          "text": "A typical flash from a gamma photon would release in the order of 500 light photons",
+          "response": "",
+          "answer": "False",
+          "explanation": "Typically around 5000 light photons are released"
+        },
+        {
+          "text": "The photomultiplier tube contains a series of dynodes at increasing positive potentials",
+          "response": "",
+          "answer": "True",
+          "explanation": "A single electron is released from the photocathode for every 5-10 light photons. These electrons are then accelerated through a succession of dynodes to release increasing numbers of electrons, until the final pulse received at the anode is approximately 106 times greater than the initial pulse from the photocathode"
+        },
+        {
+          "text": "The pulse height analyser (PHA) rejects any signals that do not fall within set limits",
+          "response": "",
+          "answer": "True",
+          "explanation": "The PHA rejects pulses outside the photo peak as they are more likely to come from scattered radiation that would reduce the contrast of the final image"
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "stem": "Concerning the pulse height analyser (PHA)",
+      "options": [
+        {
+          "text": "Scattered gamma rays will always be rejected by the PHA",
+          "response": "",
+          "answer": "False",
+          "explanation": "If the scattered rays create a pulse which falls within the PHA window then they may be registered"
+        },
+        {
+          "text": "Pulse height is inversely proportional to the photon energy",
+          "response": "",
+          "answer": "False",
+          "explanation": "The greater the photon energy striking the photocathode, the greater the pulse height produced from the photomultiplier"
+        },
+        {
+          "text": "The sensitivity of the examination is increased by reducing the PHA window",
+          "response": "",
+          "answer": "False",
+          "explanation": "Increasing the PHA window will increase the sensitivity but reduce spatial resolution due to increased scatter in the image"
+        },
+        {
+          "text": "Multiple PHA windows may be used",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is required when more than one energy of gamma ray is emitted, e.g. In-111"
+        },
+        {
+          "text": "Pulses with energies of +30% of the photo peak are normally allowed through",
+          "response": "",
+          "answer": "False",
+          "explanation": "The window is usually set to +10%"
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "stem": "Collimators, spatial resolution and sensitivity",
+      "options": [
+        {
+          "text": "A collimator with more and smaller holes will increase sensitivity",
+          "response": "",
+          "answer": "False",
+          "explanation": "More and smaller holes will exclude more incoming gamma photons from the patient, and thus the sensitivity will decrease"
+        },
+        {
+          "text": "A collimator with more and smaller holes will improve spatial resolution",
+          "response": "",
+          "answer": "True",
+          "explanation": "More and smaller holes will limit the angle the gamma photons can travel through the collimator at, and thus improve the spatial resolution"
+        },
+        {
+          "text": "A convergent hole collimator may be used for small organs and children",
+          "response": "",
+          "answer": "True",
+          "explanation": "This allows a larger detector to be used than the imaged organ, which essentially magnifies the image. Obviously this is only possible if the organ is smaller than the detector"
+        },
+        {
+          "text": "The sensitivity of a typical collimator is only in the region of 20 – 30%",
+          "response": "",
+          "answer": "False",
+          "explanation": "Typical sensitivity of a collimator is less than 1%"
+        },
+        {
+          "text": "It is not possible to have maximum sensitivity and maximum spatial resolution using the same collimator",
+          "response": "",
+          "answer": "True",
+          "explanation": "A high sensitivity collimator uses larger holes to allow more photons through resulting in a poorer resolution, and vice versa"
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "stem": "SPECT",
+      "options": [
+        {
+          "text": "Is an acronym for single photon emission computed tomography",
+          "response": "",
+          "answer": "True",
+          "explanation": "Use of the word single differentiates SPECT from the other 3D modality using radionuclides, i.e. PET (where two coincident photon emissions are detected)"
+        },
+        {
+          "text": "Measures gamma rays released from the annihilation of positrons",
+          "response": "",
+          "answer": "False",
+          "explanation": "This is the source of gamma photons detected in PET. SPECT measures gamma rays released from the decay of radioisotopes, i.e. the same ones detected in regular gamma imaging"
+        },
+        {
+          "text": "Employs a rotating gamma camera(s) to analyse emissions from the patient",
+          "response": "",
+          "answer": "True",
+          "explanation": "Compare this with PET, which has a ring of stationary detectors"
+        },
+        {
+          "text": "Multiple axial sections are created simultaneously from one gamma camera",
+          "response": "",
+          "answer": "True",
+          "explanation": "The width of the camera in the z-direction is divided into equal sections; each section represents an image slice"
+        },
+        {
+          "text": "Uses a continuously rotating gamma camera which takes measurements in one-degree increments around the patient",
+          "response": "",
+          "answer": "False",
+          "explanation": "Due to the low numbers of photons involved in image formation, the gamma camera will remain stationary for up to 30 sec. Typically images are collected in 68 increments"
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "stem": "Regarding the gamma camera images",
+      "options": [
+        {
+          "text": "Spatial resolution is increased by using a thinner crystal",
+          "response": "",
+          "answer": "True",
+          "explanation": "This reduces the distance the photon travels before reaching the photomultiplier and therefore improves intrinsic resolution. The sensitivity is reduced, however, when using a thinner crystal"
+        },
+        {
+          "text": "The spatial resolution of a gamma image is similar to that of a 10 mm slice CT scan",
+          "response": "",
+          "answer": "False",
+          "explanation": "With a planar image, the typical spatial resolution is 5 mm. A CT scan image has considerably higher resolution, generally about 6 lp/cm but up to 20 lp/cm for smaller FOV. 6 lp/cm is equivalent to a pixel size of about 0.85 mm"
+        },
+        {
+          "text": "Signal to noise ratio (SNR) is increased by using a high resolution collimator",
+          "response": "",
+          "answer": "False",
+          "explanation": "Noise is the greatest limiting factor of gamma camera images. High resolution collimators improve spatial resolution but at the expense of sensitivity. The proportion of quantum noise increases and SNR is reduced"
+        },
+        {
+          "text": "SPECT images typically have a spatial resolution of 15–20 mm",
+          "response": "",
+          "answer": "True",
+          "explanation": "SPECT is predominantly used to evaluate organ function rather than fine anatomical detail"
+        },
+        {
+          "text": "Filtered back projection is used when reconstructing SPECT images",
+          "response": "",
+          "answer": "True",
+          "explanation": "It is a key component of the reconstruction process"
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "stem": "Image quality in SPECT",
+      "options": [
+        {
+          "text": "The smallest detail resolvable is around 20 mm",
+          "response": "",
+          "answer": "True",
+          "explanation": "The low number of photons involved and the consequent problems with noise in the image necessitate a larger-sized picture element than might otherwise be possible; as always there is a balance between spatial resolution and noise"
+        },
+        {
+          "text": "Quality control will ensure that gamma camera count rate sensitivity does not vary by more than 20%",
+          "response": "",
+          "answer": "False",
+          "explanation": "Gamma cameras are tested for uniformity using a flood field; this should produce a uniform response across the camera. Variations of up to 2% are accepted; this is true for stationary and rotating cameras"
+        },
+        {
+          "text": "Resolution is worse for organs at depth",
+          "response": "",
+          "answer": "True",
+          "explanation": "With further to travel in tissue, gamma photons from deep organs undergo more attenuation. With more scatter and fewer photons in each picture element there is lower resolution. An attempt is usually made to correct for this"
+        },
+        {
+          "text": "Patient movement is not a problem due to the speed of gamma rays in air",
+          "response": "",
+          "answer": "False",
+          "explanation": "Each gamma photon will effectively be detected instantaneously. The problem is that scans can take a long time to complete. Movement unsharpness will be affected by these lengthy scan times, but due to the intrinsically poor spatial resolution, is not likely to be apparent in the final image unless there were very significant patient movement during the scan"
+        },
+        {
+          "text": "Multiple camera heads can improve resolution",
+          "response": "",
+          "answer": "True",
+          "explanation": "With up to three gamma cameras detecting simultaneously, the requisite number of orientations are obtained up to three times as fast. This can reduce the effect of patient movement, or increase count rate for the same scan time. Both will lead to improved resolution in the image"
+        }
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "stem": "Regarding PET",
+      "options": [
+        {
+          "text": "It commonly uses fluorodeoxyglucose",
+          "response": "",
+          "answer": "True",
+          "explanation": "Also known as FDG. The fluorine nuclide F-18 is radioactive, with a half-life of only 110 min"
+        },
+        {
+          "text": "The radionuclide used decays by electron capture",
+          "response": "",
+          "answer": "False",
+          "explanation": "F-18 decays by releasing a positron. Note that both of these transformations occur due to a neutron deficit in the atom"
+        },
+        {
+          "text": "The gamma photons released will always be of the same energy regardless of the radionuclide used to produce them",
+          "response": "",
+          "answer": "True",
+          "explanation": "When a positron and electron annihilate, their combined mass is completely turned into energy (E = mc²). The mass of positrons and electrons is constant, so therefore is the energy of the gamma released (0.511 MeV). The source of the positron has no bearing on this"
+        },
+        {
+          "text": "Anatomic detail is high",
+          "response": "",
+          "answer": "False",
+          "explanation": "Structures which have very little or no FDG uptake will not be seen in a PET scan; many normal tissues therefore are not clearly represented. This is why PET is often fused with CT"
+        },
+        {
+          "text": "Patient dose is increased with longer scan times",
+          "response": "",
+          "answer": "False",
+          "explanation": "As for SPECT, PET scanning measures radiation emission. After the radionuclide is administered, the patient dose is entirely dependent on the half-life and clearance from the body. Neither of these factors is affected by the scan time"
+        }
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "stem": "PET",
+      "options": [
+        {
+          "text": "In a PET – CT scan the low dose CT scan is performed simply to enable anatomical correlation with the PET image",
+          "response": "",
+          "answer": "False",
+          "explanation": "The CT scan does allow for anatomical correlation but also enables attenuation corrections to be made on the PET images"
+        },
+        {
+          "text": "F-18 is an unstable nucleus with a neutron excess",
+          "response": "",
+          "answer": "False",
+          "explanation": "F-18 has a neutron deficit. During decay, a proton converts to a neutron with the release of a positron (positive electron)"
+        },
+        {
+          "text": "Bismuth germinate solid-state scintillation detectors are used because of their long decay time and high detection efficiency",
+          "response": "",
+          "answer": "False",
+          "explanation": "Bismuth germinate is used because of its short decay time (300 nsec). This allows for very rapid measurements and very little ‘dead time’"
+        },
+        {
+          "text": "Two detectors on opposite sides of the detector ring must register a photon at the same time for the event to be recorded",
+          "response": "",
+          "answer": "True",
+          "explanation": "The annihilation photons travel at almost 180° to each other and will register on diametrically opposite detectors practically simultaneously"
+        },
+        {
+          "text": "Scan acquisition time is approximately 30 min for a body PET –CT",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is a typical time of acquisition"
+        }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "stem": "PET scanner design",
+      "options": [
+        {
+          "text": "A ring of approximately 1000 NaI detectors surrounds the patient",
+          "response": "",
+          "answer": "False",
+          "explanation": "Bismuth germinate is used as it has a higher intrinsic efficiency for the higher energy photons used in PET; compare this to NaI used in lower energy SPECT. Current scanners have up to 30,000 detectors"
+        },
+        {
+          "text": "Each detector has only one ‘line of response’; that is with the detector directly opposite",
+          "response": "",
+          "answer": "False",
+          "explanation": "Each detector will have a ‘line of response’ with many opposing detectors. The area of the scan plane covered by these describes a fan shape. In addition, recent scanners allow lines of response to detectors in adjacent rings in the z-direction"
+        },
+        {
+          "text": "Photons detected within 1029 sec of each other are considered simultaneous",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is determined somewhat by the speed of the scanner electronics"
+        },
+        {
+          "text": "Time of flight PET improves image contrast",
+          "response": "",
+          "answer": "True",
+          "explanation": "Modern scanners are able to very precisely measure the time of photon detection. Time of flight PET uses minor time differences in detection to provide further position information; along a given line of response, the two gamma photons from positron annihilation will only truly arrive simultaneously if they arose at exactly the midpoint of the line. If the event occurred closer to one detector, that detector will receive the photon marginally sooner. Knowing the distance between detectors and the speed of photons allows that distance to be calculated. With better positioning, there is less blur in the reconstructed image"
+        },
+        {
+          "text": "3D acquisition improves sensitivity",
+          "response": "",
+          "answer": "True",
+          "explanation": "3D acquisition refers to the inclusion of coincident data between adjacent detector rings as well as those occurring in the plane of a single ring of detectors. For a given dose administered to the patient more events will be detected compared to 2D acquisition"
+        }
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "stem": "Image formation in PET",
+      "options": [
+        {
+          "text": "Is possible with detectors covering a 1808 arc over the patient",
+          "response": "",
+          "answer": "False",
+          "explanation": "Use of co-incident data requires that the patient is completely surrounded by detectors. CT and SPECT can function with only 180° of data acquisition"
+        },
+        {
+          "text": "The activity measured in each detector is plotted as a sine curve to create a composite sinogram for all the data in each slice",
+          "response": "",
+          "answer": "False",
+          "explanation": "The activity in each point source within the image plane (i.e. each x-, y-coordinate) can be represented as a sine curve. The data from all the point sources in that image plane create a sinogram – think of a rope composed of many sine curve fibres"
+        },
+        {
+          "text": "Uses filtered back projection",
+          "response": "",
+          "answer": "True",
+          "explanation": "Sinogram data are analysed this way"
+        },
+        {
+          "text": "Due to the duality of data acquisition, PET image reconstruction does not need to take account of tissue attenuation",
+          "response": "",
+          "answer": "False",
+          "explanation": "The combined distance travelled through tissue for the two photons in PET is the same whether they arise deep in the patient or more superficially, a result of travelling at 180° to one another. Unlike CT and SPECT there is no reduction in signal for deeper structures. A correction for whole body tissue attenuation does need to be made, however; this is achieved with a transmission scan"
+        },
+        {
+          "text": "Data acquired in two-dimensions (2D) cannot be used for 3D imaging",
+          "response": "",
+          "answer": "False",
+          "explanation": "2D acquisition means data are collected in one plane only (slices). As with CT this can be used to form 3D images"
+        }
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "stem": "Quality assurance in gamma imaging",
+      "options": [
+        {
+          "text": "Spatial resolution may be tested using a line source or a sheet source with a bar test pattern",
+          "response": "",
+          "answer": "True",
+          "explanation": "The line source gives information to produce a line spread function and thus an MTF. The Bar test pattern gives similar information to line pairs in conventional radiology"
+        },
+        {
+          "text": "An area of persistently high or low counts using flood field testing could indicate photomultiplier defect",
+          "response": "",
+          "answer": "True",
+          "explanation": "Slight changes in the amplification of photomultiplier tubes can lead to visible alteration of the image. This needs to be tested on a regular basis"
+        },
+        {
+          "text": "A linear defect in the image may represent a cracked NaI crystal",
+          "response": "",
+          "answer": "True",
+          "explanation": "This would indicate that the crystal would need to be replaced"
+        },
+        {
+          "text": "Persistently high count readings on all camera orientations may indicate contamination of the camera",
+          "response": "",
+          "answer": "True",
+          "explanation": "Contamination of radionuclide onto the gamma camera or collimator will result in higher counts being measured on all camera orientations, and lead to a reduction in the contrast of the image"
+        },
+        {
+          "text": "Collimators can be tested separately to determine its point spread function and modulation transfer function (MTF)",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is determined at different distances from the point source and can then be used to help calculate system resolution at different distances from a patient"
+        }
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "stem": "Dose",
+      "options": [
+        {
+          "text": "The organ absorbed dose depends on several factors including activity administered, fraction taken up by the organ, half-life of the radiopharmaceutical, energy and type of radiation and the length of scan time",
+          "response": "",
+          "answer": "False",
+          "explanation": "Length of scan time does not alter dose, as at the end of the scan there is no way to effectively remove the radiopharmaceutical. All the other factors mentioned do influence organ dose"
+        },
+        {
+          "text": "Effective dose for a Tc-99m lung ventilation and perfusion scan is in the region of 1.5 mSv",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is equivalent to around 6 months of natural background radiation"
+        },
+        {
+          "text": "A bone scan using Tc-99m will incur an effective dose of approximately 5 mSv",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is the dose for 600 MBq administered activity"
+        },
+        {
+          "text": "Effective dose for a thallium 2-methoxy isobutyl isonitrile (MIBI) heart scan is in the region of 18 mSv",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is one of the highest doses commonly encountered with radionuclide imaging"
+        },
+        {
+          "text": "Effective dose for an F-18 fluorodeoxyglucose (FDG) brain scan is in the region of 1 mSv",
+          "response": "",
+          "answer": "False",
+          "explanation": "8 mSv would be a more typical effective dose for this examination"
+        }
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "stem": "Dose in radionuclide imaging",
+      "options": [
+        {
+          "text": "Most of the administered radiation will deposit its energy in the tissue/organ of interest",
+          "response": "",
+          "answer": "False",
+          "explanation": "Typically, only 20% reaches the area of interest"
+        },
+        {
+          "text": "Most of the gamma rays released within the patient are detected",
+          "response": "",
+          "answer": "False",
+          "explanation": "Gamma is released in all directions; even in PET the detectors surround only a fraction of the patient, so much of the gamma radiation goes undetected. Other factors such as tissue attenuation, collimator exclusion and losses to dead time reduce this further"
+        },
+        {
+          "text": "Scan time does not affect dose",
+          "response": "",
+          "answer": "True",
+          "explanation": "These are emission studies; dose is entirely dependent on the activity administered"
+        },
+        {
+          "text": "A target organ will receive a lower dose than a source organ",
+          "response": "",
+          "answer": "True",
+          "explanation": "The American Society of Nuclear Medicine has developed a method of calculating organ doses; radioisotope accumulates in the source organs, which then irradiate target organs"
+        },
+        {
+          "text": "Staff can reduce their dose by holding radionuclides at arm’s length and delivering them promptly",
+          "response": "",
+          "answer": "True",
+          "explanation": "Time and distance are basic principles for radiation safety"
+        }
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "stem": "Regarding the safety and handling of radionuclides",
+      "options": [
+        {
+          "text": "The activity of a radionuclide dose is measured using an ionization chamber which is situated between the patient and the gamma camera",
+          "response": "",
+          "answer": "False",
+          "explanation": "Before the radionuclide is administered to the patient, it is placed inside an ionization chamber (radionuclide calibrator) which records the ionization current produced by the emitted gamma rays. The current is proportional to the activity of the sample and is recorded in the patient’s case-notes"
+        },
+        {
+          "text": "The current measured in the ionization chamber of a radionuclide calibrator is dependent on the vessel in which the radionuclide is housed",
+          "response": "",
+          "answer": "True",
+          "explanation": "The vessel type needs to be entered into the calibration equation when calculating the activity of a sample from the current recorded in the ionization chamber. In practice this is done automatically by selecting the vial/syringe type from a preselected list of vessels with known physical characteristics"
+        },
+        {
+          "text": "Vials containing Tc-99m radiopharmaceuticals should be stored in Perspex pots",
+          "response": "",
+          "answer": "False",
+          "explanation": "Lead pots are required. Beta particles are absorbed by Perspex, gamma rays are not"
+        },
+        {
+          "text": "All spillages should be reported to the Health and Safety Executive (HSE)",
+          "response": "",
+          "answer": "False",
+          "explanation": "This is not the case"
+        },
+        {
+          "text": "Doubling your distance from a syringe containing a radiopharmaceutical will reduce the dose by 50%",
+          "response": "",
+          "answer": "False",
+          "explanation": "If you double the distance from a point source of radiation, the dose will reduce to 25%. This is the inverse square law"
+        }
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "stem": "Safety, accidents and disposal",
+      "options": [
+        {
+          "text": "Gloves should be worn when handling radiopharmaceuticals as they provide protection from the gamma rays",
+          "response": "",
+          "answer": "False",
+          "explanation": "Gloves should be worn to prevent contamination resulting in an area of skin continually being exposed to radiation over a long period of time"
+        },
+        {
+          "text": "Radioactive material should be handled for the minimum amount of time",
+          "response": "",
+          "answer": "True",
+          "explanation": "Handling radioactive material significantly increases the radiation exposure because of the inverse square law. The time of this exposure should be kept to a minimum to limit total exposure"
+        },
+        {
+          "text": "A radiopharmacy should be classified as a controlled area under Ionising Radiation Regulations (IRR99)",
+          "response": "",
+          "answer": "True",
+          "explanation": "With large radionuclide activities held in the department it could be possible for staff to receive inappropriate doses; safety measures are of course in place to prevent this"
+        },
+        {
+          "text": "Pregnant patients and patients who are breastfeeding should never receive radiopharmaceuticals",
+          "response": "",
+          "answer": "False",
+          "explanation": "Pregnant patients should ideally be offered an alternative method of imaging, the scan delayed until after pregnancy or the scan cancelled if not essential, as collected radiopharmaceutical in the bladder is in close proximity to the uterus. The scan may still be performed if the benefits are deemed to outweigh the risks of exposure to the patient and child. Some radiopharmaceuticals may be excreted in breast milk; advice should be given on the safety of breastfeeding and the time before breastfeeding should be allowed again if the scan is deemed necessary. Some radiopharmaceuticals are either not excreted in the breast milk, or they decay to negligible activity in 12 hours or less; studies can be performed with only minimal disruption to mother and child"
+        },
+        {
+          "text": "Vomiting and incontinence are treated as radioactive spills",
+          "response": "",
+          "answer": "True",
+          "explanation": "Bodily fluids such as urine and vomit will contain radioactive material and therefore need to be treated in the same way as a spill. The spill should be cleaned and contaminated material should be safely disposed of or stored until radioactivity levels have fallen to a safe level. The area should be monitored to ensure that activity is at a safe level afterwards"
+        }
+      ]
+    }
+  ]
+
+}

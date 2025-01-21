@@ -1,0 +1,438 @@
+{
+  name: "Get Through First FRCR: MCQs for the Physics Module",
+  authors: "Andrew Baird, Grant Mair, Andrew Nisbet,",
+  slug: "basic-physics",
+  questions: [
+    {
+      "questionNumber": 1,
+      "stem": "For atomic structure",
+      "options": [
+        {
+          "text": "The atomic number is the number of protons plus electrons",
+          "response": "",
+          "answer": "False",
+          "explanation": "Atomic number is the number in the periodic table, defined by the number of protons. Atomic mass number is the number of protons plus the number of neutrons"
+        },
+        {
+          "text": "Electrons exist in shells of energy levels around the nucleus",
+          "response": "",
+          "answer": "True",
+          "explanation": "Electrons exist at different energy levels described as shells of decreasing energy"
+        },
+        {
+          "text": "All electrons exist at the same energy level for a given element",
+          "response": "",
+          "answer": "False",
+          "explanation": "It will take the same amount of energy to dislodge a K-shell electron for different atoms of the same element, but the K-shell electrons and L-shell electrons within the same atom will have different energy levels"
+        },
+        {
+          "text": "A nucleon is smaller than a nucleus",
+          "response": "",
+          "answer": "False",
+          "explanation": "Examples of nucleons are protons and neutrons. A nucleus is all the protons plus neutrons of one atom. In hydrogen the single proton is the only nucleon, and thus the nucleon and the nucleus would be the same size"
+        },
+        {
+          "text": "The nucleus of an atom has a net positive charge",
+          "response": "",
+          "answer": "True",
+          "explanation": "The nucleus comprises positive protons and neutral neutrons. Negative electrons exist outside the nucleus"
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "stem": "Elements useful to radiology",
+      "options": [
+        {
+          "text": "The atomic number of tungsten (W) is 82",
+          "response": "",
+          "answer": "False",
+          "explanation": "Lead (Pb) has an atomic number of 82. Tungsten (W) has an atomic number of 74"
+        },
+        {
+          "text": "The K-edge of barium is approximately 37 keV",
+          "response": "",
+          "answer": "True",
+          "explanation": "The K-edge of barium is high enough that the photoelectric effect predominates in barium screening"
+        },
+        {
+          "text": "The K-edge of calcium (Ca) is approximately 20 keV",
+          "response": "",
+          "answer": "False",
+          "explanation": "The K-edge of Ca is 4 keV. Common elements in the body have a low K-edge which is why the Compton effect predominates at the higher end of the diagnostic energy range"
+        },
+        {
+          "text": "The gamma emission of 99Technetium metastable (Tc-99m) is approximately 140 keV",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is much higher than diagnostic X-ray energies"
+        },
+        {
+          "text": "The atomic number of iodine is 53",
+          "response": "",
+          "answer": "True",
+          "explanation": "With a higher atomic number than soft tissue, the K-edge of iodine is also higher. The photoelectric effect therefore predominates at diagnostic X-ray energies; this makes it suitable as a contrast agent"
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "stem": "Regarding electromagnetic radiation",
+      "options": [
+        {
+          "text": "Radio-waves are a form of electromagnetic radiation",
+          "response": "",
+          "answer": "True",
+          "explanation": "Radio-waves are the least energetic form of electromagnetic radiation"
+        },
+        {
+          "text": "Radio-waves travel at 3×10^8 ms^−1 in vacuo",
+          "response": "",
+          "answer": "False",
+          "explanation": "They travel at 3×10⁸ m/s in vacuo"
+        },
+        {
+          "text": "X-rays and gamma rays vary only in their origin",
+          "response": "",
+          "answer": "True",
+          "explanation": "X-rays arise primarily through changes in electron energy state; gamma rays arise from radioactive decay"
+        },
+        {
+          "text": "Frequency and wavelength are directly proportional to one another",
+          "answer": "False",
+          "explanation": "They are indirectly proportional",
+        },
+        {
+          "text": "Radio-waves travel in divergent straight lines",
+          "answer": "True",
+          "explanation": "This is one of the particle-like properties of electromagnetic radiation"
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "stem": "In the production of X-rays",
+      "options": [
+        {
+          "text": "Bremsstrahlung refers to the energy gained by electrons as they are accelerated towards the target",
+          "response": "",
+          "answer": "False",
+          "explanation": "Bremsstrahlung can be translated as ‘braking’ energy, referring to the slowing of the bombarding electron. The electron is slowed by its passage close to the nucleus and gives off the reduction in kinetic energy as electromagnetic radiation"
+        },
+        {
+          "text": "Thermionic emission occurs in the target",
+          "response": "",
+          "answer": "False",
+          "explanation": "Thermionic emission occurs in the filament of the cathode. This is the method by which electrons are emitted for acceleration to the target"
+        },
+        {
+          "text": "Bremsstrahlung radiation is formed at the cathode of an X-ray tube",
+          "response": "",
+          "answer": "False",
+          "explanation": "Electrons are produced at the negative cathode and accelerate towards the positive anode, where they can react with the target atoms to produce X-rays"
+        },
+        {
+          "text": "Characteristic radiation is formed at the anode of an X-ray tube",
+          "response": "",
+          "answer": "True",
+          "explanation": "When the electrons hit atoms in the anode they can produce X-rays either through the Bremsstrahlung process or can knock a K-shell electron out of its orbit thus allowing an L- or M-shell electron to drop down and produce characteristic radiation"
+        },
+        {
+          "text": "Only about 50% of the energy of the bombarding electrons is emitted as useful X-ray radiation",
+          "response": "",
+          "answer": "False",
+          "explanation": "Typically less than 1% of the energy is converted to useful X-ray radiation"
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "stem": "X-ray attenuation",
+      "options": [
+        {
+          "text": "Is the process where photons are absorbed or scattered thus reducing the photons in the emerging beam",
+          "response": "",
+          "answer": "True",
+          "explanation": "This occurs to a greater or lesser extent in different tissues; it is these differences in attenuation that allow us to see anatomic detail using X-rays"
+        },
+        {
+          "text": "In a monoenergetic beam, the half-value layer increases with depth due to hardening of the beam",
+          "response": "",
+          "answer": "False",
+          "explanation": "Hardening of the beam occurs when the beam is composed of a spectrum of wavelengths. The process of hardening occurs when lower energy photons are absorbed first, leaving more penetrating photons that will travel further through tissue"
+        },
+        {
+          "text": "Monoenergetic beams are used in digital radiography",
+          "response": "",
+          "answer": "False",
+          "explanation": "Digital radiography uses tubes of the same type of design as conventional radiography, where a spectrum or X-ray energies are produced with the maximum energy being set by the peak kilovoltage of an X-ray tube (kVp)"
+        },
+        {
+          "text": "The linear attenuation coefficient is inversely proportional to the half-value layer (HVL)",
+          "response": "",
+          "answer": "True",
+          "explanation": "Linear attenuation coefficient (μ) = 0.693/HVL"
+        },
+        {
+          "text": "The number of photons in the emerging beam reaches zero after five HVLs",
+          "response": "",
+          "answer": "False",
+          "explanation": "The reduction in the number of photons is exponential, and therefore never truly reaches zero. The intensity of the emerging beam can be calculated by I = I₀e⁻ᵐᵈ where I is intensity, I₀ is initial intensity, μ is the attenuation coefficient and d is the thickness of material"
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "stem": "Attenuation of X-rays",
+      "options": [
+        {
+          "text": "In clinical practice, the first and second HVLs are equal",
+          "response": "",
+          "answer": "False",
+          "explanation": "X-ray beams used clinically are not monoenergetic. After one HVL the lower energy photons will have been preferentially removed and the beam will now be more penetrating. The second HVL of this beam will therefore be greater"
+        },
+        {
+          "text": "The mass attenuation coefficient of a material decreases with atomic number",
+          "response": "",
+          "answer": "True",
+          "explanation": "The mass attenuation coefficient is obtained by dividing the linear attenuation coefficient by density; this makes it independent of density and relates only to atomic number and photon energy"
+        },
+        {
+          "text": "Elastic scatter greatly affects the images produced using X-rays",
+          "response": "",
+          "answer": "False",
+          "explanation": "Also known as coherent or Rayleigh scatter, this process refers to an interaction where a photon is deflected from a bound electron which is not ejected from the atom and therefore no ionizing events occur. For diagnostic energies, the probability of this effect is small compared to that of the Compton and photoelectric effects"
+        },
+        {
+          "text": "The photoelectric effect leads to complete absorption of X-ray photon energy",
+          "response": "",
+          "answer": "True",
+          "explanation": "The energy taken up by the photoelectron is absorbed very close (within ~1 mm) of the site of interaction"
+        },
+        {
+          "text": "The photoelectric effect predominates when diagnostic X-rays meet contrast media such as barium",
+          "response": "",
+          "answer": "True",
+          "explanation": "The photoelectric effect is proportional to Z³/E³ and is therefore more likely when low energy clinical beams interact with relatively high density contrast media"
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "stem": "Regarding an X-ray beam used in clinical practice",
+      "options": [
+        {
+          "text": "If the characteristic radiation was removed from a beam the intensity of that beam would increase",
+          "response": "",
+          "answer": "False",
+          "explanation": "Intensity equals total photon energy in cross section per unit time. Removal of the characteristic rays would mean fewer photons"
+        },
+        {
+          "text": "The intensity of a beam would diminish by 16 times if you moved from 1 m to 4 m from the source",
+          "response": "",
+          "answer": "True",
+          "explanation": "According to the inverse square law; if you double your distance, the area of the beam increases by four times, i.e., the intensity is reduced by 4. In the example given, the distance is doubled twice, so intensity is reduced to one-sixteenth. Intensity is defined as energy transmitted per unit area"
+        },
+        {
+          "text": "The inverse square law assumes no absorption or scattering in the medium",
+          "response": "",
+          "answer": "True",
+          "explanation": "There is some attenuation in air but this is very low compared with the effect of the inverse square law"
+        },
+        {
+          "text": "The mean energy of the beam is approximately 50% of the operating tube kV",
+          "response": "",
+          "answer": "True",
+          "explanation": "The operating kV is equal to the maximum photon energy possible; most photons will not be as energetic"
+        },
+        {
+          "text": "It has a constant HVL",
+          "response": "",
+          "answer": "False",
+          "explanation": "Clinical X-ray beams are not monoenergetic; lower energy photons are more readily attenuated, so the beam intensity increases as it penetrates, thereby also increasing the HVL"
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "stem": "Regarding the Compton effect",
+      "options": [
+        {
+          "text": "The Compton effect describes scatter of photons by the tissue",
+          "response": "",
+          "answer": "True",
+          "explanation": "The Compton effect describes scatter, with a resulting recoil electron and scattered lower energy photon"
+        },
+        {
+          "text": "A photoelectron is ejected in a collision with a photon",
+          "response": "",
+          "answer": "False",
+          "explanation": "This describes the photoelectric effect"
+        },
+        {
+          "text": "The free electrons described in Compton scatter are often bound within the valence shell of atoms",
+          "response": "",
+          "answer": "True",
+          "explanation": "Although the term ‘free electrons’ is used, it refers to any electron with a binding energy much lower than that of the incident photon"
+        },
+        {
+          "text": "The probability of the Compton effect is proportional to the atomic number (Z) cubed",
+          "response": "",
+          "answer": "False",
+          "explanation": "The Compton effect is proportional to the density of electrons, which is approximately proportional to the density of the tissue. The photoelectric effect is proportional to Z³/E³"
+        },
+        {
+          "text": "The mass attenuation coefficient for the Compton effect for bone is twice that of soft tissue",
+          "response": "",
+          "answer": "False",
+          "explanation": "The mass attenuation coefficient is already divided by the density of the tissue meaning the effect of density has been cancelled out. Also, the Compton effect is not proportional to atomic number. The linear attenuation coefficient of bone would be higher than that of soft tissue as the physical density, and thus the electron density is higher"
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "stem": "Photoelectric effect",
+      "options": [
+        {
+          "text": "The photoelectric effect occurs at a maximum when the incident photon energy is just less than the K-edge",
+          "response": "",
+          "answer": "False",
+          "explanation": "The photoelectric effect cannot occur unless the photon has more energy than the binding energy of the electron. The photoelectric effect is at its maximum when the photon energy is just greater than the K-edge"
+        },
+        {
+          "text": "Characteristic radiation may be emitted after the photoelectric effect",
+          "response": "",
+          "answer": "True",
+          "explanation": "The ejection of the photoelectron leaves a gap in the inner shell. An electron falling from an outer shell may give up some energy as characteristic radiation as it moves to a lower energy state"
+        },
+        {
+          "text": "Most biological damage is caused directly by the ionization of the atom by X-ray photons",
+          "response": "",
+          "answer": "False",
+          "explanation": "The high-energy nature of this process causes that atom to become ionized, and the photoelectron continues on and collides to cause many more ionizations. As so many more ionization events are caused indirectly by the subsequent photoelectrons and Compton electrons, the direct biological damage from photon interactions is relatively small"
+        },
+        {
+          "text": "At higher energies the photoelectric effect becomes a more common interaction",
+          "response": "",
+          "answer": "False",
+          "explanation": "The photoelectric effect is proportional to Z³/E³, and thus decreases with increasing photon energies"
+        },
+        {
+          "text": "The photoelectron has energy equal to the energy of the incident photon plus the binding energy of the electron",
+          "response": "",
+          "answer": "False",
+          "explanation": "The energy of the incident photon is used to break the binding energy of the electron; its remaining energy is transferred to the photoelectron"
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "stem": "Regarding luminescence",
+      "options": [
+        {
+          "text": "The outermost filled electron band in a luminescent material is known as the conduction band",
+          "response": "",
+          "answer": "False",
+          "explanation": "The chance of the photoelectric effect is related to Z³/E³. In the human body at diagnostic X-ray levels the photoelectric effect occurs mainly at lower photon keV or with high atomic number contrast agents such as barium"
+        },
+        {
+          "text": "The process of luminescence is possible only in substances which are manufactured entirely free from impurities",
+          "response": "",
+          "answer": "False",
+          "explanation": "In soft tissue interacting with a 30 keV beam approximately half the interactions will be Compton effect and half will be photoelectric. At lower keV the photoelectric effect predominates. At higher keV the Compton effect predominates"
+        },
+        {
+          "text": "In radiographic detectors the intensity of light emitted from a phosphor is directly proportional to the intensity of energy absorbed from the X-rays or gamma rays",
+          "response": "",
+          "answer": "False",
+          "explanation": "Pair production does not occur with photon energies of less than 1 MeV, and thus does not occur in diagnostic radiology"
+        },
+        {
+          "text": "In computed radiography (CR) image processing, the exposed detector plate is heated in order to stimulate the release of light",
+          "response": "",
+          "answer": "True",
+          "explanation": "The electron can be scattered only forward or at angles of up to 90°"
+        },
+        {
+          "text": "In personal dosimetry systems, optical stimulated luminescent dosimeters allow a greater sensitivity of measurement compared with thermoluminescent detectors",
+          "response": "",
+          "answer": "True",
+          "explanation": "At very high photon energies the Compton effect begins to diminish, but at diagnostic radiology photon energies the Compton effect can be viewed as only dependent on the electron density, which is related to the density of the tissue"
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "stem": "X-ray interactions with matter",
+      "options": [
+        {
+          "text": "The photoelectric effect predominates in high kV techniques such as computed tomography (CT)",
+          "response": "",
+          "answer": "False",
+          "explanation": "The outermost (lowest energy) layer is known as the valence band. The conduction band is the adjacent, higher energy band. On excitation of a phosphor, electrons in the valence band are energized and promoted to the conduction band"
+        },
+        {
+          "text": "At 30 keV or less the Compton effect predominates",
+          "response": "",
+          "answer": "False",
+          "explanation": "Between the valence band and conduction band is the forbidden zone. Impurities in the phosphor (deliberately manufactured in this way) contain electron bands which lie within the forbidden zone. Excited electrons which fall into these ‘electron traps’ subsequently move to the valence band with the release of light energy. This is the basis of photoluminescence"
+        },
+        {
+          "text": "In diagnostic high kV techniques such as CT pair production becomes a significant effect",
+          "response": "",
+          "answer": "True",
+          "explanation": "The energy absorbed is also proportional to the intensity of the beam itself"
+        },
+        {
+          "text": "In Compton scatter the electron never travels in the backward direction",
+          "response": "",
+          "answer": "False",
+          "explanation": "Computed radiography uses photostimulable phosphor plates. The detector plate is stimulated by light, usually a laser, to allow image formation"
+        },
+        {
+          "text": "The probability of Compton scatter occurring is related to the electron density of the material",
+          "response": "",
+          "answer": "True",
+          "explanation": "Optical stimulated luminescent dosimeters give readings down to 0.01 mSv. Unlike thermoluminescent dosimetry (TLDs), they can also be read more than once because not all electrons are released at the first reading by the scanning laser beam"
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "stem": "Radiation",
+      "options": [
+        {
+          "text": "Bremsstrahlung radiation can occur at any energy from just above 0 keV to the peak voltage potential in the X-ray tube",
+          "response": "",
+          "answer": "True",
+          "explanation": "Most of the lower energy photons are absorbed either within the target, the tube wall or in the filter"
+        },
+        {
+          "text": "Kα radiation describes the emission of a particle of two protons and two neutrons",
+          "response": "",
+          "answer": "False",
+          "explanation": "Ka emission is emission of characteristic radiation after an electron falls from the L-shell to the K-shell. Kb emission occurs after an electron falls from the M-shell to the K-shell. Do not confuse Ka with an alpha particle"
+        },
+        {
+          "text": "Characteristic radiation results in specific energy photons being emitted relating to the electron binding energies",
+          "response": "",
+          "answer": "True",
+          "explanation": "The energy of the photon and thus the wavelength and frequency (E = hf) is related to the energy difference of the electron between the shell it moves from and to"
+        },
+        {
+          "text": "Characteristic radiation from the L-shell of tungsten is used in high kV techniques",
+          "response": "",
+          "answer": "False",
+          "explanation": "L-shell characteristic radiation is low energy radiation (~10 keV in the case of tungsten) that is unlikely to penetrate through the filter"
+        },
+        {
+          "text": "Beta radiation is commonly used in nuclear diagnostic imaging",
+          "response": "",
+          "answer": "False",
+          "explanation": "Beta particles travel only very short distances and thus cannot be used for imaging. Beta particle emitters are sometimes used for therapy, e.g., thyroid ablation"
+        }
+      ]
+    }
+  ]
+
+}

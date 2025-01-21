@@ -60,7 +60,7 @@ const numbers = [
           >
         </h1>
         <p
-          v-if="params.bookSlug !== 'engineering-interview-questions'"
+          v-if="book.author"
           class="font-thin"
         >
           By {{ book.author }}

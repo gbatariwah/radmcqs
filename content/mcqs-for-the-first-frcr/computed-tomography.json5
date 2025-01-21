@@ -1,0 +1,1577 @@
+{
+  name: "MCQs for the First FRCR",
+  authors: "Varut Vardhanabhuti, Julia James, Rosemary Gray, Rehaan Nensey, W MVivien Shuen, Tishi Ninan",
+  slug: "computed-tomography",
+  questions: [
+    {
+      "questionNumber": 1,
+      "stem": "Regarding computed tomography",
+      "options": [
+        {
+          "text": "A Typical kV p value for the x-ray tube is about 80-140KV",
+          "response": "",
+          "answer": "True",
+          "explanation": "Typical kVp value is about 120"
+        },
+        {
+          "text": "Transmitted x-ray intensity is measured by the detector",
+          "response": "",
+          "answer": "True",
+          "explanation": "CT accounts for more than 40% of radiation from medical examinations"
+        },
+        {
+          "text": "It may be considered a low-dose examination in comparison to plain radiography",
+          "response": "",
+          "answer": "False",
+          "explanation": "There is only a small loss of photon energy when the beam travels through the tube housing"
+        },
+        {
+          "text": "The main interaction in CT scanning is the Compton effect",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The x-ray beam emerging from the tube housing in a CT scanner is significantly attenuated",
+          "answer": "False",
+          "explanation": "There is only a small loss of photon energy when the beam travels through the\ntube housing"
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "stem": "Regarding CT scanners",
+      "options": [
+        {
+          "text": "A Most multi-slice scanners are based on fifth generation scanner geometry",
+          "response": "",
+          "answer": "False",
+          "explanation": "Most multi-slice scanners are based on third-generation scanner geometry"
+        },
+        {
+          "text": "An x-ray tube is mounted with its anode cathode axis perpendicular to the axis of rotation",
+          "response": "",
+          "answer": "False",
+          "explanation": "The anode cathode axis is parallel to the axis of rotation"
+        },
+        {
+          "text": "The axis of rotation is called the x-axis by convention",
+          "response": "",
+          "answer": "False",
+          "explanation": "The axis of rotation is called the Z-axis"
+        },
+        {
+          "text": "Bow-tie filters are used to even out a beam-hardening effect",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Fifth-generation scanners employ an electron source to produce an electron beam",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "stem": "Regarding detectors used in CT scanners",
+      "options": [
+        {
+          "text": "A Gas detectors contain inert gases at pressures of about 1-2 atmospheres",
+          "response": "",
+          "answer": "False",
+          "explanation": "The inert gases are contained at about 2Satm. to increase detector efficiency"
+        },
+        {
+          "text": "The detectors should be manufactured with identical sensitivities",
+          "response": "",
+          "answer": "False",
+          "explanation": "The detector sensitivities are calibrated during imaging"
+        },
+        {
+          "text": "Pixel size is determined by the detectors",
+          "response": "",
+          "answer": "False",
+          "explanation": "The computer system determines the pixel size"
+        },
+        {
+          "text": "The spatial resolution of the scanner is influenced by the detectors",
+          "response": "",
+          "answer": "True",
+          "explanation": "The smaller the individual detector, the higher the resolution"
+        },
+        {
+          "text": "Sodium iodide crystals are the commonest detectors used in modern scanners"
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "stem": "Regarding CT scanners",
+      "options": [
+        {
+          "text": "A Third-generation scanners are more efficient in eliminating scattered radiation than first-generation scanners",
+          "response": "",
+          "answer": "False",
+          "explanation": "Third-generation scanners produce more scatter compared to first-generation scanners"
+        },
+        {
+          "text": "Tube rotation enables tube loading to be lower compared to plain radiographs",
+          "response": "",
+          "answer": "False",
+          "explanation": "Tube loading is much higher compared to plain radiographs"
+        },
+        {
+          "text": "The irradiated slice thickness of the patient can be regulated by detector collimators",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The fan beam is parallel to the anode cathode axis of the CT x-ray tube",
+          "response": "",
+          "answer": "False",
+          "explanation": "The fan beam is perpendicular to the anode cathode axis"
+        },
+        {
+          "text": "The minimum detectable contrast of CT images is <0.5%",
+          "response": "",
+          "answer": "True",
+          "explanation": "COMPUTED TOMOGRAPHY I ANSWERS"
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "stem": "Regarding CT detectors",
+      "options": [
+        {
+          "text": "A The detectors may consist of crystals embedded in a matrix",
+          "response": "",
+          "answer": "False",
+          "explanation": "CT detectors consist of single large crystals. Intensifying screens consist of crystals embedded within a matrix"
+        },
+        {
+          "text": "Solid-state detectors are less efficient than gas-filled ionization detectors",
+          "response": "",
+          "answer": "False",
+          "explanation": "Solid state detectors have higher efficiency than gas filled ionization chambers"
+        },
+        {
+          "text": "Using crystals with highly efficient absorption results in a crosstalk artefact",
+          "response": "",
+          "answer": "False",
+          "explanation": "Increasing the efficiency of absorption results in less crosstalk artefact"
+        },
+        {
+          "text": "Slice thickness can be increased by coupling together the signal from adjacent detectors",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The detectors need to be as small as possible"
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "stem": "Regarding CT scanners",
+      "options": [
+        {
+          "text": "A Collimation of the CT scanner is fixed",
+          "response": "",
+          "answer": "False",
+          "explanation": "Collimation can be changed"
+        },
+        {
+          "text": "The most common image reconstruction technique used in modern CT scanners is filtered back projection",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Beam collimation happens before passing through the patient",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Multiple X-ray tubes are commonly used to acquire data in modern scanners",
+          "response": "",
+          "answer": "False",
+          "explanation": "A single x-ray tube is used. There are a few scanners that have more than one x-ray tube (currently for research only)"
+        },
+        {
+          "text": "Solid-state detectors are more efficient than gas-filled detectors"
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "stem": "Regarding CT scanners",
+      "options": [
+        {
+          "text": "A The afterglow of bismuth germinate detectors is higher compared to sodium iodide crystals",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The typical thickness of the copper filters used is 0.5mm",
+          "response": "",
+          "answer": "False",
+          "explanation": "The afterglow of bismuth germinate detectors is lower compared to sodium iodide crystals"
+        },
+        {
+          "text": "The effect of scattered radiation is eliminated by using energy discriminators",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "In fourth-generation CT design, the detectors rotate",
+          "response": "",
+          "answer": "False",
+          "explanation": "Discriminating windows are used in gamma cameras"
+        },
+        {
+          "text": "In all modern scanners, each detector has its own collimator",
+          "response": "",
+          "answer": "False",
+          "explanation": "The x-ray tube rotates and there is a ring of stationary or fixed detectors"
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "stem": "Regarding modern CT scanners",
+      "options": [
+        {
+          "text": "A They can use thousands of detector elements",
+          "response": "",
+          "answer": "False",
+          "explanation": "Only a few scanners in the market have this design feature"
+        },
+        {
+          "text": "Scattered radiation is controlled by detector collimation",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The efficiency of sodium iodide crystals is about 50%",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The effective dose to the patient is measured for every CT scan",
+          "response": "",
+          "answer": "False",
+          "explanation": "The efficiency of Nal crystals approach 100%"
+        },
+        {
+          "text": "Ring artefacts are caused by the miscalibration of detectors in third-generation scanners",
+          "response": "",
+          "answer": "True",
+          "explanation": "Ring artefacts are caused by the miscalibration of one detector in a rotate-rotate geometry scanner. If a detector is miscalibrated, or faulty, it will record faulty information in every projection. This misinformation is reconstructed as a ring in the image with the radius of the ring determined by the position of the faulty detector within the detector array"
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "stem": "Regarding image reconstruction",
+      "options": [
+        {
+          "text": "A 'Pixel' stands for 'x-ray picture'",
+          "response": "",
+          "answer": "False",
+          "explanation": "Pixel stands for 'picture element'"
+        },
+        {
+          "text": "'Voxel' stands for 'volume element'",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The average linear attenuation coefficient of a voxel is represented as a pixel in the image",
+          "response": "",
+          "answer": "True",
+          "explanation": "Voxel is the volume element in the scan slice matrix and pixel is its representation in the image"
+        },
+        {
+          "text": "A voxel is a three-dimensional region within a scan slice matrix",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Star artefact can be produced by simple back projection",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "stem": "Regarding CT number",
+      "options": [
+        {
+          "text": "A It is the same as Hounsfield units",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "B A magnification factor of 1000 or more is used in the calculation of CT number",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "C The CT number of Fat is about - 400",
+          "response": "",
+          "answer": "False",
+          "explanation": "The CT number of Fat is -60 to -150"
+        },
+        {
+          "text": "D There is no difference between the CT numbers of gray and white matter in the brain",
+          "response": "",
+          "answer": "False",
+          "explanation": "The CT number of white matter is 20-30 and that of gray matter is 35-45"
+        },
+        {
+          "text": "E The CT number of water is - 500",
+          "response": "",
+          "answer": "False",
+          "explanation": "The CT number of water is 0 and that of air is -1000"
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "stem": "Regarding CT number",
+      "options": [
+        {
+          "text": "A CT number represents the linear attenuation coefficient in each pixel",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "B CT numbers of tissues vary depending on the KV and filtration of the x-ray beam",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "C It is necessary to use a CT number higher than bone to image materials that have a higher linear attenuation coefficient",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "D The CT number of air is -1000",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "E The CT number of contrast is higher than that of bone",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "stem": "Regarding CT image",
+      "options": [
+        {
+          "text": "A Image reconstruction involves a correction for the polychromatic nature of the beam",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "B A voxel is a three-dimensional region in the image display",
+          "response": "",
+          "answer": "False",
+          "explanation": "Voxel is a three-dimensional region in the scan slice matrix"
+        },
+        {
+          "text": "C An image can only be reconstructed from data collected from a full 360° rotation of the gantry",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is possible to reconstruct images from a reduced arc down to 180°"
+        },
+        {
+          "text": "D Fourier transformation can be used for image processing in CT",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "E Detector collimation controls the size of a pixel",
+          "response": "",
+          "answer": "False",
+          "explanation": "The size of an image pixel is determined by the computer program"
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "stem": "The following statements regarding CT image are true",
+      "options": [
+        {
+          "text": "A Iterative reconstruction is the most commonly used method for image reconstruction",
+          "response": "",
+          "answer": "False",
+          "explanation": "Filtered back projection is the most common method for image reconstruction"
+        },
+        {
+          "text": "B Digital subtraction is used in all CT image reconstruction",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "C The width of the x-ray beam determines the size of the voxel",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "D A voxel represents a definable region within a CT slice matrix",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "E Noise is inversely proportional to the square root of the number of photons",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "stem": "Regarding CT image reconstruction",
+      "options": [
+        {
+          "text": "A Applying a weighting factor compensates for the difference between the size and the shape of the scanning beam and the picture matrix",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "B The weighting factor is constant throughout each complete scan",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "C The physical density of its contents is the only factor that determines the CT number of a voxel",
+          "response": "",
+          "answer": "False",
+          "explanation": "The CT number is determined by the attenuation of the x-ray beam which in turn is determined by physical density and atomic number"
+        },
+        {
+          "text": "D A pulse height analyser is used in CT image reconstruction",
+          "response": "",
+          "answer": "False",
+          "explanation": "Pulse height analysers are used in gamma cameras"
+        },
+        {
+          "text": "E A voxel is a group of four adjacent pixels",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "stem": "Regarding helical scanners",
+      "options": [
+        {
+          "text": "A The pitch of the scanner can be defined as table-top movement per rotation multiplied by slice thickness",
+          "response": "",
+          "answer": "False",
+          "explanation": "The pitch of the scanner can be defined as table-top movement per rotation divided by slice thickness"
+        },
+        {
+          "text": "B The voxel size in the transaxial plane is determined by the matrix size and the field of view",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "C Helical scanners in general have faster acquisition times compared to single slice scanners",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "D Movement artefacts are generally lower in images obtained from helical scanners compared to single slice scanners",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "E The slice width cannot be less than the detector width",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "stem": "Regarding image quality in CT",
+      "options": [
+        {
+          "text": "A The effect of noise is reduced by using a narrower window while displaying the images",
+          "response": "",
+          "answer": "False",
+          "explanation": "The effect of noise is increased by using a narrower window because each grey level would represent a smaller range of CT numbers"
+        },
+        {
+          "text": "B Contrast in the image is reduced by noise",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "C The effect of noise is decreased by increasing slice thickness",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "D Increasing the pixel size decreases spatial resolution",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "E Increasing the detector element size decreases the spatial resolution",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "stem": "Regarding Image quality in CT",
+      "options": [
+        {
+          "text": "Cupping is caused by detector malfunction",
+          "response": "",
+          "answer": "False",
+          "explanation": "Cupping is caused by beam hardening"
+        },
+        {
+          "text": "The spatial resolution of CT is affected by slice width",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Window level determines the number of shades of grey that would be displayed",
+          "response": "",
+          "answer": "False",
+          "explanation": "Window width determines the number of shades of grey that would be displayed"
+        },
+        {
+          "text": "Compared to film screen radiography, line pair resolution is better in CT",
+          "response": "",
+          "answer": "False",
+          "explanation": "Line pair resolution in CT is poorer than that of film screen radiography and is only about 1 lp/mm as compared to up to 15 lp/mm in film screen radiography"
+        },
+        {
+          "text": "Noise in CT makes low-contrast objects difficult to distinguish",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "stem": "Regarding CT images",
+      "options": [
+        {
+          "text": "Pixel size is generally about 1 mm",
+          "response": "",
+          "answer": "False",
+          "explanation": "Pixel size is generally less than 0.5 mm"
+        },
+        {
+          "text": "Decreasing pixel size increases the spatial resolution of CT",
+          "response": "",
+          "answer": "True",
+          "explanation": "The spatial resolution of CT improves, providing all other factors like number of detectors, size of detectors, focal spot size, etc. remain unchanged"
+        },
+        {
+          "text": "Increasing voxel size increases spatial resolution",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "Increasing pitch increases image unsharpness",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Decreasing mA decreases image noise",
+          "response": "",
+          "answer": "False",
+          "explanation": "Increasing mA increases the number of photons producing the image hence the image noise decreases"
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "stem": "Regarding CT scans",
+      "options": [
+        {
+          "text": "Resolution can be improved by magnification of the subject",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Air is used as a negative contrast agent",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Iodinated contrast agents are rarely used",
+          "response": "",
+          "answer": "False",
+          "explanation": "Iodinated contrast agents are used regularly"
+        },
+        {
+          "text": "Image quality is limited by quantum mottle",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Partial volume effect is reduced by using thicker slices",
+          "response": "",
+          "answer": "False",
+          "explanation": "The partial volume effect is due to averaging of the attenuation coefficient of different objects within a voxel. Using thinner slices can reduce this"
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "stem": "Regarding CT artefacts",
+      "options": [
+        {
+          "text": "Reducing beam filtration increases beam hardening artefacts",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Cardiac motion produces streak artefacts",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Geometric artefacts are caused by faulty detectors",
+          "response": "",
+          "answer": "False",
+          "explanation": "Ring artefacts are produced by faulty detectors"
+        },
+        {
+          "text": "Cone beam artefact is due to beam divergence in the x-axis",
+          "response": "",
+          "answer": "False",
+          "explanation": "The cone beam artefact is due to beam divergence in the z-axis"
+        },
+        {
+          "text": "Ring artefacts are most commonly seen in scanners that have fixed detectors",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "stem": "Regarding partial volume effect",
+      "options": [
+        {
+          "text": "A thin high-contrast structure that crosses the transaxial plane at an oblique angle might disappear completely",
+          "response": "",
+          "answer": "False",
+          "explanation": "The thin high contrast structure that crosses the transaxial plane at an oblique angle (e.g. vessel filled with contrast) will appear larger"
+        },
+        {
+          "text": "It is increased when the slices get thinner",
+          "response": "",
+          "answer": "False",
+          "explanation": "The partial volume effect is reduced when the slices get thinner"
+        },
+        {
+          "text": "It reduces the visibility of low-contrast details",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "A high-contrast object that is smaller than the voxel will appear larger on the image",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "It is due to the averaging of CT numbers in each voxel",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "stem": "Regarding CT dose index (CTDI)",
+      "options": [
+        {
+          "text": "CTDI is a measure of the radiation dose from the whole examination",
+          "response": "",
+          "answer": "False",
+          "explanation": "CTDI is a measure of the dose from a single rotation of the gantry"
+        },
+        {
+          "text": "CTDI varies with slice width",
+          "response": "",
+          "answer": "False",
+          "explanation": "CTDI is constant with slice width"
+        },
+        {
+          "text": "CTDI is measured in mGy cm",
+          "response": "",
+          "answer": "False",
+          "explanation": "CTDI is measured in mGy"
+        },
+        {
+          "text": "CTDI is measured using a pencil ionization chamber",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "CTDIvol is derived by multiplying CTDIw with pitch",
+          "response": "",
+          "answer": "False",
+          "explanation": "CTDIvol is derived by dividing CTDIw by pitch"
+        }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "stem": "In helical scanning",
+      "options": [
+        {
+          "text": "The position of the reconstructed segment can be selected retrospectively",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The slice width can be smaller or larger than the detector width",
+          "response": "",
+          "answer": "False",
+          "explanation": "The slice width cannot be less than the width of the detector"
+        },
+        {
+          "text": "Keeping all other parameters constant, increasing pitch reduces exposure time",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Keeping all other parameters constant, increasing pitch increases patient dose",
+          "response": "",
+          "answer": "False",
+          "explanation": "Increasing pitch decreases patient dose"
+        },
+        {
+          "text": "Keeping all other parameters constant, increasing pitch decreases resolution",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "stem": "Spatial resolution in CT scanning is affected by",
+      "options": [
+        {
+          "text": "Pixel size",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Field of view",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Matrix size",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Algorithm used",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Beam filtration",
+          "response": "",
+          "answer": "False",
+          "explanation": "Beam filtration does not affect spatial resolution in CT scanning"
+        }
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "stem": "The following statements are true regarding image noise",
+      "options": [
+        {
+          "text": "The biggest contributor to image noise is electronic noise produced in the measuring system",
+          "response": "",
+          "answer": "False",
+          "explanation": "Electronic noise is the least significant contributor to image noise"
+        },
+        {
+          "text": "Quantum noise is increased by increasing the field of view (FOV)",
+          "response": "",
+          "answer": "False",
+          "explanation": "Quantum noise is decreased by increasing FOV"
+        },
+        {
+          "text": "Quantum noise is increased by using a larger matrix",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "For single slice scanners, increasing the pitch increases noise",
+          "response": "",
+          "answer": "False",
+          "explanation": "Pitch does not affect noise in single slice scanners"
+        },
+        {
+          "text": "For multi-slice scanners, increasing the pitch increases noise",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "stem": "Regarding dose length product (DLP)",
+      "options": [
+        {
+          "text": "The DLP of a CT scan is calculated by multiplying weighted CTDI (CTDIw) with the total length of scan (L)",
+          "response": "",
+          "answer": "False",
+          "explanation": "The DLP of a CT scan is calculated by multiplying CTDIvol with the total length of scan (L)"
+        },
+        {
+          "text": "Conversion coefficients to derive effective dose from DLP are independent of scanner design",
+          "response": "",
+          "answer": "False",
+          "explanation": "There are differences in conversion coefficients for single and multi-slice scanners"
+        },
+        {
+          "text": "Conversion coefficients to derive effective dose from DLP depend on body region",
+          "response": "",
+          "answer": "True",
+          "explanation": "Conversion coefficients to derive the effective dose from DLP depend on body region and scanner design"
+        },
+        {
+          "text": "Organs in the pelvis have a low E/DLP factor",
+          "response": "",
+          "answer": "False",
+          "explanation": "Organs in the pelvis have a high E/DLP factor"
+        },
+        {
+          "text": "Tissues and organs in the head have a low E/DLP factor",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "stem": "Regarding CT detectors",
+      "options": [
+        {
+          "text": "Ionization chambers have a detection efficiency of about 40%",
+          "response": "",
+          "answer": "False",
+          "explanation": "Ionization chambers had a detection efficiency of about 60%"
+        },
+        {
+          "text": "CT detectors need to have a low dynamic range to improve resolution",
+          "response": "",
+          "answer": "False",
+          "explanation": "CT detectors need a wide dynamic range to improve resolution"
+        },
+        {
+          "text": "In modern scanners, the individual detectors need to be as big as possible to reduce scan time",
+          "response": "",
+          "answer": "False",
+          "explanation": "Detectors need to be as small as possible to improve resolution. Scan time is not affected by size of individual detectors"
+        },
+        {
+          "text": "Bismuth germinate may be used as a scintillant in solid state detectors",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The overall efficiency of solid state detectors is compromised as they have to be separated to prevent light cross over",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "stem": "The following are used for the calibration of the CT number scale of the scanner",
+      "options": [
+        {
+          "text": "Iodine",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "Air",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Water",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Bone",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "Fat",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "stem": "Regarding CT scanners",
+      "options": [
+        {
+          "text": "Gas filled detectors are more efficient than solid state detectors",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "The anode cathode axis of the x-ray tube is perpendicular to the fan beam",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The fan beam is collimated such that it is half the width of the patient",
+          "response": "",
+          "answer": "False",
+          "explanation": "The fan beam is wider than the widest cross section of the patient"
+        },
+        {
+          "text": "The axis of rotation is called the z-axis",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Tube loading is much higher compared to plain x-rays",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "stem": "Regarding CT artefacts",
+      "options": [
+        {
+          "text": "Beam hardening is the same throughout the field of view for a given patient",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "Tube current modulation is used to correct beam hardening artefact",
+          "response": "",
+          "answer": "False",
+          "explanation": "Tube current modulation (mA modulation) is used to correct the 'photon starvation artefact'"
+        },
+        {
+          "text": "Compared to other metals, titanium is known to cause more artefacts",
+          "response": "",
+          "answer": "False",
+          "explanation": "Titanium causes fewer artefacts than other metals"
+        },
+        {
+          "text": "Contrast agents do not produce artefacts",
+          "response": "",
+          "answer": "False",
+          "explanation": "A high concentration of contrast agent produces streak artefacts similar to metal"
+        },
+        {
+          "text": "Helical scanning is less susceptible to artefacts caused by patient motion than axial scanning",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 31,
+      "stem": "The following artefacts are manifested as streaks in the image",
+      "options": [
+        {
+          "text": "Inadequate field of view",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Photon starvation",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Motion",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Cone beam effects",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Beam hardening"
+        }
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "stem": "Regarding CT dose measurements",
+      "options": [
+        {
+          "text": "CTDIvol is directly proportional to pitch",
+          "response": "",
+          "answer": "False",
+          "explanation": "Beam hardening manifests as cupping artefact"
+        },
+        {
+          "text": "CTDIw of the head is lower than that of the body (for the same mAs and kVp)",
+          "response": "",
+          "answer": "False",
+          "explanation": "CTDlvol is inversely proportional to pitch"
+        },
+        {
+          "text": "Dose length product (DLP) is inversely proportional to pitch",
+          "response": "",
+          "answer": "False",
+          "explanation": "The CT Dlw of the head is generally higher than that of the body. Actual values vary according to the make and model of scanner"
+        },
+        {
+          "text": "DLP is directly proportional to the scanned length",
+          "response": "",
+          "answer": "True",
+          "explanation": "DLP = (CTDlw/pitch) x length"
+        },
+        {
+          "text": "On an average, the effective dose for the head is lower than that for the body",
+          "response": "",
+          "answer": "True",
+          "explanation": "The effective dose is relatively lower due to the lower radiosensitivity of the brain tissue"
+        }
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "stem": "The following statements are true",
+      "options": [
+        {
+          "text": "The effective dose is measured in mSv",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "CTDI is measured in mGy cm³",
+          "response": "",
+          "answer": "False",
+          "explanation": "CTDI is measured in mGy"
+        },
+        {
+          "text": "DLP is measured in mGy cm",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The dose area product is measured in cGy cm²",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "E/DLP (DLP to effective dose conversion coefficient) is measured in mSv (mGy cm⁻¹)",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "stem": "In CT images",
+      "options": [
+        {
+          "text": "Noise is inversely proportional to the number of photons",
+          "response": "",
+          "answer": "False",
+          "explanation": "Noise is inversely proportional to the square root of the number of photons"
+        },
+        {
+          "text": "Doubling the mA reduces the noise by a factor of 2",
+          "response": "",
+          "answer": "False",
+          "explanation": "Doubling the mA reduces the noise by a factor of the square root of 2"
+        },
+        {
+          "text": "Halving rotation time decreases noise by a factor of the square root of 2",
+          "response": "",
+          "answer": "False",
+          "explanation": "Halving rotation time increases noise by a factor of the square root of 2"
+        },
+        {
+          "text": "Increasing slice thickness decreases noise",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Pixel size is generally less than 0.5mm",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "stem": "Regarding CT numbers",
+      "options": [
+        {
+          "text": "CT numbers for the majority of organ soft tissues are in the range of 0-70",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The CT number range for lung is between -100 and -1600",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is between -100 and -900"
+        },
+        {
+          "text": "The CT number of blood is similar to that of soft tissue",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The CT number of fat is between 10 and 50",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is between -60 and -150"
+        },
+        {
+          "text": "The CT number of grey matter in the brain is between 35 and 45",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "stem": "Regarding CT image",
+      "options": [
+        {
+          "text": "The 'Filter' applied in filtered back projection is identical for all types of tissues in the same scanner",
+          "response": "",
+          "answer": "False",
+          "explanation": "The filter can be changed depending on the type of tissue being scanned"
+        },
+        {
+          "text": "In multi-slice scanning, two-point interpolation is used for image reconstruction",
+          "response": "",
+          "answer": "False",
+          "explanation": "Filer interpolation is used for image reconstruction in multi-slice scanning"
+        },
+        {
+          "text": "In single slice scanning, filter interpolation is used for image reconstruction",
+          "response": "",
+          "answer": "False",
+          "explanation": "Two point interpolation is used for image reconstruction in single slice scanning"
+        },
+        {
+          "text": "Window width represents the number of Hounsfield Units (HU) displayed",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Window level represents the middle value of the number of HU displayed",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "stem": "Regarding patient radiation dose",
+      "options": [
+        {
+          "text": "Increasing kV always leads to an increased dose to the patient",
+          "response": "",
+          "answer": "False",
+          "explanation": "Decreasing the mA can offset the increase in dose due to the higher KV setting. In some instances, this can lead to a lower patient dose without any increase in the image noise"
+        },
+        {
+          "text": "In helical scanners, reconstruction on thinner slices may increase the dose",
+          "response": "",
+          "answer": "True",
+          "explanation": "Reconstruction on thinner slices increases noise and this is compensated by increasing mAs, and thus the dose may be increased"
+        },
+        {
+          "text": "In a single slice scanner, generally the patient dose is decreased with increasing slice width",
+          "response": "",
+          "answer": "False",
+          "explanation": "In single slice scanners, the patient dose is generally independent of slice width"
+        },
+        {
+          "text": "mA modulation leads to a lower patient dose compared to fixed mA techniques",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Using a pitch of 1.5 rather than 1 leads to a dose reduction of 50%",
+          "response": "",
+          "answer": "False",
+          "explanation": "Using a pitch of 1.5 leads to a dose reduction of 33%"
+        }
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "stem": "Regarding patient dose, keeping all other parameters constant",
+      "options": [
+        {
+          "text": "Doubling mA doubles the patient dose",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Halving rotation time halves the dose",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Halving rotation time doubles the dose",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "Doubling the pitch doubles the dose",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "Doubling the pitch halves the dose",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "stem": "The European guidelines on quality criteria for computed tomography (EUR 16262 EN) give",
+      "options": [
+        {
+          "text": "A guidance on image quality and radiation dose on a generic examination by examination basis",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Guidance on structures that should be visible for a given type of examination",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "A qualitative guide to the degree of clarity of structures to be expected",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Examples of good imaging techniques and settings",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Reference dose values in terms of CTDlw and OLP",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "stem": "Regarding ECG gating in CT scanners",
+      "options": [
+        {
+          "text": "ECG gating requires the addition of extra hardware and software to existing scanners",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "ECG gating can only be done prospectively",
+          "response": "",
+          "answer": "False",
+          "explanation": "ECG gating can be done prospectively or retrospectively"
+        },
+        {
+          "text": "ECG gating always results in a lower dose to the patient compared to ungated scans",
+          "response": "",
+          "answer": "False",
+          "explanation": "There is no dose reduction in retrospective gating"
+        },
+        {
+          "text": "ECG gating decreases image degradation due to cardiac motion",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "In prospective gating, most of the image acquisition is done during systole",
+          "response": "",
+          "answer": "False",
+          "explanation": "Most of the image acquisition is done during diastole"
+        }
+      ]
+    },
+    {
+      "questionNumber": 41,
+      "stem": "Regarding cardiac CT",
+      "options": [
+        {
+          "text": "The typical effective dose for routine cardiac CT angiography is comparable to that of abdominal-pelvic CT",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is in the region of 7-13 mSv"
+        },
+        {
+          "text": "Dose can be decreased by increasing pitch",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Decreasing x-ray current during phases of the cardiac cycle is effective in reducing dose",
+          "response": "",
+          "answer": "True",
+          "explanation": "Images acquired during these phases are of lower quality and therefore deemed to be of less value for interpretation"
+        },
+        {
+          "text": "If the patient has a higher heart rate, increasing the pitch is a useful dose reduction technique",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is a useful feature of dual-source cardiac CT where linking pitch to a patient's heart rate can effectively reduce the dose and also obviate the need for a heart rate lowering drug such as beta-blockers"
+        },
+        {
+          "text": "Dual source CT means that one x-ray tube is used with two sets of x-ray detectors",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is 2 sets of x-ray tubes and 2 sets of x-ray detectors"
+        }
+      ]
+    },
+    {
+      "questionNumber": 42,
+      "stem": "The following are effective dose reduction methods in cardiac CT",
+      "options": [
+        {
+          "text": "Tube current modulation",
+          "response": "",
+          "answer": "True",
+          "explanation": "This involves lowering the tube current as x-rays crosses over certain areas of the body"
+        },
+        {
+          "text": "Reducing pitch",
+          "response": "",
+          "answer": "False",
+          "explanation": "Increasing pitch reduces dose"
+        },
+        {
+          "text": "Decreasing tube current during phases of cardiac cycle",
+          "response": "",
+          "answer": "True",
+          "explanation": "Dose reduction of up to 50% has been achieved using this"
+        },
+        {
+          "text": "Matching the pitch to the patient's heart rate",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Increasing the scanning time",
+          "response": "",
+          "answer": "False",
+          "explanation": "Scanning time is kept to a minimum to minimize dose"
+        }
+      ]
+    },
+    {
+      "questionNumber": 43,
+      "stem": "The following statements are true of cardiac CT",
+      "options": [
+        {
+          "text": "It requires a low temporal resolution to image the moving heart",
+          "response": "",
+          "answer": "False",
+          "explanation": "In fact, the primary challenge of imaging a beating heart in a system is to have a high temporal resolution"
+        },
+        {
+          "text": "Imaging is primarily directed at acquiring images during the systolic phase",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is the diastolic phase as this is the most quiescent part of the cardiac cycle"
+        },
+        {
+          "text": "Spatial resolution is not as important as temporal resolution in cardiac CT",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is just as important as one must be able to resolve fine structures such as the coronary artery segments"
+        },
+        {
+          "text": "The faster the gantry rotation time, the greater the temporal resolution achieved",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Prospective ECG triggering acquisition reduces the radiation exposure",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is because the projection data are acquired for short periods and not throughout the heart cycle"
+        }
+      ]
+    },
+    {
+      "questionNumber": 44,
+      "stem": "Regarding cardiac CT",
+      "options": [
+        {
+          "text": "In prospective ECG gating, the scanner starts at a preset point from the R-R interval",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The retrospective gating mode of acquisition has a higher radiation dose compared with prospective gating",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is because data are acquired continuously during the cardiac cycle and data from ECG monitoring are retrospectively used for image reconstruction"
+        },
+        {
+          "text": "Multiple-segment reconstruction can result in misregistration and degrade spatial resolution",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is one of the limitations of the multiple-segment reconstruction approach"
+        },
+        {
+          "text": "Partial scan reconstruction achieves high temporal resolution",
+          "response": "",
+          "answer": "False",
+          "explanation": "This is one of the major limitations of partial scan reconstruction and is due to the gantry rotation time. Higher temporal resolution is achieved with the multiple-segment reconstruction approach"
+        },
+        {
+          "text": "Radiation dose is inversely proportional to pitch",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    }
+  ]
+}

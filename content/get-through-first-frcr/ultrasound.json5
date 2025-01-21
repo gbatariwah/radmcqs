@@ -1,0 +1,1016 @@
+{
+  name: "Get Through First FRCR: MCQs for the Physics Module",
+  authors: "Andrew Baird, Grant Mair, Andrew Nisbet,",
+  slug: "ultrasound",
+  questions: [
+    {
+      "questionNumber": 1,
+      "stem": "Regarding ultrasound",
+      "options": [
+        {
+          "text": "Clinically the range, 3 to 15 MHz is commonly used",
+          "response": "",
+          "answer": "True",
+          "explanation": "3 MHz might be used on an abdominal probe, 15 MHz for examining an eye"
+        },
+        {
+          "text": "Sound waves move through tissue as a zone of compression followed by a zone of rarefaction",
+          "response": "",
+          "answer": "True",
+          "explanation": "The total length of these two zones is equal to the wavelength of the sound"
+        },
+        {
+          "text": "It travels through tissue at 154 ms21",
+          "response": "",
+          "answer": "False",
+          "explanation": "Ultrasound travels through tissue at approximately 1540 ms-1"
+        },
+        {
+          "text": "It is at the lower energy end of the electromagnetic spectrum",
+          "response": "",
+          "answer": "False",
+          "explanation": "Ultrasound is not a form of electromagnetic radiation"
+        },
+        {
+          "text": "30 decibels (dB) is a common energy used clinically",
+          "response": "",
+          "answer": "False",
+          "explanation": "No universal reference intensity exists for ultrasound. Decibels are used to indicate a change in intensity from say, the transmitted energy. The decibel scale is logarithmic to the base 10 such that a doubling of intensity adds 3 dB, while increasing output by 10 times adds 10 dB"
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "stem": "Concerning diagnostic ultrasound",
+      "options": [
+        {
+          "text": "Ultrasound is a high frequency form of electromagnetic radiation",
+          "response": "",
+          "answer": "False",
+          "explanation": "Ultrasound waves are longitudinal mechanical waves"
+        },
+        {
+          "text": "The reflective properties at the interface between tissues are utilized in image acquisition",
+          "response": "",
+          "answer": "True",
+          "explanation": "This occurs due to differences in acoustic impedance"
+        },
+        {
+          "text": "The velocity is proportional to the atomic number of the material through which it travels",
+          "response": "",
+          "answer": "False",
+          "explanation": "The velocity of the wave equals the wavelength x frequency. In tissue, the velocity depends on the density and compressibility of the tissue"
+        },
+        {
+          "text": "Damage to tissues from ultrasound causes a stochastic risk of cancer",
+          "response": "",
+          "answer": "False",
+          "explanation": "To date no link between cancer and ultrasound exposure has been made"
+        },
+        {
+          "text": "M-mode ultrasound is the term used for mobile ultrasound units which utilize a single multifunctional transducer",
+          "response": "",
+          "answer": "False",
+          "explanation": "M-mode ultrasound is used to visualize rapidly moving structures (e.g., heart valves) which are displayed on the screen as a composite of A-mode images in an image which shows the motion (y-axis) versus time (x-axis)"
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "stem": "Ultrasound waves",
+      "options": [
+        {
+          "text": "Constructive interference occurs when two waves meet exactly out of phase",
+          "response": "",
+          "answer": "False",
+          "explanation": "This describes destructive interference where waves can cancel each other out; constructive interference occurs if waves meet exactly in phase. In this latter scenario, their amplitudes are added"
+        },
+        {
+          "text": "Do not undergo attenuation",
+          "response": "",
+          "answer": "False",
+          "explanation": "Although occurring by very different mechanisms to ionizing radiation, ultrasound waves also undergo absorption, scattering and reflection"
+        },
+        {
+          "text": "Require a medium to travel in",
+          "response": "",
+          "answer": "True",
+          "explanation": "Like all sound, ultrasound waves cannot travel through a vacuum"
+        },
+        {
+          "text": "Intensity is proportional to the square of the amplitude",
+          "response": "",
+          "answer": "True",
+          "explanation": "Knowing the intensity of the beam is important for issues of safety"
+        },
+        {
+          "text": "The lower the frequency, the more penetrating the beam",
+          "response": "",
+          "answer": "True",
+          "explanation": "Sound energy is absorbed as heat; this increases exponentially with depth and is greater for higher frequencies"
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "stem": "Ultrasound in tissue",
+      "options": [
+        {
+          "text": "All tissues attenuate ultrasound equally",
+          "response": "",
+          "answer": "False",
+          "explanation": "Each tissue has its own ultrasonic attenuation coefficient. These are usually expressed as decibel loss per cm of tissue per MHz. Although they also vary within and between individuals, on average soft tissues attenuate 0.5 – 1.0 dB/cm. In muscle it can be 3 dB/cm, for bone 20 and in fat 0.6. Remember these are the single pass values; the effect is therefore doubled after sound has been both sent and received"
+        },
+        {
+          "text": "The behaviour of ultrasound when it encounters an obstacle depends on the size of that obstacle relative to the wavelength of the sound",
+          "response": "",
+          "answer": "True",
+          "explanation": "If the object is larger than the wavelength, the beam will remain intact but may change direction/be reflected. With smaller objects, the beam’s energy is scattered"
+        },
+        {
+          "text": "Specular reflection enables the visualization of tissue boundaries",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is the scenario when an object is larger than the wavelength of the sound"
+        },
+        {
+          "text": "A large difference in acoustic impedance between tissues means more sound is reflected and less is transmitted at their boundary",
+          "response": "",
+          "answer": "True",
+          "explanation": "Acoustic impedance (z) is defined as (bulk modulus x the density of the material). Bulk modulus (K) is a measure of compressibility. With a greater difference in z, more sound is reflected and less is transmitted. This is important clinically where the ultrasound beam meets the narrow air gap between the probe and the skin as there is naturally a large mismatch between the two; acoustic coupling is therefore required"
+        },
+        {
+          "text": "Since the angle of incidence equals the angle of reflection, ultrasound needs to hit a surface at approximately 908 to be detected by the same probe",
+          "response": "",
+          "answer": "False",
+          "explanation": "In clinical use, an angle of incidence of 90+38 is ideal. However, most interfaces in the body also return scattered echoes and so can still be visualized at angles well away from 90°"
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "stem": "Concerning the interaction of ultrasound with tissues",
+      "options": [
+        {
+          "text": "The acoustic impedance of a material increases proportionally with its density",
+          "response": "",
+          "answer": "False",
+          "explanation": "It increases proportionally with the square root of the density, i.e. Acoustic impedance = (bulk modulus x density)"
+        },
+        {
+          "text": "70% of an ultrasound beam will be reflected at a gas– soft tissue interface",
+          "response": "",
+          "answer": "False",
+          "explanation": "Over 99% will be reflected"
+        },
+        {
+          "text": "Full reflection of ultrasound occurs when the wave encounters a structure that is much smaller than the wavelength",
+          "response": "",
+          "answer": "False",
+          "explanation": "This causes scatter in all directions. Some of the scatter returns to the probe and contributes to the image, e.g. the signal obtained from tissue parenchyma"
+        },
+        {
+          "text": "Utilizing the high attenuation of a full bladder may allow diagnostic imaging of the deep pelvic structures to be performed transabdominally",
+          "response": "",
+          "answer": "False",
+          "explanation": "Water and urine have a very low attenuation. This allows the wave to pass through with very little absorption or scatter and may aid the ultrasound penetration"
+        },
+        {
+          "text": "The half-value layer (HVL) distance of a beam is inversely proportional to its frequency",
+          "response": "",
+          "answer": "True",
+          "explanation": "The penetration of the beam does reduce proportionally with frequency. Although not commonly described in these terms, ultrasound attenuation can be estimated in the same way you calculate HVL for X-rays; exponential decay and an attenuation coefficient proportional to frequency give a half-value distance that is inversely proportional to frequency"
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "stem": "Acoustic impedance (z) and reflection",
+      "options": [
+        {
+          "text": "By imaging internally, endoprobes have a better impedance match to tissue than traditional external probes",
+          "response": "",
+          "answer": "False",
+          "explanation": "The technology in the probe is very similar, and there is still a large native impedance mismatch between the piezoelectric element and soft tissue"
+        },
+        {
+          "text": "The proportion of the ultrasound wave reflected at a soft tissue interface is R ¼ (Z1 2 Z2)2/(Z1 þ Z2)2",
+          "response": "",
+          "answer": "True",
+          "explanation": "Typical reflection proportions would be 99.9% air– tissue, 30% bone – muscle, 1% fat – muscle"
+        },
+        {
+          "text": "If a beam cannot be transmitted due to a large impedance mismatch it will predominantly be refracted instead",
+          "response": "",
+          "answer": "False",
+          "explanation": "A large impedance mismatch predominantly causes reflection of the beam. Refraction occurs when a beam is transmitted past an interface"
+        },
+        {
+          "text": "Coupling gel is used to reduce the reflection of the beam between the probe and the skin",
+          "response": "",
+          "answer": "False",
+          "explanation": "Without coupling gel, the beam would effectively be blocked by the interface of probe – air – tissue; it is therefore a requirement"
+        },
+        {
+          "text": "A high impedance object such as a rib or stone will appear as a bright object with an enhanced shadow",
+          "response": "",
+          "answer": "False",
+          "explanation": "A stone or rib will appear as a bright reflection with a dark unenhanced area of shadow, as no signal will be able to return from the area blocked by the object"
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "stem": "Attenuation, penetration and time gain compensation (TGC)",
+      "options": [
+        {
+          "text": "An ultrasound beam is attenuated linearly in soft tissue rather than exponentially as with X-rays",
+          "response": "",
+          "answer": "False",
+          "explanation": "The attenuation of the ultrasound beam in soft tissue is exponential"
+        },
+        {
+          "text": "Attenuation of the ultrasound beam can be measured in decibels",
+          "response": "",
+          "answer": "True",
+          "explanation": "The decibel = 10 × log10 (ratio of power). A change of 3 dB is approximately equal to a doubling or halving of the power"
+        },
+        {
+          "text": "The attenuation coefficient of the ultrasound beam in soft tissue is proportional to the frequency",
+          "response": "",
+          "answer": "True",
+          "explanation": "This explains why lower frequency probes are used for deep structures such as abdominal scanning despite the better resolution of higher frequency probes. Roughly penetration = 40/frequency"
+        },
+        {
+          "text": "At 3.5 MHz, the power of the returning beam after travel through tissue 15 cm deep would be approximately 100 times less than the initial power of the beam",
+          "response": "",
+          "answer": "False",
+          "explanation": "The returning beam would be about 100 dB less, which is 1/10,000,000,000"
+        },
+        {
+          "text": "TGC can be used to electronically amplify signals returning from deeper structures to give a useful image",
+          "response": "",
+          "answer": "True",
+          "explanation": "The signals from deeper structures are amplified electronically by a factor that increases the further away a structure is. This gives a useful picture where objects further away are presented with roughly the same brightness as closer objects despite returning a signal that may be many thousands of times weaker"
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "stem": "The piezoelectric effect",
+      "options": [
+        {
+          "text": "Voltage applied is directly proportional to movement produced, while in converse the pressure applied is indirectly proportional to the output voltage",
+          "response": "",
+          "answer": "False",
+          "explanation": "The effect is equal in both directions, i.e., input voltage is proportional to movement produced, while pressure applied is proportional to voltage out. This enables one piezoelectric element to be used in both the generation and detection of ultrasound"
+        },
+        {
+          "text": "The resonant frequency of a transducer depends on the piezoelectric material used",
+          "response": "",
+          "answer": "True",
+          "explanation": "Resonant frequency is that at which a piezoelectric element would naturally reverberate at. Although it can function at any frequency, it is most efficient at its resonant frequency. This is determined by both the composition and the dimensions of the element; its width is equal to half the wavelength of the resonant frequency ultrasound"
+        },
+        {
+          "text": "Resonant frequency occurs through constructive interference of sound",
+          "response": "",
+          "answer": "True",
+          "explanation": "As the first sound wave leaves the face of the transducer, an equivalent wave travels backwards through the element. At the resonant frequency, this wave is reflected from the far edge and returns to the output face at exactly the same time as the next forward-moving wave. Constructive interference therefore occurs since the waves are completely in phase"
+        },
+        {
+          "text": "Above a certain temperature, a piezoelectric element will lose this ability",
+          "response": "",
+          "answer": "True",
+          "explanation": "Known as the Curie temperature, for PZT it is around 350°C"
+        },
+        {
+          "text": "Direct current (DC) is most commonly used to drive ultrasound transducers in the clinical setting",
+          "response": "",
+          "answer": "False",
+          "explanation": "B-mode scanning, the most common form used in clinical imaging, uses pulses of ultrasound; these are provided by short repetitive bursts of alternating current (AC)"
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "stem": "In the production of ultrasound",
+      "options": [
+        {
+          "text": "The piezoceramic elements are commonly made from lead zirconate titanate (PZT)",
+          "response": "",
+          "answer": "True",
+          "explanation": "They can also be made from plastic polyvinylidine difluoride (PVDF)"
+        },
+        {
+          "text": "At the natural frequency of a transducer, the wavelength produced is equal to the thickness of the piezoelectric element",
+          "response": "",
+          "answer": "False",
+          "explanation": "The natural or resonant frequency is that which produces a wavelength equal to twice the thickness of the element. This results in a maximum constructive interference between the forward-traveling wave and the wave reflected from the back of the transducer"
+        },
+        {
+          "text": "A prolonged applied voltage will have a longer ring down time than a short pulse of the same amplitude",
+          "response": "",
+          "answer": "False",
+          "explanation": "Mechanical damping from a backing block + electronic damping from a briefly applied reversed voltage determines ring down time"
+        },
+        {
+          "text": "A backing block absorbs waves produced by the back face of the piezoelectric element",
+          "response": "",
+          "answer": "True",
+          "explanation": "It has similar acoustic impedance to the transducer"
+        },
+        {
+          "text": "Matching layers serve to reduce the difference in acoustic impedance between the transducer and the patient",
+          "response": "",
+          "answer": "False",
+          "explanation": "The acoustic impedance of the matching plate lies in between that of the transducer and patient. This allows a greater transmission of energy, but it does not reduce the difference in acoustic impedance between the ceramic transducer element and the body. In the same way, stairs do not reduce the difference in height between two floors in a building, they enable a smooth transition"
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "stem": "Probe design",
+      "options": [
+        {
+          "text": "Piezoelectric elements are naturally electrically conducting",
+          "response": "",
+          "answer": "False",
+          "explanation": "An electrically conducting coat is applied to the piezoelectric element"
+        },
+        {
+          "text": "Acoustic coupling is required in the design of an ultrasound probe",
+          "response": "",
+          "answer": "False",
+          "explanation": "Although ultrasound gel provides a necessary link between the probe and skin, acoustic coupling is also included in the probe itself. PZT and skin have a large impedance mismatch; only 20% of sound would naturally be transmitted. The probe membrane has an acoustic impedance intermediate between that of PZT and soft tissue thus reducing this mismatch and improving sound transmission"
+        },
+        {
+          "text": "Damping reduces pulse duration in pulsed mode",
+          "response": "",
+          "answer": "True",
+          "explanation": "Akin to placing a hand on a ringing bell, damping limits resonance in the element following application of voltage. This is used to ensure short pulse duration in pulsed mode scanning"
+        },
+        {
+          "text": "Focusing is not possible with a single piezoelectric element",
+          "response": "",
+          "answer": "False",
+          "explanation": "Focusing of a single element can be achieved with a curved element or by including an acoustic lens in the design. Modern probes achieve focusing with multiple elements (linear or annular) which are fired sequentially from the outermost in"
+        },
+        {
+          "text": "The width of each piezoelectric element in a multi-element array is usually around one wavelength of the sound produced",
+          "response": "",
+          "answer": "True",
+          "explanation": "Sound spreads out evenly in all directions from each element in a multi-element transducer when they are equal in width to one wavelength. Constructive interference between these multiple simultaneous waves creates a forward propagating beam. In a single element probe, the diameter is usually around 20 times the wavelength"
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "stem": "Concerning ultrasound transducers",
+      "options": [
+        {
+          "text": "Ultrasound probes have no moving parts and are therefore not easily damaged if dropped",
+          "response": "",
+          "answer": "False",
+          "explanation": "Dropping an ultrasound probe can cause cracks in the probe element and anger in your consultant. Heating may also damage the element, and thus probes are sterilized with alcohol wipes and not autoclaved"
+        },
+        {
+          "text": "The long wavelength beam produced by endoprobes (e.g. transvaginal) improves spatial resolution but reduces the depth of penetration",
+          "response": "",
+          "answer": "False",
+          "explanation": "High frequency (low wavelength) beams give improved resolution but with reduced penetration"
+        },
+        {
+          "text": "PZT piezoceramics can function in temperatures up to about 5008C",
+          "response": "",
+          "answer": "False",
+          "explanation": "Above a certain temperature, materials lose their piezoelectric properties. This is the Curie temperature and for PZT it is approximately 350°C"
+        },
+        {
+          "text": "A high pulse repetition frequency (PRF) enables pulsed Doppler measurements of high velocity flow",
+          "response": "",
+          "answer": "True",
+          "explanation": "This comes at the expense of range/depth of measurement"
+        },
+        {
+          "text": "The 3rd harmonic of a 3 MHz transducer will be 300 MHz",
+          "response": "",
+          "answer": "False",
+          "explanation": "Harmonics are multiples of the original frequency. The 3rd harmonic is 3 × 3 = 9 MHz"
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "stem": "Multi-element ultrasound transducers",
+      "options": [
+        {
+          "text": "An annular array is focused in two dimensions",
+          "response": "",
+          "answer": "True",
+          "explanation": "An annular array has multiple concentric rings of piezoelectric element. These focus to the point of a cone, i.e., in all planes perpendicular to the beam. A linear array by converse is only focused in one dimension; the other has to have separate focusing"
+        },
+        {
+          "text": "Electronic focusing creates a shorter focal distance if the delay between energizing individual elements is increased",
+          "response": "",
+          "answer": "True",
+          "explanation": "Electronic focusing works by energizing the outermost pair of elements first then sequentially moving in after a short delay. Constructive interference leads to formation of a beam which has a focal length determined by the delay between neighbouring elements. With a greater delay the outer beams will travel further than the inner, thus flattening the triangle of focus and bringing the focal point closer"
+        },
+        {
+          "text": "All of the piezoelectric elements contribute to the beam at all times in a stepped linear array",
+          "response": "",
+          "answer": "False",
+          "explanation": "The elements are energized sequentially in overlapping groups of perhaps six at a time; usually there are 128 or 256 elements in total. This creates a series of parallel beams that are used to form an image line by line"
+        },
+        {
+          "text": "A phased array can perform electronic sector scanning",
+          "response": "",
+          "answer": "True",
+          "explanation": "By phasing the current from one end of the scanner to the other, the beam can be steered electronically. This can be adjusted between pulses to create a beam that sweeps from side to side and thus performs sector scanning"
+        },
+        {
+          "text": "With several rows of elements, electronic focusing can also be applied across the plane of slice thickness in a linear array",
+          "response": "",
+          "answer": "True",
+          "explanation": "This improves image resolution"
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "stem": "The ultrasound beam",
+      "options": [
+        {
+          "text": "Maintains its dimensions indefinitely",
+          "response": "",
+          "answer": "False",
+          "explanation": "Constructive interference of adjacent sound waves arising perpendicularly from the face of an ultrasound probe leads to reinforcement and the creation of a beam. Parallel to this but beyond the edges of the transducer, destructive interference ensures this beam has a defined rectangular shape. This region is known as the near field or Fresnel zone. As sound moves further from the transducer, the dual effect of sound interference is lost and the beam begins to diverge; this is the far field or Fraunhofer zone"
+        },
+        {
+          "text": "The near field is longer with a higher frequency",
+          "response": "",
+          "answer": "True",
+          "explanation": "The length of the near field is proportional to: frequency × beam diameter²"
+        },
+        {
+          "text": "There is less near field divergence with an increasing transducer diameter",
+          "response": "",
+          "answer": "False",
+          "explanation": "There is less far field divergence with a larger diameter transducer"
+        },
+        {
+          "text": "The bandwidth of useful frequencies in an ultrasound beam is wider for transducers with high damping",
+          "response": "",
+          "answer": "True",
+          "explanation": "Transducers with high damping can produce and respond to a greater range of frequencies; with more time to resonate a transducer will work towards its single, natural frequency"
+        },
+        {
+          "text": "Side lobes occur at the distal end of the primary beam",
+          "response": "",
+          "answer": "False",
+          "explanation": "Side lobes are formed near the transducer due to small vibrations at the lateral edges of the piezoelectric element. These are comparatively of low intensity compared with the primary beam, but can cause artefacts"
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "stem": "Image formation in ultrasound",
+      "options": [
+        {
+          "text": "A-mode scanning is utilized in most modern scanners",
+          "response": "",
+          "answer": "False",
+          "explanation": "This stands for amplitude mode scanning and represents the simplest form of ultrasound imaging showing only the position of tissue planes. Modern two-dimensional (2D) imaging uses B(brightness)-mode scanning"
+        },
+        {
+          "text": "Time gain compensation is not needed in B-mode scanning",
+          "response": "",
+          "answer": "False",
+          "explanation": "Time gain compensation corrects for sound attenuation with depth. This is required in both A- and B-mode scanning"
+        },
+        {
+          "text": "B-mode provides spatial information only",
+          "response": "",
+          "answer": "False",
+          "explanation": "The brightness of each dot in the image directly relates to the amplitude of the signal received from that spatial location"
+        },
+        {
+          "text": "During scanning, more time is spent receiving than transmitting echoes",
+          "response": "",
+          "answer": "True",
+          "explanation": "Even with a PRF of 1 kHz (1000 pulses per second), only around 0.1% of the time is spent transmitting"
+        },
+        {
+          "text": "The difference between static and realtime B-mode imaging is that frames need to be reproduced more than 100 times per second in realtime",
+          "response": "",
+          "answer": "False",
+          "explanation": "Realtime imaging requires that B-mode frames are reproduced at least 25 times per second; this is sufficient for the human eye to perceive changes as movement. Scanners do sometimes drop to frame rates of 10 –15 per second, but interpolate between frames so as to boost the refresh rate of the display and appear ‘realtime’"
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "stem": "With realtime ultrasound imaging, if all other factors are kept constant",
+      "options": [
+        {
+          "text": "A higher PRF allows a higher number of lines per frame",
+          "response": "",
+          "answer": "True",
+          "explanation": "PRF = lines per frame * frame rate"
+        },
+        {
+          "text": "To view an object further from the probe the PRF must be increased",
+          "response": "",
+          "answer": "False",
+          "explanation": "The further the object is from the probe, the greater the time for an echo to return, and therefore the PRF needs to be lower"
+        },
+        {
+          "text": "The frame rate is inversely proportional to the PRF",
+          "response": "",
+          "answer": "False",
+          "explanation": "The frame rate is proportional to the PRF"
+        },
+        {
+          "text": "A typical abdominal ultrasound at 20 cm maximum depth might allow 100 lines per frame and 30 frames per second (fps)",
+          "response": "",
+          "answer": "True",
+          "explanation": "Scanning closer to the surface would allow higher frame rates and lines per frame"
+        },
+        {
+          "text": "Frame rate x lines per frame ¼ Velocity of sound in tissue/ depth x 2",
+          "response": "",
+          "answer": "True",
+          "explanation": "The depth is 2 as the sound has to travel to the maximum depth and back again"
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "stem": "Contrast and harmonic imaging",
+      "options": [
+        {
+          "text": "Contrast agents used in ultrasound include microbubbles or nanoparticles up to 1 mm diameter",
+          "response": "",
+          "answer": "False",
+          "explanation": "Microbubbles are normally less than 4 mm and nanoparticles less than 1 mm. Both are used as contrast agents in ultrasound"
+        },
+        {
+          "text": "Contrast agents increase the signal returned by resonating at the fundamental and harmonic frequencies",
+          "response": "",
+          "answer": "True",
+          "explanation": "Although the contrast agents are far too small to be resolved by the ultrasound beam, they resonate at the fundamental frequency and harmonic frequencies and generate a signal much larger than that from surrounding tissue and blood"
+        },
+        {
+          "text": "Contrast agents can increase the sensitivity of ultrasound detection of pathology such as liver lesions",
+          "response": "",
+          "answer": "True",
+          "explanation": "Contrast agents taken up by vascular lesions can enhance lesions that would not otherwise be detectable on ultrasound imaging. They can also adhere to tissue walls and thrombus. Specialist contrast agents include immunologically-targeted microtubules"
+        },
+        {
+          "text": "Harmonics are frequencies that are multiples of the fundamental frequency",
+          "response": "",
+          "answer": "True",
+          "explanation": "The distortion of the main frequency by its travel through tissue produces harmonics at multiples of the fundamental frequency. Although these echoes are at greatly reduced amplitude there are other advantages such as reduced scatter that make them useful for imaging"
+        },
+        {
+          "text": "Harmonic imaging requires a transducer with very little damping",
+          "response": "",
+          "answer": "False",
+          "explanation": "Harmonic imaging requires broad bandwidth transducers, which are normally heavily damped"
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "stem": "Artefacts in ultrasound",
+      "options": [
+        {
+          "text": "Fluid filled structures often cause acoustic enhancement",
+          "response": "",
+          "answer": "True",
+          "explanation": "Homogenous fluid such as urine in the bladder is weakly attenuating, and thus allows the beam to pass through and a better signal to be received from objects on the far side. This produces a bright area on the far side of the fluid structure. This effect is used in transabdominal gynaecological ultrasound, where the patient is asked to come with a full bladder to image the uterus and ovaries"
+        },
+        {
+          "text": "Speckle represents the true consistency of a solid organ",
+          "response": "",
+          "answer": "False",
+          "explanation": "Speckle does provide a textured appearance that can be interpreted, such as the bright appearance of a fatty liver. However, it is an artefact arising from the scatter of waves from structures that are too small to be resolved"
+        },
+        {
+          "text": "Reverberation artefact is caused by a resonation of a small bubble that causes a track throughout the scan",
+          "response": "",
+          "answer": "False",
+          "explanation": "Reverberation is where a wave is reflected several times within a structure close to the probe before returning and gives the appearance of a second object further away from the original. Reverberation within the probe and the gel is often seen as several bright lines across the field of view (FOV) at the top of the picture, and can sometimes mask objects very close to the surface. Resonation of a small group of bubbles describes the artefact of ring down"
+        },
+        {
+          "text": "Reflection artefact can cause objects to appear in a different location",
+          "response": "",
+          "answer": "True",
+          "explanation": "This can sometimes occur with objects within the liver reflecting off the smooth surface of the diaphragm and appearing to lie within the lung"
+        },
+        {
+          "text": "Acoustic shadowing is of no use in ultrasound as it blocks the path of the beam",
+          "response": "",
+          "answer": "False",
+          "explanation": "Acoustic shadow can aid detection of gallstones and renal calculi and help to distinguish between calculi and polyps"
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "stem": "Image artefacts with ultrasound",
+      "options": [
+        {
+          "text": "Speckle occurs because there is nothing for the sound waves to reflect back from",
+          "response": "",
+          "answer": "False",
+          "explanation": "Speckle occurs because the constituents of solid organ parenchyma are too small to fully reflect the sound. Instead, the beam energy is randomly scattered in all directions; some of this is detected, giving the characteristic speckled appearance of liver and spleen, etc"
+        },
+        {
+          "text": "Shadowing occurs behind objects with a high attenuation coefficient",
+          "response": "",
+          "answer": "True",
+          "explanation": "TGC will therefore under-compensate, making distal objects seem less echogenic. The opposite situation leads to acoustic enhancement"
+        },
+        {
+          "text": "Sound that has been multiply reflected will be placed less deeply in the image than the original reflective surface depth",
+          "response": "",
+          "answer": "False",
+          "explanation": "Multiply reflected sound will be placed deeper in the image than its true original reflective origin since the scanner assumes the sound has travelled in a straight line. The extra reflection(s) will delay its return"
+        },
+        {
+          "text": "Refraction is compensated for in ultrasound imaging",
+          "response": "",
+          "answer": "False",
+          "explanation": "When sound is transmitted across a tissue boundary it will undergo some refraction. The ratio of the sine of incident and refracted angles is equal to the ratio of velocity in the two tissues; this is Snell’s law. Ultrasound scanners assume travel in straight lines, there is no compensation for refraction"
+        },
+        {
+          "text": "Reverberation artefact can be lessened with harmonic imaging",
+          "response": "",
+          "answer": "True",
+          "explanation": "This occurs when multiple reflections occur between the transducer and an interface near the surface, creating lines parallel to this interface"
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "stem": "Image quality in ultrasound",
+      "options": [
+        {
+          "text": "The attenuation of a 3 MHz beam in a given tissue is less than that of a 10 MHz beam",
+          "response": "",
+          "answer": "True",
+          "explanation": "The attenuation (decibel loss per centimetre) of a beam is proportional to the frequency"
+        },
+        {
+          "text": "Streak artefact can occur when imaging the liver through the ribs",
+          "response": "",
+          "answer": "False",
+          "explanation": "This could cause acoustic shadowing, where a high attenuation structure reduces the intensity of echoes received from deeper tissues. Streak artefact is found in CT"
+        },
+        {
+          "text": "The scanner interpolates data received from the transducer to fill in gaps between scan lines",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is especially needed at depth with a sector scanner since the scan lines are divergent"
+        },
+        {
+          "text": "Macrobubble contrast agents can enhance visualization of blood vessels and liver metastases",
+          "response": "",
+          "answer": "False",
+          "explanation": "Microbubbles typically less than 4 mm in diameter are used as contrast agents"
+        },
+        {
+          "text": "To achieve a frame rate of 25 fps with 100 lines per frame would require a PRF of at least 2.5 MHz",
+          "response": "",
+          "answer": "False",
+          "explanation": "PRF = frame rate * lines per frame (2.5 kHz)"
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "stem": "Doppler",
+      "options": [
+        {
+          "text": "The Doppler effect is the change in sound wave amplitude caused by reflection from a moving surface",
+          "response": "",
+          "answer": "False",
+          "explanation": "The Doppler effect is the change in frequency caused by reflection from a moving surface. The reflection of a wave from an object moving towards the wave effectively shortens the wavelength and increases the frequency. Reflection from an object moving away has the opposite effect"
+        },
+        {
+          "text": "The Doppler effect is at a maximum when imaging blood vessels perpendicular to the beam",
+          "response": "",
+          "answer": "False",
+          "explanation": "The Doppler shift is proportional to cos u. At 90° (perpendicular to the beam) the Doppler shift will be zero. This can be seen when colour imaging a blood vessel where part of the vessel is coloured red, indicating flow towards the probe, the central part is black, showing no movement towards or away from the probe as the blood is flowing perpendicular to the beam, then a blue section indicates blood flowing away from the probe again"
+        },
+        {
+          "text": "In pulsed colour, Doppler flow that is too fast may be incorrectly coloured due to aliasing",
+          "response": "",
+          "answer": "True",
+          "explanation": "As the PRF is set by the maximum depth scanned, inadequate sampling may lead to aliasing errors, with fast flow being recorded as slow and vice versa"
+        },
+        {
+          "text": "Aliasing does not occur in continuous wave Doppler",
+          "response": "",
+          "answer": "True",
+          "explanation": "Continuous wave Doppler does not use pulses and therefore the sampling rate is not limited by the pulse repetition"
+        },
+        {
+          "text": "In duplex scanning, if the angle u of the blood vessel can accurately be measured, blood flow velocities can be calculated",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is clinically useful in many areas such as assessment of vessel stenosis"
+        }
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "stem": "Concerning Doppler ultrasound",
+      "options": [
+        {
+          "text": "Beam side lobes are not relevant to Doppler imaging",
+          "response": "",
+          "answer": "False",
+          "explanation": "As with conventional imaging, they can cause artefacts. In Doppler it is possible to see a false signal"
+        },
+        {
+          "text": "Doppler enables the rate and direction of flow to be determined",
+          "response": "",
+          "answer": "False",
+          "explanation": "The rate of flow towards or away from the probe can be determined; direction of flow requires additional information from the B-scan image, i.e. the direction of any relevant blood vessel. This is duplex scanning"
+        },
+        {
+          "text": "Pressure in a stenosed blood vessel can be estimated using the Bernoulli formula",
+          "response": "",
+          "answer": "True",
+          "explanation": "Flow velocity (v) increases through a stenosis. The pressure increases by 4 V2. This is the Bernoulli formula. It gives an approximate value because it ignores the effects of blood turbulence and viscosity"
+        },
+        {
+          "text": "Duplex typically combines a Doppler image with A-mode imaging",
+          "response": "",
+          "answer": "False",
+          "explanation": "Duplex scanning typically combines Doppler with B-mode imaging"
+        },
+        {
+          "text": "Using the Doppler equation shows that the reflected frequency is proportional to the speed of a moving interface",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is the change in reflected frequency that is proportional to the speed of the interface"
+        }
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "stem": "Clinical use of Doppler",
+      "options": [
+        {
+          "text": "Range gating is used for depth localization",
+          "response": "",
+          "answer": "True",
+          "explanation": "If detected, Doppler shift could be occurring anywhere along the line of the ultrasound beam. Range gating means the detector will only accept signal in a short window of time; since speed is constant, the time chosen is known to relate to a specific depth"
+        },
+        {
+          "text": "Continuous wave Doppler can be performed with a single transmit/receive probe",
+          "response": "",
+          "answer": "False",
+          "explanation": "Continuous wave Doppler requires two similarly aligned probes: one to transmit, one to receive"
+        },
+        {
+          "text": "The spectral trace only provides information on direction and mean velocity of flow",
+          "response": "",
+          "answer": "False",
+          "explanation": "The spectral trace is a complete graphical representation of Doppler frequency against time. The Doppler signal is continuously sampled and each sample shows flow direction, component frequencies (equivalent to component speeds) and the number of blood cells at each frequency. From this the minimum, maximum and mean velocities can be calculated"
+        },
+        {
+          "text": "A colour mapped Doppler image provides more accurate velocity data than spectral imaging",
+          "response": "",
+          "answer": "False",
+          "explanation": "Compared with spectral imaging, colour mapping is very limited. To produce realtime images with Doppler information, there is simply not enough time to sample more than 10 Doppler pulses per scan line. Thus, colour Doppler only provides information on direction, mean velocity and variance"
+        },
+        {
+          "text": "Power Doppler is more sensitive in identifying flow than colour Doppler",
+          "response": "",
+          "answer": "True",
+          "explanation": "Power Doppler only provides information on the amplitude of the Doppler signal; this depends on the number of elements involved in the flow irregardless of direction. Power Doppler is therefore more sensitive to identifying areas of low flow"
+        }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "stem": "Quality assurance in ultrasound",
+      "options": [
+        {
+          "text": "Ultrasound probe resolution can be tested by scanning a frame of wires immersed in a liquid",
+          "response": "",
+          "answer": "True",
+          "explanation": "The wires are spaced at decreasing intervals to test maximum resolution and are immersed in a liquid in which the speed of sound is 1540 ms21"
+        },
+        {
+          "text": "A faulty transducer element in a linear array probe is not noticeable in the image since there are over 100 other functioning elements",
+          "response": "",
+          "answer": "False",
+          "explanation": "The multiple elements in a linear array probe are not used simultaneously when imaging. Smaller groups are usually energized sequentially to provide a scanning beam; the effect of this means a single faulty element is more noticeable, usually as a dark streak on the image running parallel with the beam"
+        },
+        {
+          "text": "The Doppler function may be calibrated using a Leeds test object",
+          "response": "",
+          "answer": "False",
+          "explanation": "The Leeds test object is commonly used in fluoroscopy quality assurance. Complex tissue mimicking phantoms can be used to test Doppler in ultrasound"
+        },
+        {
+          "text": "Ultrasound can be tested using gelatine based phantoms",
+          "response": "",
+          "answer": "True",
+          "explanation": "These are used to check the accuracy of the greyscale picture in realtime imaging. Gelatine phantoms are created to closely represent tissue characteristics when examined with ultrasound"
+        },
+        {
+          "text": "Mechanical Index (MI) describes the manoeuvrability of the beam with a phased array",
+          "response": "",
+          "answer": "False",
+          "explanation": "The MI measures the maximum amplitude of the pressure pulse in ultrasound; this is defined as the peak rarefaction pressure/frequency2"
+        }
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "stem": "Image quality in ultrasound",
+      "options": [
+        {
+          "text": "Axial resolution is improved with lower frequency ultrasound",
+          "response": "",
+          "answer": "False",
+          "explanation": "Axial or depth resolution is the ability to differentiate two tissue planes in the line of the ultrasound beam; it is approximately half the pulse length. Pulses are shorter at higher frequency"
+        },
+        {
+          "text": "Lateral resolution is best in the focal zone",
+          "response": "",
+          "answer": "False",
+          "explanation": "Lateral resolution is the ability to differentiate two structures lying side by side at the same depth. This requires the beam to be narrower than the gap between the structures. A beam is narrowest in the focal zone"
+        },
+        {
+          "text": "Phantoms for testing resolution consist of a solid Perspex box with a variety of copper rods of different diameters running through them",
+          "response": "",
+          "answer": "False",
+          "explanation": "For assessing resolution, the phantom should be filled with fluid through which sound travels at approximately 1540 ms21. Solid Perspex is used to assess sensitivity and distance measures; these need to take account of the faster speed of sound in Perspex"
+        },
+        {
+          "text": "Quality assurance requires that distance measurements are accurate to 0.2%",
+          "response": "",
+          "answer": "False",
+          "explanation": "2% is acceptable over a distance of 10 cm"
+        },
+        {
+          "text": "Tissue mimicking phantoms can be used to assess greyscale",
+          "response": "",
+          "answer": "True",
+          "explanation": "These phantoms are made to represent solid organ parenchyma; the textural pattern created is assessed"
+        }
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "stem": "Ultrasound resolution",
+      "options": [
+        {
+          "text": "Axial (depth) resolution in ultrasound is better than lateral resolution",
+          "response": "",
+          "answer": "True",
+          "explanation": "Axial resolution is approximately three times better than lateral resolution"
+        },
+        {
+          "text": "Axial resolution is proportional to the wavelength of the sound",
+          "response": "",
+          "answer": "False",
+          "explanation": "A higher frequency of wave and shorter duration of pulse results in a better axial resolution; this corresponds to a shorter wavelength, i.e. is inversely proportional"
+        },
+        {
+          "text": "Lateral resolution is the ability to distinguish two objects perpendicular to the direction of the wave",
+          "response": "",
+          "answer": "True",
+          "explanation": "Axial resolution is the ability to distinguish two objects parallel to the direction of the wave"
+        },
+        {
+          "text": "The lateral resolution is approximately equal to the beam width at the depth of the objects",
+          "response": "",
+          "answer": "True",
+          "explanation": "At the focal depth, beam width = focal length × wavelength/diameter"
+        },
+        {
+          "text": "Lateral resolution for ultrasound focused at 5 cm depth would be in the region of 1 mm",
+          "response": "",
+          "answer": "True",
+          "explanation": "Improvements continue to be made to reduce the diameter of transmitting crystal needed and thus improve the resolution"
+        }
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "stem": "Ultrasound safety",
+      "options": [
+        {
+          "text": "Staff using ultrasound should be mindful of the Ionising Radiations Regulations 1999 (IRR99)",
+          "response": "",
+          "answer": "False",
+          "explanation": "Ultrasound does not use ionizing radiation, and thus does not fall under IRR99"
+        },
+        {
+          "text": "Time averaged intensity should nowhere exceed 100 mW/cm2 and total energy should not exceed 50 J/cm2",
+          "response": "",
+          "answer": "True",
+          "explanation": "Although these are agreed safety guidelines, there is no legal requirement to follow them"
+        },
+        {
+          "text": "The intensity of the ultrasound beam at the focal region averaged over the course of the examination is approximately 10 mW/cm2",
+          "response": "",
+          "answer": "True",
+          "explanation": "At an intensity of 10 mW/cm2 it would take approximately 1 hour 20 min of imaging a single region to reach a total energy of 50 J/cm2"
+        },
+        {
+          "text": "The power of an ultrasound probe may be measured with a force balance used to assess the sound pressure",
+          "response": "",
+          "answer": "True",
+          "explanation": "This may also be done by measuring the heating effect with a calorimeter"
+        },
+        {
+          "text": "The Thermal Index (TI) is the ratio of the power output divided by the power required to raise the temperature of the tissue by 18C",
+          "response": "",
+          "answer": "True",
+          "explanation": "The heating effect of an ultrasound probe may be used therapeutically, but can be of especial concern in antenatal scanning and in patients with a high fever. Guidelines exist on maximum scan length times depending on TI and patient core temperature"
+        }
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "stem": "Safety in ultrasound",
+      "options": [
+        {
+          "text": "The British Medical Ultrasound Society (BMUS) produces safety guidelines for the use of diagnostic ultrasound",
+          "response": "",
+          "answer": "True",
+          "explanation": "These are published online at www.bmus.org.uk"
+        },
+        {
+          "text": "It is bad practice to hold the probe stationary for extended periods of time while it is transmitting ultrasound",
+          "response": "",
+          "answer": "True",
+          "explanation": "This increases the energy transferred to a small volume of tissue, raising the possibility of thermal or mechanical damage. Care should especially be taken when using pulsed Doppler"
+        },
+        {
+          "text": "Pulsed Doppler is used routinely in eye examination",
+          "response": "",
+          "answer": "False",
+          "explanation": "The eyes, an embryo of less than 8 weeks gestation, and the central nervous system of a fetus or neonate are identified by BMUS as particularly sensitive targets for ultrasound examination; potentially high energy modes such as pulsed Doppler should therefore be avoided"
+        },
+        {
+          "text": "An MI > 0.7 indicates a potential risk of cavitation",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is a theoretical risk but 0.7 is the figure published by BMUS"
+        },
+        {
+          "text": "With a TI of 1.0, fetal scanning should be limited to 30 min",
+          "response": "",
+          "answer": "True",
+          "explanation": "Measurements of scanner outputs have shown that values of TI displayed on the screen can be too small. A TI of 1 may equate to a temperature rise of up to 28C"
+        }
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "stem": "Guidelines for the use of ultrasound",
+      "options": [
+        {
+          "text": "MI should not be greater than 0.7 if a contrast medium is used",
+          "response": "",
+          "answer": "True",
+          "explanation": "There is a risk of cavitation if using contrast media. A theoretical risk of spontaneous cavitation also exists at an MI . 0.7 (BMUS guidelines note this as a threshold, and recommend that MI is kept to a minimum)"
+        },
+        {
+          "text": "MI > 0.3 should not be used in non-diagnostic fetal ultrasound scans",
+          "response": "",
+          "answer": "True",
+          "explanation": "A possible risk of minor damage to neonatal lung or intestine is reported at this level. BMUS guidelines recommend an MI , 0.3 for non-diagnostic scans"
+        },
+        {
+          "text": "MI > 0.3 should not be used in fetal ultrasound scans",
+          "response": "",
+          "answer": "True",
+          "explanation": "A possible risk of minor damage to neonatal lung or intestine is reported at this level"
+        },
+        {
+          "text": "According to BMUS guidelines, the abdomen of a pyrexial adult patient (38°C) can safely be scanned for up to 45 min at a TI of 3",
+          "response": "",
+          "answer": "False",
+          "explanation": "TI gives an indication as to the temperature rise in tissues as a result of the ultrasound beam. With a pyrexial patient, 10 min of scanning can be safely performed when TI = 2"
+        },
+        {
+          "text": "Ionising Radiation (Medical Exposure) Regulations (IR(ME)R) state that justification of ultrasound requests must only be made by a registered medical practitioner",
+          "response": "",
+          "answer": "False",
+          "explanation": "IR(ME)R relates only to examinations using ionizing radiation"
+        }
+      ]
+    }
+  ]
+
+}

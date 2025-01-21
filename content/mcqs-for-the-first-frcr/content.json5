@@ -1,0 +1,48 @@
+{
+  title: "MCQs for the First FRCR",
+  slug: "mcqs-for-the-first-frcr",
+  author: "Varut Vardhanabhuti, Julia James, Rosemary Gray, Rehaan Nensey, W MVivien Shuen, Tishi Ninan",
+  edition: 1,
+  sections: [
+    {
+      "name": "Basic radiation physics",
+      "slug": "basic-radiation-physics"
+    },
+    {
+      "name": "Fluoroscopy",
+      "slug": "fluoroscopy"
+    },
+    {
+      "name": "Digital radiography",
+      "slug": "digital-radiography"
+    },
+    {
+      "name": "Film screen radiography",
+      "slug": "film-screen-radiography"
+    },
+    {
+      "name": "Image quality and X-ray production",
+      "slug": "image-quality-and-x-ray-production"
+    },
+    {
+      "name": "General radiation hazards and protection",
+      "slug": "general-radiation-hazards-and-protection"
+    },
+    {
+      "name": "Computed tomography",
+      "slug": "computed-tomography"
+    },
+    {
+      "name": "Nuclear medicine",
+      "slug": "nuclear-medicine"
+    },
+    {
+      "name": "Ultrasound",
+      "slug": "ultrasound"
+    },
+    {
+      "name": "Magnetic resonance imaging",
+      "slug": "magnetic-resonance-imaging"
+    }
+  ]
+}

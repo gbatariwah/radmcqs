@@ -42,6 +42,13 @@ watch(revision, (newVal) => {
       >. {{ question.stem }}{{ isQuestionMark ? "" : ":" }}
     </h2>
 
+    <figure
+      v-if="question.image && params.bookSlug === 'marrow-qbank'"
+      class="p-4"
+    >
+      <img :src="question.image" alt="" class="h-[350px]" />
+    </figure>
+
     <div v-for="(option, optionId) in question.options">
       <div
         class="flex gap-3 py-2 items-center"
@@ -118,6 +125,7 @@ watch(revision, (newVal) => {
           :answer="question.answer"
           :response="question.response"
           :revision
+          :bookSlug="params.bookSlug"
         />
       </div>
     </template>

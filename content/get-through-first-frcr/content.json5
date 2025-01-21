@@ -1,0 +1,48 @@
+{
+  title: "Get Through First FRCR: MCQs for the Physics Module",
+  slug: "get-through-first-frcr",
+  author: "Andrew Baird, Grant Mair, Andrew Nisbet,",
+  edition: 1,
+  sections: [
+    {
+      "name": "Basic Physics",
+      "slug": "basic-physics"
+    },
+    {
+      "name": "Radiation Hazards and Protection",
+      "slug": "radiation-hazards-protection"
+    },
+    {
+      "name": "Imaging with X-rays",
+      "slug": "imaging-with-x-rays"
+    },
+    {
+      "name": "Digital Radiography",
+      "slug": "digital-radiography"
+    },
+    {
+      "name": "Fluoroscopy",
+      "slug": "fluoroscopy"
+    },
+    {
+      "name": "Computed Tomography",
+      "slug": "computed-tomography"
+    },
+    {
+      "name": "Radionuclide Imaging",
+      "slug": "radionuclide-imaging"
+    },
+    {
+      "name": "Ultrasound",
+      "slug": "ultrasound"
+    },
+    {
+      "name": "Magnetic Resonance Imaging",
+      "slug": "magnetic-resonance-imaging"
+    },
+    {
+      "name": "Mock Examination",
+      "slug": "mock-examination"
+    }
+  ]
+}

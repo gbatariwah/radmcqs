@@ -15,13 +15,13 @@ export default defineNuxtConfig({
   app: {
     pageTransition: { name: "page", mode: "out-in" },
     head: {
-      // script: [
-      //   {
-      //     src: "https://analytics.umami.is/script.js",
-      //     async: true,
-      //     "data-website-id": "9a32b8c5-210d-4297-81d3-3e22ef2c3f30",
-      //   },
-      // ],
+      script: [
+        {
+          src: "https://analytics.umami.is/script.js",
+          async: true,
+          "data-website-id": "9a32b8c5-210d-4297-81d3-3e22ef2c3f30",
+        },
+      ],
     },
   },
   runtimeConfig: {

@@ -1,0 +1,1124 @@
+{
+  name: "MCQs for the First FRCR",
+  authors: "Varut Vardhanabhuti, Julia James, Rosemary Gray, Rehaan Nensey, W MVivien Shuen, Tishi Ninan",
+  slug: "digital-radiography",
+  questions: [
+    {
+      "questionNumber": 1,
+      "stem": "The intrinsic resolution in computed radiography (CR) is limited by",
+      "options": [
+        {
+          "text": "A Pixel size",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "B. Scattering of laser light in the phosphor layer",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "C. Thickness of the phosphor layer",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "D. Diameter of the scanning laser beam",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "E. Orientation of the x-ray beam",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "stem": "The following statements are true regarding computed radiography (CR)",
+      "options": [
+        {
+          "text": "A Compared to standard image plates (IPs), high resolution image plates (HRIPs) require a lower x-ray dose to produce an image",
+          "response": "",
+          "answer": "False",
+          "explanation": "A high resolution IP comprises a thinner layer of finer phosphor crystals and usually does not include a light reflection layer. HRIPs are reserved for examinations demanding high spatial resolution. High resolution imaging plates have lower fractional x-ray absorption efficiency and therefore demand a higher x-ray dose than standard IPs"
+        },
+        {
+          "text": "B. A photostimulable phosphor plate is used as the image plate (IP)",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "C. Absorption of an energetic x-ray photon gives electrons sufficient energy to jump from a conduction band into a valence band",
+          "response": "",
+          "answer": "False",
+          "explanation": "After the absorption of x-ray photons, electrons jump from the valence band into the conduction band"
+        },
+        {
+          "text": "D. Electrons can decay into traps after promotion",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "E. High resolution image plates have high fractional x-ray absorption efficiency compared to standard IPs",
+          "response": "",
+          "answer": "False",
+          "explanation": "HRIPs have lower fractional x-ray absorption efficiency compared to standard IPs"
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "stem": "In computed radiography (CR)",
+      "options": [
+        {
+          "text": "A. Laser light can give trapped electrons enough energy to leave energy traps",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is how the phosphor plate is read with a laser beam scanning to and fro across the plate"
+        },
+        {
+          "text": "B. The stimulated emission signal in CR has a very low intensity",
+          "response": "",
+          "answer": "True",
+          "explanation": "The signal photons have to be collected with a photomultiplier"
+        },
+        {
+          "text": "C. Photostimulable plates used in plain radiography are cheap and of single use",
+          "response": "",
+          "answer": "False",
+          "explanation": "The plates are expensive and can be reused"
+        },
+        {
+          "text": "D. The dose latitude (dynamic range) of CR systems is in the order of 100:1",
+          "response": "",
+          "answer": "False",
+          "explanation": "The dynamic range of CR systems is in the order of 10,000:1"
+        },
+        {
+          "text": "E. Using CR system results in a lower rate of repeat exposures",
+          "response": "",
+          "answer": "True",
+          "explanation": "Due to the high dynamic range of CR systems, there is more consistent acquisition of images with lower occurrence of incorrectly (over or under) exposed images"
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "stem": "The following statements are true regarding photostimulable phosphor plates (PSPs)",
+      "options": [
+        {
+          "text": "A. The commonly used storage phosphor comprises barium fluorohalide crystals activated with divalent europium ions",
+          "response": "",
+          "answer": "True",
+          "explanation": "The commonly used storage phosphor is BaFX:Eu2+. X stands for a specific mix of halogen atoms selected from bromine, iodine, and possibly chlorine atoms"
+        },
+        {
+          "text": "B. A laser beam is passed across an exposed plate to read the image",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "C. The image is read by continuous sampling",
+          "response": "",
+          "answer": "False",
+          "explanation": "The image from an IP is read by discrete sampling"
+        },
+        {
+          "text": "D. Plate reading can take place a long while after the image is taken",
+          "response": "",
+          "answer": "False",
+          "explanation": "Electrons will relax to their ground states from their metastable states as soon as a relaxation mechanism presents itself. If the IP is not read in good time, the image quality will degrade"
+        },
+        {
+          "text": "E. The density of the image depends on the exposure factors used",
+          "response": "",
+          "answer": "False",
+          "explanation": "The image density is independent of the exposure factors used"
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "stem": "Regarding photostimulable phosphor plates (PSPs)",
+      "options": [
+        {
+          "text": "A. A CR IP deteriorates over time due to laser desensitization",
+          "response": "",
+          "answer": "False",
+          "explanation": "The degradation of the IP is due to desensitization of the phosphor screen"
+        },
+        {
+          "text": "B. The trapped electrons returning to their valence band release light photons of the same wavelength",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "C. The modulation transfer function (MTF) is measured in line pairs per millimeter",
+          "response": "",
+          "answer": "False",
+          "explanation": "MTF is measured in line pairs cm-1"
+        },
+        {
+          "text": "D. The x-ray absorption efficiency of PSP is much higher compared to that of film screen systems",
+          "response": "",
+          "answer": "False",
+          "explanation": "The x-ray absorption efficiency of PSP is usually lower than film screen systems"
+        },
+        {
+          "text": "E. PSPs rarely produce image artefacts",
+          "response": "",
+          "answer": "False",
+          "explanation": "PSPs become worn or scratched with use and have to be replaced"
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "stem": "Regarding image production from a PSP",
+      "options": [
+        {
+          "text": "A. The latent image stored on a plate can decay if not read promptly",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "B. The speed at which the plate is read depends on developer concentration",
+          "response": "",
+          "answer": "False",
+          "explanation": "Developers are not used for image production in computed or digital radiography"
+        },
+        {
+          "text": "C. Resolution is affected by the thickness of the photostimulable phosphor layer",
+          "response": "",
+          "answer": "True",
+          "explanation": "A thicker phosphor layer causes more scatter; therefore reducing resolution"
+        },
+        {
+          "text": "D. The relative exposure versus output signal plot is a straight line",
+          "response": "",
+          "answer": "True",
+          "explanation": "Image parameters such as windowing can be altered during post processing"
+        },
+        {
+          "text": "E. Calcium tungstate is regularly used as storage phosphor in the PSP plates used in digital radiography",
+          "response": "",
+          "answer": "False",
+          "explanation": "Calcium tungstate was used in film screen radiography in the past"
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "stem": "Regarding spatial resolution of CR systems",
+      "options": [
+        {
+          "text": "A. Spatial resolution of a standard CR system is significantly higher than that of competing film screen combination",
+          "response": "",
+          "answer": "False",
+          "explanation": "Significantly lower"
+        },
+        {
+          "text": "B. It depends on the diameter of the scanning laser beam",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "C. It depends on the mean size of phosphor crystals",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "D. It depends on the sampling interval (pixel spacing)",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "E. It depends on the spread of light as the laser beam penetrates the IP during readout",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "stem": "Regarding quantum mottle in computed radiography",
+      "options": [
+        {
+          "text": "A. It is directly proportional to the square of photon fluence incident upon the image plate (N)",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "B. It is directly proportional to the square of the fractional x-ray absorption efficiency (1'J)",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "C. It is inversely proportional to the square root of photon fluence incident upon the image plate (N)",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "D. It is inversely proportional to the square root of the fractional x-ray absorption efficiency (1'J)",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "E. It refers to the noise that arises from the random fluctuation in the count of x-ray quanta absorbed in the image plate to form the primary image",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "stem": "Regarding digital radiography",
+      "options": [
+        {
+          "text": "A. The charge coupled device converts photons into an electronic signal",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "B. The input phosphor is coupled to the charge coupled device by fibre optics",
+          "response": "",
+          "answer": "True",
+          "explanation": "The input phosphor is coupled to the charge coupled device (CCD) by fibre optics to increase efficiency"
+        },
+        {
+          "text": "C. Both flat panel array detectors and charge coupled devices have dead areas",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "D. Resolution on a flat panel array is limited to the width of the detector elements",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "E. Image windowing can be altered after the image has been taken",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "stem": "The following are true of analogue images",
+      "options": [
+        {
+          "text": "A. The image is made up of numerous screen pixels",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "B. Can easily be stored directly on a computer",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "C. Can be recorded onto a magnetic tape",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "D. It is used in CT",
+          "response": "",
+          "answer": "False",
+          "explanation": "Although the acquisition is analogue, the resulting image is digital"
+        },
+        {
+          "text": "E. Analogue images can be displayed on monitors",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "stem": "The following are true of digital images",
+      "options": [
+        {
+          "text": "A. The digital image is made up of pixels",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "B. Each pixel is given a number which gives its greyscale level",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "C. Each pixel is given a number which gives its point on the screen",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "D. The digital image can be directly displayed on a monitor",
+          "response": "",
+          "answer": "False",
+          "explanation": "It needs to be converted by a digital-analogue converter"
+        },
+        {
+          "text": "E. Conventionally in image display, pixels with lower values are displayed darker than ones with higher values",
+          "response": "",
+          "answer": "False",
+          "explanation": "Conventionally, higher value pixels are displayed darker than lower value pixels"
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "stem": "Regarding post processing of digital images",
+      "options": [
+        {
+          "text": "A. Histogram analysis of the image involves plotting the frequency of pixels against pixel values",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "B. Histogram equalization is done to adjust for contrast differences in the image",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "C. Vignetting is done to improve diagnostic accuracy",
+          "response": "",
+          "answer": "False",
+          "explanation": "Vignetting is the phenomenon of losing light photons at the edge of an image. It is not used as a post-processing tool"
+        },
+        {
+          "text": "D. Smoothing or blurring of features in the processed image is done by high pass filtering",
+          "response": "",
+          "answer": "False",
+          "explanation": "Low pass filtering leads to the smoothing or blurring of features"
+        },
+        {
+          "text": "E. Low pass filtering causes enhancement of edges in the image",
+          "response": "",
+          "answer": "False",
+          "explanation": "High pass filtering is used for edge enhancement"
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "stem": "Digital image acquisition and processing can be used by the following modalities",
+      "options": [
+        {
+          "text": "A. Single photon emission computed tomography",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "B. Magnetic resonance imaging",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "C. Computed tomography",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "D. Mammography",
+          "response": "",
+          "answer": "True",
+          "explanation": "This might have been false a few years ago as a result of low contrast resolution of the DR systems available at that time. But due to advancements in technology, more and more digital mammography units are being set up across the UK"
+        },
+        {
+          "text": "E. Positron emission tomography",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "stem": "In digital subtraction angiography (DSA)",
+      "options": [
+        {
+          "text": "A. Enhanced vascular structures are seen together with bony and soft tissue structures",
+          "response": "",
+          "answer": "False",
+          "explanation": "In DSA, bones and soft tissue can be digitally subtracted"
+        },
+        {
+          "text": "B. The subtraction is done using a mask image",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "C. DSA does not require IV contrast administration",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "D. The mA used for the DSA is the same as that used for normal screening",
+          "response": "",
+          "answer": "False",
+          "explanation": "The mA used is higher compared to normal screening to reduce noise"
+        },
+        {
+          "text": "E. The main advantage of frame integration is the shorter exposure time",
+          "response": "",
+          "answer": "False",
+          "explanation": "Frame integration is a technique that was used in the past to decrease signal to noise ratio. This usually led to longer exposure times"
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "stem": "The following statements are true",
+      "options": [
+        {
+          "text": "A. Images can be transmitted from plate to screen without processing",
+          "response": "",
+          "answer": "False",
+          "explanation": "Images have to be processed before display"
+        },
+        {
+          "text": "B. Digital tomosynthesis is used to obtain images at varying depths",
+          "response": "",
+          "answer": "True",
+          "explanation": "Digital tomosynthesis is the digital equivalent of tomography"
+        },
+        {
+          "text": "C. Quantum mottle is produced by high mAs",
+          "response": "",
+          "answer": "False",
+          "explanation": "Quantum mottle is produced by insufficient light photons or low mAs"
+        },
+        {
+          "text": "D. Heat blur is caused by the receptor being exposed to intense heat",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "E. Histogram error artefact is caused by the use of incorrect post-processing histogram",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "stem": "Regarding artefacts in digital subtraction angiography",
+      "options": [
+        {
+          "text": "Misregistration occurs due to structures in the mask image and contrast image not being in the same place",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Misregistration can be caused by peristalsis",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Misregistration can be resolved by moving the mask image",
+          "response": "",
+          "answer": "True",
+          "explanation": "Assuming the movement has only been lateral. It becomes trickier if rotation has occurred or if different parts of the image have moved by different amounts"
+        },
+        {
+          "text": "Misregistration can be caused by the patient's breathing",
+          "response": "",
+          "answer": "True",
+          "explanation": "Hence breath holding, especially during renal angiography, TIPS, etc"
+        },
+        {
+          "text": "Misregistration can be caused by cardiac motion",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "stem": "Regarding monitors used for image display in radiology",
+      "options": [
+        {
+          "text": "Thin film transistor (TFT) display screens are not suitable for use in diagnostic radiology",
+          "response": "",
+          "answer": "False",
+          "explanation": "TFT monitors are widely used"
+        },
+        {
+          "text": "TFT monitors are a subtype of cathode ray tubes (CRT)",
+          "response": "",
+          "answer": "False",
+          "explanation": "TFT monitors are a subtype of LCD (liquid crystal display) screens"
+        },
+        {
+          "text": "TFT screens use less power compared to most CRTs",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "TFTs have a smaller footprint",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "TFT screens fare much worse compared to CRTs in detecting low contrast details",
+          "response": "",
+          "answer": "False",
+          "explanation": "In almost all studies, TFT screens were found to be as good as or better than CRT monitors"
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "stem": "Regarding solid state digital radiography (DR) detectors, the following statements are true",
+      "options": [
+        {
+          "text": "Each pixel area contains readout microcircuitry to make it possible to directly read the image out of the detector in electronic form",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Fill factor (FF) of the detector is the sensitive area of the pixel / occluded area of the pixel",
+          "response": "",
+          "answer": "False",
+          "explanation": "The fill factor (FF) of the detector is the sensitive area of the pixel I overall area of the pixel (where the overall area of the pixel = sensitive area + occluded area)"
+        },
+        {
+          "text": "The efficiency of signal recording is increased with increasing fill factor",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "In general, the fill factor falls as the pixel sampling interval is increased",
+          "response": "",
+          "answer": "False",
+          "explanation": "FF falls as the pixel sampling interval is reduced"
+        },
+        {
+          "text": "The readout microcircuitry records light or electrical charge carriers and produces an analogue signal output",
+          "response": "",
+          "answer": "True",
+          "explanation": "The analogue signal is then digitized"
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "stem": "Regarding greyscale resolution",
+      "options": [
+        {
+          "text": "The greyscale resolution of a digital image is defined by the number of bits of information per pixel",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The term 8 bits corresponds to a choice of 8 greyscale values",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "The term 8 bits corresponds to a choice of 64 greyscale values",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "The term 8 bits corresponds to a choice of 256 greyscale values",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The term 8 bits corresponds to a choice of 108 greyscale values",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "stem": "Regarding DR detectors",
+      "options": [
+        {
+          "text": "The active matrix array (readout electronics) is manufactured from an amorphous form of silicon doped with hydrogen (a-Si:H)",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "Amorphous silicon doped with hydrogen (a-Si:H) is more sensitive to radiation damage than crystalline Si",
+          "response": "",
+          "answer": "False",
+          "explanation": "a-Si:H is more tolerant to radiation damage unlike crystalline Si"
+        },
+        {
+          "text": "Most indirect conversion detectors use Csl:Tl (Caesium iodide: Thallium) as the scintillating layer",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "The typical thickness of the scintillating layer is about 10 mm",
+          "response": "",
+          "answer": "False",
+          "explanation": "About 500 micro m"
+        },
+        {
+          "text": "In the read out process, the stimulating light and the output light need to be of the same wavelength",
+          "response": "",
+          "answer": "False",
+          "explanation": "The stimulating light and output light should be of different wavelengths (the former about 108 times larger)"
+        }
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "stem": "Regarding DR detectors",
+      "options": [
+        {
+          "text": "In indirect conversion detectors, the latent image is read out one line at a time",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "In direct conversion (DR) detectors, Hgl 2 is used as the x-ray scintillator",
+          "response": "",
+          "answer": "False",
+          "explanation": "Direct conversion detectors do not use scintillators"
+        },
+        {
+          "text": "The most common photoconductor used in direct conversion detectors is amorphous Selenium (a-Se)",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "In direct conversion DR detectors, a metal electrode is coated on the external surface of the amorphous selenium",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "The metal electrode is attached to a positive bias potential of 220V",
+          "response": "",
+          "answer": "False",
+          "explanation": "5000 Volts"
+        }
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "stem": "The following statements are true regarding DR detectors",
+      "options": [
+        {
+          "text": "The fractional x-ray absorption of direct conversion detectors is better than that of indirect conversion detectors",
+          "response": "",
+          "answer": "False",
+          "explanation": "Indirect is better than direct"
+        },
+        {
+          "text": "Indirect conversion DR detectors offer lower patient dose for the same image quality compared to direct conversion detectors",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "Indirect conversion detectors have higher image noise for the same patient dose compared to direct conversion detectors",
+          "response": "",
+          "answer": "False",
+          "explanation": "There is lower image noise for the same patient dose with indirect conversion detectors"
+        },
+        {
+          "text": "The modulation transfer function (MTF) of indirect conversion detectors is better than that of direct conversion detectors",
+          "response": "",
+          "answer": "False",
+          "explanation": "MTF of direct conversion detectors is better"
+        },
+        {
+          "text": "The spatial resolution of direct conversion detectors is better than that of indirect conversion detectors",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "stem": "Regarding DR detector artefacts",
+      "options": [
+        {
+          "text": "Non-uniform variations in sensitivity of the x-ray absorption layer causes irregular shading across the image field",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "Defective pixels in the active matrix array cause bright or dark spots in the image",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "Irregular shading can be corrected by pixel correction",
+          "response": "",
+          "answer": "False",
+          "explanation": "Irregular shading can be corrected by gain correction"
+        },
+        {
+          "text": "Defects in the pixel array can be corrected by gain correction",
+          "response": "",
+          "answer": "False",
+          "explanation": "Defects in the pixel array can be corrected by pixel correction"
+        },
+        {
+          "text": "Artefacts are removed at the time of image acquisition",
+          "response": "",
+          "answer": "False",
+          "explanation": "Artefacts are removed at the time of post-processing"
+        }
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "stem": "Modification of the image greyscale using a look-up-table (LUT) might be done for the following reasons",
+      "options": [
+        {
+          "text": "To vary the mean brightness of an image",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "To compensate for the different intensity responses of display devices",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "To increase the spatial resolution of small isolated structures",
+          "response": "",
+          "answer": "False",
+          "explanation": "False"
+        },
+        {
+          "text": "To improve the sharpness of edges",
+          "response": "",
+          "answer": "False",
+          "explanation": "False"
+        },
+        {
+          "text": "To improve the presentation of fine texture patterns",
+          "response": "",
+          "answer": "False",
+          "explanation": "False"
+        }
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "stem": "Spatial feature enhancement of images using an unsharp mask algorithm might be done for the following reasons",
+      "options": [
+        {
+          "text": "To increase the visibility of small isolated structures",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "To improve the sharpness of edges",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "To improve presentation of fine texture patterns",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "To increase image contrast to improve the visibility of a subtle lesion",
+          "response": "",
+          "answer": "False",
+          "explanation": "This is achieved using LUT"
+        },
+        {
+          "text": "To improve the presentation of the overall greyscale range",
+          "response": "",
+          "answer": "False",
+          "explanation": "This is achieved using LUT"
+        }
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "stem": "Regarding image display",
+      "options": [
+        {
+          "text": "In AMFP (active matrix flat panel) displays, the image is generated by scanning the phosphor screen with a focused beam of electrons",
+          "response": "",
+          "answer": "False",
+          "explanation": "This is how the image is produced in CRT displays"
+        },
+        {
+          "text": "A CRT display uses two sheets of polarizing material",
+          "response": "",
+          "answer": "False",
+          "explanation": "This is a feature of AMFP displays"
+        },
+        {
+          "text": "CRT monitor images are susceptible to a degradation in quality due to geometrical distortion",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "AMFP monitor images are susceptible to contrast loss",
+          "response": "",
+          "answer": "False",
+          "explanation": "CRT monitors are susceptible to contrast loss"
+        },
+        {
+          "text": "The polarizing properties of liquid crystal can be rotated in response to the magnitude of an applied electrical voltage",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        }
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "stem": "Regarding patient dose in DR",
+      "options": [
+        {
+          "text": "It is easy to assess whether the patient has been over- or underexposed by just looking at the display",
+          "response": "",
+          "answer": "False",
+          "explanation": "DR detectors have a wide latitude and post-processing ensures that the displayed image is optimized in terms of its greyscale presentation"
+        },
+        {
+          "text": "Detector dose indicators (DDIs) are special electronic devices incorporated into the detectors to measure patient dose",
+          "response": "",
+          "answer": "False",
+          "explanation": "DDI is determined from the signal from the plate averaged over a broad region of the plate"
+        },
+        {
+          "text": "DDIs are analogous to the optical density of films",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "High DDI values always indicate overexposure",
+          "response": "",
+          "answer": "False",
+          "explanation": "The definition of DDI is manufacturer dependent"
+        },
+        {
+          "text": "High DDI values always indicate underexposure",
+          "response": "",
+          "answer": "False",
+          "explanation": "The definition of DDI is manufacturer dependent"
+        }
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "stem": "Regarding DICOM definitions, the following statements are true",
+      "options": [
+        {
+          "text": "Modality worklist permits the retrieval of scheduling information for that modality and patient demographics from the radiology information system",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "Modality push allows the modality to query PACS and to find out about previous images for the patient",
+          "response": "",
+          "answer": "False",
+          "explanation": "Modality push allows the system to store images to PACS"
+        },
+        {
+          "text": "Modality pull allows the system to store images to PACS",
+          "response": "",
+          "answer": "False",
+          "explanation": "Modality pull allows the modality to query PACS to find out about previous images for the patient"
+        },
+        {
+          "text": "Print service allows the modality to print to a network printer",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "The modality performed procedure step provides information on whether the examination in the worklist is in progress or completed",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        }
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "stem": "The following statements regarding imaging terminology are true",
+      "options": [
+        {
+          "text": "The modulation transfer function is the ratio of input modulation to output modulation",
+          "response": "",
+          "answer": "False",
+          "explanation": "Modulation transfer function is the ratio of output modulation to input modulation"
+        },
+        {
+          "text": "The Nyquist criterion states that the sampling frequency must be at least twice the highest frequency present in the signal",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "Nyquist frequency is equal to two times the sampling frequency",
+          "response": "",
+          "answer": "False",
+          "explanation": "Nyquist frequency is equal to half the sampling frequency"
+        },
+        {
+          "text": "Nyquist frequency is the maximum signal frequency that can be accurately sampled",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "Aliasing will occur if the signal frequency is less than the Nyquist frequency",
+          "response": "",
+          "answer": "False",
+          "explanation": "Aliasing will occur if the signal frequency is more than the Nyquist frequency"
+        }
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "stem": "In digital subtraction angiography",
+      "options": [
+        {
+          "text": "To achieve high resolution, large focal spot sizes are necessary",
+          "response": "",
+          "answer": "False",
+          "explanation": "As in conventional radiography, to achieve high resolution small focal spot sizes are necessary"
+        },
+        {
+          "text": "In modern DSA systems, it is not necessary to use the same frame as mask for each subtraction",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "X-ray tubes with lower rating can be used in DSA",
+          "response": "",
+          "answer": "False",
+          "explanation": "The x-ray tubes used will have to be of a higher rating due to the necessity to produce multiple images rapidly"
+        },
+        {
+          "text": "Subtracted images have very high signal to noise ratio compared to non-subtracted images",
+          "response": "",
+          "answer": "False",
+          "explanation": "Subtracted images usually have a low signal to noise ratio compared to non-subtracted images"
+        },
+        {
+          "text": "The image is not affected by patient movement",
+          "response": "",
+          "answer": "False",
+          "explanation": "Patient movement causes movement unsharpness"
+        }
+      ]
+    },
+    {
+      "questionNumber": 31,
+      "stem": "The following are true of digital mammography systems",
+      "options": [
+        {
+          "text": "A Digital mammography system offers a wider dynamic range compared to a film screen system",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "The spatial resolution with direct capture method is limited by the pixel size and not to the thickness of the photo-conductor",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "Digital mammography offers better spatial resolution than conventional film screen mammography",
+          "response": "",
+          "answer": "False",
+          "explanation": "The maximum resolution achievable with a digital detector is 5-9 line pairs per millimetre which is significantly lower than that of film-screen mammography"
+        },
+        {
+          "text": "The breast dose using a digital mammography system is higher than for the film screen mammography system",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is lower, mainly due to the inherently higher detection efficiency of digital detectors and the use of a harder x-ray beam at each breast thickness"
+        },
+        {
+          "text": "Digital mammography is better than film mammography in screening women who are under the age 50",
+          "response": "",
+          "answer": "True",
+          "explanation": "This was a preliminary conclusion from the Digital Mammographic Imaging Screening Trial (DMIST)"
+        }
+      ]
+    }
+  ]
+
+}

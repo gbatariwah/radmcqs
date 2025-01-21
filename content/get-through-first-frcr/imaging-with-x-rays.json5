@@ -1,0 +1,835 @@
+{
+  name: "Get Through First FRCR: MCQs for the Physics Module",
+  authors: "Andrew Baird, Grant Mair, Andrew Nisbet,",
+  slug: "imaging-with-x-rays",
+  questions: [
+    {
+      "questionNumber": 1,
+      "stem": "Regarding the use of contrast media",
+      "options": [
+        {
+          "text": "Radio-opaque contrast media agents are chosen because their atomic number is chosen to maximize the absorption of a diagnostic X-ray beam by the Compton effect",
+          "response": "",
+          "answer": "False",
+          "explanation": "Radio-opaque contrast media is chosen so that the high atomic number maximizes photoelectric absorption of the beam. The K-edge energy of the contrast medium should be slightly less than the major part of the X-ray energy spectrum to maximize this effect"
+        },
+        {
+          "text": "The absorption energy/K-edge of iodine is 53 keV",
+          "response": "",
+          "answer": "False",
+          "explanation": "The atomic number of iodine is 53; its K-edge energy is 33 keV"
+        },
+        {
+          "text": "Bone and iodine demonstrate a similar computed tomography (CT) number because they have a similar atomic number",
+          "response": "",
+          "answer": "False",
+          "explanation": "The atomic number of iodine is 53. The atomic number of bone is approximately 13. In tissues, CT number is related to electron density which itself is closely related to physical density. However, in higher Z materials such as iodine there is significant attenuation due to the photoelectric effect and therefore iodine will have a higher CT number than bone even though the physical density is less than that of bone"
+        },
+        {
+          "text": "High density and low density contrast agents can be administered together in certain circumstances to improve image contrast and quality",
+          "response": "",
+          "answer": "True",
+          "explanation": "An example is a barium enema, where barium and air are used to demonstrate the mucosal anatomy of the colon. Air is used much less as a contrast agent in other areas of radiology since the introduction of CT and magnetic resonance imaging (MRI)"
+        },
+        {
+          "text": "A positive contrast agent should ideally have K-edge energy equal to the characteristic radiation emitted from the X-ray tube",
+          "response": "",
+          "answer": "False",
+          "explanation": "The K-edge should be slightly less than the beam energy. If they are exactly the same then the contrast media will not attenuate the beam. Substances are relatively ‘transparent’ to X-rays with energy just below their K-edge. This property is utilized when filtering X-ray beams"
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "stem": "Concerning factors that affect radiation dose:",
+      "options": [
+        {
+          "text": "The entrance surface dose of an anteroposterior (AP) pelvic X-ray is approximately 10 times greater than the dose to the imaging plate",
+          "response": "",
+          "answer": "False",
+          "explanation": "The entrance surface dose of a pelvic X-ray is far greater than 10 times the exit dose as most of the beam is absorbed by the patient. Approximate imaging plate:entrance dose ratios are – posteroanterior (PA) chest X-ray (CXR) 1:10, skull X-ray 1:100, AP pelvis 1:1000, lateral lumbar spine X-ray 1:5000 (the actual exit doses are greater due to scatter; these figures are those you would get when the scatter radiation has been removed by the grid)"
+        },
+        {
+          "text": "To achieve a similar dose to the imaging plate, an 85 kV beam will result in a greater entrance surface dose than a 65 kV beam",
+          "response": "",
+          "answer": "False",
+          "explanation": "A beam with a higher kV will be more penetrating which increases the proportion of high energy photons that reach the imaging plate. This means that a lower tube current can be used to achieve a similar degree of film blackening and therefore entrance surface dose will be less"
+        },
+        {
+          "text": "Additional beam filtration generally improves image quality but increases the patient dose",
+          "response": "",
+          "answer": "False",
+          "explanation": "Photons at the low energy end of the spectrum contribute nothing to image formation but are absorbed by the patient. By using a filter these can be removed from the beam. Patient dose is lowered as a result"
+        },
+        {
+          "text": "Increasing the focus – detector distance reduces the dose to the patient",
+          "response": "",
+          "answer": "True",
+          "explanation": "Increasing the focus– detector distance results in less attenuation between skin surface and the imaging plate. This means proportionately less attenuation according to the inverse square law, i.e. the skin dose can be reduced for the same dose to the detector"
+        },
+        {
+          "text": "The use of an anti-scatter grid can reduce the dose to the patient",
+          "response": "",
+          "answer": "False",
+          "explanation": "An anti-scatter grid is situated between the patient and the film – screen. It absorbs some of the radiation beam and therefore a higher tube current is required to achieve an adequate film exposure. This results in an increased patient dose"
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "stem": "Contrast and spatial resolutions:",
+      "options": [
+        {
+          "text": "Spatial resolution may be measured in line pairs per millimetre",
+          "response": "",
+          "answer": "True",
+          "explanation": "It may also be expressed as the size of the smallest visible detail in millimetres, which would be the width of one line from each line pair"
+        },
+        {
+          "text": "Spatial resolution is unaffected by the contrast of the objects being imaged",
+          "response": "",
+          "answer": "False",
+          "explanation": "Spatial resolution is best when imaging high contrast structures"
+        },
+        {
+          "text": "Image quality refers to spatial resolution but not to contrast resolution",
+          "response": "",
+          "answer": "False",
+          "explanation": "Image quality is a generic term that refers to the accuracy of the image in both contrast and spatial resolutions"
+        },
+        {
+          "text": "Contrast is the ability to differentiate between structures within the image",
+          "response": "",
+          "answer": "True",
+          "explanation": "The bigger the difference in attenuation within each structure, the more visible is the change in greyscale"
+        },
+        {
+          "text": "Subject contrast increases with an increased thickness of the imaged organ",
+          "response": "",
+          "answer": "True",
+          "explanation": "In projection imaging such as radiography and fluoroscopy, the contrast will increase with a greater thickness of the organ, as more of the difference of attenuation of the beam will be due to the organ of interest. It is decreased by a greater thickness of overlying soft tissue as this will average out the difference of the beam attenuated by the organ. In CT the contrast is essentially independent of the overlying soft tissue"
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "stem": "Imaging geometry:",
+      "options": [
+        {
+          "text": "Distortion is greater with a larger focus – film distance",
+          "response": "",
+          "answer": "False",
+          "explanation": "Increasing the focus–film distance makes the beam more parallel thereby reducing distortion"
+        },
+        {
+          "text": "Geometrical unsharpness occurs with round-edged objects",
+          "response": "",
+          "answer": "False",
+          "explanation": "Geometrical unsharpness is caused by the penumbra effect where X-ray intensity changes gradually across a sharp-edged object. The penumbra occurs because the X-rays do not arise from a true point source, i.e., it is worse with larger focal spots. Round-edged objects cause absorption unsharpness"
+        },
+        {
+          "text": "Object – film distance is directly related to unsharpness",
+          "response": "",
+          "answer": "True",
+          "explanation": "The penumbra effect is also worse with increased object–film distance"
+        },
+        {
+          "text": "Magnification in mammography is achieved by increasing object – film distance",
+          "response": "",
+          "answer": "True",
+          "explanation": "This occurs through greater divergence of the transmitted beam"
+        },
+        {
+          "text": "An ideal set-up would minimize focal spot size, maximize focus –film distance and minimize object – film distance",
+          "response": "",
+          "answer": "True",
+          "explanation": "All act to reduce beam divergence"
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "stem": "Unsharpness:",
+      "options": [
+        {
+          "text": "Screen unsharpness is the product of movement unsharpness and geometric unsharpness",
+          "response": "",
+          "answer": "False",
+          "explanation": "Screen unsharpness is unsharpness caused in the screen by spread of light within the phosphorus material. Total unsharpness is approximately Ut = (Ug^2 + Um^2 + Us^2)^(1/2)"
+        },
+        {
+          "text": "Geometric unsharpness can be reduced by the use of an air gap",
+          "response": "",
+          "answer": "False",
+          "explanation": "An air gap reduces scatter reaching the film or detector plate, but it increases geometric unsharpness as the photons have further to travel after attenuation within the object and thus can diverge more. Geometric unsharpness can be reduced by a longer focus to object distance, a shorter object to film distance, and a smaller focal spot"
+        },
+        {
+          "text": "Movement unsharpness is approximately equal to the speed of movement of the object multiplied by the time of exposure",
+          "response": "",
+          "answer": "True",
+          "explanation": "This assumes that the object is travelling at a steady velocity and that the divergence of photons between object and film or detector plate is minimal. Movement unsharpness can be reduced by asking the patient not to move and hold their breath, immobilizing the patient, and using a shorter exposure time"
+        },
+        {
+          "text": "Absorption or edge unsharpness is produced around the edge of a tapered or rounded structure such as a blood vessel",
+          "response": "",
+          "answer": "True",
+          "explanation": "This occurs due to differential photon attenuation across a rounded edge"
+        },
+        {
+          "text": "Movement unsharpness can be a significant problem in mammography due to longer exposure times",
+          "response": "",
+          "answer": "True",
+          "explanation": "Exposure times in mammography can be more than one second. One reason for using compression is to limit patient movement"
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "stem": "Noise and signal to noise ratio (SNR):",
+      "options": [
+        {
+          "text": "Quantum noise or mottle is due to random variation in the number of photons being detected",
+          "response": "",
+          "answer": "True",
+          "explanation": "The detection of individual photons is a random process. When only very small numbers of photons are detected, this statistical difference is a significant proportion of the whole and is represented as variance in the density of the film or the value given to the pixels"
+        },
+        {
+          "text": "Electronic noise is predominant in CT",
+          "response": "",
+          "answer": "False",
+          "explanation": "Quantum noise is predominant in all X-ray imaging due to the requirement to keep doses as low as is reasonably practicable (ALARP). Electronic noise is predominant in ultrasound"
+        },
+        {
+          "text": "Noise is commonly expressed as a proportion of the total number of photons detected in a single area or pixel (M), as 1/M1/2",
+          "response": "",
+          "answer": "True",
+          "explanation": "Although with increasing numbers of photons the variation in numbers detected does increase, this variation as a percentage of the total number of events detected decreases. Thus the noise decreases with increasing dose to the patient, or increased efficiency in detecting photons, or thicker phosphor material, etc"
+        },
+        {
+          "text": "SNR is defined as M/M1/2",
+          "response": "",
+          "answer": "True",
+          "explanation": "SNR increases in proportion to the square root of the number of photons detected"
+        },
+        {
+          "text": "Structural noise is caused by random background radiation from the patient and structures near the film or detector plate",
+          "response": "",
+          "answer": "False",
+          "explanation": "Structural noise is caused by variations in the structure of the screen phosphor. In modern, precisely made phosphors, structural noise is negligible"
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "stem": "The quality of the X-ray beam is hardened by:",
+      "options": [
+        {
+          "text": "Increasing the tube kV",
+          "response": "",
+          "answer": "True",
+          "explanation": "Increasing the kV will result in more high energy photons being produced which will result in a more penetrating or ‘harder’ beam"
+        },
+        {
+          "text": "Decreasing the focus to film distance",
+          "response": "",
+          "answer": "False",
+          "explanation": "Focus to film distance has no significant effect on the quality of the beam. Air will very slightly attenuate the beam to make it slightly harder, but at the distances used in radiology this effect is negligible"
+        },
+        {
+          "text": "Increased thickness of aluminium filter",
+          "response": "",
+          "answer": "True",
+          "explanation": "Increasing the thickness of the aluminium will attenuate more of the lower energy photons; the exiting beam will have higher average photon energy"
+        },
+        {
+          "text": "Increasing the tube mA",
+          "response": "",
+          "answer": "False",
+          "explanation": "This will result in more photons, but the photons will still have the same proportion of energies as long as the kV remains the same"
+        },
+        {
+          "text": "Increased thickness of the intensifying screen",
+          "response": "",
+          "answer": "False",
+          "explanation": "Increased thickness of screen will allow more photons to be absorbed thus allowing a reduced dose at the expense of more screen unsharpness and increased noise. It will have no effect on the quality of the beam unless the kV is changed"
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "stem": "Scatter and grids:",
+      "options": [
+        {
+          "text": "Scatter predominantly affects spatial resolution",
+          "response": "",
+          "answer": "False",
+          "explanation": "Scatter falls randomly across the entire image increasing the overall level of grey in the picture. This is similar to a film with a higher base fog and reduces the contrast seen in the image. While spatial resolution is affected (especially of low contrast structures) reduction in contrast is far more significant"
+        },
+        {
+          "text": "Increasing the kV reduces the scatter reaching the plate or detector",
+          "response": "",
+          "answer": "False",
+          "explanation": "Increasing the kV may allow a reduction in the patient dose for the same detector, but the beam becomes more penetrating. A greater proportion of the scatter therefore is formed at the exit side of the patient and so more scatter reaches the imaging detector"
+        },
+        {
+          "text": "Grid techniques reduce scatter reaching the film or plate",
+          "response": "",
+          "answer": "True",
+          "explanation": "The grid predominantly absorbs scatter and allows most of the primary beam to pass through. As higher doses are required, however, the amount of scatter formed within the patient is actually increased"
+        },
+        {
+          "text": "Grid techniques increase image contrast resolution",
+          "response": "",
+          "answer": "True",
+          "explanation": "As the grid reduces scatter reaching the detector, the contrast resolution will improve"
+        },
+        {
+          "text": "Grid techniques reduce patient dose",
+          "response": "",
+          "answer": "False",
+          "explanation": "Grids significantly reduce the amount of radiation reaching the detector and therefore require a higher dose"
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "stem": "Use of compression:",
+      "options": [
+        {
+          "text": "Reduces attenuation of the beam",
+          "response": "",
+          "answer": "True",
+          "explanation": "Compression reduces the thickness of material through which the beam travels, so reducing the attenuation of the beam"
+        },
+        {
+          "text": "Reduces scatter",
+          "response": "",
+          "answer": "True",
+          "explanation": "As the beam passes through less tissue there are fewer Compton interaction events and therefore less scatter is produced"
+        },
+        {
+          "text": "Reduces contrast seen in the organ being imaged",
+          "response": "",
+          "answer": "False",
+          "explanation": "Not only is the amount of scatter reduced thus improving contrast, there is less overlying soft tissue above and below the organ or region of interest. The differing attenuation of the organ therefore becomes more pronounced as it is not superimposed by other soft tissues"
+        },
+        {
+          "text": "Requires a high kV technique",
+          "response": "",
+          "answer": "False",
+          "explanation": "As attenuation is reduced, exposure settings can either be left unaltered for a better quality of image or be reduced. They do not need to be increased"
+        },
+        {
+          "text": "Is only used in mammography",
+          "response": "",
+          "answer": "False",
+          "explanation": "Compression is commonly used in mammography, but it may also be used in other settings. Intravenous urography (IVU) studies and abdominal radiographs in large patients would both be examples where compression may be useful if there are no contraindications"
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "stem": "Tubes and heating:",
+      "options": [
+        {
+          "text": "X-ray tubes contain a cathode and an anode",
+          "response": "",
+          "answer": "True",
+          "explanation": "The cathode is the filament and the anode contains the target"
+        },
+        {
+          "text": "The electron beam is emitted from the anode after bombardment of the target",
+          "response": "",
+          "answer": "False",
+          "explanation": "The electron beam is emitted from the cathode and bombards the anode target to produce X-rays"
+        },
+        {
+          "text": "An increase in angle of the target decreases the effective focal spot size",
+          "response": "",
+          "answer": "False",
+          "explanation": "An increase in angle would result in a larger effective focal spot size"
+        },
+        {
+          "text": "The focusing cup refers to the target area of the anode",
+          "response": "",
+          "answer": "False",
+          "explanation": "The focusing cup refers to the shaped part of the cathode that focuses the electrons emitted from the filament towards the target"
+        },
+        {
+          "text": "Heat loading of the tube is the product of kV and mAs and is measured in joules",
+          "response": "",
+          "answer": "True",
+          "explanation": "For older single phase generator systems the average kV is lower and heat loading is calculated using 0.7 × kVp × mAs"
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "stem": "For rotating anodes:",
+      "options": [
+        {
+          "text": "The rotator bearings are lubricated with a metal such as silver",
+          "response": "",
+          "answer": "True",
+          "explanation": "A metal such as silver in powder form may be used. Conventional liquid lubricants would evaporate in a vacuum"
+        },
+        {
+          "text": "The anode mainly loses heat via conduction through a molybdenum (Mo) stem",
+          "response": "",
+          "answer": "False",
+          "explanation": "Heat loss via conduction occurs in stationary anodes. In rotating anodes a poor heat conductor such as molybdenum is used as the stem to reduce the chance of heat damage to the bearings. Heat is lost via radiation from the blackened disk to oil around the vacuum casing"
+        },
+        {
+          "text": "The anode completes one full rotation in the exposure time to evenly spread the heat along the focal spot track",
+          "response": "",
+          "answer": "False",
+          "explanation": "The anode disk rotates at a fixed speed which may be as fast as 9000 rpm to evenly distribute heating around the track"
+        },
+        {
+          "text": "The edge of the anode disk is rounded",
+          "response": "",
+          "answer": "False",
+          "explanation": "The disc is bevelled to provide a surface at an angle. The smaller the angle theta the smaller is the effective focal spot size"
+        },
+        {
+          "text": "Typical effective focal spot sizes would be 0.6–1 mm for general radiography and 0.1–0.4 mm for mammography",
+          "response": "",
+          "answer": "True",
+          "explanation": "The smaller size used in mammography allows better resolution in the image"
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "stem": "Concerning generators:",
+      "options": [
+        {
+          "text": "Three phase generators produce a higher kVp than single phase generators",
+          "response": "",
+          "answer": "False",
+          "explanation": "Three phase generators produce a higher average kV but the kVp is unaltered"
+        },
+        {
+          "text": "Single phase generators require longer exposure times for the same kVp and mA settings",
+          "response": "",
+          "answer": "True",
+          "explanation": "As the average kV is lower in single phase generators, a higher mA or a longer exposure time is required"
+        },
+        {
+          "text": "Modern high frequency generators produce a relatively stable voltage so kV can be assumed to be equal to kVp",
+          "response": "",
+          "answer": "True",
+          "explanation": "High frequency generators are used in most modern diagnostic X-ray sets"
+        },
+        {
+          "text": "Self rectifying generators are used in modern X-ray equipment and produce a higher mean kV than three phase generators",
+          "response": "",
+          "answer": "False",
+          "explanation": "Self rectifying generators are still commonly used for dental intraoral radiography. They work on the principle that the X-ray tube current can only flow in one direction, and thus for half the exposure time the tube is switched off. This obviously lowers the average kV, and requires significantly longer exposure times"
+        },
+        {
+          "text": "High frequency generators produce a harder more penetrating beam at the same kVp",
+          "response": "",
+          "answer": "True",
+          "explanation": "As the kV across the X-ray tube is always within a few percent of the maximum, the peak of the X-ray spectrum will be shifted to the right and the quality of the beam will be more penetrating"
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "stem": "In quality control of X-ray equipment and procedures:",
+      "options": [
+        {
+          "text": "At 70 kV a half-value layer (HVL) of 2.5 mm aluminium would be expected if there was adequate filtration",
+          "response": "",
+          "answer": "True",
+          "explanation": "The minimum filtration required is 2.5 mm of aluminium for which the HVL in aluminium is approximately 2.5 mm. At 125 kV the HVL would be much greater at about 4.5 mm"
+        },
+        {
+          "text": "kV can be measured using a penetrameter",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is a device that estimates kV by measurement of the differential transmission of the beam through different filter thicknesses. A direct reading of kV can be made using a potential divider, but the less invasive and more commonly used method is with a penetrameter"
+        },
+        {
+          "text": "A Leeds test object is used for quality control in fluoroscopy",
+          "response": "",
+          "answer": "True",
+          "explanation": "This consists of many circular details of different diameters and thickness"
+        },
+        {
+          "text": "Quality assurance (QA) for lead aprons may include taking an X-ray image of them to check the lead lining is intact",
+          "response": "",
+          "answer": "True",
+          "explanation": "Tears due to the apron being incorrectly stored may show as lines of X-ray exposure on a film or detector plate"
+        },
+        {
+          "text": "The image distortion of an image intensifier can be assessed using a rectangular grid",
+          "response": "",
+          "answer": "True",
+          "explanation": "Geometrical distortion is easily identified in this manner"
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "stem": "Further QA of X-ray equipment and procedures:",
+      "options": [
+        {
+          "text": "A densitometer measures the density of anode target material",
+          "response": "",
+          "answer": "False",
+          "explanation": "This is a device for measuring optical density of film"
+        },
+        {
+          "text": "A QA programme should ensure that tests are done consistently at agreed time intervals according to a written protocol",
+          "response": "",
+          "answer": "True",
+          "explanation": "Any deviation greater than agreed levels is reported to a manager responsible for remedial action"
+        },
+        {
+          "text": "Audit is a requirement of QA",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is a requirement under Ionising Radiation (Medical Exposure) Regulations (IR(ME)R)"
+        },
+        {
+          "text": "Discrepancies of up to 10 mm of collimation of a 20 cm square test plate at 1 m would be acceptable",
+          "response": "",
+          "answer": "True",
+          "explanation": "This roughly equates to 10% error"
+        },
+        {
+          "text": "Different dose area product (DAP) values for similar examinations may indicate a difference in the equipment or the operators",
+          "response": "",
+          "answer": "True",
+          "explanation": "Auditing patient dose for a large patient sample in order to reduce the effect of patient-to-patient variation can demonstrate the effects of equipment differences, operator technique, or differences in patient groups (e.g. elderly versus young adult)"
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "stem": "Film chemistry:",
+      "options": [
+        {
+          "text": "Film emulsion is a suspension of silver halide crystals",
+          "response": "",
+          "answer": "True",
+          "explanation": "Generally the silver halide is approximately 10% bromide and 90% iodide"
+        },
+        {
+          "text": "Film for general radiology normally consists of a polyester base with an emulsion backing on one side",
+          "response": "",
+          "answer": "False",
+          "explanation": "Single-sided films are used where spatial resolution is paramount such as in mammography. For general radiography there is emulsion on both sides of the base and two intensifying screens are used to maximize sensitivity to X-rays"
+        },
+        {
+          "text": "The film emulsion layer is only approximately 0.5 mm thick",
+          "response": "",
+          "answer": "False",
+          "explanation": "The emulsion layer would typically be 5–10 mm thick"
+        },
+        {
+          "text": "Each crystal is about 1 mm diameter",
+          "response": "",
+          "answer": "True",
+          "explanation": "Crystal size affects film speed and gamma, but is typically in the region of 1 mm diameter"
+        },
+        {
+          "text": "The emulsion is only responsive to ionizing radiation of about 1 keV and above",
+          "response": "",
+          "answer": "False",
+          "explanation": "The silver halide crystals are most responsive to visible light; this is why intensifying screens are used. They are relatively insensitive to X-rays"
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "stem": "More film chemistry:",
+      "options": [
+        {
+          "text": "Gamma depends on the variation in crystal size",
+          "response": "",
+          "answer": "True",
+          "explanation": "A large variation in crystal size results in a low gamma film while a more uniform crystal size results in a high gamma film. A greater average size of crystals results in a faster film"
+        },
+        {
+          "text": "Gamma increases with temperature and developer concentration",
+          "response": "",
+          "answer": "True",
+          "explanation": "Although at higher temperatures and concentrations the effective gamma may reduce because of the increased film fog"
+        },
+        {
+          "text": "A high gamma film has a wide latitude",
+          "response": "",
+          "answer": "False",
+          "explanation": "The higher the gamma of the film the more reduced the useful exposure and thus the latitude"
+        },
+        {
+          "text": "Development of the film involves reduction of the silver ions by an acid fixing agent",
+          "response": "",
+          "answer": "False",
+          "explanation": "Development of the film is by an alkaline reducing agent which reduces the silver bromide crystals that have been affected by exposure to light into grains of metallic silver. Fixing occurs after this and involves an acid solution such as thiosulphate to dissolve out unaffected silver ions so that the film is no longer susceptible to light and radiation"
+        },
+        {
+          "text": "A brown vinegary film may be caused by inadequate washing",
+          "response": "",
+          "answer": "True",
+          "explanation": "This adds to fog and decreases the contrast of the film"
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "stem": "Speed, density and noise:",
+      "options": [
+        {
+          "text": "Speed is equal to 1000 divided by the air kerma (in mGy) required for density 1 above base plus fog",
+          "response": "",
+          "answer": "True",
+          "explanation": "Speed of a film – screen combination changes with different factors such as X-ray beam quality, so speed measurements are given for a specific radiation quality"
+        },
+        {
+          "text": "Typical speed for a rare earth film–screen combination would be about 400",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is calculated as speed ¼ 1000/air kerma"
+        },
+        {
+          "text": "Quantum sink refers to the random attenuation of X-ray photons in the patient causing scatter",
+          "response": "",
+          "answer": "False",
+          "explanation": "The quantum sink is the part of the process where the image is carried by the least number of photons. It is this phase where the statistical variation in photon absorption and thus noise will be greatest in comparison to the signal. In film – screen radiography, the quantum sink is at the stage of X-ray photon absorption in the phosphor"
+        },
+        {
+          "text": "Optical density (OD) of film is log10 (transmitted light/incident light)",
+          "response": "",
+          "answer": "False",
+          "explanation": "OD ¼ log10 (incident light/transmitted light)"
+        },
+        {
+          "text": "An OD of 5–10 would be typical for bony structures on an adequately exposed film",
+          "response": "",
+          "answer": "False",
+          "explanation": "An OD of about 1 is ideal for most areas of interest. The higher the OD the blacker the appearance of the film. An OD of 2 might be seen in imaging of the lung. ODs of greater than 2.5 are normally too dark to discern any detail. Bones appear light with density generally less than 1"
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "stem": "Film – screen:",
+      "options": [
+        {
+          "text": "Rare earth materials are used for intensifying screens as their K-edges are in the diagnostic range",
+          "response": "",
+          "answer": "True",
+          "explanation": "A commonly used example is gadolinium oxysulphide which has a K-edge of around 50 keV"
+        },
+        {
+          "text": "Intensifying screens utilize thermoluminescence",
+          "response": "",
+          "answer": "False",
+          "explanation": "Typically, screens undergo fluorescence with instantaneous release of light with an intensity which is proportional to the X-rays incident on the screen. Thermoluminescence means light is released after heating"
+        },
+        {
+          "text": "Up to two intensifying screens might be used",
+          "response": "",
+          "answer": "True",
+          "explanation": "In general radiography there is an intensifying screen on either side of the double emulsion film. In mammography where a higher resolution is required, only one screen and corresponding emulsion are used"
+        },
+        {
+          "text": "Characteristic curves are plotted with OD against exposure",
+          "response": "",
+          "answer": "False",
+          "explanation": "They are plotted as OD against the log of exposure"
+        },
+        {
+          "text": "Film gamma is measured as the average slope of the characteristic curve",
+          "response": "",
+          "answer": "True",
+          "explanation": "A steeper slope represents a larger film gamma"
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "stem": "Further film – screen:",
+      "options": [
+        {
+          "text": "An acceptable level of base plus fog has an OD of 0.5",
+          "response": "",
+          "answer": "False",
+          "explanation": "It should be around 0.15 – 0.2"
+        },
+        {
+          "text": "A film – screen combination with a high gamma will have a relatively wide latitude",
+          "response": "",
+          "answer": "False",
+          "explanation": "A high gamma implies a narrow range of exposures between black and white in the image; this is equivalent to a narrow latitude"
+        },
+        {
+          "text": "Ideally an intensification screen should be as thick as possible",
+          "response": "",
+          "answer": "False",
+          "explanation": "The thickness is a compromise between sensitivity and unsharpness. It needs to be thick enough to efficiently absorb X-ray photons. This is balanced against unsharpness, however, since interactions occurring further from the film will lead to greater spread of the produced light"
+        },
+        {
+          "text": "A phosphor with greater X-rays to light conversion will be associated with more noise than an equally sensitive phosphor with a lower conversion efficiency but a greater thickness",
+          "response": "",
+          "answer": "True",
+          "explanation": "A balance has to be struck; for the same detection efficiency a better phosphor will increase noise, while a thicker one will increase unsharpness without increasing noise. The greater the X-ray to light conversion factor, the lower the number of photons detected to get the same OD. The quantum noise in the image is inversely proportional to the number of photons detected"
+        },
+        {
+          "text": "Crossover is impossible if a single side of film emulsion is used",
+          "response": "",
+          "answer": "False",
+          "explanation": "Crossover refers to light from one screen affecting the opposite emulsion. Parallax means two emulsions produce two slightly different superimposed images; this is impossible therefore with a single emulsion"
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "stem": "Intensifying screens:",
+      "options": [
+        {
+          "text": "Intensifying screens reduce dose but increase noise for the same amount of film blackening",
+          "response": "",
+          "answer": "True",
+          "explanation": "The intensifying screen essentially amplifies the number of photons detected by the film and so produces a much darker image for the same dose. This means that significantly fewer X-ray photons are detected for the same level of OD and therefore the noise is increased"
+        },
+        {
+          "text": "Without an intensification screen, only about 20% of the X-ray photons would be absorbed by the film",
+          "response": "",
+          "answer": "False",
+          "explanation": "Film alone absorbs only about 2% of X-ray photons"
+        },
+        {
+          "text": "Intensification factor is the ratio of kerma for a film density of 1 with and without the intensifying screen",
+          "response": "",
+          "answer": "True",
+          "explanation": "Intensification factor is typically in the range of 30–100"
+        },
+        {
+          "text": "Rare earth screens are used because of their very high atomic number",
+          "response": "",
+          "answer": "False",
+          "explanation": "Rare earth elements such as gadolinium actually have lower atomic numbers than tungsten used in traditional screens. The advantage of rare earth screens is a K-edge that is closer to the average energy of diagnostic X-ray spectrums than the K-edge of tungsten. In addition the rare earth phosphors produce greater light output for each X-ray photon detected"
+        },
+        {
+          "text": "A thicker phosphor layer decreases dose required at the expense of greater noise and screen unsharpness",
+          "response": "",
+          "answer": "False",
+          "explanation": "A thicker phosphor layer absorbs more photons. As more photons are absorbed, dose can be reduced proportionately so that the same OD can be achieved at a lower dose with no increase in noise. However, light spreads further within the phosphor layer and so screen unsharpness is increased"
+        }
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "stem": "In mammography:",
+      "options": [
+        {
+          "text": "A K-edge filter such as molybdenum is commonly used",
+          "response": "",
+          "answer": "True",
+          "explanation": "Molybdenum and rhodium are the most common"
+        },
+        {
+          "text": "The filter should not be the same element as the anode target otherwise the characteristic radiation would be absorbed",
+          "response": "",
+          "answer": "False",
+          "explanation": "The K-edge of an element is just higher than its characteristic radiation, therefore any element is relatively transparent to its own characteristic radiation. Mammography exploits this by commonly using molybdenum as both the anode target and the filter. A molybdenum filter should not be used with a rhodium target as the maximum absorption energies in the filter would correspond to the energy of the characteristic radiation from the target"
+        },
+        {
+          "text": "Typical spatial resolution for both digital and film mammography is 15 lp/mm",
+          "response": "",
+          "answer": "False",
+          "explanation": "Film mammography does achieve 15 lp/mm. The pixel size in digital radiography systems for mammography is generally not less than about 70 μm corresponding to 7 lp/mm. However, smaller high contrast details (micro-calcifications) may be seen due to the partial volume effect and the other advantages of digital systems, particularly post-processing, mean that increasing numbers of hospitals are moving to digital"
+        },
+        {
+          "text": "Typical mean glandular breast dose is 1.5–3 mGy for a single exposure",
+          "response": "",
+          "answer": "True",
+          "explanation": "At a dose of 2 mGy the risk of inducing fatal cancer in the 50–65-year-old age group is 1 in 50,000. In screening programmes, the ALARP principle is especially important"
+        },
+        {
+          "text": "Typical kV for mammography is 24–35 kV",
+          "response": "",
+          "answer": "True",
+          "explanation": "Most mammography exposures are at the lower end of this range"
+        }
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "stem": "With linear tomography:",
+      "options": [
+        {
+          "text": "Blurring is deliberately introduced into the image through movement",
+          "response": "",
+          "answer": "True",
+          "explanation": "The movement of the plate and tube causes the shadow of objects above and below the selected slice to move across the plate and become blurred, leaving only the image of objects within the selected slice in focus"
+        },
+        {
+          "text": "The cut plane slice is centred at the pivot height",
+          "response": "",
+          "answer": "True",
+          "explanation": "To adjust the level of the cut plane slice, the pivot height is adjusted up or down"
+        },
+        {
+          "text": "The slice thickness is increased by increasing the angle of movement of the tube and plate",
+          "response": "",
+          "answer": "False",
+          "explanation": "The slice thickness is increased by reducing the angle of movement. If the angle of movement was zero then a conventional radiograph would be taken with all structures within the slice thickness"
+        },
+        {
+          "text": "Zonography techniques image a very narrow slice thickness",
+          "response": "",
+          "answer": "False",
+          "explanation": "Zonography uses a small angle to take a thick slice to image an entire organ or when contrast is expected to be low"
+        },
+        {
+          "text": "Contrast is typically lower in linear tomography compared to conventional radiography because of the blurring of overlying tissues spread over the image",
+          "response": "",
+          "answer": "True",
+          "explanation": "This blurring combined with increased attenuation of the beam passing obliquely through the patient leads to higher doses being needed compared with a conventional radiograph"
+        }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "stem": "Concerning dual energy radiography:",
+      "options": [
+        {
+          "text": "Images are taken in rapid succession, alternating between a high tube current and a low tube current to allow the formation of a subtracted image that maximizes tissue contrast",
+          "response": "",
+          "answer": "False",
+          "explanation": "Dual energy radiography uses a composite of two images obtained with different tube voltages. They can then be subtracted from one another to form an image with high soft tissue contrast (subtract low kV from high kV) or an image with high bone contrast (subtract high kV from low kV)"
+        },
+        {
+          "text": "For a given mA, soft tissue contrast will be increased by using a lower kV X-ray beam",
+          "response": "",
+          "answer": "True",
+          "explanation": "A low kV beam will have higher contrast"
+        },
+        {
+          "text": "Subtracting a low kV image from a high kV image will improve soft tissue contrast and minimize the visualization of bone",
+          "response": "",
+          "answer": "True",
+          "explanation": "Subtracting the high kV image from the low kV image will improve contrast of the bony structures"
+        },
+        {
+          "text": "The detection of a calcified lung nodule could be improved by subtracting the low kV image from the high kV image",
+          "response": "",
+          "answer": "False",
+          "explanation": "Subtraction of the high kV image from the low kV image will improve detection of calcified structures"
+        },
+        {
+          "text": "Dual energy digital subtraction angiography (otherwise known as DE DSA) is performed after an intra-arterial or intravenous injection of iodinated contrast medium",
+          "response": "",
+          "answer": "False",
+          "explanation": "Contrast enhanced angiography uses a digital subtraction technique, where the pre-injection image is subtracted from the post-injection image to show only the contrast-filled vessels. DSA stands for digital subtraction angiography"
+        }
+      ]
+    }
+  ]
+}

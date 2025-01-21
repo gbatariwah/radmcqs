@@ -1,0 +1,1304 @@
+{
+  name: "MCQs for the First FRCR",
+  authors: "Varut Vardhanabhuti, Julia James, Rosemary Gray, Rehaan Nensey, W MVivien Shuen, Tishi Ninan",
+  slug: "general-radiation-hazards-and-protection",
+  questions: [
+    {
+      "questionNumber": 1,
+      "stem": "Deterministic effects of ionizing radiation include",
+      "options": [
+        {
+          "text": "Cataract",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Epilation",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Leukaemia",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "Lung cancer",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "Erythema",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "stem": "Stochastic effects of radiation include",
+      "options": [
+        {
+          "text": "Infertility",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "Leukaemia",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Cataract",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "Cancer",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Hair loss",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "stem": "Equivalent dose",
+      "options": [
+        {
+          "text": "Is derived from absorbed dose multiplied by a tissue weighting factor",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is derived from absorbed dose multiplied by a radiation weighting factor"
+        },
+        {
+          "text": "Is measured in Sieverts (Sv)",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Is averaged over all tissues of the body",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "Is the same as absorbed dose for neutrons",
+          "response": "",
+          "answer": "False",
+          "explanation": "As the radiation weighting factor for neutrons range from 5 to 20"
+        },
+        {
+          "text": "Takes into account sensitivity of the tissues to radiation",
+          "response": "",
+          "answer": "False",
+          "explanation": "Effective dose takes into account the sensitivity of tissues to radiation"
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "stem": "Absorbed dose",
+      "options": [
+        {
+          "text": "Relative to an organ depends on its mass",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "Is measured in Joules/Kg",
+          "response": "",
+          "answer": "True",
+          "explanation": "The unit is Gray & 1 Gray= 1 Joule/Kg"
+        },
+        {
+          "text": "Is measured in Sieverts",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "Depends on the radiation weighting factor",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "Is the amount of energy deposited per unit mass to a medium",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "stem": "Effective dose",
+      "options": [
+        {
+          "text": "Is derived from absorbed dose multiplied by a tissue weighting factor",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is derived from equivalent dose multiplied by a tissue weighting factor"
+        },
+        {
+          "text": "Is measured in Gray",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is measured in Sieverts"
+        },
+        {
+          "text": "Takes into consideration the different radiosensitivity of tissues",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Combines organ doses to give a whole body dose",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "In a dental film is in the order of 0.004mSv",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "stem": "Regarding ionizing radiation",
+      "options": [
+        {
+          "text": "Neutrons are low LET (linear energy transfer) radiation",
+          "response": "",
+          "answer": "False",
+          "explanation": "Neutrons are high-LET radiation"
+        },
+        {
+          "text": "The radiation weighting factor for alpha particles is 20",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "X-rays and beta particles have the same radiation weighting factor",
+          "response": "",
+          "answer": "True",
+          "explanation": "The radiation weighting factor for both is unity"
+        },
+        {
+          "text": "The radiation weighting factor for neutrons is unity",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is 5-20 depending on the radiation energy"
+        },
+        {
+          "text": "For x-rays absorbed dose is equal to the equivalent dose",
+          "response": "",
+          "answer": "True",
+          "explanation": "Equivalent dose=Absorbed dose x Radiation weighting factor and the radiation weighting factor for x-rays is 1"
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "stem": "The following tissues have a high carcinogenic risk from radiation (more than or equal to 0.12 tissue-specific weighting factor)",
+      "options": [
+        {
+          "text": "Colon",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Skin",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "Breast",
+          "response": "",
+          "answer": "True",
+          "explanation": "According to ICRP-103 (2005), breast is classified as high carcinogenic risk from radiation with a tissue-specific weighting factor of 0.12"
+        },
+        {
+          "text": "Bone marrow",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Oesophagus",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "stem": "The following tissues have a moderate carcinogenic risk from radiation (0.05 in tissue-specific weighting factor)",
+      "options": [
+        {
+          "text": "Skin",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "Gonads",
+          "response": "",
+          "answer": "False",
+          "explanation": "According to the recent amendment of ICRP June 2006 draft, gonads specific tissue weighting factor has decreased from 0.2 to 0.08. However, this is still classified as 'high risk'"
+        },
+        {
+          "text": "Lung",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "Breast",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "Bone",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "stem": "The tissue-specific weighting factors are true for the following organs",
+      "options": [
+        {
+          "text": "Bone-0.05",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is 0.012"
+        },
+        {
+          "text": "Breast-0.12",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Gonads-0.12",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is 0.08"
+        },
+        {
+          "text": "Thyroid-0.05",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Skin-0.01",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "stem": "The units for the following terms are true",
+      "options": [
+        {
+          "text": "Entrance surface dose (ESD)-Sv",
+          "response": "",
+          "answer": "False",
+          "explanation": "The unit for ESD is Gray (Gy)"
+        },
+        {
+          "text": "Equivalent dose-Gy",
+          "response": "",
+          "answer": "False",
+          "explanation": "The unit for Equivalent dose is Sieverts"
+        },
+        {
+          "text": "Dose area product (DAP)-Gy cm",
+          "response": "",
+          "answer": "False",
+          "explanation": "The unit for DAP is Gy cm2"
+        },
+        {
+          "text": "Absorbed dose-Joules/kg",
+          "response": "",
+          "answer": "True",
+          "explanation": "Absorbed dose is measured in Gray and 1Gy = 1J/kg"
+        },
+        {
+          "text": "Effective dose-Gy",
+          "response": "",
+          "answer": "False",
+          "explanation": "The unit for Effective dose is Sieverts"
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "stem": "Regarding deterministic effects",
+      "options": [
+        {
+          "text": "Diarrhoea and vomiting are examples",
+          "response": "",
+          "answer": "True",
+          "explanation": "Allisy-Roberts & Williams. Farr's Physics for Medical Imaging, 2nd edn, Saunders Elsevier, 2008. pp. 25-6. GENERAL RADIATION HAZARDS AND PROTECTION I ANSWERS"
+        },
+        {
+          "text": "There is a threshold dose above which they do not occur",
+          "response": "",
+          "answer": "False",
+          "explanation": "There is a threshold dose below which they do not occur"
+        },
+        {
+          "text": "Effects occur by chance",
+          "response": "",
+          "answer": "False",
+          "explanation": "They are dose dependent"
+        },
+        {
+          "text": "The threshold dose is the same for different deterministic effects",
+          "response": "",
+          "answer": "False",
+          "explanation": "The threshold dose varies for different deterministic effects"
+        },
+        {
+          "text": "Severity increases with increasing dose",
+          "response": "",
+          "answer": "True",
+          "explanation": "Allisy-Roberts & Williams. Farr's Physics for Medical Imaging, 2nd edn, Saunders Elsevier, 2008. pp. 25-6. GENERAL RADIATION HAZARDS AND PROTECTION I ANSWERS"
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "stem": "Regarding stochastic effects",
+      "options": [
+        {
+          "text": "The probability of a stochastic effect is independent of dose",
+          "response": "",
+          "answer": "False",
+          "explanation": "The probability increases with increasing dose"
+        },
+        {
+          "text": "Occur immediately after exposure to ionising radiation",
+          "response": "",
+          "answer": "False",
+          "explanation": "They occur after a latent period which lasts for many years"
+        },
+        {
+          "text": "Have a linear no threshold theory",
+          "response": "",
+          "answer": "True",
+          "explanation": "They occur by chance and are not dose dependent but the chance of developing stochastic effects increases with the dose"
+        },
+        {
+          "text": "Sterility is an example",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "Breast cancer is an example",
+          "response": "",
+          "answer": "True",
+          "explanation": "Allisy-Roberts & Williams. Farr's Physics for Medical Imaging, 2nd edn, Saunders Elsevier, 2008. pp. 26-7"
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "stem": "Regarding deterministic and stochastic effects of radiation",
+      "options": [
+        {
+          "text": "In the daily practice of diagnostic radiology stochastic effects are commoner than deterministic effects",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "The chances of producing deterministic effects is the same for x-rays and gamma rays",
+          "response": "",
+          "answer": "True",
+          "explanation": "Since the radiation weighting factor for both is one"
+        },
+        {
+          "text": "No dose is considered safe for deterministic effects",
+          "response": "",
+          "answer": "False",
+          "explanation": "This is true for stochastic effects"
+        },
+        {
+          "text": "Deterministic effects may be non-additive",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Skin necrosis is an example of a stochastic effect",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is a deterministic effect"
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "stem": "Regarding ionizing radiation",
+      "options": [
+        {
+          "text": "Beta particles travel through matter at high speeds",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Alpha particles travel through matter at low speeds",
+          "response": "",
+          "answer": "True",
+          "explanation": "Alpha particles have a large mass and double charge making them travel slowly through matter"
+        },
+        {
+          "text": "Alpha particles are similar to the nucleus of hydrogen",
+          "response": "",
+          "answer": "False",
+          "explanation": "They are similar to helium nucleus with 2 protons and 2 neutrons"
+        },
+        {
+          "text": "Beta particles are heavier than alpha particles",
+          "response": "",
+          "answer": "False",
+          "explanation": "Alpha particles are heavier"
+        },
+        {
+          "text": "Alpha particles have useful applications in diagnostic radiology",
+          "response": "",
+          "answer": "False",
+          "explanation": "They produce a large amount of ionization per unit length of the medium through which they travel making them unsafe for use in radiology"
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "stem": "The following entrance surface doses are typical for the following examinations",
+      "options": [
+        {
+          "text": "PA chest film-0.15mGy",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Lateral lumbar spine x-ray-12mGy",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "AP skull x-ray-2mGy",
+          "response": "",
+          "answer": "True",
+          "explanation": "The DRL is 3mGy"
+        },
+        {
+          "text": "AP abdomen film-8mGy",
+          "response": "",
+          "answer": "False",
+          "explanation": "Entrance surface dose is usually 5mGy. The DRL for an abdominal film is 7 mGy"
+        },
+        {
+          "text": "Fluoroscopy dose rate-100-150mGy/min",
+          "response": "",
+          "answer": "False",
+          "explanation": "The skin dose rate of fluoroscopy is 5-50 mGy/min"
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "stem": "The effective doses are typical for the following examinations",
+      "options": [
+        {
+          "text": "CT head-2mSv",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "PA chest film-0.15mSv",
+          "response": "",
+          "answer": "False",
+          "explanation": "PA chest film-0.02 mSv"
+        },
+        {
+          "text": "CT chest-4mSv",
+          "response": "",
+          "answer": "False",
+          "explanation": "CT chest typically-8 mSv"
+        },
+        {
+          "text": "Barium enema-7mSv",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Lumbar spine x-rays-0.8mSv",
+          "response": "",
+          "answer": "True",
+          "explanation": "Allisy-Roberts & Williams. Farr's Physics for Medical Imaging, 2nd edn, Saunders Elsevier, 2008. p. 44"
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "stem": "Regarding radiation interactions with tissue",
+      "options": [
+        {
+          "text": "Biological damage to tissue occurs immediately on interaction with tissue",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "Molecular damage to tissue occurs hours after interaction",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "Chemical changes in tissue occur hours after interaction",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "The principal radiation sources for medical exposures are x-rays and gamma radiation",
+          "response": "",
+          "answer": "True",
+          "explanation": "Following exposure to ionizing radiation, chemical changes occur practically immediately (in seconds to minutes) and then molecular damage (in hours to decades)"
+        },
+        {
+          "text": "Depends on the radiosensitivity of tissues",
+          "response": "",
+          "answer": "True",
+          "explanation": "Allisy-Roberts & Williams. Farr's Physics for Medical Imaging, 2nd edn, Saunders Elsevier, 2008. pp. 23-4. Sherer, Visconti, and Ritenour. Radiation Protection in Medical Radiography, 4th edn, Mosby, 2002. pp. 105-55"
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "stem": "Regarding biological effects of ionizing radiation",
+      "options": [
+        {
+          "text": "Direct damage to tissue occurs by the production of free radicals",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "Indirect damage to tissue occurs by the rupture of covalent bonds",
+          "response": "",
+          "answer": "False",
+          "explanation": "Direct damage to tissue occurs by the rupture of covalent bonds and indirect damage by the production of free radicals"
+        },
+        {
+          "text": "Cell death occurs when there is insufficient time for tissues to recover between subsequent irradiation events",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Free radicals produced secondary to ionization cause chemical changes in tissues",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Is independent of the type of ionizing radiation",
+          "response": "",
+          "answer": "False",
+          "explanation": "It depends on the linear energy transfer of different ionizing radiations"
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "stem": "The threshold doses for the following deterministic effects are typical",
+      "options": [
+        {
+          "text": "Cataract-5Gy",
+          "response": "",
+          "answer": "True",
+          "explanation": "Allisy-Roberts & Williams. Farr's Physics for Medical Imaging, 2nd edn, Saunders Elsevier, 2008. pp. 26"
+        },
+        {
+          "text": "Hair loss-2-5Gy",
+          "response": "",
+          "answer": "True",
+          "explanation": "Allisy-Roberts & Williams. Farr's Physics for Medical Imaging, 2nd edn, Saunders Elsevier, 2008. pp. 26"
+        },
+        {
+          "text": "Transient erythema-2Gy",
+          "response": "",
+          "answer": "True",
+          "explanation": "Allisy-Roberts & Williams. Farr's Physics for Medical Imaging, 2nd edn, Saunders Elsevier, 2008. pp. 26"
+        },
+        {
+          "text": "Sterility-2-6Gy",
+          "response": "",
+          "answer": "True",
+          "explanation": "Allisy-Roberts & Williams. Farr's Physics for Medical Imaging, 2nd edn, Saunders Elsevier, 2008. pp. 26"
+        },
+        {
+          "text": "Depression of haematopoiesis->0.5Gy",
+          "response": "",
+          "answer": "True",
+          "explanation": "Allisy-Roberts & Williams. Farr's Physics for Medical Imaging, 2nd edn, Saunders Elsevier, 2008. pp. 26"
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "stem": "The potential risks to the foetus from radiation in utero include",
+      "options": [
+        {
+          "text": "Development of cancer",
+          "response": "",
+          "answer": "True",
+          "explanation": "Allisy-Roberts & Williams. Farr's Physics for Medical Imaging, 2nd edn, Saunders Elsevier, 2008. pp. 26-7"
+        },
+        {
+          "text": "Mental retardation",
+          "response": "",
+          "answer": "True",
+          "explanation": "Allisy-Roberts & Williams. Farr's Physics for Medical Imaging, 2nd edn, Saunders Elsevier, 2008. pp. 26-7"
+        },
+        {
+          "text": "Decrease in IQ",
+          "response": "",
+          "answer": "True",
+          "explanation": "Allisy-Roberts & Williams. Farr's Physics for Medical Imaging, 2nd edn, Saunders Elsevier, 2008. pp. 26-7"
+        },
+        {
+          "text": "Intrauterine growth retardation",
+          "response": "",
+          "answer": "True",
+          "explanation": "Allisy-Roberts & Williams. Farr's Physics for Medical Imaging, 2nd edn, Saunders Elsevier, 2008. pp. 26-7"
+        },
+        {
+          "text": "Leukaemia",
+          "response": "",
+          "answer": "True",
+          "explanation": "Allisy-Roberts & Williams. Farr's Physics for Medical Imaging, 2nd edn, Saunders Elsevier, 2008. pp. 26-7"
+        }
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "stem": "The potential for the following foetal risks is maximum if radiation received in utero is at the following times",
+      "options": [
+        {
+          "text": "Foetal abnormalities-3rd to 8th week of pregnancy",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is the period of organogenesis when the potential is highest"
+        },
+        {
+          "text": "Mental retardation-8th to 15th week of pregnancy",
+          "response": "",
+          "answer": "True",
+          "explanation": "A decrease in IQ is, however, seen up to the 25th week of pregnancy"
+        },
+        {
+          "text": "Foetal death-1st trimester",
+          "response": "",
+          "answer": "False",
+          "explanation": "The pre-implantation phase poses the greatest risk of foetal death"
+        },
+        {
+          "text": "Childhood cancers-3rd trimester",
+          "response": "",
+          "answer": "False",
+          "explanation": "The risk is almost nil up to 3 weeks following which the risk remains for the rest of the pregnancy but is maximum in the first trimester"
+        },
+        {
+          "text": "Growth retardation-8th to 25th week of pregnancy",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is the period of organogenesis when the potential is highest"
+        }
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "stem": "Regarding the effects of ionizing radiation",
+      "options": [
+        {
+          "text": "The risk of fatal cancer from a uniform whole body irradiation is 1 in 200,000 per mSv",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is 5% per Sv or 1 in 20,000 per mSv"
+        },
+        {
+          "text": "The risk of developing fatal childhood cancer from irradiation in utero is 1 in 50,000 per mGy",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is 3% per Gy or 1 in 33,000 per mGy"
+        },
+        {
+          "text": "The cornea is more radiosensitive than the lens",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is 3% per Gy or 1 in 33,000 per mGy"
+        },
+        {
+          "text": "Radiation dose to the hands of staff arises from the use of radionuclides as well as from x-rays",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is the correct explanation"
+        },
+        {
+          "text": "Deterministic effects are hereditary",
+          "response": "",
+          "answer": "False",
+          "explanation": "The radiation protection is based on scientific evidence"
+        }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "stem": "Regarding the natural and artificial sources of radiation",
+      "options": [
+        {
+          "text": "Sodium is the commonest contributor of radiation from internal sources",
+          "response": "",
+          "answer": "False",
+          "explanation": "Potassium-40, a radioactive isotope of potassium, is the commonest contributor of radiation from internal sources"
+        },
+        {
+          "text": "The average dose of radiation to the UK population from natural sources is 1.7mSv per year",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is approximately 2.2 mSv per year"
+        },
+        {
+          "text": "The average dose of radiation to the population in Cornwall from natural sources is 3 times that of the average for the rest of the UK",
+          "response": "",
+          "answer": "True",
+          "explanation": "Due to the presence of high amounts of radon, the average dose received in Cornwall is approximately 7 mSv per year"
+        },
+        {
+          "text": "The decay of radon is primarily associated with the emission of gamma rays",
+          "response": "",
+          "answer": "False",
+          "explanation": "The decay of radon is primarily associated with the emission of alpha particles"
+        },
+        {
+          "text": "The dose received from medical diagnostic procedures averaged over the whole population in the UK is 250µSv",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is 370 µSv and accounts for 14% of the radiation from natural and artificial sources in the UK"
+        }
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "stem": "Dose area product (DAP)",
+      "options": [
+        {
+          "text": "Can be measured with a thermoluminescent dosimeter (TLD)",
+          "response": "",
+          "answer": "False",
+          "explanation": "It requires an ionization chamber for measurement"
+        },
+        {
+          "text": "Decreases with the square of the distance from the x-ray focus",
+          "response": "",
+          "answer": "False",
+          "explanation": "This is an incorrect assumption"
+        },
+        {
+          "text": "Is an appropriate quantity for dosimetry in fluoroscopy",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is correct"
+        },
+        {
+          "text": "Is an appropriate quantity for dosimetry in CT",
+          "response": "",
+          "answer": "False",
+          "explanation": "This is incorrect"
+        },
+        {
+          "text": "May be used to set diagnostic reference levels",
+          "response": "",
+          "answer": "True",
+          "explanation": "This statement is true"
+        }
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "stem": "Entrance surface dose (ESD)",
+      "options": [
+        {
+          "text": "Is measured in Gycm2",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is measured in Gray"
+        },
+        {
+          "text": "Increases in proportion to x-ray field size",
+          "response": "",
+          "answer": "True",
+          "explanation": "As this includes scatter"
+        },
+        {
+          "text": "Can be calculated from knowledge of exposure factors and x-ray output data",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is correct"
+        },
+        {
+          "text": "Can be measured from DAP if the x-ray field size and back scatter are known",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is true"
+        },
+        {
+          "text": "Can be measured using a TLD",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is true"
+        }
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "stem": "Regarding thermoluminescent dosimeters",
+      "options": [
+        {
+          "text": "They are generally used in conjunction with filters",
+          "response": "",
+          "answer": "True",
+          "explanation": "The crystal is usually lithium fluoride"
+        },
+        {
+          "text": "They contain a crystal of lithium iodide",
+          "response": "",
+          "answer": "False",
+          "explanation": "They cannot differentiate between radiation types"
+        },
+        {
+          "text": "They have a linear response over a wide dose range",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "They can differentiate between radiation types",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "They can measure dose rate",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "stem": "Advantages of thermoluminescent dosimeters",
+      "options": [
+        {
+          "text": "They can be reused",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The sensitivity is significantly better than film",
+          "response": "",
+          "answer": "False",
+          "explanation": "The sensitivity is very similar to that of film"
+        },
+        {
+          "text": "They can be used to measure both shallow and deep doses",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "They can measure dose rates",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "They can be used to monitor eye doses",
+          "response": "",
+          "answer": "True",
+          "explanation": "As they can be made into various shapes, they can be used for the assessment of finger and eye doses"
+        }
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "stem": "Film badges",
+      "options": [
+        {
+          "text": "Are able to identify the type of exposure",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Utilize a single sided film emulsion",
+          "response": "",
+          "answer": "False",
+          "explanation": "A double-sided film emulsion is used"
+        },
+        {
+          "text": "Are relatively resistant to environmental effects",
+          "response": "",
+          "answer": "False",
+          "explanation": "They are subject to the environmental effects of heat, humidity, and chemical change"
+        },
+        {
+          "text": "Utilize a double sided film emulsion with screen",
+          "response": "",
+          "answer": "False",
+          "explanation": "A double-sided film emulsion is used but without a screen"
+        },
+        {
+          "text": "Have a sensitivity similar to TLDs",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "stem": "Regarding personal dosimeters",
+      "options": [
+        {
+          "text": "TLDs can provide a direct reading of dose",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "TLDs provide a permanent record of dose",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "Film badges do not require calibration",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "Aluminium oxide is used in optical stimulated luminescent dosimeters",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Optical stimulated luminescent dosimeters give readings down to 0.01 mSv",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "stem": "Thermoluminescent dosimeters",
+      "options": [
+        {
+          "text": "Are used for assessment of finger doses",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is correct"
+        },
+        {
+          "text": "Are relatively cheaper than film badges",
+          "response": "",
+          "answer": "False",
+          "explanation": "They are relatively more expensive than film but can be reused"
+        },
+        {
+          "text": "Are used to detect radioactive contamination",
+          "response": "",
+          "answer": "False",
+          "explanation": "This is incorrect"
+        },
+        {
+          "text": "The dose can be read only once",
+          "response": "",
+          "answer": "True",
+          "explanation": "They can only read a dose once but TLDs can be re-used and read many times"
+        },
+        {
+          "text": "Are unaffected by environmental effects",
+          "response": "",
+          "answer": "False",
+          "explanation": "They are affected by environmental effects (especially heat)"
+        }
+      ]
+    },
+    {
+      "questionNumber": 31,
+      "stem": "Thermoluminescent dosimeters",
+      "options": [
+        {
+          "text": "An immediate read out is possible",
+          "response": "",
+          "answer": "False",
+          "explanation": "This is false"
+        },
+        {
+          "text": "Sensitivity is relatively energy dependent",
+          "response": "",
+          "answer": "False",
+          "explanation": "TLDs are relative energy independent"
+        },
+        {
+          "text": "TLD crystal needs to be heated to about 300°C to be read",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is true"
+        },
+        {
+          "text": "TLDs need to be annealed after read out",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is correct"
+        },
+        {
+          "text": "TLD crystal can be calcium fluoride",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is true"
+        }
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "stem": "Film badges",
+      "options": [
+        {
+          "text": "Sensitivity is about 0.1-0.2mSv",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is true"
+        },
+        {
+          "text": "Can be used for assessment of finger dose",
+          "response": "",
+          "answer": "False",
+          "explanation": "This is incorrect"
+        },
+        {
+          "text": "Provide a permanent record of exposure",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is correct"
+        },
+        {
+          "text": "Are usually replaced 3 monthly",
+          "response": "",
+          "answer": "False",
+          "explanation": "As they are subject to the environmental effects of heat, humidity, and chemical changes, they are unsuitable for monitoring over a period of 1 month"
+        },
+        {
+          "text": "Measure the effective dose received",
+          "response": "",
+          "answer": "False",
+          "explanation": "It measures the absorbed dose, which we presume represents the whole body dose"
+        }
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "stem": "Regarding personal dosimeters",
+      "options": [
+        {
+          "text": "TLDs have a precision better than 1 %",
+          "response": "",
+          "answer": "False",
+          "explanation": "Only electronic dosimeters have a precision better than 1%"
+        },
+        {
+          "text": "TLDs can be used to measure dose to a patient",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is true"
+        },
+        {
+          "text": "Dose to a patient can be measured with an ionization chamber",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is correct"
+        },
+        {
+          "text": "Geiger Muller counters require a quenching agent",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is accurate"
+        },
+        {
+          "text": "The outer case of the Geiger Muller counter is the anode",
+          "response": "",
+          "answer": "False",
+          "explanation": "The outer case is the cathode"
+        }
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "stem": "Electronic personal dosimeters",
+      "options": [
+        {
+          "text": "Are more than 100 times sensitive than TLDs",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is correct"
+        },
+        {
+          "text": "Measure both dose and dose rates",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is true"
+        },
+        {
+          "text": "Have sensitivity to the nearest 1 µSv",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is correct"
+        },
+        {
+          "text": "Do not provide a direct reading",
+          "response": "",
+          "answer": "False",
+          "explanation": "This statement is false"
+        },
+        {
+          "text": "The silicone diode detector is a common type",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is accurate"
+        }
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "stem": "Regarding personal dosimeters",
+      "options": [
+        {
+          "text": "TLD should not be used without a dosimeter holder",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is true"
+        },
+        {
+          "text": "During interventional procedures the TLD must be worn above the protective lead apron",
+          "response": "",
+          "answer": "False",
+          "explanation": "It must be worn under the lead apron"
+        },
+        {
+          "text": "Electronic personal dosimeters are used to detect radioactive contamination",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is correct"
+        },
+        {
+          "text": "The TLD holder helps to differentiate between skin doses and deeper doses",
+          "response": "",
+          "answer": "True",
+          "explanation": "The holder has filters which are responsible for this function"
+        },
+        {
+          "text": "The precision of a TLD is approximately 15% for low doses",
+          "response": "",
+          "answer": "True",
+          "explanation": "And 3% for high doses"
+        }
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "stem": "Geiger Muller tubes",
+      "options": [
+        {
+          "text": "Have a dead time when no reading can be done",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Are used mainly for patient monitoring",
+          "response": "",
+          "answer": "False",
+          "explanation": "They are used mainly in nuclear medicine to detect contamination"
+        },
+        {
+          "text": "Detect all types of radiation",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Can distinguish between all types of radiation",
+          "response": "",
+          "answer": "False",
+          "explanation": "They can detect all types of radiation but cannot distinguish them"
+        },
+        {
+          "text": "Contain a central wire cathode",
+          "response": "",
+          "answer": "False",
+          "explanation": "The central wire is the anode"
+        }
+      ]
+    }
+  ]
+
+}

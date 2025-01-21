@@ -1,0 +1,368 @@
+{
+  name: "Get Through First FRCR: MCQs for the Physics Module",
+  authors: "Andrew Baird, Grant Mair, Andrew Nisbet,",
+  slug: "fluoroscopy",
+  questions: [
+    {
+      "questionNumber": 1,
+      "stem": "Structure of the image intensifier",
+      "options": [
+        {
+          "text": "The input screen is always larger than the output screen",
+          "response": "",
+          "answer": "True",
+          "explanation": "This size difference contributes towards the intensification via minification gain"
+        },
+        {
+          "text": "The input screen is normally made from caesium iodide (CsI) crystals",
+          "response": "",
+          "answer": "True",
+          "explanation": "Caesium (K-edge 36 keV) and iodine (K-edge 33 keV) are very effective at detecting X-ray photons at the peak of the Bremsstrahlung peak of most fluoroscopic examinations. These K-edges are also very similar to those of commonly used contrast agents for most screening procedures"
+        },
+        {
+          "text": "The input screen detects approximately 60% of the incoming X-ray photons",
+          "response": "",
+          "answer": "True",
+          "explanation": "CsI is arranged in thin crystals that internally reflect light photons. This helps prevent light spread allowing a thicker layer of phosphor (0.1 – 0.4 mm) to be used where more photons can be detected without increasing screen unsharpness to an unacceptable level"
+        },
+        {
+          "text": "The photocathode is attached to the output screen",
+          "response": "",
+          "answer": "False",
+          "explanation": "The photocathode is attached to the input screen and releases electrons when hit by photons from the phosphor"
+        },
+        {
+          "text": "The potential difference across the intensifier of about 25 kV accelerates electrons towards the photocathode",
+          "response": "",
+          "answer": "False",
+          "explanation": "The potential difference is commonly about 25 kV, but this accelerates electrons away from the negative photocathode towards the positively charged anode at the output screen"
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "stem": "More structure of the image intensifier",
+      "options": [
+        {
+          "text": "The output screen is normally about 15 – 40 cm in diameter",
+          "response": "",
+          "answer": "False",
+          "explanation": "The input screen is about 15 – 40 cm diameter. The output screen diameter is between about 20 and 35 mm"
+        },
+        {
+          "text": "A layer of aluminium is placed over the inner surface of the output phosphor to improve its mechanical strength",
+          "response": "",
+          "answer": "False",
+          "explanation": "The thin aluminium layer prevents light emitted back from the output phosphor being detected by the photocathode. This feedback would cause complete ‘white-out’ of the image"
+        },
+        {
+          "text": "Focusing electrodes use positive potentials to concentrate the path of the electron beam",
+          "response": "",
+          "answer": "True",
+          "explanation": "The electrodes control the voltage gradient across the tube and ensure that they are focused onto the output screen. They act like an electron lens"
+        },
+        {
+          "text": "One of the functions of the intensifier housing is to prevent light from entering the intensifier",
+          "response": "",
+          "answer": "True",
+          "explanation": "Other functions are to maintain the vacuum within the intensifier and to shield from magnetic fields. Lead shielding is also normally placed around the unit to protect the operator"
+        },
+        {
+          "text": "The output screen is normally made of sodium iodide (NaI)",
+          "response": "",
+          "answer": "False",
+          "explanation": "The output screen is normally made of zinc cadmium sulphide. NaI crystals are commonly used in gamma cameras"
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "stem": "Gain and magnification",
+      "options": [
+        {
+          "text": "Gain is the ratio of the brightness of the output phosphor over that of the input phosphor",
+          "response": "",
+          "answer": "True",
+          "explanation": "Gain is not normally measured, however, as it is difficult to measure the brightness of the input phosphor. Conversion factor (Gx) is used instead, which is the ratio of the brightness of the output phosphor and the dose rate of X-rays at the input phosphor"
+        },
+        {
+          "text": "Overall gain is the sum of the flux gain and the minification gain",
+          "response": "",
+          "answer": "False",
+          "explanation": "Overall gain is the product of the flux gain and the minification gain. As flux gain is typically about 50, and minification gain typically about 100 when not using magnification settings, a typical overall gain would be 5000"
+        },
+        {
+          "text": "An increase in gain increases the signal to noise ratio (SNR)",
+          "response": "",
+          "answer": "False",
+          "explanation": "The quantum sink is the detection of X-ray photons at the phosphor. Gain will multiply the signal, but will also multiply the noise equally. A greater gain would also allow a lower dose to be used to achieve the same brightness on the monitor, and if a lower dose is used a decrease in the SNR would be observed"
+        },
+        {
+          "text": "By changing the voltages on the focusing electrodes the focal electron crossover point is moved closer to the input screen to magnify the image",
+          "response": "",
+          "answer": "True",
+          "explanation": "This results in a smaller section of the input screen being used and therefore the minification gain decreases, but the image of the region viewed is magnified"
+        },
+        {
+          "text": "Magnification uses a smaller area of the output screen to increase the minification gain",
+          "response": "",
+          "answer": "False",
+          "explanation": "Using a smaller area of the output screen would increase the minification gain but would not result in a magnified image"
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "stem": "Automatic brightness control and dose control curves",
+      "options": [
+        {
+          "text": "Automatic brightness control adjusts the gain automatically to keep the monitor image at the same level of brightness",
+          "response": "",
+          "answer": "False",
+          "explanation": "Automatic brightness control adjusts the kV and/or mA to keep the image brightness constant. The gain is kept constant unless magnification is used"
+        },
+        {
+          "text": "Automatic brightness control is normally set by the brightness at the centre of the image or the set region of interest",
+          "response": "",
+          "answer": "True",
+          "explanation": "Many systems are just set to the centre of the image, but intensifier systems may have more complicated regions of interest set, or may allow the regions of interest to be customized. In almost all cases the brightness at the periphery of the image is ignored, which means that lung or air to the side of the patient does not overly affect the image"
+        },
+        {
+          "text": "Dose control curves always increase kV in preference to mA to keep patient dose as low as is reasonably practicable (ALARP)",
+          "response": "",
+          "answer": "False",
+          "explanation": "Some dose control curves are set this way, and minimize dose but at the expense of image quality. Other dose control curves predominantly increase mA and keep kV fairly constant, which may be used when the kV is optimized for the K-edge of a particular contrast agent. Most dose control curves increase kV and mA together"
+        },
+        {
+          "text": "Dose control curves can be selected by the operator depending on the quality of image required",
+          "response": "",
+          "answer": "True",
+          "explanation": "Many systems allow the user to select the appropriate dose control curve for the type of examination. This allows a higher quality but higher dose control curve when needed or a low quality low dose when high contrast and resolution diagnostic images are not required, such as in placement of a nasogastric tube"
+        },
+        {
+          "text": "Modern image intensifiers use charge coupled device (CCD) cameras to acquire the image displayed on the output phosphor",
+          "response": "",
+          "answer": "True",
+          "explanation": "Older intensifiers used vacuum device video cameras. CCDs produce a direct digital signal. They have a better resolution with a 1024 × 1024 or higher display. They can provide digital feedback for the automatic brightness control system instead of requiring a partially reflecting mirror for older optical cameras"
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "stem": "Dose rates and usual doses for fluoroscopy",
+      "options": [
+        {
+          "text": "Skin entrance dose rates should never exceed 100 mGy per minute",
+          "response": "",
+          "answer": "True",
+          "explanation": "Remedial action is required if entrance dose rates exceed 50 mGy/min for the largest field size. Typical dose rates are in the region of 10– 30 mGy/min"
+        },
+        {
+          "text": "Dose is generally higher for pulsed fluoroscopy than for continuous fluoroscopy",
+          "response": "",
+          "answer": "False",
+          "explanation": "Pulsed fluoroscopy works with short bursts of radiation, often set at about 3 pulses per second, to give an image. Although this can result in blurring if there is any movement, for many screening procedures such as barium enemas this is quite acceptable. As the X-ray tube is only on intermittently, the dose over time falls approximately proportionate to the pulse rate"
+        },
+        {
+          "text": "A typical effective dose for a barium meal would be 2.5 mSv",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is roughly equivalent to a year of average background radiation in the UK"
+        },
+        {
+          "text": "A typical equivalent dose for a barium enema would be 7 mSv",
+          "response": "",
+          "answer": "False",
+          "explanation": "A typical effective dose would be 7 mSv"
+        },
+        {
+          "text": "Screening times for a barium enema are typically in the range of 1 – 3 min",
+          "response": "",
+          "answer": "True",
+          "explanation": "Screening times for different studies can vary quite widely depending on the patient and operator, but this range would be typical"
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "stem": "Safety in fluoroscopy screening",
+      "options": [
+        {
+          "text": "Staff members who do not have to be next to the patient should stand back to take advantage of the inverse square law",
+          "response": "",
+          "answer": "True",
+          "explanation": "Helper staff or nurses from the ward may not be aware of radiation protection issues and should be guided as to where to stand. Although the patient is not a point source, the inverse square law is still a good rough estimation and shows that increased distance from the patient significantly reduces exposure to scattered radiation"
+        },
+        {
+          "text": "Under couch tubes result in more radiation exposure to an operator standing next to the patient than over couch tubes",
+          "response": "",
+          "answer": "False",
+          "explanation": "Over couch tube systems typically expose an operator standing near the patient to more scattered radiation"
+        },
+        {
+          "text": "Most scatter is from the point where the beam exits the patient",
+          "response": "",
+          "answer": "False",
+          "explanation": "Most scatter is from the point where the primary beam enters the patient, as here the beam is not yet attenuated by the patient and is far more intense"
+        },
+        {
+          "text": "The lead shielding around the intensifier provides adequate protection from the primary beam",
+          "response": "",
+          "answer": "True",
+          "explanation": "The lead shielding of the intensifier is typically 2 mm or more and effectively stops the primary beam"
+        },
+        {
+          "text": "A lead apron combined with a thyroid shield provides adequate protection from the primary beam",
+          "response": "",
+          "answer": "False",
+          "explanation": "Lead aprons are only commonly made up to 0.5 mm lead equivalence, and most are 0.35 mm. This provides adequate protection from scattered radiation for the body parts covered, but not from the primary beam"
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "stem": "Image quality and noise in image intensifiers",
+      "options": [
+        {
+          "text": "Noise in fluoroscopy is predominantly electrical noise caused by minification gain",
+          "response": "",
+          "answer": "False",
+          "explanation": "As with other X-ray radiography, the requirement to keep doses ALARP means that the number of absorbed X-ray photons is the quantum sink, and that quantum mottle is the predominant cause of noise in the image"
+        },
+        {
+          "text": "SNR can be increased by increasing the kV across the intensifier",
+          "response": "",
+          "answer": "False",
+          "explanation": "Increasing kV across the intensifier would increase flux gain, but this would increase noise in the same proportion and therefore the SNR would not change"
+        },
+        {
+          "text": "SNR can be increased by frame averaging",
+          "response": "",
+          "answer": "True",
+          "explanation": "Frame averaging adds the signal from successive frames taken over a period of time. This increases the SNR and provides a higher quality image as long as the patient does not move during this time"
+        },
+        {
+          "text": "Typical resolution on the monitor of a fluoroscopy system is 1.2 – 3 lp/mm depending on magnification",
+          "response": "",
+          "answer": "True",
+          "explanation": "The resolutions of the television and display systems are the limiting factors"
+        },
+        {
+          "text": "Veiling glare and geometrical distortion are common artefacts in fluoroscopy",
+          "response": "",
+          "answer": "True",
+          "explanation": "Veiling glare is caused by light scattering within the output phosphor and results in loss of contrast in darker areas. It also results in the centre of the image being brighter than the periphery. Geometrical distortion is caused by focusing inaccuracies and by the curved input screen that tends to magnify the periphery of the image. This is not normally noticeable when imaging the complex organs of the body, but images of straight objects such as wires in interventional work may be noticeably bent by this effect"
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "stem": "In traditional fluoroscopic image intensifiers",
+      "options": [
+        {
+          "text": "Brightness gain increases with increasing voltage across the intensifier",
+          "response": "",
+          "answer": "True",
+          "explanation": "The electron emitted from the input screen is accelerated by the voltage to the output screen, gaining energy as it does so. The greater the voltage, the greater the energy gained and the more photons emitted from the output screen; this is flux gain"
+        },
+        {
+          "text": "Brightness gain increases with the use of magnification",
+          "response": "",
+          "answer": "False",
+          "explanation": "Magnification uses a smaller area of the input screen focused on the same area of output screen. The minification gain is therefore less"
+        },
+        {
+          "text": "Brightness gain is increased when the exposure to the input phosphor is increased",
+          "response": "",
+          "answer": "False",
+          "explanation": "Brightness gain is the multiplication factor the intensifier has increased the original signal by. Increasing the original signal does not affect this"
+        },
+        {
+          "text": "Vignetting causes the periphery of the image to be brighter than the centre",
+          "response": "",
+          "answer": "False",
+          "explanation": "Vignetting is caused by light spread in both the output and input phosphors and with electron spread within the intensifier. It causes the central area to be brighter than the periphery and reduces contrast"
+        },
+        {
+          "text": "Geometrical distortion may cause the periphery of the image to be distorted",
+          "response": "",
+          "answer": "True",
+          "explanation": "The periphery of the image is magnified slightly more than the centre due to the curve of the input screen, and S-type distortion can occur from small changes in the magnetic fields influencing the paths of the electrons"
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "stem": "Digital subtraction angiography (DSA)",
+      "options": [
+        {
+          "text": "A mask image for the subtraction needs to be taken after injection of contrast",
+          "response": "",
+          "answer": "False",
+          "explanation": "The mask image is of normal anatomy to be subtracted from the later images with contrast to leave only an image of contrast within the vessels. Therefore the mask image needs to be taken prior to contrast reaching the vessels"
+        },
+        {
+          "text": "DSA cannot be viewed in realtime because the images need to be processed in the computer before the subtracted image can be displayed",
+          "response": "",
+          "answer": "False",
+          "explanation": "Modern computers are easily able to handle this in fractions of a second and display a subtracted image with no perceptible delay. More advanced techniques such as pixel shift to improve the image from minor movements may be done after the sequence is acquired, but a simple realtime image is displayed immediately"
+        },
+        {
+          "text": "Slight movements between the mask and subtracted images may produce dark or light lines along high contrast structures such as bones",
+          "response": "",
+          "answer": "True",
+          "explanation": "This may be cancelled to some extent by pixel shift techniques. Excessive movement will make interpretation of structures more difficult, as lines along the edges of bones may obscure vessels"
+        },
+        {
+          "text": "DSA requires at least two frames per second to image arteries, with slower frame rates being used for venous structures",
+          "response": "",
+          "answer": "False",
+          "explanation": "While high frame rates may be required for large arteries such as the aorta and iliac vessels, peripheral arteries such as the lower limb arteries would commonly be imaged at 1 frame per second"
+        },
+        {
+          "text": "Subtracted images have a decreased SNR",
+          "response": "",
+          "answer": "True",
+          "explanation": "This essentially works in the opposite way to frame averaging and may require a higher dose when compared with non-subtracted imaging"
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "stem": "Flat plate detectors",
+      "options": [
+        {
+          "text": "Contrast using a flat plate detector is much better than traditional fluoroscopy",
+          "response": "",
+          "answer": "True",
+          "explanation": "The dynamic range of conventional fluoroscopy is normally no greater than 30:1. Digital flat plate detectors are capable of 14 bit depth (i.e. 16 000 level of grey). The full range is not required allowing images at much higher or lower dose levels"
+        },
+        {
+          "text": "Flat plate detectors do not suffer from veiling glare or geometric distortion",
+          "response": "",
+          "answer": "True",
+          "explanation": "Light spread within the flat plate CsI crystals is significantly less than the veiling glare of the output phosphor of traditional fluoroscopy. Flat plate detectors image in the same way that digital radiography systems do and therefore there is no curved input plate or focusing of electron beams to distort the image"
+        },
+        {
+          "text": "Spatial resolution is not as good using digital flat plate detectors when compared with traditional fluoroscopy",
+          "response": "",
+          "answer": "False",
+          "explanation": "Flat plate detectors can have resolutions at 3 lp/mm or more, and this resolution is irrespective of magnification. This compares favourably even to the resolution of the highest magnifications of traditional fluoroscopy and is much better than the 1.2 lp/mm of unmagnified fluoroscopy"
+        },
+        {
+          "text": "Flat plate X-ray photon detection efficiency is comparable to traditional fluoroscopy",
+          "response": "",
+          "answer": "True",
+          "explanation": "Both flat plate and traditional fluoroscopy systems detect about 60–65% of X-ray photons"
+        },
+        {
+          "text": "Flat plate detectors can be made much smaller compared with image intensifier explorators",
+          "response": "",
+          "answer": "True",
+          "explanation": "The flat plate system does not have to contain the bulky vacuum intensifier. The unit still has to be connected to an X-ray tube, however, and the lead shielding is still very heavy. Nevertheless, the appearance may be far less concerning to claustrophobic patients"
+        }
+      ]
+    }
+  ]
+
+}

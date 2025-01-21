@@ -910,32 +910,32 @@
         {
           "response": "",
           "text": "The camera heads are arrayed parallel (180°) to each other for body imaging",
-          "answer": "False",
-          "explanation": "High-resolution collimator provides improved image quality compared to high-sensitivity collimator or general-purpose collimator"
+          "answer": "True",
+          "explanation": "High-resolution collimator provides improved image quality compared to high-sensitivity collimator or general-purpose collimator",
         },
         {
           "response": "",
           "text": "The ability of the camera to separate events of different energies is known as energy resolution",
           "answer": "True",
-          "explanation": "For dedicated cardiac imaging, the dual heads are arrayed in the 90° position (perpendicular to each other)"
+          "explanation": "The measure of the camera ability to separate events of different\nenergies is known as energy resolution"
         },
         {
           "response": "",
           "text": "Decreasing the septal thickness allows the use of higher-energy gamma emitters",
-          "answer": "True",
-          "explanation": "99mTc-sestamibi and 99mTc-tetrofosmin are used in myocardial perfusion imaging"
+          "answer": "False",
+          "explanation": "Increasing the septal thickness permits the use of higher-energy\ngamma emitters"
         },
         {
           "response": "",
           "text": "The pinhole collimator is used when imaging small organs that lie close to the skin",
-          "answer": "False",
-          "explanation": "PET imaging has more uniform resolution and high sensitivity than SPECT imaging"
+          "answer": "True",
+          "explanation": "he pinhole collimator is preferable for imaging small organs that\nlie close to the skin (e.g. thyroid) as it allows magnification"
         },
         {
           "response": "",
           "text": "The geometric sensitivity of a parallel-hole collimator depends on the distance between the source and collimator",
           "answer": "False",
-          "explanation": "The centre of rotation calibration test is necessary for SPECT quality control"
+          "explanation": "The geometric sensitivity of a parallel-hole collimator does not\ndepend on the distance between the source and collimator, but it depends\non the size and length of the hole and septal thickness"
         }
       ]
     },
@@ -947,31 +947,31 @@
           "response": "",
           "text": "High-sensitivity collimator provides better image quality compared to high-resolution collimator",
           "answer": "False",
-          "explanation": "Attenuation corrections are inherently more accurate in PET than in SPECT because the pair of annihilation photons defines a line through the patient such that the total path length through the patient is always transverse when a decay is treated"
+          "explanation": "High-resolution collimator provides improved image quality compared to high-sensitivity collimator or general-purpose collimator"
         },
         {
           "response": "",
           "text": "For dedicated cardiac imaging, the dual heads are arrayed in the 90° position",
           "answer": "True",
-          "explanation": "Detection system is a key component of PET to detect and record a higher percentage of the emitted events"
+          "explanation": "For dedicated cardiac imaging, the dual heads are arrayed in the\n90° position (perpendicular to each other)."
         },
         {
           "response": "",
           "text": "99mTc-tetrofosmin is used in myocardial perfusion imaging",
           "answer": "True",
-          "explanation": "Bismuth germanate crystals have high gamma counting efficiency"
+          "explanation": "99mTc-sestamibi and 99mTc-tetrofosmin are used in myocardial per-\nfusion imaging"
         },
         {
           "response": "",
           "text": "SPECT imaging has more uniform resolution than PET imaging",
           "answer": "False",
-          "explanation": "PET resolution is lower than CT"
+          "explanation": "PET imaging has more uniform resolution and high sensitivity\nthan SPECT imaging"
         },
         {
           "response": "",
           "text": "The centre of rotation calibration test is not required for SPECT quality control",
-          "answer": "True",
-          "explanation": "For example, 15O and 18F"
+          "answer": "False",
+          "explanation": "The centre of rotation calibration test is necessary for SPECT\nquality control"
         }
       ]
     },
@@ -982,32 +982,32 @@
         {
           "response": "",
           "text": "Attenuation corrections are inherently more accurate in SPECT than in PET",
-          "answer": "True",
-          "explanation": "For whole-body imaging, the camera heads are arrayed opposite to each other (180°) to allow simultaneous acquisition of anterior and posterior images"
+          "answer": "False",
+          "explanation": "Attenuation corrections are inherently more accurate in PET than in SPECT because the pair of annihilation photons defines a line through\nthe patient such that the total path length through the patient is always\ntransverse when a decay is treated."
         },
         {
           "response": "",
           "text": "Detector sensitivity is a major design consideration in PET",
           "answer": "True",
-          "explanation": "The measure of the camera ability to separate events of different energies is known as energy resolution"
+          "explanation": "Detection system is a key component of PET to detect and record\na higher percentage of the emitted events"
         },
         {
           "response": "",
           "text": "Bismuth germanate crystals have greater intrinsic efficiency for higher-energy photons",
-          "answer": "False",
-          "explanation": "Increasing the septal thickness permits the use of higher-energy gamma emitters"
+          "answer": "True",
+          "explanation": "Bismuth germanate crystals have high gamma counting efficiency"
         },
         {
           "response": "",
           "text": "PET resolution is greater than CT",
-          "answer": "True",
-          "explanation": "The pinhole collimator is preferable for imaging small organs that lie close to the skin (e.g. thyroid) as it allows magnification"
+          "answer": "False",
+          "explanation": "PET resolution is lower than CT"
         },
         {
           "response": "",
           "text": "Positron emitters are produced in a cyclotron",
-          "answer": "False",
-          "explanation": "The geometric sensitivity of a parallel-hole collimator does not depend on the distance between the source and collimator, but it depends on the size and length of the hole and septal thickness"
+          "answer": "True",
+          "explanation": "For example, 15O and 18F"
         }
       ]
     },

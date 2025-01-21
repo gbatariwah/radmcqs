@@ -1,0 +1,1442 @@
+{
+  name: "MCQs for the First FRCR",
+  authors: "Varut Vardhanabhuti, Julia James, Rosemary Gray, Rehaan Nensey, W MVivien Shuen, Tishi Ninan",
+  slug: "nuclear-medicine",
+  questions: [
+    {
+      "questionNumber": 1,
+      "stem": "Concerning nuclear stability",
+      "options": [
+        {
+          "text": "Stable lighter nuclei contain nearly equal numbers of protons and neutrons",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "Stable heavier nuclei contain greater proportion of protons than neutrons",
+          "response": "",
+          "answer": "False",
+          "explanation": "False: Stable heavier nuclei contain greater proportion of neutrons"
+        },
+        {
+          "text": "Isotopes have the same number of protons, chemical, and metabolic properties",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "Isotopes have different number of neutrons, mass number, density, and physical properties",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "Unstable radioactive nuclei have proton or neutron excess or deficit and decay until they become stable",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "stem": "Concerning radionuclides",
+      "options": [
+        {
+          "text": "All radionuclides used for medical imaging are produced artificially",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "Molybdenum-99 (99Mo) is unstable as it is neutron deficient",
+          "response": "",
+          "answer": "False",
+          "explanation": "False: 99Mo is made by addition of neutron to 98Mo in a nuclear reactor hence it is unstable with an excess of neutron (98Mo + n → 99Mo)"
+        },
+        {
+          "text": "Fluorine-18 (18F) is unstable due to excess of neutron",
+          "response": "",
+          "answer": "False",
+          "explanation": "False: 18F is made in a cyclotron by an additional proton being forced into the stable nucleus of 180 which in return knocks out a neutron hence making the nucleus neutron deficient (180 + p → 18F + n)"
+        },
+        {
+          "text": "99Mo can be extracted from the spent fuel rods of nuclear reactors",
+          "response": "",
+          "answer": "True",
+          "explanation": "True: 238U → 99Mo + other fission by products"
+        },
+        {
+          "text": "Gallium-68 (68Ga) is produced from a germanium-68 (68Ge) generator",
+          "response": "",
+          "answer": "True",
+          "explanation": "True: 68Ga is a daughter product of 68Ge"
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "stem": "The following are true of radioactive decay",
+      "options": [
+        {
+          "text": "In alpha decay, the atomic number of the daughter nucleus increases by 1",
+          "response": "",
+          "answer": "True",
+          "explanation": "True: In β-decay, the atomic number increases by 1 and the atomic mass remains unchanged in the daughter nucleus"
+        },
+        {
+          "text": "In beta decay, the atomic mass of the daughter nucleus increases by 1",
+          "response": "",
+          "answer": "False",
+          "explanation": "False: In β decay, the atomic number decreases by 1 and the atomic mass remains the same in the daughter nucleus"
+        },
+        {
+          "text": "The majority of the metastable radionuclides undergo isomeric transition",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "In electron capture, the atomic mass decreases by 1",
+          "response": "",
+          "answer": "False",
+          "explanation": "False: In electron capture, the atomic number reduces by 1 whilst the atomic mass remains unchanged in the daughter nucleus"
+        },
+        {
+          "text": "Radionuclides which undergo internal conversion can emit both photoelectrons and characteristic x-rays",
+          "response": "",
+          "answer": "True",
+          "explanation": "True: Examples of such radionuclides are iodine-123 and iodine-125"
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "stem": "Concerning radioactive emissions",
+      "options": [
+        {
+          "text": "Gamma rays emitted for a given radionuclide have a few specific energies which are characteristic of that nuclide",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "Internal conversion is when emitted gamma rays do not leave the atom and are photoelectrically absorbed by the K-shell",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "Beta radiation emits at specific energies like gamma rays",
+          "response": "",
+          "answer": "False",
+          "explanation": "False: Beta rays emit a continuous spectrum of energies up to its maximum energy"
+        },
+        {
+          "text": "The most energetic beta rays only have a range of a few millimetres in tissue",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "A positron combines with another positive electron to undergo annihilation to emit two photons of 511 keV travelling in opposite directions",
+          "response": "",
+          "answer": "False",
+          "explanation": "False: Positive beta particle combines with a negative electron to undergo annihilation"
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "stem": "The following are true of positron emitters",
+      "options": [
+        {
+          "text": "They are produced in a cyclotron",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "Upon decay they emit a positive beta particle which combines with a nearby negative electron",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "Positron annihilation emits two gamma photons of 511 keV",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "The two photons of annihilation radiation are emitted 90 degrees to each other",
+          "response": "",
+          "answer": "False",
+          "explanation": "False: They are emitted simultaneously and in practically opposite directions to each other"
+        },
+        {
+          "text": "They may be used in positron emission tomography (PET) imaging",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "stem": "The following are true of radioactive decay",
+      "options": [
+        {
+          "text": "It is a deterministic process governed by the laws of chance",
+          "response": "",
+          "answer": "False",
+          "explanation": "False: It is a stochastic process governed by the laws of chance"
+        },
+        {
+          "text": "It is possible to predict the next disintegration within a sample of unstable nuclei",
+          "response": "",
+          "answer": "False",
+          "explanation": "False: It is impossible to predict the next disintegration in a given sample"
+        },
+        {
+          "text": "It is possible to predict the reduction of radioactivity in a given time interval",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "The decay rate is measured in the SI unit of millisievert (mSv)",
+          "response": "",
+          "answer": "False",
+          "explanation": "False: The rate of decay is measured in becquerel (Bq) where 1 Bq is equivalent to 1 disintegration per second"
+        },
+        {
+          "text": "The count rate measured by a radiation detector is less than the actual radioactivity",
+          "response": "",
+          "answer": "True",
+          "explanation": "True: A sufficient proportion of the rays usually miss the detector or it may pass through undetected hence the count rate is less than the activity"
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "stem": "Concerning the effective half-life (teff)",
+      "options": [
+        {
+          "text": "It is dependent on the biological half-life (tb) of the radiopharmaceutical",
+          "response": "",
+          "answer": "True",
+          "explanation": "True: 1/teff = 1/tphys + 1/tbio"
+        },
+        {
+          "text": "It is independent of the physical half-life (th) of the radiopharmaceutical",
+          "response": "",
+          "answer": "False",
+          "explanation": "False"
+        },
+        {
+          "text": "It is the same in everyone for a given radiopharmaceutical",
+          "response": "",
+          "answer": "False",
+          "explanation": "False: The metabolic process of eliminating and excreting radiopharmaceutical varies between every body"
+        },
+        {
+          "text": "It is not affected by the patient's renal function",
+          "response": "",
+          "answer": "False",
+          "explanation": "False: Renal function affects the tbio hence in turn it affects the teff"
+        },
+        {
+          "text": "The effective half-life is always less than the biological half-life or the physical half-life",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "stem": "Ideal properties of radiopharmaceuticals",
+      "options": [
+        {
+          "text": "A physical half-life as short as possible",
+          "response": "",
+          "answer": "False",
+          "explanation": "False: The half-life should be suitable for the examination"
+        },
+        {
+          "text": "It localizes largely and quickly to the tissues of diagnostic interest",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "A pure gamma emitter with energy emission greater than 300 keV",
+          "response": "",
+          "answer": "False",
+          "explanation": "False: It should be a pure gamma emitter but with energy emission between 50-300 keV"
+        },
+        {
+          "text": "It is easily made and readily available at the hospital site",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "It emits gamma radiation only",
+          "response": "",
+          "answer": "True",
+          "explanation": "True: Hence scatter can be eliminated by energy discrimination with a pulse height analyzer"
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "stem": "Desirable properties of radioactive nuclei",
+      "options": [
+        {
+          "text": "To decay to a stable daughter product or at least one with a very long half-life",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "To emit gamma rays with energy greater than 300 keV",
+          "response": "",
+          "answer": "False",
+          "explanation": "False: An ideal energy emission is around 150KeV where it is high enough to exit the patient but low enough to be collimated and detected"
+        },
+        {
+          "text": "Attaches easily and firmly to the pharmaceutical with no effect on its metabolism",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "High radioactive concentration in terms of high concentration per unit volume",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "Delayed elimination from the body with an effective half-life as long as possible",
+          "response": "",
+          "answer": "False",
+          "explanation": "False: An ideal radiopharmaceutical should be eliminated from the body with an effective half-life as long as the duration of the examination in order to reduce the dose to the patient"
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "stem": "The following statements are true of Technetium-99m",
+      "options": [
+        {
+          "text": "It is produced in a generator",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "It emits gamma rays principally of 0.140 MeV",
+          "response": "",
+          "answer": "True",
+          "explanation": "True"
+        },
+        {
+          "text": "It has a physical half-life of 6 days",
+          "response": "",
+          "answer": "False",
+          "explanation": "False: It has a half-life of 6 hours"
+        },
+        {
+          "text": "It is a daughter product of the parent radionuclide 131I",
+          "response": "",
+          "answer": "False",
+          "explanation": "False: It is a daughter product of the parent radionuclide 99Mo"
+        },
+        {
+          "text": "It is a product of electron capture decay",
+          "response": "",
+          "answer": "False",
+          "explanation": "False: 99Mo undergoes beta decay to produce the daughter radionuclide of 99mTc"
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "stem": "Regarding a Technetium generator",
+      "options": [
+        {
+          "text": "The generator is shielded with lead or depleted uranium",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The parent 131I is absorbed within the exchange column of aluminium beads",
+          "response": "",
+          "answer": "False",
+          "explanation": "The parent radionuclide is 99Mo"
+        },
+        {
+          "text": "In transient equilibrium, the daughter and the parent appear to decay together with the half-life of the parent",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Technetium is eluted with sterile water",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is eluted with sterile saline solution"
+        },
+        {
+          "text": "The lead shielding and the metal container are reusable",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "stem": "The following are true of Fluorine-18",
+      "options": [
+        {
+          "text": "It is the most commonly used PET radionuclide",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "It has a half-life of 6 hours",
+          "response": "",
+          "answer": "False",
+          "explanation": "It has a half-life of 110 minutes"
+        },
+        {
+          "text": "It is produced in a nuclear reactor",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is produced in a cyclotron"
+        },
+        {
+          "text": "It is commonly used in oncological imaging",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "It has a neutron deficit",
+          "response": "",
+          "answer": "True",
+          "explanation": "Electronic Learning Database, E-Learning for Healthcare, Radiology-Integrated Training Initiative (R-ITI) - www.e-lfh.org.uk Module: 8a_110: Radiopharmaceuticals"
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "stem": "Half-lives of radionuclides",
+      "options": [
+        {
+          "text": "Krypton-81m (81Kr) has a half-life of 13 minutes",
+          "response": "",
+          "answer": "False",
+          "explanation": "81Krm has a half-live of 13 seconds"
+        },
+        {
+          "text": "Fluorine-18 (18F) has a half-life of 110 minutes",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Technetium-99m (99Tc) has a half-life of 6 days",
+          "response": "",
+          "answer": "False",
+          "explanation": "99T cm has a half-life of 6 hours"
+        },
+        {
+          "text": "Molybdenum-99 (99Mo) has a half-life of 67 hours",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Technetium-99 (99Tc) has a half-life of 200 days",
+          "response": "",
+          "answer": "False",
+          "explanation": "Technetium-99 (99Tc) has a half-life of 200,000 years"
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "stem": "Radionuclides and their uses",
+      "options": [
+        {
+          "text": "Iodine-123 (123I) labelled to hippuran is used for renal studies",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Xenon-133 (133Xe) is used in lung ventilation imaging",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Krypton-81m (81Kr) is used for pulmonary ventilation studies",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Gallium-68 (68Ga) is used to detect tumours and abscesses",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Thallium-201 (201Tl) is used in myocardial perfusion imaging",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "stem": "Gamma camera collimators",
+      "options": [
+        {
+          "text": "In a parallel hole collimator, the field of view and the in-air sensitivity are the same at all distances",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "A divergent hole collimator obtains a larger field of view and magnifies the image",
+          "response": "",
+          "answer": "False",
+          "explanation": "A divergent hole collimator does allow a large field of view to be obtained but it minifies the image"
+        },
+        {
+          "text": "A convergent hole collimator minifies the image when a small field of view is acquired",
+          "response": "",
+          "answer": "False",
+          "explanation": "A convergent hole collimator magnifies the image when a small field of view is obtained. This is used in imaging small organs or children"
+        },
+        {
+          "text": "Both the divergent hole and convergent hole collimators suffer from geometric distortion with deterioration of spatial resolution at the edge of the field",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "A pinhole collimator produces magnified and inverted images",
+          "response": "",
+          "answer": "True",
+          "explanation": "It is used in imaging superficial small organs such as the thyroid. Sharp, Gemmell, & Murray. Practical Nuclear Medicine, 3rd edn, Springer, 2005. pp. 4-9. Electronic Learning Database, E-Learning for Healthcare, Radiology-Integrated Training Initiative (R-ITI) - www.e-lfh.org.uk Module: Sa_112: Image Formation with a Gamma Camera"
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "stem": "Regarding the gamma camera crystal",
+      "options": [
+        {
+          "text": "The crystal is made of caesium iodide and activated with a trace of thallium",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is made of sodium iodide and activated with a trace of thallium"
+        },
+        {
+          "text": "It is composed of multiple small crystals",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is one large crystal"
+        },
+        {
+          "text": "It emits approximately 5000 light photons when struck by a gamma photon",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "A flat transparent light guide can maximize transfer of light from the crystal to the photomultiplier",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "It is robust and waterproof",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is fragile, hygroscopic and easily damaged by temperature change"
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "stem": "Concerning the gamma camera",
+      "options": [
+        {
+          "text": "Spatial resolution improves by rejecting scattered gamma rays",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The typical energy window is ±10% of the photopeak",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Two radionuclides can be imaged simultaneously",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The stored digital image can be manipulated",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Digital cameras do not require photomultiplers",
+          "response": "",
+          "answer": "False",
+          "explanation": "Photomultiplers are a key component in a gamma camera. Powsner & Powsner. Essential Nuclear Medicine Physics, 2nd edn, Blackwell Publishing, 2006. pp. 65-84"
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "stem": "In a gamma camera",
+      "options": [
+        {
+          "text": "The purpose of the collimator is to remove scattered radiation",
+          "response": "",
+          "answer": "False",
+          "explanation": "Collimator locates the radioactive source within the patient along its line of sight, without it no image would be formed"
+        },
+        {
+          "text": "The purpose of the pulse height analyser is to filter out scattered radiation",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The spatial resolution is comparable to that of a CT scanner",
+          "response": "",
+          "answer": "False",
+          "explanation": "The spatial resolution from a CT scanner is far superior to that of a gamma camera"
+        },
+        {
+          "text": "The photomultiplier tubes amplify the signal by a series of dynodes",
+          "response": "",
+          "answer": "True",
+          "explanation": "The numbers of electrons are increased at each dynode, producing a cascade effect"
+        },
+        {
+          "text": "Variation in the image of a uniform source is caused mainly by variations in the thickness of the Nal (Tl) crystal",
+          "response": "",
+          "answer": "False",
+          "explanation": "The main cause of variation in the image is electronic in nature. Electronic Learning Database, E-Learning for Healthcare, Radiology-Integrated Training Initiative (R-ITI) - www.e-lfh.org.uk Module: Sa_112: Image Formation with a Gamma Camera"
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "stem": "The spatial resolution of the gamma camera is affected by",
+      "options": [
+        {
+          "text": "The thickness of the crystal",
+          "response": "",
+          "answer": "True",
+          "explanation": "Resolution improves with a thinner crystal"
+        },
+        {
+          "text": "The diameter of the hole of the collimator",
+          "response": "",
+          "answer": "True",
+          "explanation": "Spatial resolution improves with a smaller of the width of the holes in the collimator"
+        },
+        {
+          "text": "The length of the hole of the collimator",
+          "response": "",
+          "answer": "True",
+          "explanation": "The longer the holes of the collimator, the better the spatial resolution"
+        },
+        {
+          "text": "The count rate",
+          "response": "",
+          "answer": "False",
+          "explanation": "Count rate affects the brightness of the pixel and not the spatial resolution if acquired over the same period of time"
+        },
+        {
+          "text": "The number of photomultiplier tubes",
+          "response": "",
+          "answer": "False",
+          "explanation": "The photomultiplier tubes act as an amplifier and do not affect the spatial resolution"
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "stem": "Quality control for the gamma camera",
+      "options": [
+        {
+          "text": "Spatial resolution is assessed by using a flood field phantom",
+          "response": "",
+          "answer": "False",
+          "explanation": "Spatial resolution is assessed by imaging a line source, which gives the line spread function"
+        },
+        {
+          "text": "Uniformity of field is assessed by imaging a line source",
+          "response": "",
+          "answer": "False",
+          "explanation": "Uniformity of field is assessed by using a flood field phantom"
+        },
+        {
+          "text": "Typical system uniformity is 20%",
+          "response": "",
+          "answer": "False",
+          "explanation": "The typical system uniformity is approximately 2%"
+        },
+        {
+          "text": "Intrinsic resolution is better than the system resolution",
+          "response": "",
+          "answer": "True",
+          "explanation": "The intrinsic resolution of a gamma camera is the best resolution a camera can achieve"
+        },
+        {
+          "text": "A cracked crystal will not show as a defect",
+          "response": "",
+          "answer": "False",
+          "explanation": "A cracked crystal appears as a defect in the image. Electronic Learning Database, E-Learning for Healthcare, Radiology-Integrated Training Initiative (R-ITI) - www.e-lfh.org.uk Module: Ba_118: Quality Assurance in Radionuclide Imaging"
+        }
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "stem": "In single-photon emission computed tomography (SPECT)",
+      "options": [
+        {
+          "text": "It consists of a gamma camera with a collimator rotating around a patient on a couch",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The camera rotates continuously to acquire images",
+          "response": "",
+          "answer": "True",
+          "explanation": "You can have continuous or set and shoot acquisition"
+        },
+        {
+          "text": "It requires fewer counts than conventional static imaging",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The same number of counts can be acquired in half the time by using a double headed camera",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Sensitivity decreases when a double- or tripled-headed camera is used",
+          "response": "",
+          "answer": "False",
+          "explanation": "The counts per second per MBq received by a double- or triple-headed camera will be greater than that of a single-headed camera. Hence the system sensitivity will increase. The sensitivity of each individual head of the camera will not be affected. Powsner & Powsner. Essential Nuclear Medicine Physics, 2nd edn, Blackwell Publishing, 2006. pp. 85-113. Electronic Learning Database, E-Learning for Healthcare, Radiology-Integrated Training Initiative (R-ITI) - www.e-lfh.org.uk Module: Ba_115: Single Photon Emission Computed Tomography"
+        }
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "stem": "Advantages of SPECT over planar imaging",
+      "options": [
+        {
+          "text": "It has the potential to correct for attenuation",
+          "response": "",
+          "answer": "True",
+          "explanation": "It is corrected by a gamma attenuation algorithm when reconstructing the image"
+        },
+        {
+          "text": "There is an increase in spatial resolution",
+          "response": "",
+          "answer": "False",
+          "explanation": "In SPECT, the spatial resolution is worse than in conventional gamma imaging but the contrast resolution is improved"
+        },
+        {
+          "text": "There is an increase in contrast",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "There is a decrease in noise",
+          "response": "",
+          "answer": "False",
+          "explanation": "Noise is increased in SPECT as the images are made up of fewer photons"
+        },
+        {
+          "text": "It has fewer equipment related artefacts",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "stem": "In SPECT",
+      "options": [
+        {
+          "text": "Filtered back projection may be used in image formation",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Iterative reconstruction produces fewer artefacts and can correct attenuation more accurately than filtered back projection",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Superimposition of overlying structures cannot be resolved",
+          "response": "",
+          "answer": "False",
+          "explanation": "Overlying structures are resolved during 30 reconstruction"
+        },
+        {
+          "text": "Reconstruction can be performed through any plane",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Planar views are reconstructed to form a 30 image",
+          "response": "",
+          "answer": "True",
+          "explanation": "The views are reconstructed to slices which can be used to form a 3D image"
+        }
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "stem": "SPECT image resolution can be improved by",
+      "options": [
+        {
+          "text": "Using a 128 x 128 matrix compared to a 64 x 64 matrix",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Increasing the administered activity of a radiopharmaceutical",
+          "response": "",
+          "answer": "False",
+          "explanation": "This will lead to an increase of the count of the image but the resolution is a factor of the system and not the patient"
+        },
+        {
+          "text": "Using a low resolution collimator",
+          "response": "",
+          "answer": "False",
+          "explanation": "Resolution improves with a high-resolution collimator"
+        },
+        {
+          "text": "Using a smooth reconstruction filter",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "By not reducing noise with a mathematical filter",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "stem": "The following are necessary to perform SPECT",
+      "options": [
+        {
+          "text": "A triple-headed camera",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "A camera system capable of rotating around the patient",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "A radionuclide which emits monoenergetic gamma photon energy only",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "A radiopharmaceutical specifically designed for use with SPECT",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "A radiopharmaceutical whose distribution within the patient is fixed",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "stem": "In positron emission tomography (PET)",
+      "options": [
+        {
+          "text": "PET images can give functional and physiological information",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "PET images can be fused with CT images to allow location and visualization of such information within the patient's anatomy",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Positrons are coincidentally detected",
+          "response": "",
+          "answer": "False",
+          "explanation": "PET detects the gamma rays emitted as a result of annihilation between positrons and electrons"
+        },
+        {
+          "text": "PET imaging is based on detecting an annihilation photon to locate the source of radioactivity within the patient",
+          "response": "",
+          "answer": "False",
+          "explanation": "PET imaging is based on detected two annihilation photons in coincidence"
+        },
+        {
+          "text": "Annihilation photons have energy of 0.51 MeV",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "stem": "Concerning PET",
+      "options": [
+        {
+          "text": "Most commonly used positron emitter in PET is 18F",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Annihilation photons are detected by a ring of detectors",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Scintillation detectors may be made from lutetium oxyorthosilicate",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "68Ga and 82Rb are also used in PET imaging",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "PET imaging can be combined with MRI images to assist the location of radioactivity within the patient's body",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "stem": "Ideal properties of PET scintillation detectors",
+      "options": [
+        {
+          "text": "Good energy resolution",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "High detection efficiency",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "very short scintillation decay time",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "High effective atomic number and physical density",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "High relative light output",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "stem": "Advantages of PET over SPECT",
+      "options": [
+        {
+          "text": "Collimators are not required for PET",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Spatial resolution is superior to SPECT",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Image noise is less than SPECT",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Radiation dose to patient is markedly reduced compared to SPECT",
+          "response": "",
+          "answer": "False",
+          "explanation": "Patient dose is of similar magnitude as that of SPECT"
+        },
+        {
+          "text": "18F has a shorter half-life than 99Tcm",
+          "response": "",
+          "answer": "True",
+          "explanation": "18F has a half-life of 110 minutes whilst 99Tc has a half-life of 6 hours"
+        }
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "stem": "In radionuclide imaging the radiation dose to the patient is",
+      "options": [
+        {
+          "text": "Independent of the emitted energy of the gamma rays",
+          "response": "",
+          "answer": "False",
+          "explanation": "The dose is dependent on the emitted energy of the gamma rays"
+        },
+        {
+          "text": "Inversely proportional to the administered radioactivity",
+          "response": "",
+          "answer": "False",
+          "explanation": "The dose is proportional to the administered radioactivity"
+        },
+        {
+          "text": "Independent of the physical half-life of the radiopharmaceutical",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is dependent on the biological half-life, physical half-life and the effective half-life"
+        },
+        {
+          "text": "The effective dose is measured in megabecquerels",
+          "response": "",
+          "answer": "False",
+          "explanation": "The effective dose is measured in Sieverts"
+        },
+        {
+          "text": "Dependent on the image acquisition time and the number of acquisitions",
+          "response": "",
+          "answer": "False",
+          "explanation": "The received dose is unaffected by the number of images acquired"
+        }
+      ]
+    },
+    {
+      "questionNumber": 31,
+      "stem": "The absorbed dose increases in proportion to",
+      "options": [
+        {
+          "text": "The activity administered to the patient",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The fraction taken up by the organ",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The effective half-life of the activity in the organ",
+          "response": "",
+          "answer": "False",
+          "explanation": "The absorbed dose does not increase proportionally as decay is not a linear process"
+        },
+        {
+          "text": "The energy of the gamma radiation emitted from decay",
+          "response": "",
+          "answer": "False",
+          "explanation": "The absorbed dose does not increase in proportion with an increase in the energy of gamma radiation"
+        },
+        {
+          "text": "The renal excretion rate",
+          "response": "",
+          "answer": "False",
+          "explanation": "Increasing the renal excretion rate decreases the biological half-life hence it reduces the absorbed dose"
+        }
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "stem": "The effective dose in nuclear medicine based on UK ARSAC DRLs",
+      "options": [
+        {
+          "text": "Is 5mSv for a bone SPECT scan",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Is 50mSv for a 201Th heart scan",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is approximately 18mSv for a 201Tl heart scan"
+        },
+        {
+          "text": "Is up to 2mSv for renal studies",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Is 8mSv for a brain scan",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Is up to 2mSv for lung scans",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "stem": "In nuclear medicine",
+      "options": [
+        {
+          "text": "The ideal radionuclide emits both gamma and beta radiation",
+          "response": "",
+          "answer": "False",
+          "explanation": "Ideally should be a pure gamma emitter as beta radiation contributes to patient dose with no role in image formation"
+        },
+        {
+          "text": "Lead aprons are effective and should be worn if gamma ray energies are greater than 140keV",
+          "response": "",
+          "answer": "False",
+          "explanation": "Lead aprons are ineffective against high energy gamma rays"
+        },
+        {
+          "text": "Not all radioactive waste must be disposed of by a specialist waste contractor",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The photoelectric effect predominates when the photon energy is above 2MeV",
+          "response": "",
+          "answer": "False",
+          "explanation": "At such high energies, the contribution from photoelectric interactions is negligible"
+        },
+        {
+          "text": "All radioactive administrations are contraindicated in women who are breastfeeding",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "stem": "Concerning the Medicines (Administration of Radioactive Substances) Regulations (MARS) 1978",
+      "options": [
+        {
+          "text": "An ARSAC certificate must be obtained for all procedures which use radionuclides",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "An ARSAC licence should be obtained by all employees working in nuclear medicine",
+          "response": "",
+          "answer": "False",
+          "explanation": "Only consultant radiologists with experience in nuclear medicine are considered to have sufficient experience to hold a licence. Hence they are the practitioner for all the nuclear medicine tests within their department"
+        },
+        {
+          "text": "The ARSAC clinical licences are valid for 5 years",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The ARSAC research licences are valid for 2 years",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "A licence covers all work involving radionuclides within the hospital",
+          "response": "",
+          "answer": "False",
+          "explanation": "Each licence is issued to individual clinicians for specified procedures at a particular hospital"
+        }
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "stem": "Concerning the Medicines (Administration of Radioactive Substances) Regulations (MARS) 1978",
+      "options": [
+        {
+          "text": "The application for an ARSAC licence must be signed by a Radiation Protection Advisor",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "There must be adequate scientific support in order for an ARSAC licence to be granted to an applicant",
+          "response": "",
+          "answer": "True",
+          "explanation": "The applicant has to demonstrate that there is adequate numbers of trained staff within a well-equipped nuclear medicine department"
+        },
+        {
+          "text": "The ARSAC certificate is issued by the Department of Health",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "It is the employer's responsibility to ensure relevant clinicians possess an ARSAC licence",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "It is the responsibility of the ARSAC licence holder to discharge a radioactive patient with the appropriate advice and hence protect the safety of the public",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "stem": "Regarding the Radioactive Substances Act 1993",
+      "options": [
+        {
+          "text": "It controls the accumulation, storage, and disposal of radioactive waste",
+          "response": "",
+          "answer": "True",
+          "explanation": "The applicant has to demonstrate that there is adequate numbers of trained staff within a well-equipped nuclear medicine department"
+        },
+        {
+          "text": "It is enforced by the Environment Agency",
+          "response": "",
+          "answer": "True",
+          "explanation": "The applicant has to demonstrate that there is adequate numbers of trained staff within a well-equipped nuclear medicine department"
+        },
+        {
+          "text": "Hospitals are exempted of registration under the Radioactive Substance Act 1993 for keeping any given amount of radioactive substance",
+          "response": "",
+          "answer": "False",
+          "explanation": "An active nuclear medicine department will have an excess of the exemption limits of radioactive substances hence registration is necessary"
+        },
+        {
+          "text": "Once a hospital is registered under the Radioactive Substance Act 1993, there is no stipulation or enforcement on the methods of radioactive waste disposal",
+          "response": "",
+          "answer": "False",
+          "explanation": "Records of disposal are sent to the Environment Agency which is available for public viewing"
+        },
+        {
+          "text": "All hospitals using radioactive substances are subjected to strict disposal limits for radioactive substances",
+          "response": "",
+          "answer": "True",
+          "explanation": "Radioactive Substances Act 1993"
+        }
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "stem": "Disposal methods of radioactive waste",
+      "options": [
+        {
+          "text": "Gas can be disposed by venting it to the atmosphere",
+          "response": "",
+          "answer": "True",
+          "explanation": "The drain must be labelled for this purpose"
+        },
+        {
+          "text": "Aqueous liquid diluted with water can be disposed into the sewers",
+          "response": "",
+          "answer": "True",
+          "explanation": "The drain must be labelled for this purpose"
+        },
+        {
+          "text": "Organic liquid must be disposed to an authorized contractor",
+          "response": "",
+          "answer": "True",
+          "explanation": "Electronic Learning Database, E-Learning for Healthcare, Radiology-Integrated Training Initiative (R-ITI) - www.e-lfh.org.uk Module: 8a_117: Radiation Safety in Radionuclide Imaging"
+        },
+        {
+          "text": "Solid waste must be disposed to authorized incinerators or waste contractors",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Contaminated clothing and bedding is bagged and securely stored until the activity is sufficiently decayed for release to the laundry",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "stem": "Precautions in handling radionuclides",
+      "options": [
+        {
+          "text": "Internal radiation occurs from accidental ingestion or inhalation of radionuclide",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Patients containing radioactivity are not a source of external radiation",
+          "response": "",
+          "answer": "False",
+          "explanation": "Patients containing radioactivity are a source of external radiation hence distance, shielding, and time should be applied to protect staff and the public"
+        },
+        {
+          "text": "Personal protection should be made by distance, shielding, and time",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "2.5mm lead aprons are effective in providing adequate radiation protection when manipulating radiopharmaceuticals",
+          "answer": "False",
+          "explanation": "Lead aprons are not worn by nuclear medicine radiographers as it provides\nsuboptimal protection"
+        },
+        {
+          "text": "Dose reduction is achieved by using forceps and syringe shields when handling radionuclides",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "stem": "Precautions and safety measures in nuclear medicine",
+      "options": [
+        {
+          "text": "Patient dose from a bone scan injection is reduced by encouraging high oral intake of water and by frequent micturition",
+          "response": "",
+          "answer": "True",
+          "explanation": "This will reduce the dose to the gonads and to the pelvic bone marrow in radionuclides which are excreted by the kidneys"
+        },
+        {
+          "text": "Children are given radiopharmaceuticals of higher activity than adults due to their increased metabolism in order to achieve an adequate diagnostic image",
+          "response": "",
+          "answer": "False",
+          "explanation": "Children should receive less activity than adults and the administered activity is calculated according to the weight of the child"
+        },
+        {
+          "text": "Female patients should avoid conception for a given period after the administration of a radionuclide with a long half-life",
+          "response": "",
+          "answer": "True",
+          "explanation": "ARSAC recommends such guidance in order to constrain foetal doses"
+        },
+        {
+          "text": "Examinations resulting in a foetal dose greater than 10mSv should be avoided in pregnant patients",
+          "response": "",
+          "answer": "True",
+          "explanation": "This may be performed based on risk assessment"
+        },
+        {
+          "text": "Cessation of breast feeding is not necessary when lactating mothers are given therapeutic doses of Iodine-131",
+          "response": "",
+          "answer": "False",
+          "explanation": "Breast-fed infants will be exposed to an internal radiation dose from the activity secreted in the breast milk in addition to the external radiation during close contact with their lactating mother"
+        }
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "stem": "Concerning nuclear medicine",
+      "options": [
+        {
+          "text": "All doses must be as low as reasonably practicable (ALARP)",
+          "response": "",
+          "answer": "True",
+          "explanation": "There are no dose limits in medical exposures but all doses must be kept as low as reasonably practicable"
+        },
+        {
+          "text": "Diagnostic reference levels are equivalent to dose limits",
+          "response": "",
+          "answer": "False",
+          "explanation": "Diagnostic reference levels are set by the Administration of Radioactive Substances Advisory Committee"
+        },
+        {
+          "text": "Diagnostic reference levels may be exceeded in tall obese patients",
+          "response": "",
+          "answer": "True",
+          "explanation": "There are no dose limits in medical exposures but all doses must be kept as low as reasonably practicable"
+        },
+        {
+          "text": "Diagnostic reference levels are produced by Ionising Radiation Regulations 1999",
+          "response": "",
+          "answer": "False",
+          "explanation": "Diagnostic reference levels are set by the Administration of Radioactive Substances Advisory Committee"
+        },
+        {
+          "text": "Organ dose can be calculated by the Medical Internal Radiation Dose (MIRD) scheme",
+          "response": "",
+          "answer": "True",
+          "explanation": "There are no dose limits in medical exposures but all doses must be kept as low as reasonably practicable"
+        }
+      ]
+    }
+  ]
+
+}

@@ -1,0 +1,1376 @@
+{
+  name: "MCQs for the First FRCR",
+  authors: "Varut Vardhanabhuti, Julia James, Rosemary Gray, Rehaan Nensey, W MVivien Shuen, Tishi Ninan",
+  slug: "fluoroscopy",
+  questions: [
+    {
+      "questionNumber": 1,
+      "stem": "Concerning an image intensifier",
+      "options": [
+        {
+          "text": "The glass envelope contains inert argon gas",
+          "response": "",
+          "answer": "False",
+          "explanation": "It contains a vacuum"
+        },
+        {
+          "text": "The metal housing is designed to prevent stray light getting into the tube and to shield from magnetic fields",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The main components within the tube are the input screen, focusing electrodes and output screen",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The focusing electrodes are designed to channel photons from the input screen directly towards the output screen",
+          "response": "",
+          "answer": "False",
+          "explanation": "They focus the electron beam from the input screen onto the output screen"
+        },
+        {
+          "text": "The input screen is much larger than the output screen",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "stem": "Regarding the input screen of an image intensifier",
+      "options": [
+        {
+          "text": "It must be perfectly flat for an undistorted image",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is curved"
+        },
+        {
+          "text": "The outer layer is the input phosphor and is usually caesium iodide",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The inner side of the screen is the photocathode, which emits electrons when the x-ray beam hits it",
+          "response": "",
+          "answer": "False",
+          "explanation": "The photocathode emits electrons when light from the input phosphor hits it"
+        },
+        {
+          "text": "The input phosphor is one large flat crystal",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is a 0.1-0.4mm thick layer of needle-like CsI crystals arranged perpendicular to the screen to allow for internal light reflection"
+        },
+        {
+          "text": "The input phosphor can pick up approximately 60% of the incoming x-ray photons",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "stem": "The output screen",
+      "options": [
+        {
+          "text": "Is usually 25-35mm in diameter",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Is a pure layer of silver-activated zinc-cadmium-sulphide",
+          "response": "",
+          "answer": "False",
+          "explanation": "To stop backscatter of light and act as the anode, a very thin layer of aluminium covers the screen"
+        },
+        {
+          "text": "Converts the electron beam into light",
+          "response": "",
+          "answer": "True",
+          "explanation": "Green light is produced"
+        },
+        {
+          "text": "Has an anode with a positive potential of approximately 25kV",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Emits light bright enough to be seen with the naked eye",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "stem": "In the image intensifier",
+      "options": [
+        {
+          "text": "Electrons from the photocathode are accelerated towards the output screen via a series of dynodes",
+          "response": "",
+          "answer": "False",
+          "explanation": "Dynodes are used in photomultiplier tubes. In the image intensifier focusing electrodes ensure the spatial image is preserved from input to output screen"
+        },
+        {
+          "text": "Approximately 100 000 light photons are emitted from the output screen for every x-ray photon detected",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Output is usually viewed directly by a TV camera",
+          "response": "",
+          "answer": "True",
+          "explanation": "A TV system results in minimal loss of information and the signal can be recorded to keep a record of the procedure"
+        },
+        {
+          "text": "Reduced x-ray intensity at the centre of the screen causes increased brightness at the periphery of the image",
+          "response": "",
+          "answer": "False",
+          "explanation": "X-ray intensity is reduced at the periphery of the curved screen, so the periphery of the image is less bright (vignetting)"
+        },
+        {
+          "text": "The conversion factor is the ratio of luminescence of the output phosphor to the input exposure rate",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "stem": "The electron beam in an image intensifier",
+      "options": [
+        {
+          "text": "Is accelerated from input to output screen",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Is focused onto the output screen by magnets",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is focused by focusing electrodes that are slightly less negatively charged than the photocathode"
+        },
+        {
+          "text": "Can be distorted by external electromagnetic fields",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Contributes to brightness gain only through minification of the image",
+          "response": "",
+          "answer": "False",
+          "explanation": "It contributes through minification gain and also amplification (flux) gain (through the increase in energy due to acceleration)"
+        },
+        {
+          "text": "Is re-focused when a magnified field of view is selected",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "stem": "Brightness gain in an image intensifier",
+      "options": [
+        {
+          "text": "Is the ratio of input phosphor brightness to output phosphor brightness",
+          "response": "",
+          "answer": "False",
+          "explanation": "Ratio of output phosphor brightness to input phosphor brightness"
+        },
+        {
+          "text": "Is only through minification of the image",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is through electron acceleration (flux gain) and minification gain"
+        },
+        {
+          "text": "Is overall approximately 50-fold",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is more like 5000 (product of flux gain and minification gain)"
+        },
+        {
+          "text": "Increases with increased voltage across the intensifier",
+          "response": "",
+          "answer": "True",
+          "explanation": "This increases electron acceleration, therefore increases flux gain and increases overall brightness gain"
+        },
+        {
+          "text": "Increases if the output phosphor size is increased",
+          "response": "",
+          "answer": "False",
+          "explanation": "Increasing the output phosphor size reduces the minification gain and therefore reduces overall brightness gain"
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "stem": "Image magnification in fluoroscopy",
+      "options": [
+        {
+          "text": "Requires a change in the distance between input and output screens",
+          "response": "",
+          "answer": "False",
+          "explanation": "This distance is fixed. The voltage of the focusing electrodes is changed to move the electron beam crossover point nearer to the input screen, so the central part of the input image fills the whole of the output phosphor"
+        },
+        {
+          "text": "Results in better resolution of the image than with the full field of view",
+          "response": "",
+          "answer": "True",
+          "explanation": "The TV system is one of the limits to spatial resolution, therefore the magnified image will display better resolution than the full field of view"
+        },
+        {
+          "text": "Does not require an alteration in exposure factors to maintain similar brightness of image compared to the full field of view",
+          "response": "",
+          "answer": "False",
+          "explanation": "The magnified view has reduced minification gain, therefore reduced brightness. To restore the brightness, exposure factors must be increased"
+        },
+        {
+          "text": "Results in increased patient skin dose",
+          "response": "",
+          "answer": "True",
+          "explanation": "Dose increases in order to maintain image brightness"
+        },
+        {
+          "text": "Is usually achieved by reducing the object to intensifier distance",
+          "response": "",
+          "answer": "False",
+          "explanation": "Although this will produce magnification, it is the re-focusing of the electron beam that produces the magnified image"
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "stem": "Quantum noise in the image produced by an image intensifier",
+      "options": [
+        {
+          "text": "Is mostly due to thickness variation of the input phosphor",
+          "response": "",
+          "answer": "False",
+          "explanation": "This causes screen structure noise"
+        },
+        {
+          "text": "Is the predominant cause of overall noise in the system",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Can be reduced by increasing the exposure rate",
+          "response": "",
+          "answer": "True",
+          "explanation": "Increased dose to the input phosphor means that the signal-to-noise ratio is increased"
+        },
+        {
+          "text": "Is increased if the input screen is thicker",
+          "response": "",
+          "answer": "True",
+          "explanation": "At any given point more photons are detected, therefore the signal-to-noise ratio is increased"
+        },
+        {
+          "text": "Is more likely to compromise the quality of low-contrast images compared to high-contrast images",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "stem": "In fluoroscopy, the TV camera",
+      "options": [
+        {
+          "text": "Converts visual information from the output screen of the image intensifier into electronic form",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Contains an electron beam from the cathode that is focused and directed by coils so that it scans the signal plate",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Contains a mesh anode that overlies the graphite signal plate",
+          "response": "",
+          "answer": "True",
+          "explanation": "Contains a mesh anode that overlies the graphite signal plate, which in turn overlies the insulated layer containing small globules of photoconductive material"
+        },
+        {
+          "text": "Produces a voltage at the signal plate that is proportional to the intensity of light being scanned",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Has a resolution that is better than the resolution of the image intensifier",
+          "response": "",
+          "answer": "False",
+          "explanation": "The image intensifier can resolve 4-5 lp mm-1 but the TV camera has a fixed number of scan lines and will never have better resolution than the intensifier. On the TV screen, the resolution may be as low as 1.2 lp mm-1"
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "stem": "Modern image processing",
+      "options": [
+        {
+          "text": "Uses digital processing, including noise-reduction or edge-enhancement, by a computer prior to display",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Uses an automatic system to drive the film cassette into place ready for spot image acquisition",
+          "response": "",
+          "answer": "False",
+          "explanation": "That was the case for older analogue image intensifiers. Modern ones take digital spot images at higher mA than for fluoroscopy but using the same camera equipment"
+        },
+        {
+          "text": "May utilize fibre-optic connections between the output face of the intensifier and the camera input",
+          "response": "",
+          "answer": "True",
+          "explanation": "Traditional lens systems are now being replaced by fibre-optics for improved light collection and improved geometrical integrity"
+        },
+        {
+          "text": "With charge coupled device (CCD) cameras that use amorphous silicon pixels to convert the incoming light into a digital signal, has rapid read-out of approximately 30 frames per second",
+          "response": "",
+          "answer": "True",
+          "explanation": "It is more efficient converting the light directly into a digital signal"
+        },
+        {
+          "text": "Eliminates the distortion across the field that is present in fluoroscopy images",
+          "response": "",
+          "answer": "False",
+          "explanation": "A test object will appear curved at the edges of the image. The curvature of the input screen attempts to minimize this. However, it cannot be completely eliminated even with modern image processing"
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "stem": "In a fluoroscopic examination",
+      "options": [
+        {
+          "text": "The focus to skin distance should not be less than 45cm",
+          "response": "",
+          "answer": "True",
+          "explanation": "For non-mobile equipment, it should not be less than 30cm and ideally greater than 45cm"
+        },
+        {
+          "text": "Using the smallest field size results in improved spatial resolution",
+          "response": "",
+          "answer": "True",
+          "explanation": "The smaller field size is a magnified view and so has better resolution"
+        },
+        {
+          "text": "The quantum sink in the formation of the image is the output phosphor",
+          "response": "",
+          "answer": "False",
+          "explanation": "Overall image quality is determined at the point in the image formation process where the number of photons that contribute to the image is least. This is the quantum sink, and it is the input phosphor for an image intensifier"
+        },
+        {
+          "text": "The tube is operated at a much lower tube current than in conventional radiography",
+          "response": "",
+          "answer": "True",
+          "explanation": "25kV as opposed to around 80kV"
+        },
+        {
+          "text": "The maximum tube current is limited by the focal spot size",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is limited by patient dose restrictions"
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "stem": "Automatic brightness control",
+      "options": [
+        {
+          "text": "Allows adjustments to be made in the brightness of the image solely by adjustment of the mA",
+          "response": "",
+          "answer": "False",
+          "explanation": "mA and/or kV may be adjusted to optimize image brightness"
+        },
+        {
+          "text": "Utilizes the brightness of the central portion of the image in order to optimize the image brightness",
+          "response": "",
+          "answer": "True",
+          "explanation": "In general, the user will have centred the region of interest in the centre of the screen"
+        },
+        {
+          "text": "Takes as an input signal a measurement of the light intensity of the image intensifier output screen",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "May lead to poor image quality if the x-ray field extends beyond the patient",
+          "response": "",
+          "answer": "True",
+          "explanation": "The unattenuated part of the beam will result in a very bright portion of the image, which may lead to a much darker image when the brightness is automatically adjusted"
+        },
+        {
+          "text": "May produce an image with less quantum noise if the mAs are higher",
+          "response": "",
+          "answer": "True",
+          "explanation": "Although the dose will be higher to the patient"
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "stem": "Vignetting in fluoroscopy",
+      "options": [
+        {
+          "text": "Is more marked with less curved input phosphor screens",
+          "response": "",
+          "answer": "True",
+          "explanation": "The greater curve of the input screen helps to focus the electron beam"
+        },
+        {
+          "text": "Causes the image to be brighter centrally",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Can be improved by strict quality control",
+          "response": "",
+          "answer": "True",
+          "explanation": "Ensuring electron-focusing electrodes are aligned can minimize vignetting"
+        },
+        {
+          "text": "Is due to electron loss from the periphery of the electron beam",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Is caused by non-uniform magnification across the intensifier tube",
+          "response": "",
+          "answer": "True",
+          "explanation": "There is more magnification at the periphery of the image"
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "stem": "The following statements are true",
+      "options": [
+        {
+          "text": "Fluoroscopy dose rate at the input phosphor is 1 micro Gy s-1",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Maximum entrance surface dose should not exceed 100mGy min-1",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Skin dose may be up to 10 times higher than the dose at the input phosphor",
+          "response": "",
+          "answer": "False",
+          "explanation": "It can be 300 times higher"
+        },
+        {
+          "text": "A spot image taken during fluoroscopy has a dose of 10 micro Gy per frame",
+          "response": "",
+          "answer": "False",
+          "explanation": "1 micro Gy per frame"
+        },
+        {
+          "text": "The Health and Safety Executive must be informed if the patient dose is five times the intended dose",
+          "response": "",
+          "answer": "True",
+          "explanation": "The HSE must be informed if the dose is between 3 and 20 times that intended"
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "stem": "Regarding subtraction techniques in fluoroscopy",
+      "options": [
+        {
+          "text": "There is no need to take a mask image if energy subtraction is used",
+          "response": "",
+          "answer": "True",
+          "explanation": "The rapid switching between a low and high kV avoids the need for a mask image"
+        },
+        {
+          "text": "There can be significant movement blur in the images produced by dual energy subtraction",
+          "response": "",
+          "answer": "False",
+          "explanation": "The high- and low-kV images are produced simultaneously"
+        },
+        {
+          "text": "In digital subtraction angiography very high doses of contrast medium are required for adequate visualization of vessels adjacent to bony structures",
+          "response": "",
+          "answer": "False",
+          "explanation": "Lower doses can be used, as there is good vessel clarity once the bones and overlying soft tissues have been digitally subtracted"
+        },
+        {
+          "text": "Exposure factors must be kept constant for the mask and the contrast images in digital subtraction imaging",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Time interval differencing can be used in cardiac imaging to produce subtracted images timed to the cardiac cycle",
+          "response": "",
+          "answer": "True",
+          "explanation": "Images are produced as the difference between images separated by a fixed interval of time, rather than all from the same mask image"
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "stem": "In digital subtraction angiography",
+      "options": [
+        {
+          "text": "An image without contrast medium is electronically added to an image with contrast",
+          "response": "",
+          "answer": "False",
+          "explanation": "The image without contrast is subtracted from the image with contrast"
+        },
+        {
+          "text": "The mask image is taken prior to administration of contrast",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The signal-to-noise ratio is increased following subtraction",
+          "response": "",
+          "answer": "False",
+          "explanation": "Signal-to-noise ratio is reduced following subtraction"
+        },
+        {
+          "text": "Post-processing using pixel shift can help eliminate motion artefact",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Frame integration is a form of post-processing where several frames are summed to form the final image",
+          "response": "",
+          "answer": "True",
+          "explanation": "Retrospective summation of several frames improves the signal-to-noise ratio in the final image"
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "stem": "Regarding quality control in fluoroscopy",
+      "options": [
+        {
+          "text": "Automatic brightness control is tested with the grid",
+          "response": "",
+          "answer": "False",
+          "explanation": "The grid checks for image distortion. Brightness of the light output from the intensifier and TV monitor are assessed, but as deterioration in performance in the system can be masked by automatic brightness control, x-ray output must be measured directly"
+        },
+        {
+          "text": "Limiting resolution can be measured with a line pair phantom",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Contrast resolution can be tested with a Leeds test object containing varying sizes and contrasts of high atomic number material",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "A lag of 1 ms is typical for modern image intensifiers",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Vignetting should be less than 25%",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "stem": "Digital flat plate detectors in fluoroscopy",
+      "options": [
+        {
+          "text": "Utilize amorphous silicon detectors with caesium iodide scintillators",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Have equivalent detective quantum efficiency to image intensifiers",
+          "response": "",
+          "answer": "True",
+          "explanation": "About 65%"
+        },
+        {
+          "text": "Display more limited image contrast than an image intensifier can through a TV system",
+          "response": "",
+          "answer": "False",
+          "explanation": "Contrast resolution is limited through a TV system, but via a digital detector is much greater and makes use of the 14-bit depth that is typically available"
+        },
+        {
+          "text": "Display good spatial resolution of up to 20 lp mm-1",
+          "response": "",
+          "answer": "False",
+          "explanation": "Resolution is better than standard image intensifiers, but with a pixel size of about 150µm, it will be about 3 lp mm-1"
+        },
+        {
+          "text": "Provide undistorted displayed images compared to standard image intensifier images",
+          "response": "",
+          "answer": "True",
+          "explanation": "As the detector is flat"
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "stem": "In flat plate digital fluoroscopy",
+      "options": [
+        {
+          "text": "Dynamic range is better than with conventional image intensifiers",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The image produced is rectangular in shape",
+          "response": "",
+          "answer": "True",
+          "explanation": "The image displayed is the same shape as the detector"
+        },
+        {
+          "text": "Image noise is reduced by using a smaller field of view",
+          "response": "",
+          "answer": "False",
+          "explanation": "Image noise is unaffected by a change in the field size"
+        },
+        {
+          "text": "X-rays are directly converted to an electrical signal without the need for light production",
+          "response": "",
+          "answer": "False",
+          "explanation": "Light is produced by the caesium iodide scintillator and then detected by the amorphous silicon detectors"
+        },
+        {
+          "text": "Collimation does not affect patient dose",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "stem": "Patient doses in fluoroscopy can be reduced by",
+      "options": [
+        {
+          "text": "Careful collimation around the region of interest",
+          "response": "",
+          "answer": "True",
+          "explanation": "The volume of patient irradiated is reduced and scatter is reduced"
+        },
+        {
+          "text": "Using magnified views",
+          "response": "",
+          "answer": "False",
+          "explanation": "Although the volume of patient irradiated is smaller, exposure factors are increased to compensate for the smaller minification of the magnified field of view"
+        },
+        {
+          "text": "Low pulse rate digital fluoroscopy",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Using an over couch x-ray tube",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "Digital image acquisition rather than conventional film",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "stem": "The following statements are true",
+      "options": [
+        {
+          "text": "The radiation exposure rate is lower for fluoroscopy than for radiography",
+          "response": "",
+          "answer": "True",
+          "explanation": "For example, fluoroscopy of a typical adult abdomen requires 45mGy/min. For an abdominal radiograph, entrance skin exposure is approximately 3mGy with an exposure time of 200ms and an exposure rate of 900mGy/min"
+        },
+        {
+          "text": "The total exposure dose for a radiograph is lower than fluoroscopy",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is because in fluoroscopy despite having a lower exposure rate, the total exposure time is extended for the whole examination"
+        },
+        {
+          "text": "Over-table tube configurations result in increased radiation exposure for the operator than under-table tube systems",
+          "response": "",
+          "answer": "True",
+          "explanation": "As the scattered radiation from the patient is more concentrated in the direction towards the x-ray tube"
+        },
+        {
+          "text": "The biplane fluoroscopic system uses a single image intensifier to create 2 separate images",
+          "response": "",
+          "answer": "False",
+          "explanation": "Biplane systems use two separate imaging chains so that it is possible to record two projections (e.g. frontal and lateral) simultaneously"
+        },
+        {
+          "text": "Filtration is not used in fluoroscopy",
+          "response": "",
+          "answer": "False",
+          "explanation": "Filtration is added to attenuate low-energy x-rays from the beam. Aluminium is most commonly used"
+        }
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "stem": "Regarding collimation in fluoroscopy",
+      "options": [
+        {
+          "text": "It increases the exposed tissue volume",
+          "response": "",
+          "answer": "False",
+          "explanation": "It reduces the exposed tissue volume"
+        },
+        {
+          "text": "Collimation is usually made automatically so that it is no larger than the field of view (FOV)",
+          "response": "",
+          "answer": "True",
+          "explanation": "Although, it is often useful for the operator to further collimate the beam to the area of clinical interest"
+        },
+        {
+          "text": "It reduces scatter production",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "It reduces image contrast",
+          "response": "",
+          "answer": "False",
+          "explanation": "It improves image contrast"
+        },
+        {
+          "text": "It reduces glare from unattenuated radiation near the edge of the patient's body",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "stem": "Regarding equalization filters",
+      "options": [
+        {
+          "text": "They are totally radio-opaque",
+          "response": "",
+          "answer": "False",
+          "explanation": "Equalization filters are partially radiolucent blades that are used to provide further beam shaping in addition to collimation"
+        },
+        {
+          "text": "They are the same as collimators",
+          "response": "",
+          "answer": "False",
+          "explanation": "They are different"
+        },
+        {
+          "text": "They are also known as wedge filters",
+          "response": "",
+          "answer": "True",
+          "explanation": "They are also known as contour filters"
+        },
+        {
+          "text": "They reduce glare from unattenuated radiation near the edge of the patient",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "They are made of lead-rubber or lead-acrylic sheets",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "stem": "The following are true regarding an image intensifier",
+      "options": [
+        {
+          "text": "An image intensifier converts incident x-rays into a minified image",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "An image intensifier amplifies image brightness for better visibility",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The input layer converts electrons into a visible image",
+          "response": "",
+          "answer": "False",
+          "explanation": "That is the function of an output layer: Input layer converts x-rays into electrons"
+        },
+        {
+          "text": "Electron lenses work to accelerate electrons",
+          "response": "",
+          "answer": "False",
+          "explanation": "Electron lenses are used to focus electrons"
+        },
+        {
+          "text": "All components of the image intensifier are contained within a vacuum",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "stem": "The following are methods of dose reduction techniques",
+      "options": [
+        {
+          "text": "Intermittent fluoroscopy",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Removal of grid",
+          "response": "",
+          "answer": "True",
+          "explanation": "The use of a grid increases the dose, but it is used primarily to increase contrast and image quality"
+        },
+        {
+          "text": "Last image hold",
+          "response": "",
+          "answer": "True",
+          "explanation": "The last image is 'digitally frozen' so that the operator can look more closely at the last image without having to continually expose the patient"
+        },
+        {
+          "text": "Image magnification",
+          "response": "",
+          "answer": "False",
+          "explanation": "This increases the patient's dose"
+        },
+        {
+          "text": "Dose spreading",
+          "response": "",
+          "answer": "True",
+          "explanation": "A reduction of the maximum skin dose can be achieved by rotating the fluoroscope but remaining centred on the area of interest and therefore the maximum dose is spread over a broader area of patient's skin"
+        }
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "stem": "Regarding the image intensifier",
+      "options": [
+        {
+          "text": "It intercepts the x-ray photons and converts them into visible light photons",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The visible light photons converted from x-ray photons are amplified",
+          "response": "",
+          "answer": "True",
+          "explanation": "This may sound obvious but (a) and (b) are essentially two major functions of the image intensifier"
+        },
+        {
+          "text": "It creates a large intensification in luminance at the output screen compared with that at the input screen",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The image intensifier is located opposite the x-ray tube",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The larger the image intensifier; the higher the cost",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "stem": "The following are artefacts in fluoroscopy",
+      "options": [
+        {
+          "text": "Lag",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is a persistence of luminescence after x-ray has been stopped"
+        },
+        {
+          "text": "Vignetting",
+          "response": "",
+          "answer": "True",
+          "explanation": "This results from an unequal collection of light at the centre compared to the periphery"
+        },
+        {
+          "text": "Veiling glare",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is from scattering light and a defocusing of photoelectrons"
+        },
+        {
+          "text": "Pincushion distortion",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is a geometric, non-linear magnification across the image that results from a magnification difference at the periphery of the image"
+        },
+        {
+          "text": "S distortion",
+          "response": "",
+          "answer": "True",
+          "explanation": "External electromagnetic sources affect electron paths at the periphery of the image intensifier more than at the centre and can cause the image distortion in an S-shape"
+        }
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "stem": "Regarding the recording of fluoroscopic images",
+      "options": [
+        {
+          "text": "For still images, the best resolution can be achieved using a film screen combination with a spot film device",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Photospot cameras allow more rapid multiple-exposure sequences at a lower radiation dose than spot film",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "A photospot camera obtains a smaller image size than a spot film device",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "For recording motion, cine fluorography gives the highest resolution images",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "For recording motion, cine fluorography gives the highest dose rates",
+          "response": "",
+          "answer": "True",
+          "explanation": "Cine fluorography gives the highest resolution but also the highest dose rates compared with videotape recording of high-resolution TV"
+        }
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "stem": "Regarding digital subtraction angiography",
+      "options": [
+        {
+          "text": "The subtraction process reduces image noise",
+          "response": "",
+          "answer": "False",
+          "explanation": "Subtraction process increases image noise, but the perception of low-contrast vessels is increased due to the removal of distracting background tissue"
+        },
+        {
+          "text": "With proper calibration, quantitative data can be measured",
+          "response": "",
+          "answer": "True",
+          "explanation": "It is common practice to measure the degree of stenosis, for example"
+        },
+        {
+          "text": "A road map cannot be used in conjunction with live fluoroscopic images",
+          "response": "",
+          "answer": "False",
+          "explanation": "The idea of road mapping is to provide an overlay of a static image (such as that of the vasculature) over the real-time images. In addition, 'image fade' allows the operator to manually adjust the brightness of the static vessel road map overlay"
+        },
+        {
+          "text": "To image the entire peripheral vasculature using the stepping table technique, the imaging gantry is fixed while the patient table moves the area of interest into the field of view",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "To image the entire peripheral vasculature using the stepping gantry technique, the patient table is fixed while the imaging gantry moves the field of view over the area of interest",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "stem": "Regarding digital subtraction angiography",
+      "options": [
+        {
+          "text": "Between the acquisition of pre-contrast and post-contrast images, the patient is allowed to move",
+          "response": "",
+          "answer": "False",
+          "explanation": "Movement will result in a misregistration artefact"
+        },
+        {
+          "text": "Mask pixel shift is a technique used to re-register pre- and post-contrast images",
+          "response": "",
+          "answer": "True",
+          "explanation": "This may help if the patient has moved between pre- and post-contrast images"
+        },
+        {
+          "text": "Image summation is useful when the frame rates are too slow during contrast injection",
+          "response": "",
+          "answer": "False",
+          "explanation": "Imaging frames may occur so rapidly that only part of contrast filled vessel is captured. Summation is used so that a complete vessel segment filled with contrast is obtained within a single image"
+        },
+        {
+          "text": "Temporal frame averaging is used to decrease displayed image noise",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is done by creating an average between the current and one or more previous frames"
+        },
+        {
+          "text": "Adjustment of window widths and levels is not possible",
+          "response": "",
+          "answer": "False",
+          "explanation": "This can be done and is termed grey-scale processing"
+        }
+      ]
+    },
+    {
+      "questionNumber": 31,
+      "stem": "Regarding fluoroscopy",
+      "options": [
+        {
+          "text": "Pulsed mode fluoroscopy offers much better spatio-temporal resolution than continuous mode fluoroscopy",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is particularly evident when imaging rapidly moving anatomy, such as coronary vessels in cardiac angiography or structures within the young infant"
+        },
+        {
+          "text": "In the UK, the maximum entrance skin dose rate limit for a standard patient is 100 mGy per minute",
+          "response": "",
+          "answer": "True",
+          "explanation": "Although in practice, a lower maximum dose rate limit of 50mGy per minute is more commonly adopted"
+        },
+        {
+          "text": "Automatic Brightness Control (ABC) is the same as Automatic Exposure Control (AEC)",
+          "response": "",
+          "answer": "False",
+          "explanation": "AEC is used in radiography"
+        },
+        {
+          "text": "The purpose of ABC is to maintain stable viewing conditions independent of patient size, body sections, and projection angle",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The operator should not manually adjust collimation as this is done automatically",
+          "response": "",
+          "answer": "False",
+          "explanation": "Manually adjusting collimation on to the clinical region of interest is good practice to reduce dose"
+        }
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "stem": "Regarding dose to staff in the fluoroscopy suite",
+      "options": [
+        {
+          "text": "Leakage from x-rays from tube housing is typically 5 µGy/hr at 1 m distance",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "X-rays scatter from the patient accounts for most of stray radiation",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Secondary scatter from structures in the room accounts for most of stray radiation",
+          "response": "",
+          "answer": "False",
+          "explanation": "See (B)"
+        },
+        {
+          "text": "X-ray scatter intensity is greater on the beam exit side of the patient",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is much greater on the beam entrance side of the patient"
+        },
+        {
+          "text": "At 1 m from the patient, the scatter is typically about 1% of the patient entrance dose rate",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is typically about 0.1% of patient entrance dose rate at 1 m"
+        }
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "stem": "Regarding dose in fluoroscopy",
+      "options": [
+        {
+          "text": "Automatic Brightness Control (ABC) keeps the image intensifier entrance dose rate the same for patients of different sizes",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "ABC keeps the brightness of the output display constant independent of image intensifier entrance dose rate",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The patient entrance dose rate is reduced by increasing the thickness of a copper beam spectral filter",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The patient entrance dose rate is increased by reducing the fluoroscopy pulse rate from 30 to 15 frames per second",
+          "response": "",
+          "answer": "False",
+          "explanation": "Patient entrance dose rate is reduced by reducing the fluoroscopy pulse rate from 30 to 15 frames per second"
+        },
+        {
+          "text": "Selecting zoom view increases the patient entrance dose rate",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "stem": "Regarding the image intensifier television (II-TV) system",
+      "options": [
+        {
+          "text": "It uses optical lenses to transfer images from II output screen to television sensor",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The primary lens is located adjacent to the TV camera sensor",
+          "response": "",
+          "answer": "False",
+          "explanation": "The primary lens is located adjacent to the II output screen"
+        },
+        {
+          "text": "A circular iris is located between the primary lens and the TV lens",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "A circular iris aperture of adjustable diameter is normally used to calibrate the light intensity illuminating the image recording device",
+          "response": "",
+          "answer": "True",
+          "explanation": "The iris aperture is also used to compensate for some fall in II gain when a zoom field is selected"
+        },
+        {
+          "text": "An electronic light sensor can be mounted between the primary lens and TV lens to measure the brightness of the II image",
+          "response": "",
+          "answer": "True",
+          "explanation": "This can give the real-time dose rate"
+        }
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "stem": "The following are examples of TV sensors used in fluoroscopy",
+      "options": [
+        {
+          "text": "Vidicon",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Plumbicon",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Chainicon",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Saticon",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "CCD solid-state sensor",
+          "response": "",
+          "answer": "True",
+          "explanation": "All are examples of various TV sensors and differ in terms of contrast, spatial resolution, lag, and target burn resistance. Solid-state charge coupled device (CCD) sensors are superseding the traditional electronic camera tube as the preferred image recording device in modern II TV fluoroscopy systems"
+        }
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "stem": "Regarding CCD sensors",
+      "options": [
+        {
+          "text": "They cannot be used for serial exposure applications",
+          "response": "",
+          "answer": "False",
+          "explanation": "They can be used for serial exposure applications"
+        },
+        {
+          "text": "They are small and inexpensive",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "They have negligible temporal unsharpness",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "They have poor thermal, electrical, and magnetic stability",
+          "response": "",
+          "answer": "False",
+          "explanation": "They have excellent thermal, electrical, and magnetic stability"
+        },
+        {
+          "text": "They have poorer geometrical precision when compared with traditional TV camera tubes",
+          "response": "",
+          "answer": "False",
+          "explanation": "They have good geometrical precision and spatial uniformity"
+        }
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "stem": "Regarding the image intensifier",
+      "options": [
+        {
+          "text": "The degree of II amplification of an x-ray image is known as the brightness gain",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Brightness gain is the ratio of the brightness of the output screen compared to that of the input screen",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Brightness gain is the product of minification gain and flux gain",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Minification gain is the increase in brightness due to geometrical magnification",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is due to geometrical demagnification of the image"
+        },
+        {
+          "text": "Minification gain depends on the diameter of the input and output phosphors",
+          "response": "",
+          "answer": "True",
+          "explanation": "Minification gain = (Dinput/Doutput)^2"
+        }
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "stem": "Regarding image intensifier (II)",
+      "options": [
+        {
+          "text": "The conversion factor (Gx) is used as a measure of x-ray II tube sensitivity",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The conversion factor (Gx) is inversely proportional to the luminance of output phosphor (L)",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is directly proportional to this"
+        },
+        {
+          "text": "The conversion factor (Gx) is inversely proportional to the II entrance dose rate (X')",
+          "response": "",
+          "answer": "True",
+          "explanation": "Gx = L/X"
+        },
+        {
+          "text": "The conversion factor (Gx) can be measured using a calibrated dose rate meter and a luminance meter",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The conversion factor (Gx) of a modern x-ray II tube typically lies in the range of 100-300 Cds µGy-1m-2",
+          "response": "",
+          "answer": "False",
+          "explanation": "This typically lies in the range of 10-30 Cd/μGy/m"
+        }
+      ]
+    }
+  ]
+
+}

@@ -1,0 +1,260 @@
+{
+  name: "Get Through First FRCR: MCQs for the Physics Module",
+  authors: "Andrew Baird, Grant Mair, Andrew Nisbet,",
+  slug: "digital-radiography",
+  questions: [
+    {
+      "questionNumber": 1,
+      "stem": "Digital imaging",
+      "options": [
+        {
+          "text": "Pixel size, field of view and matrix size (number of pixels) are inter-related",
+          "response": "",
+          "answer": "True",
+          "explanation": "Pixel size = field of view (FOV) / matrix size"
+        },
+        {
+          "text": "Spatial resolution is not related to pixel size",
+          "response": "",
+          "answer": "False",
+          "explanation": "In theory, the smallest detail resolvable is equal to pixel size although smaller high contrast detail, e.g. microcalcification, may be visible due to the partial volume effect"
+        },
+        {
+          "text": "A 12-bit pixel depth means there are 122 (144) levels of grey",
+          "response": "",
+          "answer": "False",
+          "explanation": "A bit depth of 12 means there are 212 (4096) levels of grey"
+        },
+        {
+          "text": "A greater bit depth is required for plain film radiography compared with nuclear medical imaging",
+          "response": "",
+          "answer": "True",
+          "explanation": "Plain film radiography has a large dynamic range; this requires a large bit depth. Bit depth in nuclear medical imaging relates to counts per pixel; numerically, these counts are smaller than the dynamic range of plain film radiography"
+        },
+        {
+          "text": "Compression of data can reduce storage space by up to 40 times",
+          "response": "",
+          "answer": "True",
+          "explanation": "Lossless compression can reduce the size of a file by 2 – 3 times; this is fully reversible. Lossy compression is not fully reversible but provides an order of magnitude more compression"
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "stem": "Image processing",
+      "options": [
+        {
+          "text": "In digital imaging, the image is divided into a matrix of pixels each with a greyscale value attached to it",
+          "response": "",
+          "answer": "True",
+          "explanation": "This matrix may then be used to display the picture on a monitor"
+        },
+        {
+          "text": "Digital images may be easily adjusted post acquisition to correct for overexposure or underexposure",
+          "response": "",
+          "answer": "True",
+          "explanation": "This reduces the number of repeat films that have to be taken. Although an image that was underexposed can still be adjusted in this way, the low signal to noise ratio (SNR) may cause the radiograph to appear unacceptably grainy"
+        },
+        {
+          "text": "Detector dose indicators (DDIs) are measurements provided to indicate the level of exposure of the radiograph",
+          "response": "",
+          "answer": "True",
+          "explanation": "As digital radiographs that have been overexposed will be automatically adjusted to look as though taken at the perfect exposure, higher doses may be given without the operator necessarily appreciating this. The DDI for an image may be compared to an expected range of values to show whether or not the image was correctly exposed. This helps to ensure that the principle of keeping doses as low as is reasonably practicable (ALARP) is being observed"
+        },
+        {
+          "text": "Algorithms for edge enhancement or noise reduction may be applied to increase image quality",
+          "response": "",
+          "answer": "True",
+          "explanation": "These techniques use the signal from adjacent pixels to either average the signal reducing noise but blurring the image slightly or to enhance the contrast at a structure edge at the expense of increasing noise and possibly creating false detail"
+        },
+        {
+          "text": "Images of chest and abdominal radiographs are typically about 1024 × 768 pixels",
+          "response": "",
+          "answer": "False",
+          "explanation": "Large plates used for chest and abdominal radiographs are typically in the region of 2500 × 3000 pixels (7.5 megapixels). Smaller plates may be about 2000 × 2500 (5 megapixels) but with each pixel being smaller to improve spatial resolution"
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "stem": "Computed radiography",
+      "options": [
+        {
+          "text": "Computed radiography uses a thermoluminescent phosphor imaging plate",
+          "response": "",
+          "answer": "False",
+          "explanation": "A photostimulable phosphor is used, commonly a barium fluorohalide"
+        },
+        {
+          "text": "The imaging plate is read by a laser scanning across the plate to release light proportional to the X-ray photons absorbed by each part of the plate",
+          "response": "",
+          "answer": "True",
+          "explanation": "This released light is collected using a network of optical fibres and amplified and detected by a photomultiplier tube"
+        },
+        {
+          "text": "The laser light used is a different frequency to the light emitted by the plate",
+          "response": "",
+          "answer": "True",
+          "explanation": "This helps minimize laser light being reflected and being included in the final image. Most computed radiography phosphors emit blue light and the plate is scanned with a red light laser"
+        },
+        {
+          "text": "Scanning time for a photostimulable plate is typically in the region of 30 sec",
+          "response": "",
+          "answer": "True",
+          "explanation": "To maximize throughput in a busy department stacking readers are used to automatically place plates in a queue so radiographers do not have to spend additional time manually loading each cassette"
+        },
+        {
+          "text": "Computed radiography has an improved contrast and spatial resolution compared to film – screen systems",
+          "response": "",
+          "answer": "False",
+          "explanation": "While the dynamic range and thus the possible contrast are significantly improved, computed radiography has a poorer spatial resolution when compared with film–screen systems. This is primarily due to the larger pixel size and light spread within the phosphor during reading"
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "stem": "Digital radiography",
+      "options": [
+        {
+          "text": "The detector plate acquires a digital image without having to be physically taken to a scanner",
+          "response": "",
+          "answer": "True",
+          "explanation": "This allows fast throughput of patients, especially for quick examinations such as outpatient chest X-ray (CXR)"
+        },
+        {
+          "text": "Digital detector plates are fragile and only used in fixed locations such as table and wall Bucky systems",
+          "response": "",
+          "answer": "False",
+          "explanation": "This may be true for certain types of detector, but indirect digital radiography detectors using non-crystalline phosphors such as gadolinium oxysulphide are more robust and can be used in alternative positions including for ward radiography and may have wireless connections for PACS"
+        },
+        {
+          "text": "Direct digital radiography systems use amorphous silicon thin film transistor (TFT) arrays",
+          "response": "",
+          "answer": "False",
+          "explanation": "Amorphous silicon is used for light detection from a phosphor such as caesium iodide (CsI). Amorphous selenium is used to allow the direct conversion of the X-ray photons to a charge captured by the TFT array"
+        },
+        {
+          "text": "Indirect systems use a phosphor to absorb X-rays and release light photons which produce the image",
+          "response": "",
+          "answer": "True",
+          "explanation": "These systems commonly use a phosphor layer such as CsI to convert X-rays into light before capturing the light photons via photodiodes in a TFT array or via tiled charge coupled device (CCD) detectors"
+        },
+        {
+          "text": "Digital radiography is more expensive than computed radiography",
+          "response": "",
+          "answer": "True",
+          "explanation": "Computed radiography cassettes can be used with the same Bucky tables and X-ray tubes, only requiring a reader to be installed in the department which may service several rooms. Digital radiography systems require a separate detector, or sometimes even more than one detector per room, each of which is very expensive"
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "stem": "Fourier analysis",
+      "options": [
+        {
+          "text": "Fourier analysis involves transforming a signal into a series of sine waves",
+          "response": "",
+          "answer": "True",
+          "explanation": "The signal is interpreted as a series of sine waves with variable magnitude that when added together reproduce the original signal"
+        },
+        {
+          "text": "Fourier analysis of one term is equivalent to an exact reproduction of even a complicated image",
+          "response": "",
+          "answer": "False",
+          "explanation": "The more terms (additional sine waves at multiples of the original frequency) the closer the composite signal is to the original. An infinite number of terms would produce a perfect copy of the original signal"
+        },
+        {
+          "text": "The Nyquist criterion states that the signal must be sampled at least once in every period to avoid the possibility of aliasing",
+          "response": "",
+          "answer": "False",
+          "explanation": "The Nyquist criterion states that the signal must be sampled at least twice in every period to avoid the possibility of aliasing"
+        },
+        {
+          "text": "The Nyquist frequency is half the sampling frequency",
+          "response": "",
+          "answer": "True",
+          "explanation": "The Nyquist frequency is the maximum frequency that can be sampled without aliasing. Because the signal needs to be sampled twice in every period, the maximum frequency that can be sampled accurately is half the sampling frequency"
+        },
+        {
+          "text": "Fourier analysis is used exclusively in computed radiography to convert the analogue image from the phosphor into binary data",
+          "response": "",
+          "answer": "False",
+          "explanation": "Fourier analysis is also used for reconstruction of tomographic images in, for example, computed tomography (CT) and magnetic resonance imaging (MRI)"
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "stem": "Modulation transfer function (MTF)",
+      "options": [
+        {
+          "text": "MTF is a measure of how well an image represents the original object",
+          "response": "",
+          "answer": "True",
+          "explanation": "MTF ranges from 0 – 100%. Low spatial frequencies are generally well represented by an imaging system (near 100%); as this frequency goes up, the MTF goes down"
+        },
+        {
+          "text": "MTF reduces at higher object spatial frequencies",
+          "response": "",
+          "answer": "True",
+          "explanation": "The MTF is dependent on the spatial frequency of the object. Whilst even a simple system could image a series of thick lines spaced 2 cm apart each with almost perfect accuracy, even modern complicated radiology systems cannot accurately image lines spaced a few micro-metres apart"
+        },
+        {
+          "text": "The MTF is equal to 1/line spread function (LSF)",
+          "response": "",
+          "answer": "False",
+          "explanation": "The LSF is calculated from the unsharpness of the boundary between a region of very high and very low contrast (an edge). The MTF is calculated from LSF using Fourier transform analysis"
+        },
+        {
+          "text": "The total MTF is the product of the MTFs of all the constituent parts of the imaging system",
+          "response": "",
+          "answer": "True",
+          "explanation": "Knowing the MTF of each constituent part allows the MTF of different film–screen combinations to be predicted"
+        },
+        {
+          "text": "The MTF of a perfect system would be 1",
+          "response": "",
+          "answer": "True",
+          "explanation": "In a perfect imaging system the MTF would be 1 and would not change with object spatial frequency"
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "stem": "PACS",
+      "options": [
+        {
+          "text": "Stands for patient archived computed system",
+          "response": "",
+          "answer": "False",
+          "explanation": "Picture Archiving and Communication System"
+        },
+        {
+          "text": "Allows simultaneous reading of an image by many users",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is one of the benefits of PACS: radiographs can be viewed on the ward at the same time as being reported by the radiology department. Also, old radiographs are instantly available"
+        },
+        {
+          "text": "Stores all of the images locally on each viewing terminal in the department",
+          "response": "",
+          "answer": "False",
+          "explanation": "Hence the term archive. Images are stored centrally on servers"
+        },
+        {
+          "text": "A PACS broker sells the necessary software",
+          "response": "",
+          "answer": "False",
+          "explanation": "The broker is simply further software that allows communication between the different information systems within the hospital thus integrating the various electronic records"
+        },
+        {
+          "text": "Images are stored as JPEGs",
+          "response": "",
+          "answer": "False",
+          "explanation": "Images are stored as Digital Imaging and Communications in Medicine (DICOM) files. A DICOM image file also contains data about the patient, display preferences and imaging modality"
+        }
+      ]
+    }
+  ]
+
+}

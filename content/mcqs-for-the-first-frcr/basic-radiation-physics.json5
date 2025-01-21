@@ -1,0 +1,1448 @@
+{
+  name: "MCQs for the First FRCR",
+  authors: "Varut Vardhanabhuti, Julia James, Rosemary Gray, Rehaan Nensey, W MVivien Shuen, Tishi Ninan",
+  slug: "basic-radiation-physics",
+  questions: [
+    {
+      "questionNumber": 1,
+      "stem": "Regarding atomic structure",
+      "options": [
+        {
+          "text": "'Z' is the number of protons in the nucleus",
+          "response": "",
+          "answer": "True",
+          "explanation": "Z is the atomic number and indicates the number of protons in the nucleus"
+        },
+        {
+          "text": "'A' determines an element's place in the periodic table",
+          "response": "",
+          "answer": "False",
+          "explanation": "A is the mass number. Z determines place in the periodic table"
+        },
+        {
+          "text": "A stable nucleus contains equal numbers of protons and neutrons",
+          "response": "",
+          "answer": "False",
+          "explanation": "Higher atomic number nuclei require more neutrons than protons for stability"
+        },
+        {
+          "text": "Neutrons have a relative charge of +1",
+          "response": "",
+          "answer": "False",
+          "explanation": "Neutrons have no charge, protons +1"
+        },
+        {
+          "text": "Protons are loosely bound to neutrons in the nucleus",
+          "response": "",
+          "answer": "False",
+          "explanation": "They are tightly bound"
+        }
+      ],
+      "reference": "Allisy-Roberts & Williams. Farr's Physics for Medical Imaging, 2nd edn, Saunders Elsevier, 2008. pp. 1-3"
+    },
+    {
+      "questionNumber": 2,
+      "stem": "Concerning orbital electrons",
+      "options": [
+        {
+          "text": "Electrons are arranged in shells around the nucleus at specific energy levels",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Binding energy is that required to excite an electron to a higher energy shell",
+          "response": "",
+          "answer": "False",
+          "explanation": "Binding energy is expended completely removing the electron from the atom"
+        },
+        {
+          "text": "The binding energy is highest for a valence shell electron",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is lowest for valence shell electrons and highest for the K shell"
+        },
+        {
+          "text": "Characteristic radiation is produced from the valence shell",
+          "response": "",
+          "answer": "False",
+          "explanation": "Characteristic radiation is from inner shells. The valence shell gives the chemical properties"
+        },
+        {
+          "text": "K shell binding energy increases with increasing atomic number",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ],
+      "reference": "Allisy-Roberts & Williams. Farr's Physics for Medical Imaging, 2nd edn, Saunders Elsevier, 2008. pp. 1-3"
+    },
+    {
+      "questionNumber": 3,
+      "stem": "Regarding the structure of atoms",
+      "options": [
+        {
+          "text": "A proton has a mass approximately 1850 times that of an electron",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "An electron is not a nucleon",
+          "response": "",
+          "answer": "True",
+          "explanation": "Neutrons and protons are nucleons"
+        },
+        {
+          "text": "Positrons have the same mass as electrons",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "An alpha particle has twice the mass of a proton",
+          "response": "",
+          "answer": "False",
+          "explanation": "Alpha particles consist of 2 protons and 2 neutrons (helium nucleus), therefore the mass is 4 times that of a proton"
+        },
+        {
+          "text": "There can be up to 8 electrons orbiting the nucleus in the L shell",
+          "response": "",
+          "answer": "True",
+          "explanation": "There can be up to 2 electrons in the K shell, 8 in the L shell, 18 in the M shell, and 32 in the N shell"
+        }
+      ],
+      "reference": "Allisy-Roberts & Williams. Farr's Physics for Medical Imaging, 2nd edn, Saunders Elsevier, 2008. pp. 1-3. Electronic Learning Database, E-Learning for Healthcare, Radiology-Integrated Training Initiative (R-ITl). www.e-lfh.org.uk"
+    },
+    {
+      "questionNumber": 4,
+      "stem": "Nuclides",
+      "options": [
+        {
+          "text": "Are characterized by mass number and atomic number",
+          "response": "",
+          "answer": "True",
+          "explanation": "Each particular combination of Z and A defines a nuclide"
+        },
+        {
+          "text": "Are isotopes if they have the same atomic mass but different atomic number",
+          "response": "",
+          "answer": "False",
+          "explanation": "Nuclides with the same number of protons but different number of neutrons are isotopes, therefore they have the same atomic number and different atomic mass"
+        },
+        {
+          "text": "Are radioactive",
+          "response": "",
+          "answer": "False",
+          "explanation": "Not all are radioactive"
+        },
+        {
+          "text": "Have the same chemical properties between isotopes of a particular element",
+          "response": "",
+          "answer": "True",
+          "explanation": "Isotopes have the same number of protons and therefore when neutral the same number of electrons"
+        },
+        {
+          "text": "May emit radiation only if they have too many neutrons",
+          "response": "",
+          "answer": "False",
+          "explanation": "Too few or too many"
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "stem": "Regarding the electromagnetic spectrum",
+      "options": [
+        {
+          "text": "Sound waves fall at the lower end of the spectrum",
+          "response": "",
+          "answer": "False",
+          "explanation": "Sound waves do not fall within the spectrum"
+        },
+        {
+          "text": "Velocity of electromagnetic radiation increases as energy increases",
+          "response": "",
+          "answer": "False",
+          "explanation": "Frequency increases with energy, but velocity is constant"
+        },
+        {
+          "text": "Frequency and wavelength of electromagnetic radiation are directly proportional to each other",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "In a vacuum, velocity of radio waves is equal to that of infrared light",
+          "response": "",
+          "answer": "True",
+          "explanation": "All electromagnetic radiation travels at the speed of light in a vacuum"
+        },
+        {
+          "text": "Visible light has a shorter wavelength than ultraviolet light",
+          "response": "",
+          "answer": "False",
+          "explanation": "UV light is further up the spectrum, therefore has a shorter wavelength than visible light"
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "stem": "Electromagnetic radiation",
+      "options": [
+        {
+          "text": "Travels in straight lines if unattenuated",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Has wave- and particle-like properties",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Has energy that is usually expressed in Joules in diagnostic radiography",
+          "response": "",
+          "answer": "False",
+          "explanation": "Electron volts (eV), which give manageable numbers for calculations (1 eV = 1.6 x 10^-19 Joules)"
+        },
+        {
+          "text": "Comprises sinusoidally varying electric and magnetic fields perpendicular to each other and to the direction of travel",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Includes beta radiation",
+          "response": "",
+          "answer": "False",
+          "explanation": "Beta particles are electrons emitted from the nucleus"
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "stem": "Ionizing radiation",
+      "options": [
+        {
+          "text": "Causes direct damage if it is absorbed in tissue",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Causes indirect damage through ionization of water and production of free radicals",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Always obeys the inverse square law",
+          "response": "",
+          "answer": "False",
+          "explanation": "Only applicable to types of electromagnetic radiation from a point source and without attenuation"
+        },
+        {
+          "text": "Is useful in medical imaging in all its forms",
+          "response": "",
+          "answer": "False",
+          "explanation": "Gamma and x-rays are useful, neutrons, alpha, and beta particles are not"
+        },
+        {
+          "text": "May require only to be shielded with Perspex",
+          "response": "",
+          "answer": "True",
+          "explanation": "Beta radiation may require only Perspex shielding, however optimal shielding is achieved with Perspex backed with lead"
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "stem": "Regarding secondary electrons",
+      "options": [
+        {
+          "text": "They are recoil electrons produced during Compton scattering events",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Their range depends only upon the density of the material through which they are travelling",
+          "response": "",
+          "answer": "False",
+          "explanation": "Range also depends upon their initial energy"
+        },
+        {
+          "text": "They can interact with inner shell electrons of atoms they pass causing ionization",
+          "response": "",
+          "answer": "False",
+          "explanation": "They interact with outer shell electrons to cause ionization"
+        },
+        {
+          "text": "They are the reason that x-ray and gamma rays are indirectly ionizing",
+          "response": "",
+          "answer": "True",
+          "explanation": "Alpha and beta particles are directly ionizing as they are charged"
+        },
+        {
+          "text": "They cause tissue heating",
+          "response": "",
+          "answer": "True",
+          "explanation": "Energy from the x-ray beam is converted into increased molecular motion and therefore heat"
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "stem": "In radioactive decay",
+      "options": [
+        {
+          "text": "Emission of a β- particle reduces atomic number by 1",
+          "response": "",
+          "answer": "False",
+          "explanation": "A neutron converts to a proton and an α-particle, therefore atomic number increases by 1"
+        },
+        {
+          "text": "Alpha particles are helium nuclei",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Some radionuclides emit electrons and characteristic x-rays",
+          "response": "",
+          "answer": "True",
+          "explanation": "During internal conversion a K shell electron is ejected, producing characteristic x-rays when the K shell vacancy is filled with an electron from the L shell"
+        },
+        {
+          "text": "Most nuclides left in a metastable state after beta decay emit gamma rays to reach ground state",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is isomeric transition"
+        },
+        {
+          "text": "Positron emission reduces the number of protons in an atom by 1",
+          "answer": "True",
+          "explanation": "A proton converts to a neutron and an α-particle, therefore atomic number decreases by 1"
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "stem": "Regarding radioactivity",
+      "options": [
+        {
+          "text": "Radioactive decay is the number of disintegrations per minute",
+          "response": "",
+          "answer": "False",
+          "explanation": "Disintegrations per second (Becquerels (Bq))"
+        },
+        {
+          "text": "Decay rate can be increased by increasing temperature",
+          "response": "",
+          "answer": "False",
+          "explanation": "Decay rate is not affected by physical conditions"
+        },
+        {
+          "text": "If stored long enough, the radioactivity of a radionuclide will drop to zero",
+          "response": "",
+          "answer": "True",
+          "explanation": "Although decay is an exponential process, all of the atoms will eventually decay"
+        },
+        {
+          "text": "Beta emission is at a continuous range of energies",
+          "response": "",
+          "answer": "True",
+          "explanation": "Beta emission is at a continuous range of energies up to a maximum (EmJ') and with average energy approximately Emj3"
+        },
+        {
+          "text": "Decay constant is the probability of nuclear decay per unit time",
+          "response": "",
+          "answer": "True",
+          "explanation": "Decay constant is the fraction of nuclei decaying per unit time. This is the probability of decay, as decay of individual atoms occurs at random and cannot be predicted"
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "stem": "The following are true of radionuclides",
+      "options": [
+        {
+          "text": "Physical half-life (t1/2) is the time taken for the activity to decay to ½ the original value",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Gamma rays are emitted at a single photon energy",
+          "response": "",
+          "answer": "False",
+          "explanation": "More than 1 photon energy may be emitted"
+        },
+        {
+          "text": "Gamma emitting radionuclides with shorter t1/2 are safer to use and store than those with longer t1/2",
+          "response": "",
+          "answer": "True",
+          "explanation": "Shorter time to decay to negligible activity is safer"
+        },
+        {
+          "text": "In 10 half-lives the activity is reduced by a factor of approximately 1000",
+          "response": "",
+          "answer": "True",
+          "explanation": "10 half-lives indicates decay by a factor of 2^10 or 1024"
+        },
+        {
+          "text": "Only one type of radiation is emitted by a radionuclide",
+          "response": "",
+          "answer": "False",
+          "explanation": "Often there is beta and gamma, or alpha and gamma emission together"
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "stem": "Direct emission from radioactive decay includes",
+      "options": [
+        {
+          "text": "Beta minus emission",
+          "response": "",
+          "answer": "True",
+          "explanation": "Occurs in radionuclides with neutron excess"
+        },
+        {
+          "text": "Characteristic x-rays",
+          "response": "",
+          "answer": "True",
+          "explanation": "Through internal conversion or K-shell capture"
+        },
+        {
+          "text": "Bremsstrahlung",
+          "response": "",
+          "answer": "False",
+          "explanation": "This is due to interactions of electrons with the electric field around the nucleus and not of decay directly"
+        },
+        {
+          "text": "Alpha particles",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Positron emission",
+          "response": "",
+          "answer": "True",
+          "explanation": "Occurs in radionuclides with neutron deficit"
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "stem": "Concerning properties of x-rays",
+      "options": [
+        {
+          "text": "Beam intensity is the total energy per unit area per unit time",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is the energy fluence rate or intensity"
+        },
+        {
+          "text": "The inverse square law applies to all x-ray beams",
+          "response": "",
+          "answer": "False",
+          "explanation": "This only applies to x-rays from a point source"
+        },
+        {
+          "text": "X-rays have lower linear energy transfer than alpha particles",
+          "response": "",
+          "answer": "True",
+          "explanation": "Alpha particles are heavy and produce ionizing events closely spaced along a short path, causing maximum DNA damage"
+        },
+        {
+          "text": "All electromagnetic radiation can cause ionization",
+          "response": "",
+          "answer": "False",
+          "explanation": "Only high-energy photons (x-rays/gamma rays) are ionizing"
+        },
+        {
+          "text": "At equivalent energy, an x-ray cannot be distinguished from a gamma ray",
+          "response": "",
+          "answer": "True",
+          "explanation": "How they are produced differs, but they are indistinguishable at equivalent energies"
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "stem": "Concerning an x-ray tube",
+      "options": [
+        {
+          "text": "Usually a voltage of 10V and a current of 10A pass through the filament",
+          "response": "",
+          "answer": "True",
+          "explanation": "This heats the filament to incandescence, so that electrons can be boiled off by thermionic emission in order to be accelerated across the tube"
+        },
+        {
+          "text": "The accelerating voltage of the tube is typically in the range 60-120kV",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is the tube potential that drives the electron stream from cathode to anode"
+        },
+        {
+          "text": "The process of thermionic emission occurs on the surface of the anode",
+          "response": "",
+          "answer": "False",
+          "explanation": "It occurs at the surface of the cathode"
+        },
+        {
+          "text": "When an accelerating electron interacts closely with a target nucleus it is deflected and slowed, losing energy that is emitted as an x-ray photon",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is Bremsstrahlung, or braking radiation, which results in the continuous spectrum of radiation"
+        },
+        {
+          "text": "The angle of the target ensures that all x-rays produced pass through the window in the tube to form a beam",
+          "response": "",
+          "answer": "False",
+          "explanation": "X-rays will be produced in many directions, but only those that pass through the window will contribute to the useful beam, the others will be absorbed by the tube housing"
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "stem": "X-ray production in a diagnostic x-ray tube",
+      "options": [
+        {
+          "text": "Occurs when moving electrons interact with target nuclei",
+          "response": "",
+          "answer": "True",
+          "explanation": "Continuous spectrum radiation (Bremsstrahlung) is produced through electron-nucleus interactions, and characteristic radiation is produced through electron-electron interactions within the target"
+        },
+        {
+          "text": "Is 99% efficient",
+          "response": "",
+          "answer": "False",
+          "explanation": "Approximately 99% heat production, 1% x-ray production"
+        },
+        {
+          "text": "Is more efficient with a rotating compared to a stationary anode",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Is increased if the target atomic number is increased",
+          "response": "",
+          "answer": "True",
+          "explanation": "Higher atomic number nuclei have increased electric field, therefore there are more x-ray-producing interactions"
+        },
+        {
+          "text": "Requires a cooling air current at all times within the tube",
+          "response": "",
+          "answer": "False",
+          "explanation": "The tube contains a vacuum"
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "stem": "Radiation output from an x-ray tube increases with",
+      "options": [
+        {
+          "text": "Increasing cathode-to-anode distance",
+          "response": "",
+          "answer": "False",
+          "explanation": "No relation"
+        },
+        {
+          "text": "The addition of a filter",
+          "response": "",
+          "answer": "False",
+          "explanation": "Decreases total output"
+        },
+        {
+          "text": "Increasing kV",
+          "response": "",
+          "answer": "True",
+          "explanation": "Output is approximately proportional to kV^2"
+        },
+        {
+          "text": "Increasing mA",
+          "response": "",
+          "answer": "True",
+          "explanation": "Output is proportional to mA"
+        },
+        {
+          "text": "A constant potential compared to a single phase waveform",
+          "response": "",
+          "answer": "True",
+          "explanation": "kV is near its maximum for longer"
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "stem": "In a diagnostic x-ray tube",
+      "options": [
+        {
+          "text": "Heat is only removed to the tube envelope by conduction",
+          "response": "",
+          "answer": "False",
+          "explanation": "Heat is radiated through the vacuum to the envelope"
+        },
+        {
+          "text": "The focusing cup is negatively charged",
+          "response": "",
+          "answer": "True",
+          "explanation": "To repel electrons from the filament and produce a narrow beam"
+        },
+        {
+          "text": "Rotor bearings are lubricated with oil",
+          "response": "",
+          "answer": "False",
+          "explanation": "Silver is used; oil would evaporate in the vacuum"
+        },
+        {
+          "text": "The anode stem is a poor heat conductor",
+          "response": "",
+          "answer": "True",
+          "explanation": "Prevents damage to the rotor assembly"
+        },
+        {
+          "text": "The addition of rhenium to the tungsten target increases toughness and lifespan of the target",
+          "response": "",
+          "answer": "True",
+          "explanation": "This alloy reduces surface pitting and increases lifespan"
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "stem": "In a diagnostic x-ray tube the anode angle",
+      "options": [
+        {
+          "text": "Is the angle that the target face makes with the x-ray beam",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Is the only factor determining focal spot size",
+          "response": "",
+          "answer": "False",
+          "explanation": "The size of the filament also determines focal spot size"
+        },
+        {
+          "text": "Is generally 20-35°",
+          "response": "",
+          "answer": "False",
+          "explanation": "The angle is generally 7-20°"
+        },
+        {
+          "text": "Increases the tube rating if the angle is reduced",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Determines the size of field covered by the x-ray beam at a given focus-film distance",
+          "response": "",
+          "answer": "True",
+          "explanation": "The steeper the angle, the narrower the x-ray beam and the smaller field covered"
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "stem": "The spectrum of an x-ray beam",
+      "options": [
+        {
+          "text": "Is not affected by filtration",
+          "response": "",
+          "answer": "False",
+          "explanation": "Filtration removes low energy photons, hardening the beam and increasing the mean energy of the spectrum"
+        },
+        {
+          "text": "Varies with tube current",
+          "response": "",
+          "answer": "False",
+          "explanation": "Increasing mA merely increases the number of photons. Their energy and therefore the shape of the spectrum remains the same if kV is unaltered"
+        },
+        {
+          "text": "Has a maximum energy determined by peak tube potential (kVp)",
+          "response": "",
+          "answer": "True",
+          "explanation": "Peak potential gives the electrons striking the target their peak energy, therefore dictating peak photon energy in the x-ray beam"
+        },
+        {
+          "text": "Consists of Bremsstrahlung and characteristic radiation if the kVp exceeds the K edge energy of the anode",
+          "response": "",
+          "answer": "True",
+          "explanation": "Bremsstrahlung is the continuous spectrum, and characteristic radiation the peaks specific to the anode material"
+        },
+        {
+          "text": "Has a peak approximately 1/3 of the kVp",
+          "response": "",
+          "answer": "False",
+          "explanation": "The spectrum peak is 1/3 to 1/2 kVp, whereas average or effective energy is 50-60% of the maximum"
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "stem": "Regarding an x-ray tube filament",
+      "options": [
+        {
+          "text": "It must have a high melting point and low resistance",
+          "response": "",
+          "answer": "False",
+          "explanation": "High melting point and high resistance to generate heat for thermionic emission"
+        },
+        {
+          "text": "Electrons evaporate off through thermionic emission",
+          "response": "",
+          "answer": "True",
+          "explanation": "Filament heat allows electrons to boil off and create space charge around the cathode that can be accelerated towards the anode"
+        },
+        {
+          "text": "Tungsten is used because of its high atomic number",
+          "response": "",
+          "answer": "False",
+          "explanation": "This is the reason that it is chosen for the anode"
+        },
+        {
+          "text": "It should have a low vapor pressure",
+          "response": "",
+          "answer": "True",
+          "explanation": "A good property for thermionic emission"
+        },
+        {
+          "text": "It has a negative potential",
+          "response": "",
+          "answer": "True",
+          "explanation": "The focusing cup is usually more negative than the filament"
+        }
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "stem": "The anode-heel effect",
+      "options": [
+        {
+          "text": "Produces a uniform x-ray beam across its field",
+          "response": "",
+          "answer": "False",
+          "explanation": "Photons on the anode side of the beam have more target material to travel through, so are attenuated and the intensity reduced"
+        },
+        {
+          "text": "Is more prominent at the cathode end of the tube",
+          "response": "",
+          "answer": "False",
+          "explanation": "By definition it is the 'anode' heel effect"
+        },
+        {
+          "text": "Is more noticeable if the focus-film distance is increased",
+          "response": "",
+          "answer": "False",
+          "explanation": "With increased distance the beam diverges further and the film only intercepts the central part of the beam"
+        },
+        {
+          "text": "Is greater if the target angle is steeper",
+          "response": "",
+          "answer": "True",
+          "explanation": "The steeper the target, the further through the target material the photons on the anode side of the beam have to travel and the more attenuated they are"
+        },
+        {
+          "text": "Is not used as an advantage in diagnostic radiography",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is used in mammography and extremity radiography, where a thicker part of the body is placed towards the cathode side"
+        }
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "stem": "Increasing tube kV (with all other factors constant) increases",
+      "options": [
+        {
+          "text": "Patient entrance surface dose",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Scattered compared to primary radiation at the film",
+          "response": "",
+          "answer": "True",
+          "explanation": "Higher kV x-rays are more penetrating so scattering events occur deeper in the\npatient nearer the film.Also, the scattered photons are more penetrating"
+        },
+        {
+          "text": "Radiographic contrast",
+          "response": "",
+          "answer": "False",
+          "explanation": "Contrast decreases as kV increases"
+        },
+        {
+          "text": "Film blackening",
+          "answer": "True",
+          "explanation": "Increased kV causes increased exposure and increased film density"
+        },
+        {
+          "text": "Photoelectric interactions compared to Compton interactions",
+          "answer": "False",
+          "explanation": "At higher kVs Compton events are favoured"
+        }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "stem": "Concerning attenuation of x-rays",
+      "options": [
+        {
+          "text": "Increased tube filtration increases the half value layer",
+          "response": "",
+          "answer": "False",
+          "explanation": "Through beam hardening"
+        },
+        {
+          "text": "Total attenuation is the product of Compton, photoelectric, and elastic attenuation effects",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is the total attenuation. Attenuation coefficient is the sum of each process"
+        },
+        {
+          "text": "Half value thickness is inversely proportional to the linear attenuation coefficient",
+          "response": "",
+          "answer": "True",
+          "explanation": "Half value layer is 0.69/µ (µ = linear attenuation coefficient= fraction of the\nprimary beam that is removed per unit distance)"
+        },
+        {
+          "text": "It is altered with differing atomic number materials",
+          "response": "",
+          "answer": "True",
+          "explanation": "Attenuation is increased with increasing Z number and increasing density of the\nattenuating material, through increased Compton scatter and photoelectric absorption.\n(T he probability of photoelectric absorption\n=\nz3)"
+        },
+        {
+          "text": "It is related to the inverse square law",
+          "response": "",
+          "answer": "False",
+          "explanation": "Attenuation is the reduction in intensity due to interactions in matter, whereas the inverse square law is the reduction in intensity due to beam divergence from a point source"
+        }
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "stem": "The half value layer",
+      "options": [
+        {
+          "text": "Is the thickness of a material that will reduce the intensity of a narrow x-ray beam to half of its original value",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is the thickness of a material that reduces intensity to half its original value"
+        },
+        {
+          "text": "Is a measure of the penetrating power of an x-ray beam",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "For lead is greater than for aluminium at a given energy of x-ray beam",
+          "response": "",
+          "answer": "False",
+          "explanation": "The HVL decreases as the atomic number of the attenuating material increases"
+        },
+        {
+          "text": "Is reduced as the photon energy of the radiation decreases",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Will produce exponential attenuation if a narrow x-ray beam passes through successive half value thicknesses of a particular material",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "stem": "The mass attenuation coefficient",
+      "options": [
+        {
+          "text": "Is measured in cm2/g",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Is equal to the linear attenuation coefficient divided by the density",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Is less for water than for ice",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is equal for water and ice, as it is independent of physical density"
+        },
+        {
+          "text": "Has many practical applications in diagnostic radiology",
+          "response": "",
+          "answer": "False",
+          "explanation": "The linear attenuation coefficient has more practical applications, as film density produced by a certain depth of tissue is more useful than that produced by a certain mass of tissue"
+        },
+        {
+          "text": "Is proportional to the linear attenuation coefficient",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "stem": "Regarding the linear attenuation coefficient",
+      "options": [
+        {
+          "text": "It is the fractional reduction in intensity per unit thickness",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "It can be used to calculate the half value thickness",
+          "response": "",
+          "answer": "True",
+          "explanation": "HVT equals 0.693 divided by the linear attenuation coefficient"
+        },
+        {
+          "text": "It increases as photon energy increases",
+          "response": "",
+          "answer": "False",
+          "explanation": "It decreases as photon energy increases"
+        },
+        {
+          "text": "It is measured in mm",
+          "response": "",
+          "answer": "False",
+          "explanation": "mm-1"
+        },
+        {
+          "text": "The greater the difference in linear attenuation coefficients between two tissues, the greater the contrast between them",
+          "response": "",
+          "answer": "True",
+          "explanation": "Contrast is proportional to the product of the difference between the 2 linear attenuation coefficients and the thickness of the tissues involved"
+        }
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "stem": "Regarding scattered radiation",
+      "options": [
+        {
+          "text": "More is measured on the tube side of the patient in diagnostic radiology",
+          "response": "",
+          "answer": "True",
+          "explanation": "Most interactions occur at the entrance surface of the patient and forward scattered photons are more attenuated than backscattered ones"
+        },
+        {
+          "text": "A Compton scattered photon is deflected from its path with no loss of energy",
+          "response": "",
+          "answer": "False",
+          "explanation": "This is elastic scattering"
+        },
+        {
+          "text": "There is no ionization with elastic scattering",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "During a Compton interaction a photoelectron is produced",
+          "response": "",
+          "answer": "False",
+          "explanation": "These are formed in photoelectric interactions"
+        },
+        {
+          "text": "At higher kV more photons are deflected through large angles",
+          "response": "",
+          "answer": "False",
+          "explanation": "Within the diagnostic range there is slight increase in forward scatter as kV increases, therefore there are more small angle deflections"
+        }
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "stem": "In Compton scattering",
+      "options": [
+        {
+          "text": "There is an interaction with a free electron",
+          "response": "",
+          "answer": "True",
+          "explanation": "The incident photon interacts with an outer shell electron"
+        },
+        {
+          "text": "The recoil electron can be scattered in any direction",
+          "response": "",
+          "answer": "False",
+          "explanation": "The scattered photon can be emitted in any direction, but the recoil electron can be projected only forwards or sideways"
+        },
+        {
+          "text": "The larger the angle of scatter, the greater the reduction in energy of the incident photon",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "All the photon's energy can be transferred to the electron",
+          "response": "",
+          "answer": "False",
+          "explanation": "The photon is scattered and therefore still retains some energy. Total absorption occurs in photoelectric interactions"
+        },
+        {
+          "text": "The amount of scatter is proportional to electron density",
+          "response": "",
+          "answer": "True",
+          "explanation": "The greater the concentration of electrons, the greater the probability of an interaction"
+        }
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "stem": "Concerning the photoelectric effect",
+      "options": [
+        {
+          "text": "The incident photon completely disappears",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "It is the main attenuation process in bone at 80 kVp",
+          "response": "",
+          "answer": "False",
+          "explanation": "The photoelectric effect predominates over Compton scatter in bone below 50kV and in soft tissue below 30kV"
+        },
+        {
+          "text": "It may result in scattered radiation",
+          "response": "",
+          "answer": "False",
+          "explanation": "The photon is always completely absorbed"
+        },
+        {
+          "text": "The probability of an interaction increases as photon energy increases",
+          "response": "",
+          "answer": "False",
+          "explanation": "The probability of photoelectric interaction is inversely proportional to photon energy cubed"
+        },
+        {
+          "text": "Its contribution to the mass attenuation coefficient increases approximately as the cube of the atomic number",
+          "response": "",
+          "answer": "True",
+          "explanation": "The probability of photoelectric interaction ∝ Z³"
+        }
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "stem": "The photoelectric effect",
+      "options": [
+        {
+          "text": "Involves free electrons",
+          "response": "",
+          "answer": "False",
+          "explanation": "It involves inner shell electrons"
+        },
+        {
+          "text": "Results in the production of characteristic radiation",
+          "response": "",
+          "answer": "True",
+          "explanation": "The ejection of a photoelectron by the incident photon allows an outer shell electron to fall into the gap, with the emission of photons of characteristic radiation"
+        },
+        {
+          "text": "Only occurs with electrons from the K shell",
+          "response": "",
+          "answer": "False",
+          "explanation": "Can also occur with the L shell"
+        },
+        {
+          "text": "Is most important at the lower end of the diagnostic range of energies",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Results in ionization of the atom",
+          "response": "",
+          "answer": "True",
+          "explanation": "As an electron is removed a net negative charge results"
+        }
+      ]
+    },
+    {
+      "questionNumber": 31,
+      "stem": "Regarding absorption edges",
+      "options": [
+        {
+          "text": "For a given element, the K-absorption edge is greater than the L-absorption edge",
+          "response": "",
+          "answer": "True",
+          "explanation": "K-shell binding energy is always greater than the L-shell binding energy for a given element"
+        },
+        {
+          "text": "At photon energies just above the K-shell binding energy of an element there is a sharp decrease in the probability of photoelectric interactions",
+          "response": "",
+          "answer": "False",
+          "explanation": "There is a sharp increase in the probability of photoelectric interactions just above the K-shell binding energy"
+        },
+        {
+          "text": "The K-absorption edge is important when choosing an x-ray filter, a contrast medium or an imaging phosphor",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "An x-ray filter does not transmit photons well if they are of an energy equivalent to its own K-absorption edge",
+          "response": "",
+          "answer": "False",
+          "explanation": "It will be relatively transparent to photons of the energy of its absorption edge"
+        },
+        {
+          "text": "Barium has such a high atomic number that its K-absorption edge does not play a role in diagnostic imaging when it is used as a contrast medium",
+          "response": "",
+          "answer": "False",
+          "explanation": "The atomic number of barium is 56 and the K-absorption edge is 37keV. Diagnostic x-ray beams contain a high proportion of photons around this energy, ensuring a high probability of photoelectric interactions"
+        }
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "stem": "Filtration of an x-ray beam",
+      "options": [
+        {
+          "text": "Reduces the maximum photon energy (kVp)",
+          "response": "",
+          "answer": "False",
+          "explanation": "The kVp remains the same, but lower energy photons are filtered out and average kV increases"
+        },
+        {
+          "text": "By the patient is known as inherent filtration",
+          "response": "",
+          "answer": "False",
+          "explanation": "Inherent filtration results from absorption of x-rays as they pass through the tube"
+        },
+        {
+          "text": "Improves the rating of the x-ray tube",
+          "response": "",
+          "answer": "False",
+          "explanation": "Tube loading is increased due to the reduced intensity of the x-ray beam once it has passed through the filter"
+        },
+        {
+          "text": "Is more effective for filtering high energy x-rays using a copper rather than an aluminium filter",
+          "response": "",
+          "answer": "True",
+          "explanation": "Copper has a higher atomic number than aluminium, so is better at filtering higher energy x-rays"
+        },
+        {
+          "text": "Results in an image with improved contrast",
+          "response": "",
+          "answer": "False",
+          "explanation": "Filtration hardens the beam by increasing the mean energy of the photons, therefore contrast in the image is decreased"
+        }
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "stem": "Inherent filtration of an x-ray tube",
+      "options": [
+        {
+          "text": "Absorbs high energy x-rays",
+          "response": "",
+          "answer": "False",
+          "explanation": "Absorbs low energy x-rays"
+        },
+        {
+          "text": "Causes beam hardening",
+          "response": "",
+          "answer": "True",
+          "explanation": "By removing low energy photons and increasing the average energy of the beam"
+        },
+        {
+          "text": "Is usually equivalent to 2.5 mm aluminium",
+          "response": "",
+          "answer": "False",
+          "explanation": "Total filtration is approximately 2.5mm Al, inherent is 0.5-1 mm"
+        },
+        {
+          "text": "Is increased if beryllium instead of glass is used in the tube window",
+          "response": "",
+          "answer": "False",
+          "explanation": "Beryllium has a lower atomic number than glass, therefore filtration is less"
+        },
+        {
+          "text": "Is mostly due to the oil",
+          "response": "",
+          "answer": "False",
+          "explanation": "Due to target, tube window, and the oil"
+        }
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "stem": "Added filtration",
+      "options": [
+        {
+          "text": "Does not affect patient entrance dose",
+          "response": "",
+          "answer": "False",
+          "explanation": "Low energy photons are removed, which would contribute to patient dose, but not to the image"
+        },
+        {
+          "text": "Alters the quality of the x-ray beam",
+          "response": "",
+          "answer": "True",
+          "explanation": "As mean kV is increased, penetrating power and therefore quality increases"
+        },
+        {
+          "text": "May consist of a compound filter",
+          "response": "",
+          "answer": "True",
+          "explanation": "Copper is used with a backing of aluminium on the patient side to absorb the 9kV characteristic radiation from the copper"
+        },
+        {
+          "text": "Is generally made of aluminium in diagnostic tubes",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Does not affect the intensity of the beam",
+          "response": "",
+          "answer": "False",
+          "explanation": "Intensity or amount of radiation is decreased by the filter"
+        }
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "stem": "X-ray tube rating increases with",
+      "options": [
+        {
+          "text": "Rotating compared to stationary anodes",
+          "response": "",
+          "answer": "True",
+          "explanation": "There is more efficient heat loss from a rotating anode, so the rating is higher"
+        },
+        {
+          "text": "Larger focal spot size",
+          "response": "",
+          "answer": "True",
+          "explanation": "A larger focal spot causes less heating than if the beam were focused onto a smaller area"
+        },
+        {
+          "text": "Increasing the anode angle with fixed focal spot size",
+          "response": "",
+          "answer": "False",
+          "explanation": "A smaller anode angle has a higher heat rating"
+        },
+        {
+          "text": "Half wave compared to full wave rectification",
+          "response": "",
+          "answer": "False",
+          "explanation": "Rating is increased with full wave rectification"
+        },
+        {
+          "text": "Quicker production of heat",
+          "response": "",
+          "answer": "False",
+          "explanation": "This makes the tube rating lower"
+        }
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "stem": "Measurement of radiation dose",
+      "options": [
+        {
+          "text": "Can be read directly through an electronic read-out from photoconductive silicon diodes",
+          "response": "",
+          "answer": "True",
+          "explanation": "Useful for personal dosimeters and quality assurance"
+        },
+        {
+          "text": "Is useful for personal and patient dosimetry with the use of thermoluminescent dosimeters",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "May be carried out using thimble ionization chambers within the field of interest",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "With a dose area product meter provides a figure with the units cGy cm³",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is the product of dose and area with units cGy cm2"
+        },
+        {
+          "text": "For staff may utilize the photographic effect of silver bromide in a film badge",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "stem": "Regarding ionization chambers",
+      "options": [
+        {
+          "text": "They are used to measure absorbed dose in diagnostic radiography",
+          "response": "",
+          "answer": "True",
+          "explanation": "They measure air kerma (kinetic energy released to matter), which at diagnostic energies is effectively equal to absorbed dose"
+        },
+        {
+          "text": "Ionization of the air in the chamber forms a measurable current by the attraction of the ions to the positive wall of the chamber and negative electrode",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Air is convenient for use in the chambers, but is not the ideal material as its effective atomic number is much lower than that of soft tissue",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is ideal, as the effective atomic number of air is 7.6, and that of soft tissue is 7.4"
+        },
+        {
+          "text": "Parallel plate ionization chambers mounted on the collimator of an x-ray tube measure patient dose area product",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Any individual ionization chamber may be used accurately over a very wide range of photon energies",
+          "response": "",
+          "answer": "False",
+          "explanation": "Lower energy beams (such as in mammography) require ionization chambers with thinner walls to avoid undue attenuation of radiation by the chamber"
+        }
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "stem": "Film badges",
+      "options": [
+        {
+          "text": "Use double emulsion film",
+          "response": "",
+          "answer": "True",
+          "explanation": "If the fast emulsion is over-exposed by a high-dose exposure, the slow emulsion can be read"
+        },
+        {
+          "text": "Are calibrated with a caesium source",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Have an open window for the detection of beta particles",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Should be analysed once a year when monitoring staff",
+          "response": "",
+          "answer": "False",
+          "explanation": "They are subject to environmental effects, so should not be used for longer than a month"
+        },
+        {
+          "text": "Use cadmium nuclei to detect neutron exposure",
+          "response": "",
+          "answer": "True",
+          "explanation": "The interaction of neutrons with the cadmium nuclei results in gamma ray emission that is detected by the film"
+        }
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "stem": "The following are true of thermoluminescent dosimeters",
+      "options": [
+        {
+          "text": "The phosphor used is commonly lithium chloride",
+          "response": "",
+          "answer": "False",
+          "explanation": "Lithium fluoride"
+        },
+        {
+          "text": "X-ray interactions involve outer shell electrons of the thermoluminescent phosphor",
+          "response": "",
+          "answer": "True",
+          "explanation": "Valence shell electrons are involved"
+        },
+        {
+          "text": "When exposed to radiation, interactions excite electrons that become trapped in the forbidden energy band",
+          "response": "",
+          "answer": "True",
+          "explanation": "A valence shell electron is excited into the conduction band and then falls back into an electron trap in the forbidden energy band"
+        },
+        {
+          "text": "The amount of light produced depends on the energy of the photons involved in the exposure",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Their response is linear with dose over a wide range",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "stem": "Regarding luminescence",
+      "options": [
+        {
+          "text": "It is the process by which a material absorbs energy from an external source and re-emits it as light",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Fluorescence is the delayed emission of light following energy input",
+          "response": "",
+          "answer": "False",
+          "explanation": "Fluorescence is the instantaneous emission of light following energy input, phosphorescence is the delayed emission of light"
+        },
+        {
+          "text": "For light to be emitted from a phosphor, electrons in the electron traps must fall to the conduction band",
+          "response": "",
+          "answer": "False",
+          "explanation": "The x-ray photons excite electrons from the valence band to the conduction band, where they then fall into electron traps. They must fall back to the valence band for light to be emitted"
+        },
+        {
+          "text": "After irradiation, a thermoluminescent phosphor must be stimulated with a laser for light to be emitted",
+          "response": "",
+          "answer": "False",
+          "explanation": "Thermoluminescence requires heating, photostimulable luminescence requires light"
+        },
+        {
+          "text": "Intensity of light emitted from a phosphor is proportional to the intensity of the irradiating x-ray beam",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    }
+  ]
+
+}

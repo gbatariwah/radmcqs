@@ -1,0 +1,12 @@
+{
+  title: 'Marrow QBank 2024',
+  slug: 'marrow-qbank',
+  author: '',
+  edition: '2024 Edition',
+  sections: [
+    {
+      "name": "Questions",
+      "slug": "questions"
+    },
+  ]
+}

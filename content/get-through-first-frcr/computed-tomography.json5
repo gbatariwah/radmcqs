@@ -1,0 +1,728 @@
+{
+  name: "Get Through First FRCR: MCQs for the Physics Module",
+  authors: "Andrew Baird, Grant Mair, Andrew Nisbet,",
+  slug: "computed-tomography",
+  questions: [
+    {
+      "questionNumber": 1,
+      "stem": "Computed tomography (CT) image reconstruction and basics",
+      "options": [
+        {
+          "text": "CT images are formed from a matrix of voxels each with an assigned number representing the X-ray attenuation coefficient of a corresponding volume within the patient",
+          "response": "",
+          "answer": "True",
+          "explanation": "Voxels are represented as pixels with a greyscale which corresponds to the calculated density or CT number"
+        },
+        {
+          "text": "Filtered back projection is a process in which the number assigned to each voxel from each projection is adjusted by a function of the measured amounts in the neighbouring pencil beams",
+          "response": "",
+          "answer": "True",
+          "explanation": "This allows a more accurate image reconstruction with less blurring at object edges"
+        },
+        {
+          "text": "Each voxel is measured independently by a pencil beam falling on a particular detector",
+          "response": "",
+          "answer": "False",
+          "explanation": "There is no known way of measuring each voxel independently. Each pencil beam (the part of the beam falling on one particular detector) at each angle measures the total attenuation of all the voxels it has passed through. When this information from many different angles has been analysed using complex algorithms, the attenuation coefficient for each particular voxel can be calculated"
+        },
+        {
+          "text": "CT has a higher spatial resolution than conventional plain film radiography",
+          "response": "",
+          "answer": "False",
+          "explanation": "Resolution of CT is limited to approximately 0.5 mm or 1 lp/mm. Conventional film radiography is commonly able to produce 8 lp/mm while digital radiography can achieve 3.5 lp/mm"
+        },
+        {
+          "text": "CT has a better contrast resolution than conventional plain film radiography",
+          "response": "",
+          "answer": "True",
+          "explanation": "In a CT slice the depth of tissue displayed corresponds to the slice thickness which is never more than 10 mm and with multidetector computed tomography (MDCT) is commonly no more than 2 mm whereas in conventional radiography the depth is the overall thickness of the patient which may be 200 mm or greater. The overlying structures in conventional radiography significantly reduce the potential for contrast resolution"
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "stem": "Image formation in CT",
+      "options": [
+        {
+          "text": "The detectors sample a continuously produced X-ray beam approximately 360 times per rotation",
+          "response": "",
+          "answer": "False",
+          "explanation": "The continuous beam is sampled approximately 1000 times per rotation"
+        },
+        {
+          "text": "Each voxel in a particular image slice is represented by a single detector in the array",
+          "response": "",
+          "answer": "False",
+          "explanation": "Each voxel is reconstructed from all projections in the rotation and from many detectors in the array"
+        },
+        {
+          "text": "The log of the ratio of the unattenuated beam to that detected is equal to the sum of linear attenuation coefficients of each voxel the beam passes through",
+          "response": "",
+          "answer": "True",
+          "explanation": "These multiple overlapping samples are used to calculate the linear attenuation and hence the CT value for each individual voxel"
+        },
+        {
+          "text": "CT requires higher doses compared with conventional radiography since the beam suffers more attenuation for the same projection",
+          "response": "",
+          "answer": "False",
+          "explanation": "CT requires higher doses since the patient is sampled from multiple directions rather than just one; the extent of attenuation is the same for a given projection"
+        },
+        {
+          "text": "Scout views (survey radiographs) are produced line by line at a fixed projection angle e.g. anteroposterior (AP)",
+          "response": "",
+          "answer": "True",
+          "explanation": "These appear more like standard radiographic images"
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "stem": "Image reconstruction in CT",
+      "options": [
+        {
+          "text": "Utilizes iterative processes",
+          "response": "",
+          "answer": "False",
+          "explanation": "Modern scanners use back projection"
+        },
+        {
+          "text": "With an infinite number of samples an object could be perfectly reproduced",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is the mathematical theory described by Radon in 1917 upon which CT reconstruction is based"
+        },
+        {
+          "text": "With back projection each object in the scanner field contributes to every voxel in that image slice",
+          "response": "",
+          "answer": "True",
+          "explanation": "This creates a blurred image, hence the need for filtering using the convolution kernel"
+        },
+        {
+          "text": "Filtered back projection convolves the image profile",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is a high pass filtering procedure"
+        },
+        {
+          "text": "An edge enhancing convolution kernel will reduce spatial resolution",
+          "response": "",
+          "answer": "False",
+          "explanation": "Edge enhancement increases the differences between neighbouring voxels thereby increasing spatial resolution; this also increases noise"
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "stem": "Regarding CT images",
+      "options": [
+        {
+          "text": "The effect of quantum noise in an image is reduced by narrowing the viewing window",
+          "response": "",
+          "answer": "False",
+          "explanation": "Noise is more perceptible with a narrower window width but contrast to noise ratio remains the same"
+        },
+        {
+          "text": "Spatial resolution in the z-direction is unaffected by pitch",
+          "response": "",
+          "answer": "False",
+          "explanation": "Spatial resolution in the z-direction is reduced as pitch increases. This is because a greater degree of interpolation is required to form the image, reducing spatial resolution"
+        },
+        {
+          "text": "A CT image is most commonly calculated on a 256 x 256 matrix",
+          "response": "",
+          "answer": "False",
+          "explanation": "Typically 512 x 512 but larger matrix sizes are being developed"
+        },
+        {
+          "text": "Scanned projection radiographs are performed to allow planning of the CT sequence",
+          "response": "",
+          "answer": "True",
+          "explanation": "That is the purpose of scanned projection radiographs"
+        },
+        {
+          "text": "Signal to noise ratio (SNR) is increased by reducing the mAs but keeping the kV constant",
+          "response": "",
+          "answer": "False",
+          "explanation": "Reducing the number of photons forming the image would reduce SNR"
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "stem": "Ranges of Hounsfield unit (HU) and window settings",
+      "options": [
+        {
+          "text": "The CT number or HU for air is 0",
+          "response": "",
+          "answer": "False",
+          "explanation": "The HU for water is defined as 0. The HU for air is – 1000. Air and water are defined points in the CT number or HU system and are used for calibration of the scanner"
+        },
+        {
+          "text": "The normal HU range for fat is – 60 to – 150",
+          "response": "",
+          "answer": "True",
+          "explanation": "Because fat is of lower density than water"
+        },
+        {
+          "text": "The normal HU range for muscle is 40 to 60",
+          "response": "",
+          "answer": "True",
+          "explanation": "Most normal soft tissues are of similar density within a narrow range of values"
+        },
+        {
+          "text": "Soft tissue window settings might include a window width of 400 and window centre of 30 HU",
+          "response": "",
+          "answer": "True",
+          "explanation": "This gives a good range across the HU for fat, muscle and most organs, while the lungs and bone are poorly imaged as their HUs are outside this range"
+        },
+        {
+          "text": "Lung window settings might be: window width 1500 and window centre – 600 HU",
+          "response": "",
+          "answer": "True",
+          "explanation": "Lung window settings are centred very much lower as the HU for lung is – 300 to – 800 and the HU for air is –1000"
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "stem": "Regarding CT images",
+      "options": [
+        {
+          "text": "CT angiography can utilize maximum intensity projection (MIP) to enhance image quality",
+          "response": "",
+          "answer": "True",
+          "explanation": "Displaying only the voxels in an image which contain the highest CT number has the effect of ‘subtracting’ the surrounding structures from a contrast enhanced blood vessel"
+        },
+        {
+          "text": "A structure with an average CT number of – 60 is likely to be made up predominantly of muscle",
+          "response": "",
+          "answer": "False",
+          "explanation": "Muscle typically has a CT number of +40 to +60. Structures which have a negative CT number would most likely contain fat or gas"
+        },
+        {
+          "text": "For a given kV and mAs, the quantum noise in an image is increased as the field of view (FOV) increases",
+          "response": "",
+          "answer": "False",
+          "explanation": "With a larger FOV the voxel size is increased. There are therefore more photons passing through each voxel and noise is subsequently decreased"
+        },
+        {
+          "text": "With modern CT equipment, each scan can produce several gigabytes (GB) of data",
+          "response": "",
+          "answer": "True",
+          "explanation": "With between 10 and 100 MBs per slice on a 512 x 512 matrix, large volumes of data can quickly be produced"
+        },
+        {
+          "text": "Filtered back projection is not required in image reconstruction when using multi-slice detectors",
+          "response": "",
+          "answer": "False",
+          "explanation": "Filtered back projection is fundamental in all CT image reconstruction"
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "stem": "CT gantry and scanner generations",
+      "options": [
+        {
+          "text": "Modern multi-slice CT scanners are examples of 3rd generation scanners",
+          "response": "",
+          "answer": "True",
+          "explanation": "All multi-slice scanners utilize a rotate–rotate 3rd generation type of scanner, where both the tube and detector array rotate around the patient"
+        },
+        {
+          "text": "4th generation scanners are the future of advanced CT technology",
+          "response": "",
+          "answer": "False",
+          "explanation": "The generation system of describing scanners does not mean that the higher the generation number the more advanced the scanner. 4th generation may have been appropriate to single-slice scanning but for multi-slice, which is now standard, 3rd generation geometry is the norm"
+        },
+        {
+          "text": "Multi-slice scanners with an excess of 256 detector rows are unlikely to be produced",
+          "response": "",
+          "answer": "False",
+          "explanation": "Multi-slice scanners with 320 rows of detectors are already being produced"
+        },
+        {
+          "text": "The tube and detector array rotate at approximately 60 revolutions per second in modern CT scanners",
+          "response": "",
+          "answer": "False",
+          "explanation": "A maximum of 2 to 4 revolutions per second can be achieved with a modern CT scanner"
+        },
+        {
+          "text": "Spiral CT scans are outdated and no longer commonly used",
+          "response": "",
+          "answer": "False",
+          "explanation": "Modern CT scanners acquire images in a spiral or helical fashion"
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "stem": "CT X-ray tubes",
+      "options": [
+        {
+          "text": "The CT tube is mounted with its anode – cathode axis perpendicular to the axis of rotation of the scanner to minimize the heel effect",
+          "response": "",
+          "answer": "False",
+          "explanation": "A CT X-ray tube is mounted parallel to the axis of the scanner for this reason"
+        },
+        {
+          "text": "Allow continuous scanning for up to 5 min",
+          "response": "",
+          "answer": "False",
+          "explanation": "Due to considerable heat loading from the high voltages used, continuous scanning is limited to around 90 sec. This is enough to allow large volumes to be scanned in a single pass and very much greater than is needed for standard examination particularly with 64-slice equipment"
+        },
+        {
+          "text": "CT tubes typically use a focal spot size of approximately 0.6 – 1 mm",
+          "response": "",
+          "answer": "True",
+          "explanation": "There are often two focal spots available depending on application"
+        },
+        {
+          "text": "The anode target material used in CT is rhodium because of its higher energy characteristic radiation",
+          "response": "",
+          "answer": "False",
+          "explanation": "Rhodium and molybdenum are used in mammography for their characteristic radiation. CT typically uses tungsten for the same reasons as plain film radiography"
+        },
+        {
+          "text": "CT anodes may require heat capacities of 4 MJ or more and typically require active cooling mechanisms",
+          "response": "",
+          "answer": "True",
+          "explanation": "A typical individual CT scan may require the tube to be operated at 120 kV and 200 mA for up to 90 sec, producing a significant amount of heat in the tube. Active heat exchangers allow this heat to be removed from the oil around the tube more quickly and reduce the chance of overheating"
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "stem": "Collimation and filtration in CT",
+      "options": [
+        {
+          "text": "Filtration in CT is typically 2.5 mm equivalent of aluminium",
+          "response": "",
+          "answer": "False",
+          "explanation": "This would be typical of plain film radiography. CT typically uses about 6 mm of aluminium or other materials such as copper"
+        },
+        {
+          "text": "Bow tie filters are used to minimize variance in beam hardening caused by the elliptical shape of the patient",
+          "response": "",
+          "answer": "True",
+          "explanation": "This also reduces an unnecessarily large dose to the periphery of the patient that is generally thinner than at the centre"
+        },
+        {
+          "text": "To produce thin 0.5 mm slice in multi-slice CT scanners the collimation is set to just a single row of detectors within the array",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is not necessary to do this. The collimation is normally kept set to the entire detector array and the single slice is reconstructed from the data obtained by the 0.5 mm wide detectors"
+        },
+        {
+          "text": "Post-patient collimation is essential in multi-slice CT to reduce scatter",
+          "response": "",
+          "answer": "False",
+          "explanation": "Post-patient collimation was sometimes used in single detector row scanners. In modern multi-slice detectors, however, post-patient collimation would also shield the other detectors from the main beam and is therefore not used. Reasonable scatter reduction is achieved in the air gap between the patient and detector array"
+        },
+        {
+          "text": "The width of the collimation at the level of the axis is typically about 50 cm",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is of sufficient size to scan most patients"
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "stem": "CT detector technology",
+      "options": [
+        {
+          "text": "Xenon filled ionization chambers are used in most modern multi-slice CT scanners",
+          "response": "",
+          "answer": "False",
+          "explanation": "Xenon ionization chambers cannot be used in multi-slice scanners and have been replaced by solid-state detectors"
+        },
+        {
+          "text": "Solid-state detectors are formed from a scintillant such as cadmium tungstate and a silicon photodiode",
+          "response": "",
+          "answer": "True",
+          "explanation": "Other scintillants commonly used include rare earth ceramics or bismuth germanate"
+        },
+        {
+          "text": "Should have negligible afterglow",
+          "response": "",
+          "answer": "True",
+          "explanation": "They also need to have a high detection efficiency, fast response, wide dynamic range and a stable, noise-free response. Solid-state detectors can fulfil all these criteria"
+        },
+        {
+          "text": "Separation of detectors to prevent light crossover increases the detection efficiency of the array",
+          "response": "",
+          "answer": "False",
+          "explanation": "The scintillant materials of the detectors have to be separated by an opaque material to prevent light crossover; however, this reduces the overall detection efficiency from 98% to approximately 80%"
+        },
+        {
+          "text": "Solid-state detectors can be produced to a width of approximately 0.5 mm",
+          "response": "",
+          "answer": "True",
+          "explanation": "The size of the individual detectors limits the smallest size of the voxel produced in the image, currently about 0.5 mm in width"
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "stem": "Scan parameters in CT",
+      "options": [
+        {
+          "text": "A pitch of 1 indicates a contiguous data-set",
+          "response": "",
+          "answer": "True",
+          "explanation": "A pitch of 1 means that the table movement equals the combined width of the active detectors and therefore the data-set is contiguous"
+        },
+        {
+          "text": "Settings of 120 kV and 140 mA might be used",
+          "response": "",
+          "answer": "True",
+          "explanation": "Tube voltage is usually set between 80 and 140 kV; current often ranges from 100 to 200 mA"
+        },
+        {
+          "text": "Are unchanged when scanning adults and children",
+          "response": "",
+          "answer": "False",
+          "explanation": "The effective dose received can be four times greater in children if adult scan parameters are used; clinically therefore, paediatric scanning uses less current"
+        },
+        {
+          "text": "Matrix size can be reduced to 256 x 256 in CT fluoroscopy to enable realtime reconstruction of images",
+          "response": "",
+          "answer": "True",
+          "explanation": "Standard CT imaging uses a 512 x 512 matrix, but other sizes can be used"
+        },
+        {
+          "text": "A pitch of 3 is often used to enable scanning the thorax of a patient in a single breath hold",
+          "response": "",
+          "answer": "False",
+          "explanation": "For accurate reconstruction, pitch is usually set between 1 and 2"
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "stem": "Regarding spiral and multi-slice CT",
+      "options": [
+        {
+          "text": "True spiral CT was not possible before the advent of slip ring technology",
+          "response": "",
+          "answer": "True",
+          "explanation": "Continuous acquisition of a spiral data-set requires an uninhibited gantry rotation"
+        },
+        {
+          "text": "Means that several parallel beams are used in data acquisition",
+          "response": "",
+          "answer": "False",
+          "explanation": "One beam is used; rather there are multiple rows of detectors"
+        },
+        {
+          "text": "The number of slices a scanner is capable of producing per gantry revolution is determined by the number of detector rows",
+          "response": "",
+          "answer": "False",
+          "explanation": "Commonly there are more detector rows than slices produced at any one time; this allows varying combinations of slice thickness. The slice number that defines the scanner is based on the maximum number of active data channels at any given time"
+        },
+        {
+          "text": "Slice width is determined by collimation",
+          "response": "",
+          "answer": "False",
+          "explanation": "The total beam width is determined by collimation; it is not possible to collimate each slice, active detector width determines slice thickness in multi-slice scanning"
+        },
+        {
+          "text": "Beam divergence in the z-axis is a potential problem",
+          "response": "",
+          "answer": "True",
+          "explanation": "Generally when there are more than four slices the beam is considered to be divergent in the z-axis; this is known as a cone beam. If there are less than four slices, then z-axis divergence is not as important; fan beam geometry is assumed. Cone beam geometry has implications for image artefacts"
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "stem": "Noise in CT",
+      "options": [
+        {
+          "text": "Noise limits CT as it reduces contrast and limits the spatial resolution of small low contrast objects",
+          "response": "",
+          "answer": "True",
+          "explanation": "As with conventional radiology, image quality is constantly balanced against keeping ionizing radiation as low as is reasonably practicable (ALARP)"
+        },
+        {
+          "text": "Quantum noise is the most significant type in CT",
+          "response": "",
+          "answer": "True",
+          "explanation": "There is also structural and electronic noise. Quantum is more common due to the relatively low doses used"
+        },
+        {
+          "text": "SNR may be improved by increasing the mA or the scan time per rotation",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is at the expense of an increased dose to the patient"
+        },
+        {
+          "text": "SNR may be improved by decreasing the slice width on a multi-slice scanner",
+          "response": "",
+          "answer": "False",
+          "explanation": "If the other parameters are kept the same, a thinner slice width will decrease the number of photons falling on that particular width, and therefore decrease the SNR. In MPR, however, several layers can be added together post-processing to increase the SNR again at the expense of a thicker slice, and so data are commonly acquired at the thinnest slice possible even if it will eventually be viewed as thicker slices"
+        },
+        {
+          "text": "If the mA is kept constant, increasing the kV will increase the SNR",
+          "response": "",
+          "answer": "True",
+          "explanation": "Increasing the kV will make the beam harder, fewer photons will be absorbed by the patient and therefore more photons will reach the detectors, increasing the SNR"
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "stem": "Multi-planar reconstruction (MPR) and isotropic voxels",
+      "options": [
+        {
+          "text": "Isotropic voxels describe any cuboidal-shaped voxel",
+          "response": "",
+          "answer": "False",
+          "explanation": "An isotropic voxel is a cuboidal voxel that specifically is equal in length on all sides"
+        },
+        {
+          "text": "Axial CT images acquired using most modern scanners can be reformatted to coronal and sagittal images without losing any data quality",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is true as long as the acquired voxels are isotropic and the axial images are contiguous"
+        },
+        {
+          "text": "MPR techniques can allow oblique sections to obtain true coronal and sagittal images even if the patient was rotated in the scanner",
+          "response": "",
+          "answer": "True",
+          "explanation": "MPR is one of the most significant changes in CT in recent years. It allows reformatting of images to give true coronal and/or sagittal images even if the patient was rotated in the scanner, which can significantly aid in interpretation. It can also allow several layers to be added together to create thicker slices with a much better SNR, a technique often used in CT brain interpretation"
+        },
+        {
+          "text": "The isotropic voxel can be used to create a three-dimensional (3D) data map",
+          "response": "",
+          "answer": "True",
+          "explanation": "3D images which can be rotated are useful in showing blood vessels adjacent to bony structures, while 3D surface rendering allows 3D fly-through techniques such as those used in virtual colonoscopy interpretation"
+        },
+        {
+          "text": "MIP images are often used to look at the bronchial tree",
+          "response": "",
+          "answer": "False",
+          "explanation": "MIP images show the maximum HU value for each column of voxels selected, and so are useful in following high intensity structures such as blood vessels with contrast. Minimum intensity projection (MinIP) can be used to follow the bronchial tree"
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "stem": "Artefacts in CT",
+      "options": [
+        {
+          "text": "Photon starvation occurs in obese patients",
+          "response": "",
+          "answer": "False",
+          "explanation": "This occurs when an extremely dense object (e.g. hip replacement) limits beam penetration and the very low signals received from the beam passing through that structure are outside the range that can be accurately processed"
+        },
+        {
+          "text": "Beam hardening artefact means CT numbers in the core of the patient tend to be higher than they should be",
+          "response": "",
+          "answer": "False",
+          "explanation": "The opposite is true. Beam hardening removes the lower energy photons which may cause an error in the calculation of the HU of deeper voxels. The higher penetration of the deeper resulting beam leads to lower attenuation coefficients and HU to be measured. Lower HUs are displayed as darker pixels on the monitor"
+        },
+        {
+          "text": "A ring artefact can occur if a single detector is faulty",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is less apparent with multi-slice due to sampling overlap"
+        },
+        {
+          "text": "Partial voluming can potentially make very small highly dense objects appear larger",
+          "response": "",
+          "answer": "True",
+          "explanation": "If the object is smaller than a voxel its high density will be averaged across that whole voxel so it will seem bigger and less dense"
+        },
+        {
+          "text": "Cone beam artefact does not occur for objects situated close to the centre of rotation of a multi-slice scanner",
+          "response": "",
+          "answer": "False",
+          "explanation": "Although objects at the centre of rotation are always represented by the same central detector(s), as the scan progresses these same objects will move out of the central plane and then be represented by the outer detectors thus contributing to the potential cone beam artefact. The cone beam effect will, however, be less at the rotation axis compared with objects at the scan periphery"
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "stem": "Image artefacts",
+      "options": [
+        {
+          "text": "Photon starvation can be seen as a dark ring starved of photons by a detector fault",
+          "response": "",
+          "answer": "False",
+          "explanation": "A dark or light ring may be caused by a detector fault, but this is known as a ring artefact, although on spiral multi-slice CT it would be seen as a spiral with only a section of the circle being seen in a transaxial slice. Photon starvation describes an area that is poorly imaged and dark due to blocking of the beam photons by high attenuation objects such as hip prostheses"
+        },
+        {
+          "text": "Slice misregistration can be minimized with spiral scanning techniques",
+          "response": "",
+          "answer": "True",
+          "explanation": "By creating a contiguous data-set and scanning volumes very quickly, there is less chance of slice misregistration"
+        },
+        {
+          "text": "Motion artefacts may occur even on rapid spiral CT techniques",
+          "response": "",
+          "answer": "True",
+          "explanation": "Although motion artefacts are reduced by faster CT scans, any movement within the time of the scan will result in motion artefact or blurring, especially in ill patients who may not be able to hold their breath or understand to keep their head still"
+        },
+        {
+          "text": "Streak artefacts rarely cause any significant degradation of the image in modern scanners due to metal correction algorithms",
+          "response": "",
+          "answer": "False",
+          "explanation": "Metal correction algorithms do exist, but can only partially compensate for the streak artefacts caused. Metal dental amalgam can significantly limit the information obtained during head and facial bone CT, and metal prostheses significantly limit the images of the pelvis"
+        },
+        {
+          "text": "Very small high density lesions may appear to have an inaccurately low CT number",
+          "response": "",
+          "answer": "True",
+          "explanation": "If the object is smaller than a voxel or only partially fills a voxel the HU of that voxel will be the average of the object and any other material within the volume that voxel represents. This may result in small lesions such as calcified granulomata being registered as soft tissue density. This is called the partial volume effect"
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "stem": "Dose in CT",
+      "options": [
+        {
+          "text": "Multi-slice always requires more dose than single slice",
+          "response": "",
+          "answer": "False",
+          "explanation": "In general terms this is true due to the extra half revolution required at either end of the scanned volume for interpolation when using multi-slice. Post-patient collimation and decreased geometrical efficiency in single-slice could potentially balance out this difference in dose"
+        },
+        {
+          "text": "Pitch is inversely proportional to dose in CT",
+          "response": "",
+          "answer": "True",
+          "explanation": "Assuming other scan parameters are unchanged, an increase in pitch will reduce dose by scanning through a larger patient volume in each rotation of the gantry. Pitch greater than one means there are gaps in the data-set"
+        },
+        {
+          "text": "The CT Dose Index (CTDI) is a measure of dose in a single rotation of the gantry",
+          "response": "",
+          "answer": "True",
+          "explanation": "CTDI is a measure of the average dose at a specified location within the slice thickness"
+        },
+        {
+          "text": "In spiral CT, thinner slices lead to an increased dose for the same scanned volume",
+          "response": "",
+          "answer": "False",
+          "explanation": "In general, dose is independent of slice thickness assuming the same volume is scanned and the same kV and mA are used"
+        },
+        {
+          "text": "Automated modulation of the kV compensates for patient size so that variation in dose to the detector is small and therefore quantum mottle remains similar for all patients",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is the mAs that are modulated as described"
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "stem": "Regarding CT dose",
+      "options": [
+        {
+          "text": "CTDI is routinely measured using a thermoluminescent detector",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is usually measured with a pencil ionization chamber to enable calculation of the dose from a single rotation of the gantry or per slice"
+        },
+        {
+          "text": "The effective dose from a CT of the abdomen and pelvis approximates 10 mSv",
+          "response": "",
+          "answer": "True",
+          "explanation": "This equates to approximately 4 years of normal UK background radiation"
+        },
+        {
+          "text": "The effective dose from a CT kidneys, ureters and bladder (CT KUB) is 20 times greater than that from an X-ray intravenous urography (IVU)",
+          "response": "",
+          "answer": "False",
+          "explanation": "A CT KUB has an effective dose of 10 –15 mSv. An X-ray IVU has an effective dose of 1.5 – 3 mSv"
+        },
+        {
+          "text": "By using a 64-slice scanner as opposed to a single-slice scanner to image a set volume with identical tube voltage/current, the patient dose is approximately doubled",
+          "response": "",
+          "answer": "False",
+          "explanation": "Multi-slice scanners do increase patient dose; the beam is collimated slightly more than required to ensure accuracy of image processing and there is also oversampling at the beginning and end of the volume acquisition to allow two-point interpolation. The increase in dose is in the region of 10%"
+        },
+        {
+          "text": "The centre of the patient receives the highest dose when using a helical scanner",
+          "response": "",
+          "answer": "False",
+          "explanation": "The sum of the entry and exit doses for each projection is generally greater than the central dose such that the centre gets a lower dose than the periphery for a complete rotation. The difference gets less marked for smaller cross-sectional areas, for example in the head the dose is more uniform within the cross-section"
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "stem": "Dose in CT",
+      "options": [
+        {
+          "text": "CT accounts for only 4% of examinations using ionizing radiation, yet accounts for 40% of the total dose",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is accounted for by the much higher doses used in each CT examination compared with plain radiographs such as chest radiographs"
+        },
+        {
+          "text": "The CTDI gives a value of the total effective dose of the scan",
+          "response": "",
+          "answer": "False",
+          "explanation": "The CTDI gives a measure of the dose from a single rotation of the gantry. CTDIvol gives the average absorbed dose within the volume of a defined width and is partially determined by the pitch"
+        },
+        {
+          "text": "Dose length product (DLP) is the dose of the scan multiplied by the length of the scan in seconds",
+          "response": "",
+          "answer": "False",
+          "explanation": "DLP = CTDIvol * the length of the scanned area. It gives the absorbed dose of the scan. The DLP can then be adjusted by conversion coefficients based on the tissue weighting of affected organs to give an approximate effective dose"
+        },
+        {
+          "text": "The effective dose of a CT head is approximately 2 mSv",
+          "response": "",
+          "answer": "True",
+          "explanation": "Roughly equivalent to an average yearly background radiation dose in the UK"
+        },
+        {
+          "text": "The effective dose of a CT chest is approximately 8 mSv",
+          "response": "",
+          "answer": "True",
+          "explanation": "Roughly equivalent to around 3 years of average background radiation dose in the UK"
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "stem": "Contrast and special uses of CT",
+      "options": [
+        {
+          "text": "The high kV and dose from CT makes it unsuitable for interventional work",
+          "response": "",
+          "answer": "False",
+          "explanation": "Special sequences can allow 3D images at 5 frames per second or greater for biopsy needle placement. Other sequences can be set at a lower than normal dose for CT. Alternatively, biopsy needles can be placed and moved with scanning done at intervals while the operators briefly leave the room"
+        },
+        {
+          "text": "Contrast should be given with caution or avoided altogether in patients with poor kidney function",
+          "response": "",
+          "answer": "True",
+          "explanation": "Guidelines advise caution with an estimated glomerular filtration rate (eGFR) of 30 – 60. An eGFR of below 30 is associated with significant risk associated with iodinated contrast injection. Injection of contrast has to be balanced with the risk of nephrotoxicity and other risks compared with the extra information gained from a contrast study"
+        },
+        {
+          "text": "A trained health-care professional must be available at all times when contrast is being administered because of the 1% risk of inducing an anaphylactic reaction",
+          "response": "",
+          "answer": "False",
+          "explanation": "A true anaphylactic reaction is fortunately a rare occurrence. Many hospitals have a policy that a doctor should be available to call in an emergency should this arise, however, as it can be potentially life threatening"
+        },
+        {
+          "text": "Treatment for anaphylactic reaction may involve intramuscular adrenaline, corticosteroids and antihistamines",
+          "response": "",
+          "answer": "True",
+          "explanation": "Intramuscular adrenaline and airway management are the most urgent steps in treating an anaphylactic reaction. Further management may include corticosteroids, antihistamines and intravenous fluids. In a true anaphylactic reaction additional help from emergency medical or anaesthetic personnel should be sought rapidly. Thorough knowledge of local guidelines before such an event occurs is advised"
+        },
+        {
+          "text": "Modern CT cardiography can scan the entire heart in less than half a second and thus minimize cardiac motion artefacts",
+          "response": "",
+          "answer": "True",
+          "explanation": "Multi-slice detector scanners with 256 or more rows of detectors can scan the entire heart in less than one full rotation, which is fast enough to avoid motion artefact of the beating heart"
+        }
+      ]
+    }
+  ]
+
+}

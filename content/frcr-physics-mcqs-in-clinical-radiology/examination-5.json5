@@ -10,7 +10,7 @@
         {
           "response": "",
           "text": "Liquid crystal display (LCD) monitor utilises variation in light polarisation within the crystal for image visualisation",
-          "answer": "False",
+          "answer": "True",
           "explanation": "The crystal in each pixel varies in their degree of polarisation when a voltage is placed across them. Manipulation of the level of light transmission to that pixel resulted in the image"
         },
         {

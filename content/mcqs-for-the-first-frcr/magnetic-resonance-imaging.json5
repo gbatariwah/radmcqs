@@ -1,0 +1,1448 @@
+{
+  name: "MCQs for the First FRCR",
+  authors: "Varut Vardhanabhuti, Julia James, Rosemary Gray, Rehaan Nensey, W MVivien Shuen, Tishi Ninan",
+  slug: "magnetic-resonance-imaging",
+  questions: [
+    {
+      "questionNumber": 1,
+      "stem": "Regarding magnetic resonance imaging (MRI), the following statements are true",
+      "options": [
+        {
+          "text": "The gyromagnetic ratio of a hydrogen (1H) atom is 42.57MHzT-1",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Spin-lattice relaxation describes the decay of transverse magnetization",
+          "response": "",
+          "answer": "False",
+          "explanation": "This is spin-spin relaxation"
+        },
+        {
+          "text": "The time constant of T2 is always shorter than the time constant of T1 for the same tissue",
+          "response": "",
+          "answer": "True",
+          "explanation": "The exception is pure water where T1 = T2"
+        },
+        {
+          "text": "The Larmor frequency is defined as the sum of magnetic field strength and the gyromagnetic ratio",
+          "response": "",
+          "answer": "False",
+          "explanation": "The Larmor frequency is defined as the product of magnetic field strength and the gyromagnetic ratio"
+        },
+        {
+          "text": "Only hydrogen nuclei are said to be MR active",
+          "response": "",
+          "answer": "False",
+          "explanation": "Nuclei with an odd number of protons are said to be MR active. These include Hydrogen-1, Carbon-13, Fluorine-19, Phosphorous-31, Nitrogen-15, Oxygen-17, Sodium-23, etc"
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "stem": "Regarding MRI",
+      "options": [
+        {
+          "text": "Faraday's law of induction states that the change in magnetic flux through a closed circuit induces an electromotive force (electric current) in the circuit",
+          "response": "",
+          "answer": "True",
+          "explanation": "This electromagnetic induction is a basic principle of MRI. This principle is also applied to various other devices such as graphics tablets, loudspeakers, and electric guitar pickups"
+        },
+        {
+          "text": "The strength of the magnetic field (B) is measured in gauss (G)",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The strength of the magnetic field (B) is measured in Tesla (T)",
+          "response": "",
+          "answer": "True",
+          "explanation": "The strength of the magnetic field (B) is measured in both Gauss and Tesla. Tesla is the SI unit for magnetic flux density"
+        },
+        {
+          "text": "An MR active nucleus spins at its own precessional frequency",
+          "response": "",
+          "answer": "False",
+          "explanation": "They only precess when under the influence of an external magnetic field"
+        },
+        {
+          "text": "The temperature of the sample does not affect the magnetic moments of hydrogen atoms",
+          "response": "",
+          "answer": "False",
+          "explanation": "The temperature is an important factor in determining whether a nucleus is in the high or low energy population, although in clinical imaging we often discount this as we assume that our patients are more or less the same temperature"
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "stem": "In MRI, when resonance is induced by applying a radiofrequency pulse 90 degrees to the magnetic field (B0), the following occurs",
+      "options": [
+        {
+          "text": "The magnetic moments of the nuclei move out of phase of each other",
+          "response": "",
+          "answer": "False",
+          "explanation": "The magnetic moments of the nuclei move into phase with each other"
+        },
+        {
+          "text": "There is energy absorption",
+          "response": "",
+          "answer": "True",
+          "explanation": "The absorption of the radiofrequency (RF) energy at 90 degrees to B0 causes an increased number of high energy spin-up nuclei"
+        },
+        {
+          "text": "Nuclei are flipped onto their sides in the transverse plane",
+          "response": "",
+          "answer": "False",
+          "explanation": "Nuclei are not physically flipped onto their sides, only the magnetic moments or the net magnetization vector moves"
+        },
+        {
+          "text": "Some nuclei gain enough energy to join the high energy population",
+          "response": "",
+          "answer": "True",
+          "explanation": "See B"
+        },
+        {
+          "text": "The net magnetization vector rotates around the transverse plane inducing signal across the receiver coil by inducing a voltage within it",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is the basis of signal detection"
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "stem": "Regarding MRI",
+      "options": [
+        {
+          "text": "T1 recovery is due to interactions of intrinsic magnetic fields of adjacent nuclei",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is due to spin-lattice energy transfer not spin-spin energy transfer as described in the question"
+        },
+        {
+          "text": "T2 decay is due to dephasing caused by inhomogeneities of the external magnetic field",
+          "response": "",
+          "answer": "False",
+          "explanation": "This is T2*. T2 dephasing is caused by spin-spin energy transfer"
+        },
+        {
+          "text": "Shim coils are used to combat inhomogeneities caused by the external magnetic field",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Water has high molecular motion (inherent energy) and therefore decays faster than fat",
+          "response": "",
+          "answer": "False",
+          "explanation": "Water decays slower than fat because it has faster molecular motion (inherent energy) than fat. The faster the molecular motion, the more difficult it is for a substance to release energy to its surroundings"
+        },
+        {
+          "text": "Fat has low molecular motion (inherent energy) and therefore recovers quicker than water",
+          "response": "",
+          "answer": "True",
+          "explanation": "See D. T1 is short for fat"
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "stem": "Regarding MRI",
+      "options": [
+        {
+          "text": "T1 recovery time is defined as the time it takes for 100% of the longitudinal magnetization to recover",
+          "response": "",
+          "answer": "False",
+          "explanation": "T1 is defined as the time it takes for 63% of the longitudinal magnetization to recover"
+        },
+        {
+          "text": "Using a long TR (time to repetition) allows saturation to occur which enhances contrast",
+          "response": "",
+          "answer": "False",
+          "explanation": "Saturation occurs when there is a contrast difference between fat and water due to a difference in T1 recovery using short TRs"
+        },
+        {
+          "text": "Fat has a short T1 recovery time",
+          "response": "",
+          "answer": "True",
+          "explanation": "Fat is able to absorb energy quickly so the T1 recovery time is short (i.e., their nuclei dispose of their energy to the surrounding fat tissue and return to B0 in a short time)"
+        },
+        {
+          "text": "Water has a short T1 recovery time",
+          "response": "",
+          "answer": "False",
+          "explanation": "Water has a long T1 recovery time because nuclei take a lot longer to dispose of their energy to the surrounding water tissue"
+        },
+        {
+          "text": "In a proton density (PD) image, long TR is used to allow for saturation to occur to enhance contrast",
+          "response": "",
+          "answer": "False",
+          "explanation": "In PD weighted images, a long TR is used to allow full recovery of the longitudinal components of fat and water. There is no contrast difference and any differences seen are inherent to the proton density differences of each tissue. No saturation occurs"
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "stem": "Regarding MRI",
+      "options": [
+        {
+          "text": "T2 decay of fat is shorter than that of water",
+          "response": "",
+          "answer": "True",
+          "explanation": "Fat has a short T1 recovery and T2 decay compared to water"
+        },
+        {
+          "text": "T1 recovery of fat is shorter than that of water",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "T2 decay time is defined as the time it takes for 63% of transverse magnetization to be lost due to dephasing",
+          "response": "",
+          "answer": "True",
+          "explanation": "Or 37% remains"
+        },
+        {
+          "text": "T1 recovery time is defined as the time it takes for 63% of the longitudinal magnetization to recover",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Tissues with low proton density such as air always appear as a low signal on an MR image",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "stem": "Regarding T1-weighted images",
+      "options": [
+        {
+          "text": "Fat appears as a high signal",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Slow flowing blood appears as a low signal",
+          "response": "",
+          "answer": "False",
+          "explanation": "Slow flowing blood appears as a high signal"
+        },
+        {
+          "text": "Water appears as a low signal",
+          "response": "",
+          "answer": "True",
+          "explanation": "Water molecules do not recover much of their longitudinal magnetization during the short TR used in T1-weighted image"
+        },
+        {
+          "text": "Typical time to echo (TE) is 10ms",
+          "response": "",
+          "answer": "False",
+          "explanation": "Typically this is 10-30ms, although it is shorter in gradient echo sequences"
+        },
+        {
+          "text": "Typical TR is 300-600ms",
+          "response": "",
+          "answer": "True",
+          "explanation": "It is shorter in gradient echo sequences"
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "stem": "Regarding T2-weighted images using spin echo",
+      "options": [
+        {
+          "text": "Cerebrospinal fluid (CSF) appears as high signal",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Haemangiomas appear as high signal",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Lipomas appear as high signal",
+          "response": "",
+          "answer": "False",
+          "explanation": "Lipomas consist mostly of fat and therefore appear as a low signal because they lose most of their transverse coherence during a long TE. However, using fast spin echo (FSE), fat remains a high signal secondary to the J-coupling phenomenon"
+        },
+        {
+          "text": "Most pathologies are high signal on T2-weighted image",
+          "response": "",
+          "answer": "True",
+          "explanation": "Most pathologies have an increased water content and therefore appear as a high signal on T2 weighted images"
+        },
+        {
+          "text": "Typical TR is 2000ms",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "stem": "Regarding proton density (PD)-images",
+      "options": [
+        {
+          "text": "Cortical bone appears as a high signal",
+          "response": "",
+          "answer": "False",
+          "explanation": "Cortical bone always appears as a low signal on MR images regardless of the weighting as they have a low proton density and are effectively immobilized and therefore return little signal"
+        },
+        {
+          "text": "CSF appears as a high signal",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "T1 effect is reduced by selecting short TE",
+          "response": "",
+          "answer": "False",
+          "explanation": "T1 effect is reduced by selecting long TR"
+        },
+        {
+          "text": "T2 effect is reduced by selecting long TR",
+          "response": "",
+          "answer": "False",
+          "explanation": "T2 effect is reduced by selecting short TE"
+        },
+        {
+          "text": "Typically uses short TE and long TR",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "stem": "Typical relaxation times of tissues in a field of 1 T",
+      "options": [
+        {
+          "text": "T2 of fat is typically 80ms",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "T1 of CSF is typically 1500ms",
+          "response": "",
+          "answer": "False",
+          "explanation": "This is typically 2000ms (refer to Table 11.1)"
+        },
+        {
+          "text": "T1 of water is typically 3000ms",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "T2 of CSF is typically 150ms",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "T2 of water is typically 3000ms",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "stem": "The following are contraindications in MRI examinations",
+      "options": [
+        {
+          "text": "Prosthetic heart valves",
+          "response": "",
+          "answer": "False",
+          "explanation": "Some deflection can occur but it is minimal compared to normal cardiac motion"
+        },
+        {
+          "text": "Cochlear implants",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Cardiac pacemakers",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Intra-ocular ferrous foreign body",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is not uncommon (e.g. shrapnel injuries). Therefore all patients with suspected eye injuries are normally required to have a skull radiograph before MR examination. This is practised in most centres although opinion is divided regarding the potential risk of damage from intra-ocular foreign bodies"
+        },
+        {
+          "text": "Orthopaedic implants",
+          "response": "",
+          "answer": "False",
+          "explanation": "Most orthopaedic implants show no deflection within the main magnetic fields. Although some theoretical risk of heating can occur secondary to induced currents, this is thought to be minimal"
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "stem": "Regarding pulse sequences",
+      "options": [
+        {
+          "text": "Spin echo uses a gradient to rephase spins",
+          "response": "",
+          "answer": "False",
+          "explanation": "Spin echo uses 180-degree RF pulse to rephase spins"
+        },
+        {
+          "text": "Gradient echo uses a fixed flip angle of 90 degrees",
+          "response": "",
+          "answer": "False",
+          "explanation": "Gradient echo uses variable flip angles"
+        },
+        {
+          "text": "Gradient echo is a fast sequence when compared with spin echo",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Inhomogeneity effects of external magnetic fields are eliminated in spin echo sequences",
+          "response": "",
+          "answer": "True",
+          "explanation": "It provides a true T2 weighting"
+        },
+        {
+          "text": "Gradient echo produces true T2 weighted images",
+          "response": "",
+          "answer": "False",
+          "explanation": "Because the gradient echo sequence does not completely eliminate the effect of inhomogeneities, it produces T2* images"
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "stem": "Regarding spin echo sequences",
+      "options": [
+        {
+          "text": "In conventional spin echo sequences, a 180 degrees radio frequency (RF) pulse is used to rephase spins",
+          "response": "",
+          "answer": "True",
+          "explanation": "A True"
+        },
+        {
+          "text": "In fast or turbo spin echo sequences, TR is shorter than in conventional spin echo",
+          "response": "",
+          "answer": "False",
+          "explanation": "Multiple TEs are used for a single TR and TR is longer than in conventional spin echo"
+        },
+        {
+          "text": "In T2 weighted scans on fast or turbo spin echo sequences, fat appears as high signal",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is due to a succession of 180 degree RF pulses which reduce the spin-spin interactions in fat thereby increasing its T2 decay time (also known as J coupling)"
+        },
+        {
+          "text": "In T2 weighted scans on fast or turbo spin echo sequences, water appears as high signal",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "In inversion recovery, the sequence starts with a 180 degree inverting pulse",
+          "response": "",
+          "answer": "True",
+          "explanation": "See the Learning Point above and Figures 11.1 and 11.2"
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "stem": "Regarding inversion recovery sequences",
+      "options": [
+        {
+          "text": "The TR is the time between successive 180 degrees inverting pulse",
+          "response": "",
+          "answer": "True",
+          "explanation": "A True"
+        },
+        {
+          "text": "Time to inversion (T1) is the time between successive 180 degrees pulse",
+          "response": "",
+          "answer": "False",
+          "explanation": "Tl is the time between 180 degrees pulse and the 90 degree pulse"
+        },
+        {
+          "text": "Time to inversion (T1) is used as a T1 contrast control",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Fluid-attenuated inversion recovery (FLAIR) uses a short time to inversion (T1)",
+          "response": "",
+          "answer": "False",
+          "explanation": "FLAIR uses long Tis, typically 1700-2200ms"
+        },
+        {
+          "text": "FLAIR is used to null the signal from CSF",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "stem": "Regarding gradient echo sequences",
+      "options": [
+        {
+          "text": "TR used in gradient echo is shorter than in spin echo",
+          "response": "",
+          "answer": "True",
+          "explanation": "A True"
+        },
+        {
+          "text": "As in spin echo, TR controls T1 weighting",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Moving blood appears as a low signal",
+          "response": "",
+          "answer": "False",
+          "explanation": "Moving blood appears as a high signal on a GRE sequence"
+        },
+        {
+          "text": "T1 image uses a large flip angle (60-120 degrees)",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "PD image uses a large flip angle (60-120 degrees)",
+          "response": "",
+          "answer": "False",
+          "explanation": "It uses a small flip angle, typically between 5-20 degrees"
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "stem": "Regarding slice selection",
+      "options": [
+        {
+          "text": "The Z gradient selects axial slices",
+          "response": "",
+          "answer": "True",
+          "explanation": "A True"
+        },
+        {
+          "text": "Transmit bandwidth determines the slice thickness",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The steeper the slice select gradient, the thicker the slice",
+          "response": "",
+          "answer": "False",
+          "explanation": "The opposite is true"
+        },
+        {
+          "text": "Increasing transmit bandwidth increases axial spatial resolution",
+          "response": "",
+          "answer": "False",
+          "explanation": "Increasing transmit bandwidth increases slice thickness, thereby decreasing axial spatial resolution"
+        },
+        {
+          "text": "The slice select gradient is also switched on during the 180 degrees pulse in spin echo sequences",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is so that rephasing can be delivered specifically to the selected slice"
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "stem": "Regarding spatial encoding",
+      "options": [
+        {
+          "text": "Phase encoding occurs during the 180 degrees rephasing pulse",
+          "response": "",
+          "answer": "False",
+          "explanation": "Phase encoding occurs before 180 degrees rephasing pulse"
+        },
+        {
+          "text": "The slope of the phase encoding gradient determines spatial resolution",
+          "response": "",
+          "answer": "True",
+          "explanation": "Steeper gradients produce greater phase shifts between 2 points and increase the phase matrix FOY, thus improving spatial resolution along the phase axis"
+        },
+        {
+          "text": "In standard orientation, the phase encoding gradient produces a gradient across the x-axis",
+          "response": "",
+          "answer": "False",
+          "explanation": "Across the y-axis"
+        },
+        {
+          "text": "In standard orientation, the frequency encoding gradient produces a gradient across the y-axis",
+          "response": "",
+          "answer": "False",
+          "explanation": "Across the x-axis"
+        },
+        {
+          "text": "Frequency encoding is applied during TE",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "stem": "The following are true of signal to noise ratio (SNR) in MRI",
+      "options": [
+        {
+          "text": "It increases with increasing field strength",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "It is not related to the positioning of the receiver coils",
+          "response": "",
+          "answer": "False",
+          "explanation": "The position of the receiver coil is important—it must be placed in the transverse plane perpendicular to the magnetic field"
+        },
+        {
+          "text": "Increasing TE improves SNR",
+          "response": "",
+          "answer": "False",
+          "explanation": "Increasing T E reduces the SNR as more transverse magnetization dephases with time"
+        },
+        {
+          "text": "Reducing the receiver bandwidth increases SNR",
+          "response": "",
+          "answer": "True",
+          "explanation": "Reducing receiver bandwidth reduces the proportion of noise sampled relative to the signal, therefore boosting SNR"
+        },
+        {
+          "text": "It depends on flip angle",
+          "response": "",
+          "answer": "True",
+          "explanation": "With a large flip angle, all available longitudinal magnetisation is converted into transverse magnetisation so that maximum signal is detected"
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "stem": "The following are true of signal to noise ratio (SNR) in MRI",
+      "options": [
+        {
+          "text": "Increasing TR increases signal",
+          "response": "",
+          "answer": "True",
+          "explanation": "This allows more longitudinal magnetization to recover with time"
+        },
+        {
+          "text": "Using a contrast medium increases signal to noise ratio",
+          "response": "",
+          "answer": "False",
+          "explanation": "Strictly speaking, using contrast increases contrast to noise ratio, and not SNR"
+        },
+        {
+          "text": "By halving x, y FOV (field of view) (keeping slice thickness the same), the SNR is halved",
+          "response": "",
+          "answer": "False",
+          "explanation": "This is because by halving FOV (keeping the slice thickness the same), the voxel volume is reduced by a factor of 4. Therefore, although the spatial resolution is improved by a factor of 2, the SNR decreases more drastically by a factor of 4"
+        },
+        {
+          "text": "Increasing the number of signal averages (NSA/NEX), increases SNR",
+          "response": "",
+          "answer": "True",
+          "explanation": "This increases the signal collected, although more noise is also sampled"
+        },
+        {
+          "text": "Decreasing matrix size increases SNR",
+          "response": "",
+          "answer": "True",
+          "explanation": "This increases voxel volume, and therefore SNR"
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "stem": "Regarding spatial resolution in MRI",
+      "options": [
+        {
+          "text": "Increasing FOV increases spatial resolution",
+          "response": "",
+          "answer": "False",
+          "explanation": "Increasing FOV increases voxel volume, therefore spatial resolution is reduced"
+        },
+        {
+          "text": "Increasing matrix size increases spatial resolution",
+          "response": "",
+          "answer": "True",
+          "explanation": "By increasing matrix size, the pixel, and therefore the voxel is smaller, improving spatial resolution"
+        },
+        {
+          "text": "Increasing slice thickness decreases spatial resolution",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is because the voxel volume is increased"
+        },
+        {
+          "text": "It is affected by the number of frequency encoding steps",
+          "response": "",
+          "answer": "True",
+          "explanation": "Increasing frequency matrix increases resolution, without affecting scan time"
+        },
+        {
+          "text": "It is improved by using small coils",
+          "response": "",
+          "answer": "False",
+          "explanation": "Using small coils improves SNR but does not directly affect spatial resolution"
+        }
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "stem": "Scan time depends on",
+      "options": [
+        {
+          "text": "TR",
+          "response": "",
+          "answer": "True",
+          "explanation": "Scan time is = TR x number of phase encoding steps x NEX"
+        },
+        {
+          "text": "TE",
+          "response": "",
+          "answer": "False",
+          "explanation": ""
+        },
+        {
+          "text": "The number of frequency encoding steps",
+          "response": "",
+          "answer": "False",
+          "explanation": "It depends on the number of phase encoding steps"
+        },
+        {
+          "text": "The number of signal averages (NSA/NEX)",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The number of slice encodings",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is true in 30-fast scan sequence as another phase encoding gradient is used to select and excite each slice"
+        }
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "stem": "Regarding MRI",
+      "options": [
+        {
+          "text": "Spatial encoding gradients are used to control FOV",
+          "response": "",
+          "answer": "True",
+          "explanation": "The steeper the gradient, the smaller the FOV"
+        },
+        {
+          "text": "Slice selection gradient is used to control thickness",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The steeper the frequency and phase encoding gradients, the larger the FOV",
+          "response": "",
+          "answer": "False",
+          "explanation": "See A"
+        },
+        {
+          "text": "In the frequency encoding direction, all information is acquired during TE",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is usually 10-20ms"
+        },
+        {
+          "text": "In the phase encoding direction, all information is acquired after a single gradient step",
+          "response": "",
+          "answer": "False",
+          "explanation": "Spatial information is not complete until all the gradient steps, usually 512 steps, are completed"
+        }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "stem": "Regarding chemical shift artefact",
+      "options": [
+        {
+          "text": "It occurs in the frequency encoding direction",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "It can be remedied by using a stronger magnetic field",
+          "response": "",
+          "answer": "False",
+          "explanation": "This will make the effects more pronounced"
+        },
+        {
+          "text": "It is decreased by decreasing receiving bandwidth",
+          "response": "",
+          "answer": "False",
+          "explanation": "Decreasing the receiving bandwidth increases the likelihood of chemical shift artefact"
+        },
+        {
+          "text": "It manifests as signal enhancement between areas of fat and water",
+          "response": "",
+          "answer": "False",
+          "explanation": "It manifests as an area of signal void. This is usually between areas of fat and water"
+        },
+        {
+          "text": "It can be combated by using short tau inversion recovery (STIR) sequences",
+          "response": "",
+          "answer": "True",
+          "explanation": "As this removes/suppresses fat signal"
+        }
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "stem": "Regarding chemical shift artefact",
+      "options": [
+        {
+          "text": "Reducing the FOV can be used to reduce chemical shift artefact",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "It can be reduced by applying a reduced encoding gradient",
+          "response": "",
+          "answer": "False",
+          "explanation": "It can be reduced by using a steeper gradient"
+        },
+        {
+          "text": "It is seen around the kidneys",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The Dixon technique is used to reduce its effect",
+          "response": "",
+          "answer": "False",
+          "explanation": "The Dixon technique is used to combat chemical misregistration artefact"
+        },
+        {
+          "text": "It can be seen in fat around the optic nerve",
+          "response": "",
+          "answer": "True",
+          "explanation": "Westbrook. Handbook of MRI Technique, 3rd edn, Wiley-Blackwell, 2006. pp. 34-40.\nZhuo & Gullapalli. 'AAPM/RSNA physics tutorial for residents: MR artifacts, safety, and quality control', Radiographics, Jan-Feb 2006; 26(1): 275-97. Review"
+        }
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "stem": "Regarding artefacts",
+      "options": [
+        {
+          "text": "Motion artefact occurs along the phase encoding direction",
+          "response": "",
+          "answer": "False",
+          "explanation": "In the frequency encoding axis"
+        },
+        {
+          "text": "Magnetic susceptibility artefacts are likely to be more noticeable in gradient echo (GRE) than on spin echo (SE) images",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Aliasing often occurs as a result of the FOV being too large",
+          "response": "",
+          "answer": "False",
+          "explanation": "Often it occurs because the FOY is too small. Enlarging the FOY is often used to combat against this"
+        },
+        {
+          "text": "Aliasing produces a wrap around image in the frequency encoding direction",
+          "response": "",
+          "answer": "False",
+          "explanation": "In the phase encoding direction"
+        },
+        {
+          "text": "Chemical shift artefact occurs in the phase encoding direction",
+          "response": "",
+          "answer": "True",
+          "explanation": "Westbrook. Handbook of MRI Technique, 3rd edn, Wiley-Blackwell, 2006. pp. 34-40"
+        }
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "stem": "Regarding contrast media used in MRI",
+      "options": [
+        {
+          "text": "Gd-DTPA is a paramagnetic contrast agent",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Gd-DTPA shortens only T1 recovery time",
+          "response": "",
+          "answer": "False",
+          "explanation": "It shortens both T1 and T2 but the effect on T1 is greater"
+        },
+        {
+          "text": "Gadolinium cannot be excreted by the body",
+          "response": "",
+          "answer": "True",
+          "explanation": "Hence it is used with a chelating agent such as DTPA. Gd-DTPA is formed which can be safely excreted. Gd itself is extremely toxic"
+        },
+        {
+          "text": "Gd-DTPA is contraindicated in pregnancy",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Gd-DTPA is contraindicated in sickle cell anaemia",
+          "response": "",
+          "answer": "True",
+          "explanation": "Electronic Learning Database, E-Learning for Healthcare, Radiology-Integrated Training Initiative (R-ITI) - www.e-lfh.org.uk Module: Sa_149: Contrast Agents"
+        }
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "stem": "Regarding the use of contrast media in MRI",
+      "options": [
+        {
+          "text": "Iron oxide (Fe304) is a positive contrast agent",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is a negative contrast agent and areas of uptake appear as low signal"
+        },
+        {
+          "text": "Area of uptake in normal tissue of iron oxide (Fe304) appears as a low signal",
+          "response": "",
+          "answer": "True",
+          "explanation": "It is taken up by reticulo-endothelial system and excreted by liver. Normal liver tissue will appear as a low signal and liver lesions will appear as a high signal on T2-weighted images"
+        },
+        {
+          "text": "Dysprosium-DTPA is known as a superparamagnetic contrast agent",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Iron oxide (Fe304) is known as a T1 enhancing agent",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is known as a T2 enhancing agent"
+        },
+        {
+          "text": "Iron (Fe2+) with four unpaired electrons can be used as paramagnetic contrast",
+          "response": "",
+          "answer": "True",
+          "explanation": "Although, this is not used widely in normal clinical practice.\nWestbrook. Handbook of MRI Technique, 3rd edn, Wiley-Blackwell, 2006. pp. 55-7"
+        }
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "stem": "Regarding MRI safety",
+      "options": [
+        {
+          "text": "Anyone with a cardiac pacemaker should be excluded from areas where stray fields are greater than 0.5mT",
+          "response": "",
+          "answer": "True",
+          "explanation": "MRI is contraindicated in patients with a pacemaker and they should be excluded from MR areas"
+        },
+        {
+          "text": "A controlled area is defined as an area where stray fields are greater than 0.2T",
+          "response": "",
+          "answer": "False",
+          "explanation": "It is defined as areas where stray fields are greater than 0.5mT"
+        },
+        {
+          "text": "Static magnetic fields used can cause peripheral nerve stimulation",
+          "response": "",
+          "answer": "False",
+          "explanation": "These are caused by alternating (time-varying) magnetic fields and not static magnetic fields. Other effects include light flashes, involuntary muscle contractions, and cardiac arrhythmias"
+        },
+        {
+          "text": "Anaesthetized patients do not require hearing protection",
+          "response": "",
+          "answer": "False",
+          "explanation": "Hearing protection is required to prevent irreversible hearing damage"
+        },
+        {
+          "text": "It is not recommended for pregnant patients to be scanned during the first three months of pregnancy",
+          "response": "",
+          "answer": "True",
+          "explanation": "The theoretical risk is due to excessive heating acting as a potential teratogen. Because of uncertainties in the RF dosimetry during pregnancy, it is recommended that exposure duration should be reduced to the minimum and that only the normal operation level is used, and to exclude pregnant women during the first three months of pregnancy.\nWestbrook. MRI at a Glance, Blackwell Science, 2002. pp.96-100.\nShellock & Crues. 'MR procedures: biologic effects, safety, and patient care', Radiology, Sep 2004; 232(3): 635-52"
+        }
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "stem": "Regarding the specific absorption ratio (SAR)",
+      "options": [
+        {
+          "text": "It is greater for large body parts",
+          "response": "",
+          "answer": "True",
+          "explanation": "SAR depends on induced electric field, pulse duty cycle, tissue density, conductivity, and the patient's size. In the UK, it is recommended that temperature should not exceed 1°C during an examination"
+        },
+        {
+          "text": "It is greater for SE than for GRE",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "It is greater for higher static fields",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "It is greater for a 180 degree pulse than a 90 degree pulse",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Restricting whole body SAR to 1Wkg-1 restricts whole body temperature rise to 0.5 degrees",
+          "response": "",
+          "answer": "True",
+          "explanation": "Refer to the latest Medicines and Healthcare products and Regulatory Agency (MHRA)'s Safety Guidelines for Magnetic Resonance Imaging Equipment in Clinical Use, Dec 2007"
+        }
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "stem": "Regarding emergencies in MR environment",
+      "options": [
+        {
+          "text": "Quenching superconducting electromagnets only results in minimal downtime",
+          "response": "",
+          "answer": "False",
+          "explanation": "It results in several days downtime"
+        },
+        {
+          "text": "Quenching does not result in damage to the superconducting magnet",
+          "response": "",
+          "answer": "False",
+          "explanation": "It may result in severe and irreparable damage and is done only in an emergency situation"
+        },
+        {
+          "text": "When quenching occurs, the room should be shut and ventilation turned off",
+          "response": "",
+          "answer": "False",
+          "explanation": "Following quenching, helium escapes into the environment and the room should be vented to remove helium to the outside. In a closed room, helium will replace oxygen and increases pressure in a closed room. As accidental quenching can occur without the operator's knowledge, a room must be fitted with an oxygen monitor which will sound an alarm if oxygen level falls below a threshold"
+        },
+        {
+          "text": "In the event of cardiac arrest in a superconducting magnet, the patient should remain in the MRI scanner with the arrest teams called in",
+          "response": "",
+          "answer": "False",
+          "explanation": "The patient should be transferred to an MR-compatible trolley and then be taken outside the control area where the arrest team can take over"
+        },
+        {
+          "text": "In case of fire, fire extinguishers can be used safely as normal",
+          "response": "",
+          "answer": "False",
+          "explanation": "Fire fighting equipment should be used only at a safe distance which depends on field gradient, strength, and active shielding. Ideally, only carbon dioxide extinguishers should be used. Quenching should occur if firemen need to enter inner controlled areas. As a general rule, it is not advisable to take non-MRI safe equipment into the scan room"
+        }
+      ]
+    },
+    {
+      "questionNumber": 31,
+      "stem": "Regarding electromagnets used in MRI",
+      "options": [
+        {
+          "text": "Resistive magnets can be turned off instantaneously",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Permanent magnets can produce magnetic field up to 1.5T",
+          "response": "",
+          "answer": "False",
+          "explanation": "Only up to about 0.3T"
+        },
+        {
+          "text": "Permanent magnets typically weigh up to 80 tonnes",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Superconducting magnets are supercooled to absolute zero so that negligible resistance can be achieved",
+          "response": "",
+          "answer": "False",
+          "explanation": "Absolute zero is currently unachievable, but they are cooled to 4 degrees Kelvin and at this temperature there is negligible resistance"
+        },
+        {
+          "text": "A Faraday cage is used to eliminate fringe fields",
+          "response": "",
+          "answer": "False",
+          "explanation": "A Faraday cage is used to shield the scanner from external RF interference"
+        }
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "stem": "Regarding MRI",
+      "options": [
+        {
+          "text": "Shim coils are used to minimize magnetic field inhomogeneities",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "For imaging purposes, homogeneity in the order of 30 parts per million (ppm) is required",
+          "response": "",
+          "answer": "False",
+          "explanation": "1 Oppm is required"
+        },
+        {
+          "text": "For spectroscopy, more homogenous an environment is required than for standard imaging",
+          "response": "",
+          "answer": "True",
+          "explanation": "Usually, 1 ppm is required"
+        },
+        {
+          "text": "Small stray fields are present in resistive magnets compared with superconductive electromagnets",
+          "response": "",
+          "answer": "False",
+          "explanation": "Stray fringe fields are significant for both resistive and superconductive electromagnets"
+        },
+        {
+          "text": "Insignificant stray fields are present in superconductive electromagnets",
+          "response": "",
+          "answer": "False",
+          "explanation": "See D"
+        }
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "stem": "Regarding the use of coils in MRI",
+      "options": [
+        {
+          "text": "It is the switching off of shim coils that makes a loud banging noise",
+          "response": "",
+          "answer": "False",
+          "explanation": "Loud banging noises are caused by switching off the currents in the gradient coils"
+        },
+        {
+          "text": "The RF coils are positioned close to the patient in order to maximize the signal",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The RF coils produce a magnetic field at right angles to the main field",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The slice select (z-axis gradient) is switched on during the application of the RF pulse",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Surface coils are part of the main scanner",
+          "response": "",
+          "answer": "False",
+          "explanation": "Surface or local receiver coils are separate coils to the main scanner and are applied as closely to the patient's body part of interest as possible. This is to allow for better resolution"
+        }
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "stem": "Regarding safety in MRI",
+      "options": [
+        {
+          "text": "Staff should not be exposed to more than 1T of static magnetic field to their whole body",
+          "response": "",
+          "answer": "False",
+          "explanation": "The recommendation is that staff should not be exposed to more than 2T for the whole body and 5T for limbs. These are the basic restrictions for occupational exposure to static magnetic fields"
+        },
+        {
+          "text": "Staff should not be exposed to more than 5T of static magnetic field to their limbs",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Fringe fields depend on magnetic field strength",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "The fringe field is independent of shielding",
+          "response": "",
+          "answer": "False",
+          "explanation": "The extent and steepness of the fringe field gradient depends on the main magnet field strength, the design of magnet (open versus tunnel bore) and the shielding employed (active, passive cladding, or whole room shielding). Each installation will differ due to the surrounding structures and therefore it is essential that staff at every MR site should have a thorough understanding of the fringe fields relating to each scanner that is on their site"
+        },
+        {
+          "text": "A field strength of 3mT (30 Gauss) is chosen for the inner MR controlled area to avoid the projectile hazard",
+          "response": "",
+          "answer": "True",
+          "explanation": "A field strength of 0.5mT (5 Gauss) was chosen for the MR CONTROLLED AREA to avoid interaction with medical implants. A field strength of 3mT (30 Gauss) was chosen for the INNER MR CONTROLLED AREA to avoid the projectile hazard"
+        }
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "stem": "Regarding safety in MRI",
+      "options": [
+        {
+          "text": "There is a theoretical risk of peripheral nerve stimulation",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "There is a theoretical risk of ventricular fibrillation",
+          "response": "",
+          "answer": "True",
+          "explanation": "Time-varying magnetic fields induce electric currents that potentially interfere with the normal function of nerve cells and muscle fibres. An example of this is peripheral nerve stimulation (PNS). A more serious response to electric currents flowing through the body is that of ventricular fibrillation, which is prevented in clinical scanners operating within International Electrotechnical Commission (IEC) limits"
+        },
+        {
+          "text": "For whole-body exposures, no adverse health effects are expected if the increase in body core temperature does not exceed 1°C",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "In the case of infants and persons with cardiovascular impairment, the temperature increase should not exceed 0.5°C",
+          "response": "",
+          "answer": "True",
+          "explanation": "One fundamental issue is excessive cardiovascular strain resulting from thermoregulatory responses to body temperatures raised over a short period of time by more than 0.5°C in vulnerable people. MR scanners limit temperature rise by limiting SAR"
+        },
+        {
+          "text": "Burns are the most often reported MRI adverse incident in England",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "stem": "The following are important considerations in quality assurance",
+      "options": [
+        {
+          "text": "Uniformity",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Ghosting",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Geometric distortion",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Spatial resolution",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Slice thickness",
+          "response": "",
+          "answer": "True",
+          "explanation": "All are important considerations in QA and methods used to acquire these are beyond the scope of this book, are likely to vary from different institutions and also depend on the manufacture of individual scanners"
+        }
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "stem": "Regarding MR angiography (MRA)",
+      "options": [
+        {
+          "text": "'Moving blood' appears as a high signal on an SE sequence",
+          "response": "",
+          "answer": "False",
+          "explanation": "'Moving blood' appears as low signal on SE"
+        },
+        {
+          "text": "Gradient echo sequences produce a high signal in blood",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Time of flight angiography uses a gradient echo sequence with a very short TR",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "In phase-contrast MRA, the gradient strength may be adjusted to make the sequence sensitive to slow or fast flows",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Tissues with short T1 such as fat will always appear dark on time of flight (ToF) angiography",
+          "response": "",
+          "answer": "False",
+          "explanation": "Short T1 tissues such as fat can leave a residual signal in ToF angiography and can obscure the anatomy of blood vessels and therefore must be interpreted accordingly"
+        }
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "stem": "In magnetic resonance imaging",
+      "options": [
+        {
+          "text": "A STIR sequence is used to suppress a high signal such as that from fat",
+          "response": "",
+          "answer": "True",
+          "explanation": "Although it is not specific to it, i.e. fat, methaemoglobin, melanin, lesions enhanced by gadolinium"
+        },
+        {
+          "text": "Diffusion-weighted imaging utilizes the restriction of Brownian motion of water molecules to give a signal",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "A diffusion-weighted imaging sequence on its own is normally sufficient for the interpretation of restricted water diffusion",
+          "response": "",
+          "answer": "False",
+          "explanation": "Apparent diffusion coefficient (ADC) is also required in conjunction for interpretation"
+        },
+        {
+          "text": "FLAIR is used to null a signal from fat",
+          "response": "",
+          "answer": "False",
+          "explanation": "FLAIR is used to null a signal from fluid. For example, it can be used in brain imaging to suppress cerebrospinal fluid (CSF) so as to demonstrate hyperintense lesions, such as multiple sclerosis (MS) plaques"
+        },
+        {
+          "text": "Intracellular methaemoglobin appears as a high signal on T1-weighted image",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "stem": "In magnetic resonance imaging",
+      "options": [
+        {
+          "text": "Gadolinium-DTPA is normally used with a STIR sequence",
+          "response": "",
+          "answer": "False",
+          "explanation": "This would be less than ideal as STIR suppresses short T1 tissues (which includes Gd-DTPA enhanced tissues)"
+        },
+        {
+          "text": "A fat saturation sequence uses an RF pulse centred on resonance frequency",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "A fat saturation sequence requires a homogenous field",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "STIR is usually combined with a fast spin echo",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Melanin appears as a high signal on T2",
+          "response": "",
+          "answer": "False",
+          "explanation": "Melanin appears as high signal on T1"
+        }
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "stem": "Regarding MRI",
+      "options": [
+        {
+          "text": "Superparamagnetic iron oxides are known to cause back pain",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "Gd-DTPA has been reported to cause nephrogenic systemic fibrosis",
+          "response": "",
+          "answer": "True",
+          "explanation": ""
+        },
+        {
+          "text": "A water-suppressed STIR sequence is used in silicone breast imaging",
+          "response": "",
+          "answer": "True",
+          "explanation": "They consist of STIR type fat signal suppression (inversion-recovery), and suppression of the water signal by selective saturation pulse centred on its resonance frequency peak. This enables the differentiation of silicone (which is also a high signal on T2) and water. This is particularly useful to detect implant rupture"
+        },
+        {
+          "text": "Manganese chelates are taken up by normal tissue and excreted in bile",
+          "response": "",
+          "answer": "True",
+          "explanation": "Manganese chelates are known as hepato-biliary contrast agents and normal tissues that take up contrast will display a high signal on T1"
+        },
+        {
+          "text": "Functional MRI sequences are normally acquired using the ultrafast echo planar (GE-EPI) sequence",
+          "response": "",
+          "answer": "True",
+          "explanation": "This is to cope with the constraints of temporal resolution and T2* sensitivity"
+        }
+      ]
+    }
+  ]
+
+}
